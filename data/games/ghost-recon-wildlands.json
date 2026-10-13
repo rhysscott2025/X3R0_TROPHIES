@@ -1,0 +1,1464 @@
+{
+  "schemaVersion": 1,
+  "slug": "ghost-recon-wildlands",
+  "status": "complete",
+  "demo": false,
+  "title": "Tom Clancy's Ghost Recon Wildlands",
+  "edition": "All editions",
+  "platforms": ["PS4"],
+  "listNote": "This is the PS4 trophy list, and it's also the one you earn on PS5. The August 2026 PS5 update (4K at 60fps) is a patch to the PS4 game rather than a separate PS5 version, so the list didn't change. The free Last Rites mission that came with it has no trophies. Narco Road and Fallen Ghosts each add 7 trophies that aren't needed for the Platinum.",
+  "releaseYear": 2017,
+  "developer": "Ubisoft Paris",
+  "publisher": "Ubisoft",
+  "genres": ["Tactical shooter", "Open world"],
+  "summary": "Topple a drug cartel across 21 provinces of an open-world Bolivia. No missables and no difficulty trophies: the Platinum is a long, relaxed collectathon with two co-op trophies and a couple of fiddly explosive challenges.",
+  "intro": [
+    "You lead a four-person Ghost team sent to dismantle the Santa Blanca cartel. Its four divisions (Security, Influence, Production and Smuggling) are run by bosses spread across 21 provinces, which you can tackle in almost any order, solo with AI teammates or in co-op with up to three friends.",
+    "Nothing is missable and difficulty doesn't affect any trophy, so play on whatever setting you enjoy. Most of the time goes on collectibles (weapons, bonus medals, Kingslayer Files), skill points and resources for buying every upgrade, and the rebel side missions that max out your rebel support.",
+    "Only two trophies need another player. Ubisoft patched the game for PS5 in August 2026, added a new free mission and brought back the Predator event, so its online services were still running then."
+  ],
+  "lastUpdated": "2026-10-13",
+  "stats": {
+    "difficulty": { "value": 3, "sources": ["powerpyx-grw"] },
+    "hours": { "min": 50, "max": 60, "sources": ["powerpyx-grw"] },
+    "playthroughs": { "value": 1, "note": "Story missions can be replayed from the map, so one save covers everything.", "sources": ["powerpyx-grw"] },
+    "online": { "value": true, "note": "Two trophies need a co-op partner: Teamwork! and Finished the Job. Everything else is solo.", "sources": ["powerpyx-grw", "steam-100-guide"] }
+  },
+  "officialCounts": {
+    "base": { "platinum": 1, "gold": 3, "silver": 8, "bronze": 32 },
+    "dlc": {
+      "narco-road": { "platinum": 0, "gold": 1, "silver": 1, "bronze": 5 },
+      "fallen-ghosts": { "platinum": 0, "gold": 1, "silver": 1, "bronze": 5 }
+    },
+    "sources": ["exophase-grw", "psthc-grw", "vgtimes-grw", "vgtimes-fallen-ghosts", "powerpyx-grw"]
+  },
+  "theme": {
+    "accent": "#c4cf86",
+    "glow": "#56702c",
+    "base": "#0b0d0a",
+    "pattern": "grid",
+    "heroImage": null,
+    "coverImage": null
+  },
+  "dlc": [
+    {
+      "id": "narco-road",
+      "title": "Operation Narco Road",
+      "note": "Expansion started from the main menu. Infiltrate three gangs to reach the smuggling boss El Invisible. Included in the Season Pass. Not needed for the Platinum."
+    },
+    {
+      "id": "fallen-ghosts",
+      "title": "Fallen Ghosts",
+      "note": "Post-story expansion with a new level 30 character (cap 35), 15 missions and a new enemy faction, Los Extranjeros. Included in the Season Pass. Not needed for the Platinum."
+    }
+  ],
+  "route": [
+    {
+      "id": "itacua",
+      "title": "Getting started in Itacua",
+      "summary": "The starting province teaches the basics and holds the easiest spots for several one-off trophies. Set up your save and skills here before spreading out.",
+      "steps": [
+        "Pick any difficulty. No trophy depends on it, and the lowest setting makes collectible sweeps and the explosive challenges easier.",
+        "Turn on cloud save uploads (PS Plus) or back up your save regularly. Several trophies are known to glitch, and a backup gives you options.",
+        "Complete Amaru's rescue for [[a-good-start]], then defeat the province's boss for [[beat-the-boss]].",
+        "Do one rebel mission for [[rebel-sympathizer]]. **Rebellion Rising** in Itacua unlocks the Mortar, which you'll need for [[pull]].",
+        "Buy C4 in the item skills and blow up the generator at F.O.B. Armadillo for [[black-out-boomer]].",
+        "Pick up the sniper rifle at the Itacua Echo rally point and earn [[long-shot]] on the checkpoint towers to the north.",
+        "Take out a tower sniper with your pistol for [[with-a-pistol]] and melee an enemy at night for [[death-in-the-dark]]."
+      ],
+      "warning": "",
+      "trophies": ["a-good-start", "beat-the-boss", "rebel-sympathizer", "black-out-boomer", "long-shot", "with-a-pistol", "death-in-the-dark"]
+    },
+    {
+      "id": "provinces",
+      "title": "Clear Bolivia province by province",
+      "summary": "The heart of the Platinum. Work through the provinces from easiest to hardest, finishing each one's story missions, intel and side content before moving on. Most counters fill up naturally here.",
+      "steps": [
+        "In each province, read every intel you find. Intel reveals collectibles, rebel missions and side missions on the map.",
+        "Clear the province's story missions and boss. Taking down each division's head unlocks its operation trophy: [[smugglers-blues]], [[shut-down]], [[broken-locks]] and [[bad-reputation]].",
+        "Interrogate the targets the missions point you to. 20 interrogations gives [[deadly-curious]]; the main missions alone have around 30.",
+        "Play at least one of each side-mission type for [[spice-of-life]], tag convoys for [[highway-bandit]], and play each rebel mission type for [[real-rebel]].",
+        "Use the drone and binoculars to mark enemies before every fight ([[eye-in-the-sky]], [[eagle-eyed]]). Buy the explosive drone at level 15 for [[death-from-above]].",
+        "Buy the parachute skill and jump from helicopters and planes for [[fearless]]. Driving between provinces takes care of [[road-warrior]].",
+        "Collect documents as you go for [[legend-hunter]] and [[serious-collector]].",
+        "Once your Mortar is upgraded, try [[pull]] at a Steal the Helicopter side mission."
+      ],
+      "warning": "",
+      "trophies": ["smugglers-blues", "shut-down", "broken-locks", "bad-reputation", "deadly-curious", "spice-of-life", "highway-bandit", "real-rebel", "eye-in-the-sky", "eagle-eyed", "death-from-above", "fearless", "road-warrior", "legend-hunter", "serious-collector", "pull"]
+    },
+    {
+      "id": "co-op",
+      "title": "Two co-op trophies",
+      "summary": "Grab a friend or join a public session for an hour. Replayed story missions count.",
+      "steps": [
+        "Finish 3 missions with another player for [[teamwork]].",
+        "Have your partner pistol-shoot an enemy once, then finish it with a melee takedown for [[finished-the-job]]."
+      ],
+      "warning": "",
+      "trophies": ["teamwork", "finished-the-job"]
+    },
+    {
+      "id": "explosives",
+      "title": "Seven-kill explosives",
+      "summary": "The two fiddliest trophies. Both use the same setup: lure a group of exactly seven enemies together, blind them, then detonate.",
+      "steps": [
+        "Unlock C4 and the Mine in the item skills, plus Flashbang and the flare gun or Diversion support for luring.",
+        "Lure seven enemies into one spot and kill them with one C4 blast for [[cluster-bomber]].",
+        "Repeat with a single mine for [[a-better-mousetrap]]. If it fails, fast travel away and back to reset the enemies."
+      ],
+      "warning": "",
+      "trophies": ["cluster-bomber", "a-better-mousetrap"]
+    },
+    {
+      "id": "collectibles",
+      "title": "Collectible cleanup",
+      "summary": "Sweep each province for anything still missing. A helicopter makes this much faster.",
+      "steps": [
+        "Open the map and check each province's counts for weapons, bonus medals and documents.",
+        "Collect every bonus medal for [[heavy-medals]].",
+        "Find every document for [[the-whole-story]] and every legend for [[legendary-hunter]]. Check neighbouring provinces if a count won't move; the per-province trackers are sometimes wrong.",
+        "Collect every weapon of each class: [[assault-rifle-fanatic]], [[submachine-gun-fanatic]], [[light-machine-gun-fanatic]], [[sniper-rifle-fanatic]], [[shotguns-fanatic]] and [[handgun-fanatic]]. Some are boss drops, so every boss must be dead."
+      ],
+      "warning": "",
+      "trophies": ["heavy-medals", "the-whole-story", "legendary-hunter", "assault-rifle-fanatic", "submachine-gun-fanatic", "light-machine-gun-fanatic", "sniper-rifle-fanatic", "shotguns-fanatic", "handgun-fanatic"]
+    },
+    {
+      "id": "el-sueno",
+      "title": "Finish the story",
+      "summary": "Take down El Sueño last, once all four divisions and every province boss are gone. That gives you the full ending and makes sure no story mission is left over.",
+      "steps": [
+        "Check the map for any province with story missions left and finish them.",
+        "Play the final El Sueño mission for [[the-end]].",
+        "If [[mission-master]] doesn't unlock with every story mission done, replay missions from the map until it does."
+      ],
+      "warning": "",
+      "trophies": ["the-end", "mission-master"]
+    },
+    {
+      "id": "max-out",
+      "title": "Max out skills, rebels and level",
+      "summary": "The last grind: every upgrade, every rebel support maxed and level 30.",
+      "steps": [
+        "Spend skill points and resources until a whole branch is done for [[ultimate-skill]] and all drone upgrades for [[top-drone]].",
+        "Farm resources from convoys and supply drops, then buy everything for [[only-the-best]].",
+        "Play rebel missions until every rebel support is at maximum for [[no-better-rebel]].",
+        "Replay main missions for XP until you hit level 30 for [[the-champion]]."
+      ],
+      "warning": "",
+      "trophies": ["ultimate-skill", "top-drone", "only-the-best", "no-better-rebel", "the-champion"]
+    },
+    {
+      "id": "platinum",
+      "title": "Platinum",
+      "summary": "Unlocks once the other 43 base-game trophies are earned. DLC isn't required.",
+      "steps": [
+        "Compare your console's trophy list with the checklist here and go back to any stage with something missing."
+      ],
+      "warning": "",
+      "trophies": ["master-of-the-wildlands"]
+    },
+    {
+      "id": "narco-road",
+      "dlc": "narco-road",
+      "title": "Gangs, stunts and El Invisible",
+      "summary": "Win the trust of three gangs, then reach El Invisible. Pick up the stunt trophies while you're near each challenge.",
+      "steps": [
+        "Start Operation Narco Road from the main menu.",
+        "Do Electro challenges as you find them. Skydive through an aerial one for [[mal-rodilla-ternera]], and finish a bike trial without braking for [[brake-a-leg]].",
+        "Run over enemies in a monster truck or other gang vehicle for [[cristina]].",
+        "Drive from Eddie's party villa to Arturo's bar in under 8 minutes for [[scenic-route]].",
+        "Kill your first gang boss for [[gang-leader]], then the final target for [[el-visible]].",
+        "Finish every story mission, side mission and Electro activity to fill every region's followers gauge for [[more-followers-than-escobar]]."
+      ],
+      "warning": "",
+      "trophies": ["mal-rodilla-ternera", "brake-a-leg", "cristina", "scenic-route", "gang-leader", "el-visible", "more-followers-than-escobar"]
+    },
+    {
+      "id": "fallen-ghosts",
+      "dlc": "fallen-ghosts",
+      "title": "Story, Extranjeros and rebel ops",
+      "summary": "A shorter expansion with a new level 30 character. Most trophies come from playing normally; the gold needs every rebel op.",
+      "steps": [
+        "Start Fallen Ghosts and finish its first mission. A Fallen Ghosts tab appears in the skills menu.",
+        "Kill one of each Extranjeros type for [[kill-list]], and knife 10 Covert Ops for [[nondescript-jungle-hero]].",
+        "Unlock the Flash Drone and blind yourself for [[tactical-genius]]. Unlock Explosive Bolts and down a helicopter for [[artisanal-sam]].",
+        "Finish a full set of one rebel op type, then its final rebel op, for [[rebel-leader]].",
+        "Finish the main missions for [[a-hero-once]], and every rebel op and mission for [[thorough-supporter]]."
+      ],
+      "warning": "",
+      "trophies": ["kill-list", "nondescript-jungle-hero", "tactical-genius", "artisanal-sam", "rebel-leader", "a-hero-once", "thorough-supporter"]
+    }
+  ],
+  "trophies": [
+    {
+      "id": "a-good-start",
+      "name": "A Good Start",
+      "grade": "bronze",
+      "description": "Completed the first mission \"Amaru's rescue\".",
+      "tags": ["story"],
+      "missable": false,
+      "afterStory": true,
+      "where": "Itacua",
+      "when": "The first mission",
+      "unlock": "Story-related and can't be missed.",
+      "steps": [
+        "Start a new campaign. Amaru's rescue is the first mission.",
+        "Free Amaru and finish the mission. The trophy unlocks automatically."
+      ],
+      "sources": ["powerpyx-grw", "steam-100-guide"]
+    },
+    {
+      "id": "beat-the-boss",
+      "name": "Beat the Boss",
+      "grade": "bronze",
+      "description": "Defeated your first boss.",
+      "tags": ["story"],
+      "missable": false,
+      "afterStory": true,
+      "where": "Itacua",
+      "when": "End of Itacua's story missions",
+      "unlock": "Defeat any cartel boss. In Itacua that's the province's buchon at the end of its mission chain.",
+      "steps": [
+        "Finish Itacua's story missions.",
+        "Kill or capture the province's boss. The trophy unlocks automatically."
+      ],
+      "sources": ["powerpyx-grw", "steam-100-guide"]
+    },
+    {
+      "id": "rebel-sympathizer",
+      "name": "Rebel Sympathizer",
+      "grade": "bronze",
+      "description": "Unlocked a Rebel skill.",
+      "tags": ["side-quest"],
+      "missable": false,
+      "afterStory": true,
+      "where": "Any province with rebel missions",
+      "when": "Itacua",
+      "unlock": "Completing a rebel mission unlocks its rebel support skill.",
+      "steps": [
+        "Read intel until a rebel mission appears on the map (rebel missions are revealed through intel).",
+        "Complete it. Rebellion Rising in Itacua is a good first choice because it unlocks the Mortar.",
+        "The trophy unlocks with your first rebel skill."
+      ],
+      "sources": ["steam-100-guide", "powerpyx-grw"]
+    },
+    {
+      "id": "black-out-boomer",
+      "name": "Black-out Boomer",
+      "grade": "bronze",
+      "description": "Campaign: Destroyed a generator with a C4 blast.",
+      "tags": ["combat"],
+      "missable": false,
+      "afterStory": true,
+      "where": "F.O.B. Armadillo, Itacua (or any enemy base with a generator)",
+      "when": "As soon as you have C4",
+      "prerequisites": ["The C4 item skill."],
+      "unlock": "Destroy any power generator with C4.",
+      "steps": [
+        "Buy C4 in the item skills.",
+        "Travel to F.O.B. Armadillo in Itacua and find its power generator.",
+        "Place C4 on or next to it and detonate. The generator respawns if you fast travel, so you can retry."
+      ],
+      "sources": ["powerpyx-grw", "steam-100-guide"]
+    },
+    {
+      "id": "long-shot",
+      "name": "Long Shot",
+      "grade": "silver",
+      "description": "Campaign: Hit a target more than 400m away.",
+      "tags": ["combat"],
+      "missable": false,
+      "afterStory": true,
+      "where": "Near the Itacua Echo rally point",
+      "when": "As soon as you have a sniper rifle",
+      "unlock": "Land any hit with a sniper rifle on a target over 400 m away. It doesn't need to be a kill.",
+      "steps": [
+        "Take the sniper rifle from the weapon case at the Itacua Echo rally point, or bring any sniper rifle.",
+        "Head toward the checkpoint guard towers north of Itacua Echo.",
+        "Use the binoculars and place a marker on a guard to read the distance. Back off until it's over 400 m.",
+        "Aim slightly above the target to allow for bullet drop and fire until you land a hit."
+      ],
+      "sources": ["powerpyx-grw"]
+    },
+    {
+      "id": "with-a-pistol",
+      "name": "With a Pistol!",
+      "grade": "bronze",
+      "description": "Campaign: Took out a sniper with a pistol.",
+      "tags": ["combat"],
+      "missable": false,
+      "afterStory": true,
+      "where": "Any enemy guard tower",
+      "when": "Early game",
+      "unlock": "Kill an enemy sniper with a sidearm. Snipers usually sit in guard towers and are marked with an orange crosshair icon.",
+      "steps": [
+        "Find a guard tower with a sniper in it.",
+        "Double-tap **Triangle** to switch to your pistol.",
+        "Get close and kill the sniper. Being detected doesn't matter."
+      ],
+      "sources": ["powerpyx-grw"]
+    },
+    {
+      "id": "death-in-the-dark",
+      "name": "Death in the Dark",
+      "grade": "bronze",
+      "description": "Campaign: Made a close-combat kill at night.",
+      "tags": ["combat"],
+      "missable": false,
+      "afterStory": true,
+      "where": "Anywhere",
+      "when": "Your first night infiltration",
+      "unlock": "Any melee takedown while it's night in-game.",
+      "steps": [
+        "Wait for night, or skip time at a rally point.",
+        "Sneak up on an enemy and press **R3** for a takedown."
+      ],
+      "sources": ["powerpyx-grw"]
+    },
+    {
+      "id": "smugglers-blues",
+      "name": "Smuggler's Blues",
+      "grade": "bronze",
+      "description": "Completed the Smuggling operation.",
+      "tags": ["story"],
+      "missable": false,
+      "afterStory": true,
+      "where": "Smuggling division provinces",
+      "when": "When the Smuggling division's head goes down",
+      "unlock": "Story-related. Take out enough of the division's buchons to expose its underboss, then its head, and finish the division.",
+      "steps": [
+        "Clear the Smuggling division's provinces and their bosses.",
+        "Complete the mission against the division's head. The trophy unlocks automatically."
+      ],
+      "sources": ["powerpyx-grw", "wikipedia-grw"]
+    },
+    {
+      "id": "shut-down",
+      "name": "Shut Down",
+      "grade": "bronze",
+      "description": "Completed the Production operation.",
+      "tags": ["story"],
+      "missable": false,
+      "afterStory": true,
+      "where": "Production division provinces",
+      "when": "When the Production division's head goes down",
+      "unlock": "Story-related. Clear the Production division's buchons, underboss and head.",
+      "steps": [
+        "Clear the Production division's provinces and their bosses.",
+        "Complete the mission against the division's head. The trophy unlocks automatically."
+      ],
+      "sources": ["powerpyx-grw", "wikipedia-grw"]
+    },
+    {
+      "id": "broken-locks",
+      "name": "Broken Locks",
+      "grade": "bronze",
+      "description": "Completed the Security operation.",
+      "tags": ["story"],
+      "missable": false,
+      "afterStory": true,
+      "where": "Security division provinces",
+      "when": "When the Security division's head goes down",
+      "unlock": "Story-related. Clear the Security division's buchons, underboss and head.",
+      "steps": [
+        "Clear the Security division's provinces and their bosses.",
+        "Complete the mission against the division's head. The trophy unlocks automatically."
+      ],
+      "sources": ["powerpyx-grw", "wikipedia-grw"]
+    },
+    {
+      "id": "bad-reputation",
+      "name": "Bad Reputation",
+      "grade": "bronze",
+      "description": "Completed the Influence operation.",
+      "tags": ["story"],
+      "missable": false,
+      "afterStory": true,
+      "where": "Influence division provinces",
+      "when": "When the Influence division's head goes down",
+      "unlock": "Story-related. Clear the Influence division's buchons, underboss and head.",
+      "steps": [
+        "Clear the Influence division's provinces and their bosses.",
+        "Complete the mission against the division's head. The trophy unlocks automatically."
+      ],
+      "sources": ["powerpyx-grw", "wikipedia-grw"]
+    },
+    {
+      "id": "deadly-curious",
+      "name": "Deadly Curious",
+      "grade": "bronze",
+      "description": "Interrogated 20 sources.",
+      "tags": ["story"],
+      "missable": false,
+      "afterStory": true,
+      "where": "Story missions and intel targets",
+      "when": "While clearing provinces",
+      "unlock": "Interrogate 20 people. Story-mission targets count, and so do informants marked with an ⓘ on the map.",
+      "steps": [
+        "Play story missions; they have around 30 interrogations between them.",
+        "Interrogate informants you find through intel if you want it sooner."
+      ],
+      "mistakes": [
+        "Letting a co-op partner do the interrogations. Only the player who interrogates gets credit."
+      ],
+      "sources": ["powerpyx-grw", "steam-100-guide"]
+    },
+    {
+      "id": "spice-of-life",
+      "name": "Spice of Life",
+      "grade": "bronze",
+      "description": "Played each type of side mission.",
+      "tags": ["side-quest"],
+      "missable": false,
+      "afterStory": true,
+      "where": "Any province",
+      "when": "While clearing provinces",
+      "unlock": "Complete at least one side mission of each type.",
+      "steps": [
+        "Steal the helicopter.",
+        "Steal the plane.",
+        "Tag the supplies at a drop site.",
+        "Grab and intimidate the sicario.",
+        "Stop the convoy.",
+        "Blow up one of the station's entrances.",
+        "Deactivate the antenna.",
+        "Start the radio. The trophy unlocks once every type is done; intel and informants reveal more missions."
+      ],
+      "sources": ["powerpyx-grw", "gamepressure-grw"]
+    },
+    {
+      "id": "highway-bandit",
+      "name": "Highway Bandit",
+      "grade": "bronze",
+      "description": "Tagged 10 convoys.",
+      "tags": ["side-quest"],
+      "missable": false,
+      "afterStory": true,
+      "where": "Roads with supply convoys",
+      "when": "While clearing provinces",
+      "unlock": "Stop and tag 10 resource convoys.",
+      "steps": [
+        "Find a convoy on the map (convoy side missions are revealed by intel).",
+        "Stop the lead truck: shoot out its escorts and tyres, or use the EMP drone.",
+        "Walk to the back of the stopped truck and press **Square** to tag it.",
+        "Repeat until 10. Convoys respawn after you die, so you can farm one route."
+      ],
+      "tips": [
+        "Convoys are also the best source of resources for [[only-the-best]]. A minigun helicopter makes short work of the escorts."
+      ],
+      "sources": ["powerpyx-grw", "steam-100-guide"]
+    },
+    {
+      "id": "real-rebel",
+      "name": "Real Rebel",
+      "grade": "silver",
+      "description": "Unlocked all the Rebel skills.",
+      "tags": ["side-quest"],
+      "missable": false,
+      "afterStory": true,
+      "where": "Any province",
+      "when": "While clearing provinces",
+      "unlock": "Unlock all five rebel supports: Vehicle Drop-Off, Guns for Hire, Mortar, Diversion and Spotting. Each is unlocked by completing a rebel mission of its type.",
+      "steps": [
+        "Read intel to reveal rebel missions of every type on the map.",
+        "Play one rebel mission of each type.",
+        "The trophy unlocks with the fifth support."
+      ],
+      "tips": [
+        "Do Vehicle Drop-Off early. Having rebels deliver a car or helicopter anywhere saves a lot of travel."
+      ],
+      "sources": ["steam-100-guide", "gamepressure-grw", "powerpyx-grw"]
+    },
+    {
+      "id": "eye-in-the-sky",
+      "name": "Eye in the Sky",
+      "grade": "bronze",
+      "description": "Campaign: Marked 100 enemies with a drone.",
+      "tags": ["grind"],
+      "missable": false,
+      "afterStory": true,
+      "where": "Anywhere",
+      "when": "Throughout",
+      "unlock": "Mark 100 enemies using the drone. Binocular marks don't count towards this one.",
+      "steps": [
+        "Press **D-pad Up** to launch the drone before each fight.",
+        "Fly over the enemy base and mark everyone.",
+        "Named locations repopulate, so you can farm one if you're short."
+      ],
+      "sources": ["powerpyx-grw", "steam-100-guide"]
+    },
+    {
+      "id": "eagle-eyed",
+      "name": "Eagle-Eyed",
+      "grade": "bronze",
+      "description": "Campaign: Marked 100 enemies with the binoculars.",
+      "tags": ["grind"],
+      "missable": false,
+      "afterStory": true,
+      "where": "Anywhere",
+      "when": "Throughout",
+      "unlock": "Mark 100 enemies using the binoculars. Drone marks don't count towards this one.",
+      "steps": [
+        "Press **D-pad Down** for the binoculars when scouting a base.",
+        "Mark every enemy you can see.",
+        "Farm a named location if you're short; its enemies return."
+      ],
+      "sources": ["powerpyx-grw", "steam-100-guide"]
+    },
+    {
+      "id": "death-from-above",
+      "name": "Death from Above",
+      "grade": "bronze",
+      "description": "Campaign: Killed an enemy with a drone.",
+      "tags": ["combat"],
+      "missable": false,
+      "afterStory": true,
+      "where": "Anywhere",
+      "when": "From level 15",
+      "prerequisites": ["The explosive drone skill, available from level 15."],
+      "unlock": "Kill an enemy with the explosive drone.",
+      "steps": [
+        "Buy the explosive drone in the drone skills once you're level 15, and equip it.",
+        "Launch the drone and fly it right next to an enemy.",
+        "Press **R3** to detonate."
+      ],
+      "sources": ["powerpyx-grw"]
+    },
+    {
+      "id": "fearless",
+      "name": "Fearless",
+      "grade": "bronze",
+      "description": "Skydived 10 times.",
+      "tags": ["misc"],
+      "missable": false,
+      "afterStory": true,
+      "where": "Anywhere you can fly",
+      "when": "Once you have the parachute skill",
+      "prerequisites": ["The parachute skill (item skills)."],
+      "unlock": "Jump out of a helicopter or plane and skydive 10 times.",
+      "steps": [
+        "Buy the parachute in the item skills.",
+        "Get a helicopter or plane. Enemy bases and airfields have them, or use Vehicle Drop-Off.",
+        "Climb high, jump out, and open the parachute. Repeat 10 times."
+      ],
+      "sources": ["powerpyx-grw", "steam-100-guide"]
+    },
+    {
+      "id": "road-warrior",
+      "name": "Road Warrior",
+      "grade": "bronze",
+      "description": "Drove a vehicle for 100 km.",
+      "tags": ["grind"],
+      "missable": false,
+      "afterStory": true,
+      "where": "Anywhere",
+      "when": "Naturally, while travelling",
+      "unlock": "Drive 100 km in total in land vehicles.",
+      "steps": [
+        "Drive between objectives instead of flying and it comes naturally.",
+        "If you're short, drive laps of the dried salt lake in Koani (north-west of the map) in a fast car."
+      ],
+      "sources": ["powerpyx-grw", "steam-100-guide"]
+    },
+    {
+      "id": "legend-hunter",
+      "name": "Legend Hunter",
+      "grade": "bronze",
+      "description": "Discovered one legend.",
+      "tags": ["collectible"],
+      "missable": false,
+      "afterStory": true,
+      "where": "Named locations",
+      "when": "Your first legend",
+      "unlock": "Legends are the Kingslayer Files with LEGEND in the name. Find any one.",
+      "steps": [
+        "Discover named locations on the map; this reveals their Kingslayer Files.",
+        "Pick up a file marked as a legend."
+      ],
+      "sources": ["powerpyx-grw", "steam-100-guide"]
+    },
+    {
+      "id": "serious-collector",
+      "name": "Serious Collector",
+      "grade": "bronze",
+      "description": "Found 50% of the documents in the game.",
+      "tags": ["collectible"],
+      "missable": false,
+      "afterStory": true,
+      "where": "All provinces",
+      "when": "Halfway through your province sweep",
+      "unlock": "Find half of the documents (Kingslayer Files without LEGEND in the name).",
+      "steps": [
+        "Collect documents in every province you clear.",
+        "Documents appear at '?' locations once you discover them. Flying over settlements helps.",
+        "The trophy unlocks at 50%; carry on for [[the-whole-story]]."
+      ],
+      "sources": ["powerpyx-grw", "steam-100-guide"]
+    },
+    {
+      "id": "pull",
+      "name": "Pull!",
+      "grade": "silver",
+      "description": "Shot an enemy chopper out of the air with a mortar.",
+      "tags": ["combat"],
+      "missable": false,
+      "afterStory": true,
+      "where": "A Steal the Helicopter side mission (two are in Itacua)",
+      "when": "Once you have the Mortar, ideally upgraded",
+      "prerequisites": ["The Mortar rebel support, unlocked by Rebellion Rising in Itacua."],
+      "unlock": "Bring down an airborne enemy helicopter with your mortar strike.",
+      "steps": [
+        "Go to a Steal the Helicopter side mission. Turn off your AI teammates so they don't shoot the target first.",
+        "Alert the lieutenant guarding the helicopter so he runs to it and tries to take off.",
+        "As he boards, hold **R1**, select the Mortar and aim it at the helicopter.",
+        "The strike should catch the helicopter as it lifts off. If you miss, die or quit to the menu to reset the mission and try again."
+      ],
+      "tips": [
+        "Alternative: raise your wanted level near an Unidad base until several helicopters arrive, hide inside a building and call the mortar when two or three are close.",
+        "With a friend, they can simply fly a helicopter for you to shoot down.",
+        "Upgrading the Mortar (more strikes, shorter cooldown) makes every method easier."
+      ],
+      "mistakes": [
+        "Trying it in co-op if it keeps failing. One player reported it only worked for them solo."
+      ],
+      "sources": ["powerpyx-grw", "steam-100-guide"]
+    },
+    {
+      "id": "teamwork",
+      "name": "Teamwork!",
+      "grade": "bronze",
+      "description": "Completed 3 missions with another player.",
+      "tags": ["online"],
+      "missable": false,
+      "afterStory": true,
+      "where": "Any story mission, in co-op",
+      "when": "Any time",
+      "unlock": "Finish 3 story missions in a co-op session with at least one other player. Replayed missions count.",
+      "steps": [
+        "Invite a friend from the Lobby or join a public session.",
+        "Complete 3 missions together. Replaying already-finished missions from the map works."
+      ],
+      "sources": ["powerpyx-grw", "gamepressure-grw"]
+    },
+    {
+      "id": "finished-the-job",
+      "name": "Finished the Job",
+      "grade": "bronze",
+      "description": "Campaign: Killed an enemy in close combat who was hurt by another player.",
+      "tags": ["online"],
+      "missable": false,
+      "afterStory": true,
+      "where": "Any enemy area, in co-op",
+      "when": "During your co-op session",
+      "unlock": "Melee-kill an enemy that another player has already damaged.",
+      "steps": [
+        "In co-op, pick an enemy that can take a hit, such as an armoured Unidad soldier.",
+        "Have your partner shoot it once with a pistol so it's wounded but alive.",
+        "Finish it with a melee takedown (**R3**)."
+      ],
+      "sources": ["powerpyx-grw", "gamepressure-grw"]
+    },
+    {
+      "id": "cluster-bomber",
+      "name": "Cluster Bomber",
+      "grade": "bronze",
+      "description": "Campaign: Killed 7 enemies with a single C4 blast.",
+      "tags": ["combat"],
+      "missable": false,
+      "afterStory": true,
+      "where": "Koani Delta rally point, or the first objective of The Deserter (Montuyoc)",
+      "when": "Once you have C4 and a way to lure and blind enemies",
+      "prerequisites": [
+        "C4 (the first explosion-radius upgrade helps).",
+        "Flashbangs, and the flare gun or the Diversion rebel support to pull enemies together."
+      ],
+      "unlock": "Kill seven enemies with one C4 detonation.",
+      "steps": [
+        "Set the lowest difficulty and turn off your AI teammates or keep them well away.",
+        "Fast travel to the Koani Delta rally point in the north-west and drive to the nearby group of seven enemies.",
+        "Mark all seven with the drone.",
+        "Use the flare gun or Diversion to draw them into one spot, then throw flashbangs so they can't move or see.",
+        "Throw C4 into the middle of the group and hold **L1** to detonate.",
+        "If anyone survives, fast travel away and back to respawn them and try again."
+      ],
+      "mistakes": [
+        "Letting AI teammates open fire and scatter the group."
+      ],
+      "sources": ["steam-100-guide", "powerpyx-grw"]
+    },
+    {
+      "id": "a-better-mousetrap",
+      "name": "A Better Mousetrap",
+      "grade": "bronze",
+      "description": "Campaign: Killed 7 enemies with a single mine.",
+      "tags": ["combat"],
+      "missable": false,
+      "afterStory": true,
+      "where": "Same spots as [[cluster-bomber]]",
+      "when": "Straight after Cluster Bomber",
+      "prerequisites": ["The Mine item skill, plus the same luring and flashbang setup."],
+      "unlock": "Kill seven enemies with one mine. This trophy is known to glitch for some players.",
+      "steps": [
+        "Use the same setup as [[cluster-bomber]]: lowest difficulty, AI teammates off, seven enemies marked.",
+        "Lure them into one spot and flashbang them.",
+        "Place a mine in the middle of the group, then shoot it to set it off.",
+        "Fast travel away and back to reset if it falls short."
+      ],
+      "sources": ["steam-100-guide", "powerpyx-grw"]
+    },
+    {
+      "id": "heavy-medals",
+      "name": "Heavy Medals",
+      "grade": "silver",
+      "description": "Collected all the bonus medals.",
+      "tags": ["collectible"],
+      "missable": false,
+      "afterStory": true,
+      "where": "All provinces",
+      "when": "During and after your province sweep",
+      "unlock": "Collect all 30 bonus medals in the main campaign. Narco Road has its own separate set.",
+      "steps": [
+        "Read intel and choose to reveal bonus medals; they appear on the map as blue icons (a star with a line beneath).",
+        "Collect each one. Many are in hidden outposts and caves guarded by enemies.",
+        "Check each province's count on the map for any you've missed."
+      ],
+      "tips": [
+        "Each medal gives a small passive bonus to one skill, so they're worth collecting early."
+      ],
+      "sources": ["g4g-collectibles", "twinfinite-medals", "powerpyx-grw"]
+    },
+    {
+      "id": "the-whole-story",
+      "name": "The Whole Story",
+      "grade": "silver",
+      "description": "Found all documents.",
+      "tags": ["collectible"],
+      "missable": false,
+      "afterStory": true,
+      "where": "All provinces",
+      "when": "Collectible cleanup",
+      "unlock": "Find every document (Kingslayer File without LEGEND in the name).",
+      "steps": [
+        "Use a helicopter and go province by province. The map shows each province's document count.",
+        "Discover every named location; documents appear at '?' markers once a location is found.",
+        "Fly low over settlements and look for building outlines on the map, then press **Square** on the map to check."
+      ],
+      "mistakes": [
+        "Trusting the province counters completely. They're sometimes wrong, so if one won't move, check neighbouring provinces too. Media Luna and P.N. De Agua Verde are frequent culprits.",
+        "Panicking if a few seem missing. Some players reported the trophy unlocked with several documents still showing as missing."
+      ],
+      "sources": ["powerpyx-grw", "steam-100-guide"]
+    },
+    {
+      "id": "legendary-hunter",
+      "name": "Legendary Hunter",
+      "grade": "silver",
+      "description": "Discovered all legends.",
+      "tags": ["collectible"],
+      "missable": false,
+      "afterStory": true,
+      "where": "All provinces",
+      "when": "Collectible cleanup",
+      "unlock": "Find every legend (Kingslayer Files with LEGEND in the name). They're found the same way as documents.",
+      "steps": [
+        "Sweep each province for legend markers alongside your document hunt for [[the-whole-story]].",
+        "Collect every legend until the trophy unlocks."
+      ],
+      "mistakes": [
+        "If a legend won't register, one player reported a missing legend from a Libertad combat outpost with no clear fix. Back up your save before the last few."
+      ],
+      "sources": ["powerpyx-grw"]
+    },
+    {
+      "id": "assault-rifle-fanatic",
+      "name": "Assault Rifle Fanatic",
+      "grade": "bronze",
+      "description": "Campaign: Collected all assault rifle models.",
+      "tags": ["collectible"],
+      "missable": false,
+      "afterStory": true,
+      "where": "Weapon cases and boss drops",
+      "when": "Collectible cleanup, after every boss",
+      "unlock": "Own every assault rifle. Across all classes there are 80 base-game weapons: 50 in weapon cases around the world and 30 from bosses.",
+      "steps": [
+        "Read intel to reveal weapon locations (blue weapon icons on the map).",
+        "Open every weapon case marked in each province.",
+        "Kill every boss; some assault rifles only come from them."
+      ],
+      "tips": [
+        "The weapons menu also lists DLC and bonus weapons. You don't need those, and the beta-only weapon isn't required."
+      ],
+      "mistakes": [
+        "The weapon trophies are known to glitch for some players. One reported fix was to collect in co-op, then repeat the same pickups solo."
+      ],
+      "sources": ["powerpyx-grw", "steam-100-guide"]
+    },
+    {
+      "id": "submachine-gun-fanatic",
+      "name": "Submachine-Gun Fanatic",
+      "grade": "bronze",
+      "description": "Campaign: Collected all submachine-gun models.",
+      "tags": ["collectible"],
+      "missable": false,
+      "afterStory": true,
+      "where": "Weapon cases and boss drops",
+      "when": "Collectible cleanup, after every boss",
+      "unlock": "Own every submachine gun from the base game.",
+      "steps": [
+        "Reveal weapon locations through intel and open every marked weapon case.",
+        "Kill every boss for the boss-only models."
+      ],
+      "sources": ["powerpyx-grw", "steam-100-guide"]
+    },
+    {
+      "id": "light-machine-gun-fanatic",
+      "name": "Light Machine-Gun Fanatic",
+      "grade": "bronze",
+      "description": "Campaign: Collected all light machine-gun models.",
+      "tags": ["collectible"],
+      "missable": false,
+      "afterStory": true,
+      "where": "Weapon cases and boss drops",
+      "when": "Collectible cleanup, after every boss",
+      "unlock": "Own every light machine gun from the base game.",
+      "steps": [
+        "Reveal weapon locations through intel and open every marked weapon case.",
+        "Kill every boss for the boss-only models."
+      ],
+      "sources": ["powerpyx-grw", "steam-100-guide"]
+    },
+    {
+      "id": "sniper-rifle-fanatic",
+      "name": "Sniper Rifle Fanatic",
+      "grade": "bronze",
+      "description": "Campaign: Collected all sniper rifle models.",
+      "tags": ["collectible"],
+      "missable": false,
+      "afterStory": true,
+      "where": "Weapon cases and boss drops",
+      "when": "Collectible cleanup, after every boss",
+      "unlock": "Own every sniper rifle from the base game.",
+      "steps": [
+        "Reveal weapon locations through intel and open every marked weapon case.",
+        "Kill every boss for the boss-only models."
+      ],
+      "sources": ["powerpyx-grw", "steam-100-guide"]
+    },
+    {
+      "id": "shotguns-fanatic",
+      "name": "Shotguns Fanatic",
+      "grade": "bronze",
+      "description": "Campaign: Collected all shotguns models.",
+      "tags": ["collectible"],
+      "missable": false,
+      "afterStory": true,
+      "where": "Weapon cases and boss drops",
+      "when": "Collectible cleanup, after every boss",
+      "unlock": "Own every shotgun from the base game.",
+      "steps": [
+        "Reveal weapon locations through intel and open every marked weapon case.",
+        "Kill every boss for the boss-only models."
+      ],
+      "sources": ["powerpyx-grw", "steam-100-guide"]
+    },
+    {
+      "id": "handgun-fanatic",
+      "name": "Handgun Fanatic",
+      "grade": "bronze",
+      "description": "Campaign: Collected all handguns models.",
+      "tags": ["collectible"],
+      "missable": false,
+      "afterStory": true,
+      "where": "Weapon cases and boss drops",
+      "when": "Collectible cleanup, after every boss",
+      "unlock": "Own every handgun from the base game.",
+      "steps": [
+        "Reveal weapon locations through intel and open every marked weapon case.",
+        "Kill every boss for the boss-only models."
+      ],
+      "sources": ["powerpyx-grw", "steam-100-guide"]
+    },
+    {
+      "id": "the-end",
+      "name": "The End",
+      "grade": "gold",
+      "description": "Finished the story.",
+      "tags": ["story"],
+      "missable": false,
+      "afterStory": true,
+      "where": "El Sueño's final mission",
+      "when": "After every province and boss",
+      "unlock": "Complete the final mission against El Sueño. You can reach him after weakening only part of the cartel, but taking down every division and boss first gives you the full ending.",
+      "steps": [
+        "Finish the story missions in every province and defeat every boss.",
+        "Start El Sueño's final mission and complete it. The trophy unlocks at the end."
+      ],
+      "tips": [
+        "The game continues after the ending, so anything left over can still be done."
+      ],
+      "sources": ["powerpyx-grw", "prima-ending", "fandom-grw"]
+    },
+    {
+      "id": "mission-master",
+      "name": "Mission Master",
+      "grade": "gold",
+      "description": "Completed all Story missions.",
+      "tags": ["story"],
+      "missable": false,
+      "afterStory": true,
+      "where": "All 21 provinces",
+      "when": "Alongside [[the-end]]",
+      "unlock": "Finish every story mission in every province. This trophy is known to glitch.",
+      "steps": [
+        "Hover over each province on the map to check how many story missions it has left.",
+        "Finish them all, including every boss.",
+        "If it doesn't unlock, replay story missions from the map (press **Triangle** on a mission). One player fixed it by replaying every mission in order until the trophy popped."
+      ],
+      "sources": ["powerpyx-grw", "steam-100-guide"]
+    },
+    {
+      "id": "ultimate-skill",
+      "name": "Ultimate Skill",
+      "grade": "bronze",
+      "description": "Campaign: Bought all the upgrades of a Skill branch.",
+      "tags": ["grind"],
+      "missable": false,
+      "afterStory": true,
+      "where": "Skills menu",
+      "when": "Mid-game",
+      "unlock": "Buy every upgrade in one of the five skill categories: Weapon, Drone, Item, Physical or Squad. Upgrades cost skill points plus resources.",
+      "steps": [
+        "Pick one category and put your skill points and resources into it.",
+        "The trophy unlocks with its last upgrade. Drone is a good choice, since it also counts towards [[top-drone]]."
+      ],
+      "sources": ["powerpyx-grw", "steam-100-guide"]
+    },
+    {
+      "id": "top-drone",
+      "name": "Top Drone",
+      "grade": "bronze",
+      "description": "Campaign: Bought all drone-related upgrades.",
+      "tags": ["grind"],
+      "missable": false,
+      "afterStory": true,
+      "where": "Skills menu",
+      "when": "Mid-game",
+      "unlock": "Buy every upgrade in the Drone category.",
+      "steps": [
+        "Spend skill points and resources on the Drone category until it's complete."
+      ],
+      "sources": ["powerpyx-grw", "steam-100-guide"]
+    },
+    {
+      "id": "only-the-best",
+      "name": "Only the Best",
+      "grade": "silver",
+      "description": "Campaign: Bought all upgrades.",
+      "tags": ["grind"],
+      "missable": false,
+      "afterStory": true,
+      "where": "Skills menu",
+      "when": "End of the Platinum",
+      "unlock": "Buy every upgrade in all five skill categories. You need both skill points and resources.",
+      "steps": [
+        "Collect skill points: bosses give 3–10 each, each province has 6–8 skill point pickups worth 1, 3 or 5, and level-ups give a few.",
+        "Gather resources by tagging supply drops and stopping convoys. Convoys worth 5,000 or more are the best value.",
+        "Buy upgrades until every category is complete."
+      ],
+      "sources": ["powerpyx-grw", "steam-100-guide", "g4g-collectibles"]
+    },
+    {
+      "id": "no-better-rebel",
+      "name": "No Better Rebel",
+      "grade": "silver",
+      "description": "Maxed out each Rebel skill.",
+      "tags": ["side-quest", "grind"],
+      "missable": false,
+      "afterStory": true,
+      "where": "Rebel missions in every province",
+      "when": "End of the Platinum",
+      "unlock": "Max out all five rebel supports. Each has three power levels plus cooldown upgrades, and you upgrade a support by completing rebel missions of its type. This trophy is known to glitch for some players.",
+      "steps": [
+        "Open the rebel section of the skills menu to see what each support still needs.",
+        "Read intel and choose to reveal rebel missions (**D-pad Right** on intel) in each province.",
+        "Do only the rebel missions you still need until every support is at maximum. One player estimated about 9 per upgrade."
+      ],
+      "mistakes": [
+        "If it doesn't unlock with everything maxed, players reported success by repeating the last rebel missions solo after doing them in co-op, or the other way round."
+      ],
+      "sources": ["powerpyx-grw", "steam-100-guide", "twinfinite-rebels"]
+    },
+    {
+      "id": "the-champion",
+      "name": "The Champion",
+      "grade": "gold",
+      "description": "Campaign: Maxed out your XP and levels.",
+      "tags": ["grind"],
+      "missable": false,
+      "afterStory": true,
+      "where": "Anywhere",
+      "when": "End of the Platinum",
+      "unlock": "Reach level 30 and fill the XP bar.",
+      "steps": [
+        "Most XP comes naturally from story missions, side missions and collectibles.",
+        "If you're short, replay main missions from the map for XP until you max out."
+      ],
+      "mistakes": [
+        "One player reported an XP bar that stopped filling at level 28 after reaching 29. Keep cloud backups so you can roll back if anything goes wrong."
+      ],
+      "sources": ["powerpyx-grw", "steam-100-guide"]
+    },
+    {
+      "id": "master-of-the-wildlands",
+      "name": "Master of the Wildlands",
+      "grade": "platinum",
+      "description": "Collected all the trophies.",
+      "tags": [],
+      "missable": false,
+      "afterStory": true,
+      "where": "Anywhere",
+      "when": "After the other 43 base-game trophies",
+      "unlock": "Unlocks automatically once all 43 other base-game trophies are earned. Narco Road and Fallen Ghosts aren't required.",
+      "steps": [
+        "Earn the remaining base-game trophies. Your progress panel shows what's left."
+      ],
+      "sources": ["exophase-grw", "powerpyx-grw"]
+    },
+    {
+      "id": "mal-rodilla-ternera",
+      "name": "Mal Rodilla-Ternera",
+      "grade": "bronze",
+      "description": "Operation Narco Road: Complete an Electro™ challenge while freefalling",
+      "dlc": "narco-road",
+      "tags": ["challenge"],
+      "missable": false,
+      "afterStory": true,
+      "where": "Any aerial Electro challenge",
+      "when": "Early in Narco Road",
+      "unlock": "Fly through an aerial Electro challenge's ring while skydiving, not in an aircraft. A completed challenge still works.",
+      "steps": [
+        "Find an aerial Electro challenge on the tac map. One sits near Eddie's villa at the start of the expansion.",
+        "Fly a helicopter or plane a couple of hundred metres above and past the challenge's blue ring.",
+        "Jump out and steer your fall back towards the ring. You need at least 150 m of height to open a parachute, so you can also glide through.",
+        "The trophy unlocks as you pass through, even if you die afterwards."
+      ],
+      "tips": [
+        "If you don't turn towards the ring as you jump, try approaching from 90 degrees instead of head-on."
+      ],
+      "sources": ["ta-mal-rodilla", "steam-100-guide"]
+    },
+    {
+      "id": "brake-a-leg",
+      "name": "Brake a leg",
+      "grade": "bronze",
+      "description": "Operation Narco Road: Complete a trial without using the brakes",
+      "dlc": "narco-road",
+      "tags": ["challenge"],
+      "missable": false,
+      "afterStory": true,
+      "where": "Any bike trial",
+      "when": "When you pass an easy trial",
+      "unlock": "Finish a trial without touching the brakes or reversing.",
+      "steps": [
+        "Pick the easiest-looking bike trial you can find.",
+        "Ride it slowly, controlling your speed with the throttle only.",
+        "Finish without pressing brake or reverse."
+      ],
+      "sources": ["steam-100-guide"]
+    },
+    {
+      "id": "cristina",
+      "name": "Cristina",
+      "grade": "bronze",
+      "description": "Operation Narco Road: Kill 50 enemies with any gang's vehicle",
+      "dlc": "narco-road",
+      "tags": ["combat", "grind"],
+      "missable": false,
+      "afterStory": true,
+      "where": "Busy enemy areas",
+      "when": "Throughout Narco Road",
+      "unlock": "Kill 50 enemies in total using gang vehicles.",
+      "steps": [
+        "Take a gang monster truck.",
+        "Drive over enemies in busy areas until you reach 50."
+      ],
+      "sources": ["steam-100-guide"]
+    },
+    {
+      "id": "scenic-route",
+      "name": "Scenic Route",
+      "grade": "bronze",
+      "description": "Narco Road: Go from Eddie's party villa to Arturo's bar in 8 minutes or less in a ground vehicle",
+      "dlc": "narco-road",
+      "tags": ["challenge"],
+      "missable": false,
+      "afterStory": true,
+      "where": "Eddie's party villa to Arturo's bar",
+      "when": "Any time",
+      "unlock": "Drive the route in a ground vehicle in 8 minutes or less.",
+      "steps": [
+        "Fast travel to Eddie's party villa.",
+        "Set a waypoint on Arturo's bar.",
+        "Take the sports car at the villa entrance and drive the route, using nitro on straights. A good run takes about 6 minutes."
+      ],
+      "sources": ["steam-100-guide"]
+    },
+    {
+      "id": "gang-leader",
+      "name": "Gang Leader",
+      "grade": "bronze",
+      "description": "Operation Narco Road: Kill One boss of the cartel",
+      "dlc": "narco-road",
+      "tags": ["story"],
+      "missable": false,
+      "afterStory": true,
+      "where": "Narco Road story",
+      "when": "After gaining a gang boss's trust",
+      "unlock": "Story-related. Kill any of the three gang bosses: Eddie Escovado, Arturo Rey or Tonio Mateos.",
+      "steps": [
+        "Play Narco Road's story missions for one gang.",
+        "Kill its boss. The trophy unlocks automatically."
+      ],
+      "sources": ["g4g-narco-road", "steam-100-guide"]
+    },
+    {
+      "id": "el-visible",
+      "name": "El Visible",
+      "grade": "silver",
+      "description": "Operation Narco Road: Kill the final target",
+      "hidden": true,
+      "dlc": "narco-road",
+      "tags": ["story"],
+      "missable": false,
+      "afterStory": true,
+      "where": "Narco Road story",
+      "when": "End of the expansion",
+      "unlock": "Story-related. Finish Narco Road's story and kill the final target.",
+      "steps": [
+        "Take down all three gang bosses.",
+        "Complete the final mission. The trophy unlocks automatically."
+      ],
+      "sources": ["g4g-narco-road", "steam-100-guide", "psthc-grw"]
+    },
+    {
+      "id": "more-followers-than-escobar",
+      "name": "More Followers than Escobar",
+      "grade": "gold",
+      "description": "Operation Narco Road: Fill the Followers Gauge of all regions to 100%",
+      "dlc": "narco-road",
+      "tags": ["grind"],
+      "missable": false,
+      "afterStory": true,
+      "where": "Every Narco Road region",
+      "when": "Last",
+      "unlock": "Fill the followers gauge to 100% in every region. That takes all the story missions, every side mission and every Electro activity (drift, climb, jump and similar).",
+      "steps": [
+        "Finish all Narco Road story missions.",
+        "Complete every side mission in each region. Finding the missing cars is the slowest part.",
+        "Complete every Electro activity.",
+        "Check each region's gauge and finish whatever's left. Spawning vehicles and helicopters saves a lot of travel."
+      ],
+      "sources": ["steam-100-guide", "g4g-narco-road"]
+    },
+    {
+      "id": "kill-list",
+      "name": "Kill list",
+      "grade": "bronze",
+      "description": "Fallen Ghosts: Kill one of each Extranjeros squad archetypes",
+      "dlc": "fallen-ghosts",
+      "tags": ["combat"],
+      "missable": false,
+      "afterStory": true,
+      "where": "Eastern and Western Precincts",
+      "when": "Naturally during the story",
+      "unlock": "Personally kill one of each of the four Extranjeros types: Armoured, Covert Ops, Elite Sniper and Jammer. Kills by your squad don't count; sync shots do if your shot gets the kill.",
+      "steps": [
+        "Armoured and Covert Ops: F.O.B. Tucan in the Eastern Precinct. Armoured can only be hurt by head shots or sync shots; use thermal vision to see Covert Ops.",
+        "Elite Sniper and Jammer: the Outpost in the Western Precinct. Snipers give themselves away with their laser sights; Jammers disable your drone and minimap but die to normal fire."
+      ],
+      "sources": ["ta-kill-list", "ubisoft-fallen-ghosts"]
+    },
+    {
+      "id": "nondescript-jungle-hero",
+      "name": "Nondescript jungle hero",
+      "grade": "bronze",
+      "description": "Fallen Ghosts: Kill 10 Covert Ops Extranjeros using your knife",
+      "dlc": "fallen-ghosts",
+      "tags": ["combat"],
+      "missable": false,
+      "afterStory": true,
+      "where": "The Cruzar mission, or the Ghosts mission",
+      "when": "After the Fallen Ghosts story",
+      "unlock": "Melee takedowns on 10 Covert Ops (cloaked) Extranjeros.",
+      "steps": [
+        "Replay the **Cruzar** mission in Dante Cruzar's region.",
+        "Turn on thermal vision to see the cloaked enemies near the start.",
+        "Sneak up and melee the 3–4 Covert Ops there, then replay the mission until you reach 10."
+      ],
+      "tips": [
+        "Alternative: the **Ghosts** mission in Luis Rocha's area has 20+ Covert Ops spread out for a stealth run."
+      ],
+      "sources": ["steam-100-guide", "ubisoft-fallen-ghosts"]
+    },
+    {
+      "id": "tactical-genius",
+      "name": "Tactical genius",
+      "grade": "bronze",
+      "description": "Fallen Ghosts: Blind yourself using the Flash Drone",
+      "dlc": "fallen-ghosts",
+      "tags": ["misc"],
+      "missable": false,
+      "afterStory": true,
+      "where": "Anywhere in Fallen Ghosts",
+      "when": "Once you can afford the Flash Drone",
+      "prerequisites": ["The Flash Drone skill, which needs fuel resources."],
+      "unlock": "Set off the Flash Drone close enough to blind yourself.",
+      "steps": [
+        "Collect fuel resources and buy the Flash Drone in the Fallen Ghosts skills tab.",
+        "Equip it and launch the drone.",
+        "Fly it right in front of your character, facing you, and trigger the flash."
+      ],
+      "sources": ["steam-100-guide", "ubisoft-fallen-ghosts"]
+    },
+    {
+      "id": "artisanal-sam",
+      "name": "Artisanal SAM",
+      "grade": "bronze",
+      "description": "Fallen Ghosts: Destroy an enemy helicopter using an explosive bolt.",
+      "dlc": "fallen-ghosts",
+      "tags": ["combat"],
+      "missable": false,
+      "afterStory": true,
+      "where": "Anywhere helicopters spawn",
+      "when": "Once you have Explosive Bolts",
+      "prerequisites": [
+        "Fallen Ghosts' first mission finished.",
+        "Explosive Bolts (first tier: 1 skill point plus materials) and the Phobos crossbow."
+      ],
+      "unlock": "One direct hit with an explosive bolt brings a helicopter down.",
+      "steps": [
+        "Buy the first tier of Explosive Bolts in the Fallen Ghosts skills tab.",
+        "Equip the Phobos crossbow and press **D-pad Down** to switch to explosive bolts.",
+        "Draw a helicopter in: raise your wanted level by fighting instead of completing objectives, or play a tower-defence mission, which reliably sends at least two.",
+        "Aim with **L2**, wait until the helicopter is fairly still and in range, and fire."
+      ],
+      "sources": ["ta-artisanal-sam"]
+    },
+    {
+      "id": "rebel-leader",
+      "name": "Rebel leader",
+      "grade": "bronze",
+      "description": "Fallen Ghosts: Complete a Final Rebel Op",
+      "dlc": "fallen-ghosts",
+      "tags": ["side-quest"],
+      "missable": false,
+      "afterStory": true,
+      "where": "Fallen Ghosts regions",
+      "when": "Mid-expansion",
+      "unlock": "Completing every rebel op of one type unlocks that type's final rebel op. Finish one.",
+      "steps": [
+        "Pick one rebel op type and complete all of its ops.",
+        "Its final rebel op appears. Complete it for the trophy."
+      ],
+      "sources": ["steam-100-guide"]
+    },
+    {
+      "id": "a-hero-once",
+      "name": "A hero once, a hero twice",
+      "grade": "silver",
+      "description": "Fallen Ghosts: complete the operation",
+      "hidden": true,
+      "dlc": "fallen-ghosts",
+      "tags": ["story"],
+      "missable": false,
+      "afterStory": true,
+      "where": "Fallen Ghosts story",
+      "when": "End of the expansion",
+      "unlock": "Story-related. Finish all of Fallen Ghosts' main missions.",
+      "steps": [
+        "Play through Fallen Ghosts' 15 missions and four bosses across its three regions.",
+        "The trophy unlocks when the operation is complete."
+      ],
+      "sources": ["steam-100-guide", "ubisoft-fallen-ghosts", "psthc-grw"]
+    },
+    {
+      "id": "thorough-supporter",
+      "name": "Thorough supporter",
+      "grade": "gold",
+      "description": "Fallen Ghosts: Complete every Rebel Op and Mission",
+      "dlc": "fallen-ghosts",
+      "tags": ["side-quest", "grind"],
+      "missable": false,
+      "afterStory": true,
+      "where": "All Fallen Ghosts regions",
+      "when": "Last",
+      "unlock": "Complete every rebel op, including the final ones, and every mission in the expansion.",
+      "steps": [
+        "Finish the story for [[a-hero-once]].",
+        "Complete every rebel op of every type, then each type's final rebel op.",
+        "Track down the remaining headhunter targets. They're the slowest part, so use a target-location guide if you get stuck."
+      ],
+      "mistakes": [
+        "Being caught out by the rebel VIP rescue. Freeing the VIP triggers a large counter-attack, with enemies appearing close to the building rather than driving in, so be ready for a big fight before you free them."
+      ],
+      "sources": ["steam-100-guide", "gamefaqs-fg-rebel-ops"]
+    }
+  ],
+  "images": [],
+  "sources": [
+    {
+      "id": "exophase-grw",
+      "title": "Tom Clancy's Ghost Recon Wildlands (PS4) trophies – Exophase",
+      "url": "https://www.exophase.com/game/tom-clancys-ghost-recon-wildlands-ps4/trophies/",
+      "supports": "Official trophy names and descriptions, base game (44) and DLC groups (Narco Road 7, Fallen Ghosts 7).",
+      "checked": "2026-10-13"
+    },
+    {
+      "id": "psthc-grw",
+      "title": "Ghost Recon Wildlands trophy list – PSTHC",
+      "url": "https://www.psthc.fr/unjeu/tom-clancy-ghost-recon-wildlands-ps4/liste-trophees.htm",
+      "supports": "Trophy grades for the base game and both DLC, and which DLC trophies are hidden.",
+      "checked": "2026-10-13"
+    },
+    {
+      "id": "vgtimes-grw",
+      "title": "44 trophies for Ghost Recon Wildlands (PS4) – VGTimes",
+      "url": "https://vgtimes.ru/games/ghost-recon-wildlands/achievements-and-trophies/ps4/",
+      "supports": "Base-game grade counts (1 Platinum, 3 Gold, 8 Silver, 32 Bronze).",
+      "checked": "2026-10-13"
+    },
+    {
+      "id": "vgtimes-fallen-ghosts",
+      "title": "Fallen Ghosts trophies (PS4) – VGTimes",
+      "url": "https://vgtimes.com/games/tom-clancys-ghost-recon-wildlands-fallen-ghosts/achievements-and-trophies/ps4/ghost-recon-wildlands-fallen-ghosts-dlc/",
+      "supports": "Fallen Ghosts trophy grades.",
+      "checked": "2026-10-13"
+    },
+    {
+      "id": "powerpyx-grw",
+      "title": "Ghost Recon Wildlands Trophy Guide & Roadmap – PowerPyx",
+      "url": "https://www.powerpyx.com/ghost-recon-wildlands-trophy-guide-roadmap/",
+      "supports": "Difficulty, time, playthroughs, missables (none), glitch-prone trophies, roadmap and methods for most base-game trophies, weapon totals.",
+      "checked": "2026-10-13"
+    },
+    {
+      "id": "steam-100-guide",
+      "title": "Ultimate [100%] Achievement Guide! Wildlands incl. ALL DLCs! – Steam Community",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3642091272",
+      "supports": "Updated February 2026. Methods for the explosive, Pull!, resource and rebel trophies, and for every Narco Road and Fallen Ghosts trophy. Steam showed this guide as visible only to its author when checked, so the link may not open for everyone.",
+      "checked": "2026-10-13"
+    },
+    {
+      "id": "gamepressure-grw",
+      "title": "Ghost Recon Wildlands: all achievements and trophies – Gamepressure",
+      "url": "https://www.gamepressure.com/ghost-recon-wildlands/trophy-guide/z89960",
+      "supports": "Real Rebel and Spice of Life requirements, co-op trophy rules.",
+      "checked": "2026-10-13"
+    },
+    {
+      "id": "g4g-collectibles",
+      "title": "Ghost Recon Wildlands collectibles – Guides4Gamers",
+      "url": "https://guides4gamers.com/ghost-recon-wildlands/article/ghost-recon-wildlands-collectibles/",
+      "supports": "30 bonus medals, skill point pickup values, the 21 provinces.",
+      "checked": "2026-10-13"
+    },
+    {
+      "id": "g4g-narco-road",
+      "title": "Ghost Recon Wildlands: Narco Road DLC details – Guides4Gamers",
+      "url": "https://guides4gamers.com/ghost-recon-wildlands/article/ghost-recon-wildlands-narco-road-dlc-details/",
+      "supports": "Narco Road's three gang bosses, El Invisible, missions and followers.",
+      "checked": "2026-10-13"
+    },
+    {
+      "id": "ubisoft-fallen-ghosts",
+      "title": "Fallen Ghosts expansion unleashes new missions and a new enemy – Ubisoft News",
+      "url": "https://news.ubisoft.com/en-us/article/6hvBeTaTjyRME5ezt7bu8s/ghost-recon-wildlands-fallen-ghosts-expansion-unleashes-new-missions-and-a-new-enemy",
+      "supports": "Level 30 character with cap 35, 15 missions and 4 bosses, Extranjeros types, Flash Drone and Explosive Bolt skills.",
+      "checked": "2026-10-13"
+    },
+    {
+      "id": "ta-mal-rodilla",
+      "title": "Mal Rodilla-Ternera achievement – TrueAchievements",
+      "url": "https://i2.trueachievements.com/a232638/mal-rodillaternera-achievement",
+      "supports": "Freefall Electro challenge method and the 150 m parachute height.",
+      "checked": "2026-10-13"
+    },
+    {
+      "id": "ta-kill-list",
+      "title": "Kill list achievement – TrueAchievements",
+      "url": "https://i2.trueachievements.com/a234328/kill-list-achievement",
+      "supports": "The four Extranjeros archetypes, where to find them, and that squad kills don't count.",
+      "checked": "2026-10-13"
+    },
+    {
+      "id": "ta-artisanal-sam",
+      "title": "Artisanal SAM achievement – TrueAchievements",
+      "url": "https://i2.trueachievements.com/a234333/artisanal-sam-achievement",
+      "supports": "Explosive Bolt requirements, crossbow controls and helicopter spawns.",
+      "checked": "2026-10-13"
+    },
+    {
+      "id": "gamefaqs-fg-rebel-ops",
+      "title": "Fallen Ghosts Rebel Ops – GameFAQs board",
+      "url": "https://gamefaqs.gamespot.com/boards/168639-tom-clancys-ghost-recon-wildlands/75439483",
+      "supports": "The rebel VIP rescue counter-attack.",
+      "checked": "2026-10-13"
+    },
+    {
+      "id": "twinfinite-rebels",
+      "title": "Ghost Recon Wildlands: how to unlock rebel supports – Twinfinite",
+      "url": "https://twinfinite.net/guides/ghost-recon-wildlands-how-to-unlock-rebel-supports/",
+      "supports": "Rebel supports have three power levels and are upgraded by rebel missions; hold R1 to use them.",
+      "checked": "2026-10-13"
+    },
+    {
+      "id": "twinfinite-medals",
+      "title": "Ghost Recon Wildlands: what are bonus medals – Twinfinite",
+      "url": "https://twinfinite.net/guides/ghost-recon-wildlands-what-are-bonus-medals/",
+      "supports": "How bonus medals are revealed and shown on the map, and what they do.",
+      "checked": "2026-10-13"
+    },
+    {
+      "id": "prima-ending",
+      "title": "Ghost Recon Wildlands: how to get the good ending – Prima Games",
+      "url": "https://primagames.com/tips/ghost-recon-wildlands-how-get-good-ending",
+      "supports": "Good ending requires removing every buchon and underboss before El Sueño.",
+      "checked": "2026-10-13"
+    },
+    {
+      "id": "fandom-grw",
+      "title": "Tom Clancy's Ghost Recon Wildlands – Ghost Recon Wiki",
+      "url": "https://ghostrecon.fandom.com/wiki/Tom_Clancy%27s_Ghost_Recon_Wildlands",
+      "supports": "21 provinces, the four divisions and the alternate ending.",
+      "checked": "2026-10-13"
+    },
+    {
+      "id": "wikipedia-grw",
+      "title": "Tom Clancy's Ghost Recon Wildlands – Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Tom_Clancy%27s_Ghost_Recon_Wildlands",
+      "supports": "Division structure (buchons, underboss, head), four-player co-op.",
+      "checked": "2026-10-13"
+    },
+    {
+      "id": "pushsquare-ps5",
+      "title": "Free 4K, 60fps PS5 update for Ghost Recon Wildlands out now – Push Square",
+      "url": "https://www.pushsquare.com/news/2026/08/free-4k-60fps-ps5-update-for-ghost-recon-wildlands-out-now-included-with-ps-plus-extra",
+      "supports": "The August 2026 PS5 update is a patch to the PS4 game, not a native PS5 version; Last Rites is a free mission.",
+      "checked": "2026-10-13"
+    },
+    {
+      "id": "gameluster-ps5",
+      "title": "Wildlands returns to PS5 with 60fps upgrade and new mission – GameLuster",
+      "url": "https://gameluster.com/?p=131481",
+      "supports": "Last Rites mission and the return of the Predator event (August 2026).",
+      "checked": "2026-10-13"
+    },
+    {
+      "id": "gfinity-last-rites",
+      "title": "Ghost Recon Wildlands Last Rites: mission overview and rewards – Gfinity",
+      "url": "https://www.gfinityesports.com/article/ghost-recon-wildlands-last-rites-mission-overview-rewards",
+      "supports": "Last Rites starts from its own main-menu tab and rewards cosmetics.",
+      "checked": "2026-10-13"
+    }
+  ]
+}

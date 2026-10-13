@@ -1,0 +1,471 @@
+{
+  "schemaVersion": 1,
+  "slug": "sample-game",
+  "status": "complete",
+  "demo": true,
+  "title": "Sample Game",
+  "edition": "Template demo",
+  "platforms": ["PS5"],
+  "listNote": "Covers the PS5 trophy list. Real guides use this note to say whether the PS4 and PS5 versions share one list or have separate lists, and which edition was used.",
+  "releaseYear": 2026,
+  "developer": "Fictional studio",
+  "publisher": "Fictional publisher",
+  "genres": ["Adventure"],
+  "summary": "A short, fictional lantern-carrying adventure used to demonstrate the X3R0 guide template: missable choices, collectibles, a challenge run and a DLC episode.",
+  "intro": [
+    "Sample Game is not a real game. It is a small, made-up adventure about carrying a lantern across a flooded valley, written to show how a X3R0 guide is laid out.",
+    "Its trophy list is deliberately short but covers the awkward cases real guides need: two mutually exclusive missables, a collectible set with a map, a challenge you can leave for later, a hidden story trophy and a DLC episode that isn't needed for the Platinum."
+  ],
+  "lastUpdated": "2026-10-13",
+  "stats": {
+    "difficulty": { "value": 2, "sources": [] },
+    "hours": { "min": 8, "max": 10, "sources": [] },
+    "playthroughs": { "value": 1, "note": "One playthrough, then chapter select for cleanup. A manual save covers both ferry trophies.", "sources": [] },
+    "online": { "value": false, "note": "No online trophies.", "sources": [] }
+  },
+  "officialCounts": {
+    "base": { "platinum": 1, "gold": 1, "silver": 3, "bronze": 8 },
+    "dlc": {
+      "frostbound": { "platinum": 0, "gold": 1, "silver": 0, "bronze": 1 }
+    },
+    "sources": []
+  },
+  "theme": {
+    "accent": "#ffa66b",
+    "glow": "#b8481c",
+    "base": "#120d0c",
+    "pattern": "embers",
+    "heroImage": null,
+    "coverImage": null
+  },
+  "dlc": [
+    {
+      "id": "frostbound",
+      "title": "Frostbound",
+      "note": "Separate purchase. Its two trophies count towards 100% but are not needed for the Platinum."
+    }
+  ],
+  "route": [
+    {
+      "id": "prologue",
+      "title": "Before you start and the prologue",
+      "summary": "Two settings to change, then a ten-minute prologue with one automatic trophy.",
+      "steps": [
+        "Pick any difficulty. No trophy depends on it, and you can change it from the pause menu at any time.",
+        "In **Settings > Saves**, turn on manual saves. Two Chapter 1 trophies are mutually exclusive, and a manual save lets you earn both in one playthrough.",
+        "Play the prologue. [[first-light]] unlocks as the lantern lights at the end of it."
+      ],
+      "warning": "",
+      "trophies": ["first-light"]
+    },
+    {
+      "id": "chapter-1",
+      "title": "Chapter 1: The Flooded Valley",
+      "summary": "The only chapter with true missables. Light the roadside lanterns as you go, then split your save at the jetty to earn both ferry trophies.",
+      "steps": [
+        "Light all six roadside lanterns on the way to the jetty for [[lamplighter]]. Every one is on the main path.",
+        "At the jetty, **make a manual save before you talk to the ferryman**.",
+        "Pay the ferryman for [[ferrymans-fare]]. Once you land on the far bank, reload the manual save.",
+        "Sneak onto the ferry without paying for [[stowaway]]. Carry on from here as your main save."
+      ],
+      "warning": "Point of no return: landing on the far bank ends Chapter 1. Chapter select does not replay the jetty choice, so both ferry trophies are missable on this save.",
+      "trophies": ["lamplighter", "ferrymans-fare", "stowaway"]
+    },
+    {
+      "id": "chapter-2",
+      "title": "Chapter 2: The Old Mill",
+      "summary": "Restore the mill and collect the ledger pages on the way. Nothing here is missable, but picking up the pages now saves a return trip.",
+      "steps": [
+        "At the yard gate, wait for the guard to walk towards the well, then follow the hedge line for [[quiet-feet]].",
+        "Collect the five ledger pages in the order shown on the map in [[millers-ledger]].",
+        "Turn the three cogs to finish the chapter and unlock [[cog-by-cog]]."
+      ],
+      "warning": "",
+      "trophies": ["quiet-feet", "millers-ledger", "cog-by-cog"]
+    },
+    {
+      "id": "chapter-3",
+      "title": "Chapter 3: The Lantern Spire",
+      "summary": "The final climb. Try the no-refill challenge now if you feel confident, or leave it for chapter select after the credits.",
+      "steps": [
+        "Climb the spire for [[spire-ascent]].",
+        "Optional now: finish the chapter without refilling your lantern for [[no-spare-oil]]. You can retry it from chapter select later.",
+        "Watch the ending for [[the-last-flame]]."
+      ],
+      "warning": "",
+      "trophies": ["spire-ascent", "no-spare-oil", "the-last-flame"]
+    },
+    {
+      "id": "cleanup",
+      "title": "After the credits: cleanup",
+      "summary": "Chapter select unlocks after the credits. Use it to mop up anything you skipped. Your distance counter carries across chapters, so the walking trophy usually lands here.",
+      "steps": [
+        "Open **Chapter select** from the title screen.",
+        "Replay Chapter 3 for [[no-spare-oil]] if you skipped it.",
+        "Open **Collectibles** in the pause menu and fetch anything missing for [[collector]].",
+        "If [[marathon]] hasn't unlocked yet, walk laps of the Chapter 2 mill yard until it does."
+      ],
+      "warning": "",
+      "trophies": ["collector", "marathon"]
+    },
+    {
+      "id": "platinum",
+      "title": "Platinum",
+      "summary": "Unlocks automatically once every other base-game trophy is earned.",
+      "steps": [
+        "Compare the trophy list on your console with your checklist here. If anything is missing, its stage is linked from the Platinum Route."
+      ],
+      "warning": "",
+      "trophies": ["keeper-of-the-road"]
+    },
+    {
+      "id": "frostbound",
+      "dlc": "frostbound",
+      "title": "Frostbound: the frozen pass",
+      "summary": "A short standalone episode started from the main menu. It takes about 40 minutes.",
+      "steps": [
+        "Start Frostbound from the main menu. [[cold-open]] unlocks in the opening scene.",
+        "Light the four braziers in the pass to thaw the gate for [[thaw]]."
+      ],
+      "warning": "",
+      "trophies": ["cold-open", "thaw"]
+    }
+  ],
+  "trophies": [
+    {
+      "id": "first-light",
+      "name": "First Light",
+      "grade": "bronze",
+      "description": "Complete the prologue.",
+      "tags": ["story"],
+      "missable": false,
+      "afterStory": true,
+      "where": "Prologue",
+      "when": "End of the prologue, about 10 minutes in",
+      "unlock": "Story-related and can't be missed. It unlocks when the lantern lights in the last scene of the prologue.",
+      "steps": [
+        "Follow the path from the cottage to the valley road.",
+        "Pick up the lantern from the workbench when prompted.",
+        "Light the lantern at the hearth to end the prologue."
+      ],
+      "sources": []
+    },
+    {
+      "id": "lamplighter",
+      "name": "Lamplighter",
+      "grade": "bronze",
+      "description": "Light every roadside lantern in the Flooded Valley.",
+      "tags": ["exploration"],
+      "missable": false,
+      "afterStory": true,
+      "where": "Chapter 1: The Flooded Valley",
+      "when": "On the road to the jetty",
+      "unlock": "Light all six lanterns along the valley road. They all sit beside the main path, so you pass every one on the way to the jetty. Chapter select replays the road, so you can come back for any you miss.",
+      "steps": [
+        "Lantern 1: beside the stone bridge, straight after the chapter starts.",
+        "Lantern 2: on the fence post where the road forks. Take the left fork afterwards.",
+        "Lantern 3: hanging from the dead tree at the flooded crossroads.",
+        "Lantern 4: on the roof of the half-sunk cart. Climb the crates on its left side.",
+        "Lantern 5: by the shrine on the hill. Light it before you go down the steps.",
+        "Lantern 6: at the top of the jetty ramp. The trophy unlocks as it lights."
+      ],
+      "tips": [
+        "Lit lanterns glow orange on the map. If the trophy hasn't unlocked, open the map and look for the one that's still grey.",
+        "Each lantern also drops a wick, which counts towards [[collector]]."
+      ],
+      "mistakes": [
+        "Taking the right fork at lantern 2 skips lantern 3. The paths rejoin, so walk back if you missed it."
+      ],
+      "sources": []
+    },
+    {
+      "id": "ferrymans-fare",
+      "name": "Ferryman's Fare",
+      "grade": "bronze",
+      "description": "Pay the ferryman.",
+      "tags": ["choice"],
+      "missable": true,
+      "missableNote": "Mutually exclusive with [[stowaway]] unless you reload a manual save at the jetty. Chapter select won't replay this choice.",
+      "afterStory": false,
+      "where": "Chapter 1: the jetty",
+      "when": "Before boarding the ferry",
+      "prerequisites": [
+        "At least 1 coin. Three coins lie on the valley road, so you'll have enough unless you spent them all at the shrine."
+      ],
+      "unlock": "Talk to the ferryman and choose **Pay the fare**.",
+      "steps": [
+        "Make a manual save on the jetty before you speak to the ferryman.",
+        "Talk to the ferryman and choose **Pay the fare**.",
+        "The trophy unlocks as the coin changes hands. Ride the ferry to the far bank.",
+        "Reload your manual save and go for [[stowaway]]."
+      ],
+      "mistakes": [
+        "Spending every coin at the shrine. The pay option is then greyed out, so reload an earlier save."
+      ],
+      "sources": []
+    },
+    {
+      "id": "stowaway",
+      "name": "Stowaway",
+      "grade": "bronze",
+      "description": "Cross the river without paying.",
+      "tags": ["choice"],
+      "missable": true,
+      "missableNote": "Mutually exclusive with [[ferrymans-fare]] unless you reload a manual save at the jetty.",
+      "afterStory": false,
+      "where": "Chapter 1: the jetty",
+      "when": "After earning Ferryman's Fare and reloading",
+      "unlock": "Board the ferry without paying by hiding under the tarpaulin at the back of the boat before the ferryman turns round.",
+      "steps": [
+        "Reload the manual save you made on the jetty.",
+        "Walk past the ferryman without talking to him and crouch behind the rope coil.",
+        "When he turns to face the river, climb into the boat and hide under the tarpaulin.",
+        "Stay hidden until the ferry docks. The trophy unlocks as you step off."
+      ],
+      "tips": [
+        "Use this run as your main save. Paying or not paying changes nothing else in the story."
+      ],
+      "sources": []
+    },
+    {
+      "id": "quiet-feet",
+      "name": "Quiet Feet",
+      "grade": "bronze",
+      "description": "Cross the mill yard without being spotted.",
+      "tags": ["challenge"],
+      "missable": false,
+      "afterStory": true,
+      "where": "Chapter 2: the mill yard",
+      "when": "Start of Chapter 2",
+      "unlock": "Reach the mill door without the guard spotting you. Being seen resets the attempt, so reload the checkpoint and try again.",
+      "steps": [
+        "Wait at the gate until the guard walks towards the well.",
+        "Crouch and follow the hedge line on the left.",
+        "Stop behind the hay cart while he turns at the well.",
+        "Move to the mill door when he walks back towards the gate."
+      ],
+      "mistakes": [
+        "Sprinting. It makes noise even while crouched."
+      ],
+      "sources": []
+    },
+    {
+      "id": "millers-ledger",
+      "name": "Miller's Ledger",
+      "grade": "silver",
+      "description": "Find all five pages of the miller's ledger.",
+      "tags": ["collectible"],
+      "missable": false,
+      "afterStory": true,
+      "where": "Chapter 2: The Old Mill",
+      "when": "While restoring the mill",
+      "unlock": "Pick up all five ledger pages. Pages you've already found stay found when you replay the chapter from chapter select.",
+      "steps": [
+        { "text": "Page 1: on the gatehouse desk, just inside the yard.", "image": "mill-ledger-map" },
+        "Page 2: under the bench beside the well.",
+        "Page 3: pinned to the waterwheel housing. Look up as you cross the sluice.",
+        "Page 4: in the grain loft, on a sack by the window. Climb the ladder at the back of the mill.",
+        "Page 5: in the cellar, on the shelf behind the third cog. You can only reach it after turning the first cog."
+      ],
+      "tips": [
+        "The collectibles menu shows which pages you have but not where the missing ones are. Use the numbers on the map."
+      ],
+      "sources": []
+    },
+    {
+      "id": "cog-by-cog",
+      "name": "Cog by Cog",
+      "grade": "silver",
+      "description": "Restore the Old Mill.",
+      "tags": ["story"],
+      "missable": false,
+      "afterStory": true,
+      "where": "Chapter 2: The Old Mill",
+      "when": "End of Chapter 2",
+      "unlock": "Story-related and can't be missed.",
+      "steps": [
+        "Turn the cellar cog to drain the sluice.",
+        "Turn the loft cog to free the wheel.",
+        "Turn the main cog beside the millstone. The trophy unlocks as the wheel starts."
+      ],
+      "sources": []
+    },
+    {
+      "id": "spire-ascent",
+      "name": "Spire Ascent",
+      "grade": "bronze",
+      "description": "Reach the top of the Lantern Spire.",
+      "tags": ["story"],
+      "missable": false,
+      "afterStory": true,
+      "where": "Chapter 3: The Lantern Spire",
+      "when": "Midway through Chapter 3",
+      "unlock": "Story-related and can't be missed. It unlocks as you step onto the bell platform at the top.",
+      "steps": [
+        "Climb the spire's four landings.",
+        "Ring the bell at the top. The trophy unlocks with the first toll."
+      ],
+      "sources": []
+    },
+    {
+      "id": "no-spare-oil",
+      "name": "No Spare Oil",
+      "grade": "bronze",
+      "description": "Complete Chapter 3 without refilling your lantern.",
+      "tags": ["challenge"],
+      "missable": false,
+      "afterStory": true,
+      "where": "Chapter 3: The Lantern Spire",
+      "when": "Your story run, or chapter select after the credits",
+      "unlock": "Finish Chapter 3 without using an oil cache. The lantern starts the chapter full, which is enough if you keep moving.",
+      "steps": [
+        "Start Chapter 3 from the beginning, either in your story playthrough or from chapter select.",
+        { "text": "Ignore the oil cache behind the bell on the third landing. Using it counts as a refill even when your lantern is full.", "image": "spire-oil-cache" },
+        "Keep moving on the climb. The lantern only drains while it's lit, so put it away on the lit stairways.",
+        "Finish the chapter. The trophy unlocks before the credits."
+      ],
+      "tips": [
+        "Chapter select restarts the chapter with a full lantern, so this is easier after the credits."
+      ],
+      "mistakes": [
+        "Grabbing the cache out of habit on the third landing."
+      ],
+      "sources": []
+    },
+    {
+      "id": "the-last-flame",
+      "name": "The Last Flame",
+      "grade": "silver",
+      "description": "Carry the flame to the end of the road.",
+      "hidden": true,
+      "tags": ["story"],
+      "missable": false,
+      "afterStory": true,
+      "where": "Chapter 3: the ending",
+      "when": "Final scene",
+      "unlock": "Story-related and can't be missed. It unlocks during the final scene.",
+      "steps": [
+        "Finish Chapter 3."
+      ],
+      "sources": []
+    },
+    {
+      "id": "collector",
+      "name": "Collector",
+      "grade": "gold",
+      "description": "Collect every keepsake.",
+      "tags": ["collectible"],
+      "missable": false,
+      "afterStory": true,
+      "where": "Chapters 1 and 2",
+      "when": "After the credits, using chapter select",
+      "unlock": "Collect all 11 keepsakes: the 6 lantern wicks from Chapter 1 and the 5 ledger pages from Chapter 2.",
+      "steps": [
+        "Open **Collectibles** in the pause menu to see which chapters still have missing keepsakes.",
+        "For Chapter 1, follow the lantern list in [[lamplighter]]. Each lantern drops one wick when lit.",
+        "For Chapter 2, follow the page list and map in [[millers-ledger]].",
+        "The trophy unlocks when you pick up the 11th keepsake."
+      ],
+      "sources": []
+    },
+    {
+      "id": "marathon",
+      "name": "Marathon",
+      "grade": "bronze",
+      "description": "Walk 42 kilometres.",
+      "tags": ["grind"],
+      "missable": false,
+      "afterStory": true,
+      "where": "Any chapter",
+      "when": "Usually during cleanup",
+      "unlock": "Distance adds up across every chapter and save. A normal playthrough covers about 30 km.",
+      "steps": [
+        "Play the story normally. Most of the distance comes naturally.",
+        "After the credits, check **Stats > Distance travelled** in the pause menu.",
+        "Make up the rest with laps of the Chapter 2 mill yard. One lap is about 400 m."
+      ],
+      "tips": [
+        "Distance only counts while you're moving, so leaving the game paused doesn't help."
+      ],
+      "sources": []
+    },
+    {
+      "id": "keeper-of-the-road",
+      "name": "Keeper of the Road",
+      "grade": "platinum",
+      "description": "Earn every other trophy.",
+      "tags": [],
+      "missable": false,
+      "afterStory": true,
+      "where": "Anywhere",
+      "when": "Once the other 12 base-game trophies are earned",
+      "unlock": "Unlocks automatically once all 12 other base-game trophies are earned. The Frostbound DLC trophies aren't required.",
+      "steps": [
+        "Earn every other base-game trophy. Your progress panel shows what's left."
+      ],
+      "sources": []
+    },
+    {
+      "id": "cold-open",
+      "name": "Cold Open",
+      "grade": "bronze",
+      "description": "Begin the Frostbound episode.",
+      "dlc": "frostbound",
+      "tags": ["story"],
+      "missable": false,
+      "afterStory": true,
+      "where": "Frostbound: the frozen pass",
+      "when": "Opening scene",
+      "unlock": "Story-related and can't be missed.",
+      "steps": [
+        "Choose **Frostbound** from the main menu and watch the opening scene."
+      ],
+      "sources": []
+    },
+    {
+      "id": "thaw",
+      "name": "Thaw",
+      "grade": "gold",
+      "description": "Light every brazier in the frozen pass.",
+      "dlc": "frostbound",
+      "tags": ["exploration"],
+      "missable": false,
+      "afterStory": true,
+      "where": "Frostbound: the frozen pass",
+      "when": "Before opening the gate",
+      "unlock": "Light all four braziers. The gate only opens once they're lit, so this is hard to miss.",
+      "steps": [
+        "Brazier 1: at the foot of the pass, beside the abandoned sled.",
+        "Brazier 2: on the ledge above the frozen waterfall. Climb the ice on the right.",
+        "Brazier 3: inside the collapsed hut. Break the door with the lantern hook.",
+        "Brazier 4: in front of the gate. The trophy unlocks as it lights."
+      ],
+      "sources": []
+    }
+  ],
+  "images": [
+    {
+      "id": "mill-ledger-map",
+      "src": "assets/games/sample-game/mill-ledger-map.svg",
+      "width": 1200,
+      "height": 750,
+      "alt": "Top-down diagram of the Old Mill and its yard with the five ledger page locations numbered 1 to 5 in pickup order, looping clockwise from the gate.",
+      "caption": "Ledger pages in pickup order. The route loops clockwise from the gate.",
+      "credit": {
+        "holder": "X3R0 TROPHIES",
+        "sourceName": "Original diagram",
+        "sourceUrl": null,
+        "license": "Original work",
+        "licenseUrl": null,
+        "attribution": null
+      }
+    },
+    {
+      "id": "spire-oil-cache",
+      "placeholder": true,
+      "needed": "Screenshot of the oil cache behind the bell on the spire's third landing, so players can recognise the one to avoid.",
+      "aspect": "16/9"
+    }
+  ],
+  "sources": []
+}

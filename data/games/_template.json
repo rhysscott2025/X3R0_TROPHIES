@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "slug": "",
+  "status": "draft",
+  "demo": false,
+  "title": "",
+  "edition": "",
+  "platforms": ["PS5"],
+  "listNote": "",
+  "releaseYear": null,
+  "developer": "",
+  "publisher": "",
+  "genres": [],
+  "summary": "",
+  "intro": [],
+  "lastUpdated": "",
+  "stats": {
+    "difficulty": { "value": null, "sources": [] },
+    "hours": { "min": null, "max": null, "sources": [] },
+    "playthroughs": { "value": null, "note": "", "sources": [] },
+    "online": { "value": null, "note": "", "sources": [] }
+  },
+  "officialCounts": {
+    "base": { "platinum": 0, "gold": 0, "silver": 0, "bronze": 0 },
+    "dlc": {},
+    "sources": []
+  },
+  "theme": {
+    "accent": "#a9c7ff",
+    "glow": "#4d6fd1",
+    "base": "#0b0d13",
+    "pattern": "none",
+    "heroImage": null,
+    "coverImage": null
+  },
+  "dlc": [],
+  "route": [
+    {
+      "id": "before-you-start",
+      "title": "Before you start",
+      "summary": "",
+      "steps": [],
+      "warning": "",
+      "trophies": []
+    }
+  ],
+  "trophies": [],
+  "images": [],
+  "sources": []
+}

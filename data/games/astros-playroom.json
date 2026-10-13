@@ -1,0 +1,1201 @@
+{
+  "schemaVersion": 1,
+  "slug": "astros-playroom",
+  "status": "complete",
+  "demo": false,
+  "title": "Astro's Playroom",
+  "edition": "Pre-installed on every PS5",
+  "platforms": ["PS5"],
+  "listNote": "This is the PS5 list, the only one. It has 43 base trophies plus 8 in two free add-on groups that come with game updates: one has been there since launch (the final boss, Network Speed Run and a CPU Plaza trick), and the other came with the June 2024 Special Bots update. Neither add-on group is needed for the Platinum, and neither needs a purchase.",
+  "releaseYear": 2020,
+  "developer": "Japan Studio (Team Asobi)",
+  "publisher": "Sony Interactive Entertainment",
+  "genres": ["Platformer"],
+  "summary": "A cheerful tour of PlayStation history and the DualSense. An easy, short Platinum with no missables: clear four worlds, find every artefact and puzzle piece, and empty the Gatcha machine.",
+  "intro": [
+    "Astro's Playroom comes free on every PS5. Astro explores CPU Plaza, a hub inside the console, and four worlds themed on PS5 parts: Cooling Springs, GPU Jungle, SSD Speedway and Memory Meadow. Each world has four levels full of PlayStation references, artefacts and puzzle pieces.",
+    "PowerPyx and PSTHC both rate the Platinum 2/10, and it takes about 3 to 5 hours. Nothing is missable: you can replay any level from the map at any time. Most trophies are collectibles, small tricks hidden in particular levels, and the Gatcha machine in PlayStation Labo, which needs about 6,000 coins to empty.",
+    "Two add-on trophy groups sit outside the Platinum. The first includes the final boss and a 7-minute speed run target, the hardest trophy in the game. The second came with a June 2024 update and asks you to solve a riddle in each world to rescue four Special Bots."
+  ],
+  "lastUpdated": "2026-10-13",
+  "stats": {
+    "difficulty": { "value": 2, "sources": ["powerpyx-ap", "psthc-ap-guide"] },
+    "hours": { "min": 3, "max": 5, "sources": ["powerpyx-ap", "psthc-ap-guide"] },
+    "playthroughs": { "value": 1, "note": "Any level can be replayed from the map, so nothing is missable.", "sources": ["powerpyx-ap", "psthc-ap-guide"] },
+    "online": { "value": false, "note": "No online trophies.", "sources": ["psthc-ap-list", "powerpyx-ap"] }
+  },
+  "officialCounts": {
+    "base": { "platinum": 1, "gold": 3, "silver": 13, "bronze": 26 },
+    "dlc": {
+      "launch-add-on": { "platinum": 0, "gold": 2, "silver": 0, "bronze": 1 },
+      "special-bots": { "platinum": 0, "gold": 0, "silver": 1, "bronze": 4 }
+    },
+    "sources": ["psthc-ap-list", "powerpyx-ap", "exophase-ap", "psls-special-bots"]
+  },
+  "theme": {
+    "accent": "#8ec5ff",
+    "glow": "#3557e0",
+    "base": "#0b0e1a",
+    "pattern": "rays",
+    "heroImage": null,
+    "coverImage": null
+  },
+  "dlc": [
+    {
+      "id": "launch-add-on",
+      "title": "Launch add-on",
+      "note": "A separate trophy group that has been part of the game since launch. Its content is in the base game: the final boss under CPU Plaza, Network Speed Run, and a CPU Plaza trick. Free. Not needed for the Platinum."
+    },
+    {
+      "id": "special-bots",
+      "title": "Special Bots update",
+      "note": "Added free in update 1.900 in June 2024, ahead of Astro Bot. Four Special Bots are hidden behind riddles, one in each world. Rescued bots can be carried over to Astro Bot. Not needed for the Platinum."
+    }
+  ],
+  "route": [
+    {
+      "id": "cooling-springs",
+      "title": "Cooling Springs",
+      "summary": "The first world, with the most one-off trophies. Pick up every artefact and puzzle piece as you go; the map shows which ones each level still has.",
+      "steps": [
+        "In Bot Beach, punch three enemies in quick succession for [[its-all-in-the-mind]]. Your first artefact and puzzle piece give [[in-mint-condition]] and [[one-down-lots-more-to-go]].",
+        "In Bot Beach's indoor pool, dive from the highest diving board for [[hell-diver]].",
+        "In Frigid Floes, jump three times during a spin attack on ice for [[twisting-metal]], and roll the snowman's snowball until it's huge for [[little-rolling-star]].",
+        "In Hotel Hopalot, juggle a beach ball 5 times in the Frog Suit for [[keepy-uppies]], and jump into a fountain near the final goal for [[jumping-splash]].",
+        "Collect all 9 artefacts ([[such-a-big-fan]]) and 16 puzzle pieces ([[cool-hoarder]]). Clearing the world gives [[hd-graphics]]."
+      ],
+      "warning": "",
+      "trophies": ["its-all-in-the-mind", "in-mint-condition", "one-down-lots-more-to-go", "hell-diver", "twisting-metal", "little-rolling-star", "keepy-uppies", "jumping-splash", "such-a-big-fan", "cool-hoarder", "hd-graphics"]
+    },
+    {
+      "id": "gpu-jungle",
+      "title": "GPU Jungle",
+      "summary": "Monkey Suit climbing, bows and a snowy mountain peak.",
+      "steps": [
+        "On a long Monkey Suit climb, drop from high up and catch a handhold for [[no-no-no-noooooo]].",
+        "In Raytrace Ruins, shoot a Spitter's projectile out of the air with an arrow for [[ready-for-the-proving]].",
+        "At the end of Mt. Motherboard, get the bow from the igloo chest and hit all 8 rabbits for [[adequate-boy]].",
+        "Collect all 9 artefacts ([[charted]]) and 16 puzzle pieces ([[the-found-legacy]]). Clearing the world gives [[greatness-awaits]]."
+      ],
+      "warning": "",
+      "trophies": ["no-no-no-noooooo", "ready-for-the-proving", "adequate-boy", "charted", "the-found-legacy", "greatness-awaits"]
+    },
+    {
+      "id": "ssd-speedway",
+      "title": "SSD Speedway",
+      "summary": "Speed, space and a machine gun.",
+      "steps": [
+        "In Deep Dataspace, spin while firing the machine gun for [[wild-arms]].",
+        "Collect all 9 artefacts ([[welcome-to-the-third-place]]) and 16 puzzle pieces ([[omega-booster]]). Clearing the world gives [[emotion-engine]]."
+      ],
+      "warning": "",
+      "trophies": ["wild-arms", "welcome-to-the-third-place", "omega-booster", "emotion-engine"]
+    },
+    {
+      "id": "memory-meadow",
+      "title": "Memory Meadow",
+      "summary": "Wind, rain and a bowling alley.",
+      "steps": [
+        "In Gusty Gateway, stand by the first wind cloud until rubbish hits you for [[pain]], and shelter from the rain under the bus-stop roof for [[jason]].",
+        "In Fastlane Fields, bowl a strike in the ball suit for [[wipeout]].",
+        "Collect all 9 artefacts ([[and-conquered-worlds]]) and 16 puzzle pieces ([[ico-nic]]). Clearing the world gives [[do-it]]."
+      ],
+      "warning": "",
+      "trophies": ["pain", "jason", "wipeout", "and-conquered-worlds", "ico-nic", "do-it"]
+    },
+    {
+      "id": "ps-labo",
+      "title": "PlayStation Labo and the Gatcha machine",
+      "summary": "Your artefacts are displayed in PlayStation Labo, and several can be played with. Coins go into the Gatcha machine for the remaining artefacts, puzzle pieces and prizes.",
+      "steps": [
+        "Interact with the artefacts: punch the PS logo on the PS2 ([[this-way-up]]), punch and look into the PS VR lens ([[i-recognise-you]]), open the PlayStation's lid ([[disc-swap]]) and stand on the tip of the Aim Controller ([[the-very-far-point]]).",
+        "Step on the large power button at the back of Labo to reveal the Gatcha machine. Each prize costs 100 coins.",
+        "Your first prize gives [[gatcha-beginner]], half of them [[gatcha-maniac]], and all of them [[saru-gatcha]]. The secret prize gives [[for-the-players]].",
+        "Use prizes as they arrive: pick up the trophy model ([[you-got-a-trophy]]), walk under the PlayStation Home icon ([[honey-im-home]]) and spin-attack the SIE logo ([[super-computer]]).",
+        "Pick up the 4 puzzle pieces in CPU Plaza. With every Gatcha item, you'll have all artefacts ([[dude-raider]]) and puzzle pieces ([[a-grand-tour]]).",
+        "Short of coins? Replay levels: coins respawn on replays and checkpoint restarts."
+      ],
+      "warning": "",
+      "trophies": ["this-way-up", "i-recognise-you", "disc-swap", "the-very-far-point", "gatcha-beginner", "gatcha-maniac", "for-the-players", "you-got-a-trophy", "honey-im-home", "super-computer", "saru-gatcha", "dude-raider", "a-grand-tour"]
+    },
+    {
+      "id": "cpu-plaza",
+      "title": "Final boss and CPU Plaza bots",
+      "summary": "Lots more bots fill CPU Plaza late in the game, so leave these until you've beaten the final boss.",
+      "steps": [
+        "With all four worlds cleared, go to the lower floor of CPU Plaza and beat the final boss. This also earns the add-on trophy [[play-has-no-limits]].",
+        "Back in CPU Plaza, hit bots with **Square** so they follow you. With 20 behind you, [[the-last-guy]] unlocks.",
+        "Gather 10 bots close together and hit them all with one charged spin attack for [[project-neo]].",
+        "While you have 10 followers, also do the add-on trophy [[gravity-daze]]."
+      ],
+      "warning": "",
+      "trophies": ["the-last-guy", "project-neo"]
+    },
+    {
+      "id": "platinum",
+      "title": "Platinum",
+      "summary": "Unlocks once the other 42 base-game trophies are earned. The add-on trophies aren't required.",
+      "steps": [
+        "Compare your trophy list with the checklist here. The map shows which collectibles each level is missing."
+      ],
+      "warning": "",
+      "trophies": ["youve-only-done-everything"]
+    },
+    {
+      "id": "finale-and-speedruns",
+      "dlc": "launch-add-on",
+      "title": "T-Rex, speed runs and the CPU chip",
+      "summary": "The final boss is the end of the main game. The speed run total is the hardest trophy in the game.",
+      "steps": [
+        "Beat the final boss under CPU Plaza, wait through the credits, and collect the four New Generation artefacts in the bonus level for [[play-has-no-limits]].",
+        "With 10 bots following you, make the CPU chip punch the glass sphere in the centre of CPU Plaza for [[gravity-daze]].",
+        "Open Network Speed Run at the back of CPU Plaza. Finish all 8 runs with a combined time of 7 minutes or less for [[run-astro-run]]."
+      ],
+      "warning": "",
+      "trophies": ["play-has-no-limits", "gravity-daze", "run-astro-run"]
+    },
+    {
+      "id": "special-bot-riddles",
+      "dlc": "special-bots",
+      "title": "Four Special Bot riddles",
+      "summary": "One Special Bot hidden in each world, each behind its own riddle. They can be done in any order.",
+      "steps": [
+        "GPU Jungle, Renderforest: set a clock to the right date for [[hunted-down]].",
+        "SSD Speedway, Deep Dataspace: get yourself hit next to a tiny astronaut for [[deja-phew]].",
+        "Cooling Springs, Bot Beach: step on four starfish, then trace a race circuit for [[grand-tourist]].",
+        "Memory Meadow, Gusty Gateway: net a hidden bot, then copy its dance for [[no-escape]].",
+        "All four give [[four-the-players]]."
+      ],
+      "warning": "",
+      "trophies": ["hunted-down", "deja-phew", "grand-tourist", "no-escape", "four-the-players"]
+    }
+  ],
+  "trophies": [
+    {
+      "id": "its-all-in-the-mind",
+      "name": "It's All in the Mind",
+      "grade": "bronze",
+      "description": "Beat 3 enemies quickly by punching them.",
+      "tags": ["combat"],
+      "missable": false,
+      "afterStory": true,
+      "where": "Any level; Bot Beach is easy",
+      "when": "The first group of enemies",
+      "unlock": "Punch three enemies in quick succession.",
+      "steps": [
+        "Find a group of three or more weak enemies, such as early in Bot Beach.",
+        "Punch them one after another without pausing."
+      ],
+      "sources": ["powerpyx-ap", "pushsquare-ap"]
+    },
+    {
+      "id": "in-mint-condition",
+      "name": "In Mint Condition",
+      "grade": "bronze",
+      "description": "Got your first artefact!",
+      "tags": ["collectible"],
+      "missable": false,
+      "afterStory": true,
+      "where": "Any level",
+      "when": "The first artefact",
+      "unlock": "Collect any artefact.",
+      "steps": ["Pick up the first artefact you find."],
+      "sources": ["powerpyx-ap"]
+    },
+    {
+      "id": "one-down-lots-more-to-go",
+      "name": "One Down, Lots More to Go!",
+      "grade": "bronze",
+      "description": "Got your first puzzle piece.",
+      "tags": ["collectible"],
+      "missable": false,
+      "afterStory": true,
+      "where": "Any level",
+      "when": "The first puzzle piece",
+      "unlock": "Collect any puzzle piece.",
+      "steps": ["Pick up the first puzzle piece you find."],
+      "sources": ["powerpyx-ap"]
+    },
+    {
+      "id": "hell-diver",
+      "name": "Hell Diver",
+      "grade": "bronze",
+      "description": "Dived into the water from the diving board.",
+      "hidden": true,
+      "tags": ["misc"],
+      "missable": false,
+      "afterStory": true,
+      "where": "Cooling Springs: Bot Beach",
+      "when": "Second part of the level",
+      "unlock": "Dive head first into the pool from the tallest diving board.",
+      "steps": [
+        "Get past the fans blowing up a sandstorm and go into the indoor pool.",
+        "Use the lower boards to climb to the tallest one, at the back left.",
+        "From its tip, push the left stick forward and press **X** to dive."
+      ],
+      "sources": ["platget-ap", "powerpyx-ap", "psthc-ap-guide"]
+    },
+    {
+      "id": "twisting-metal",
+      "name": "Twisting Metal",
+      "grade": "bronze",
+      "description": "Jumped 3 times during a spin attack on ice.",
+      "hidden": true,
+      "tags": ["misc"],
+      "missable": false,
+      "afterStory": true,
+      "where": "Cooling Springs: Frigid Floes (any icy surface)",
+      "when": "The first ice section",
+      "unlock": "While spinning on ice, jump three times.",
+      "steps": [
+        "Stand on an icy platform.",
+        "Hold **Square** to charge a spin attack, then release it.",
+        "While still spinning, press **X** three times. The third jump unlocks the trophy."
+      ],
+      "sources": ["platget-ap", "powerpyx-ap", "psthc-ap-guide"]
+    },
+    {
+      "id": "little-rolling-star",
+      "name": "Little Rolling Star…",
+      "grade": "bronze",
+      "description": "Made a huge snowball.",
+      "hidden": true,
+      "tags": ["misc"],
+      "missable": false,
+      "afterStory": true,
+      "where": "Cooling Springs: Frigid Floes",
+      "when": "Early in the level",
+      "unlock": "Roll a snowball until it becomes huge.",
+      "steps": [
+        "Cross the frozen PlayStation symbols to the island at the back left.",
+        "Punch the snowman apart to free its snowball.",
+        "Push the snowball around the snow until the trophy unlocks. Keep it out of the water."
+      ],
+      "sources": ["powerpyx-ap", "pushsquare-ap"]
+    },
+    {
+      "id": "keepy-uppies",
+      "name": "Keepy Uppies",
+      "grade": "bronze",
+      "description": "Juggled a ball 5 times with the Frog Suit.",
+      "tags": ["misc"],
+      "missable": false,
+      "afterStory": true,
+      "where": "Cooling Springs: Hotel Hopalot",
+      "when": "The indoor beach with the volleyball bots",
+      "unlock": "In the Frog Suit, bounce a beach ball 5 times in a row without it touching the ground.",
+      "steps": [
+        "Play Hotel Hopalot until you reach the indoor beach area. Break the glass cases to release the beach balls.",
+        "In the Frog Suit, land on a ball to knock it into the air.",
+        "Stay under it and keep jumping into it until you've hit it 5 times. It falls slowly, so this is forgiving."
+      ],
+      "sources": ["platget-ap", "pushsquare-ap", "powerpyx-ap"]
+    },
+    {
+      "id": "jumping-splash",
+      "name": "Jumping Splash!",
+      "grade": "bronze",
+      "description": "Jumped in the fountain near the final goal in Cooling Springs.",
+      "hidden": true,
+      "tags": ["misc"],
+      "missable": false,
+      "afterStory": true,
+      "where": "Cooling Springs: Hotel Hopalot",
+      "when": "End of the level",
+      "unlock": "Jump into one of the fountains next to the final goal.",
+      "steps": [
+        "Reach the end of Hotel Hopalot.",
+        "Before touching the goal, jump into one of the water spouts by the fountain. Astro rides off on a rubber dinghy and the trophy unlocks."
+      ],
+      "sources": ["platget-ap", "psthc-ap-guide"]
+    },
+    {
+      "id": "such-a-big-fan",
+      "name": "Such a Big Fan!",
+      "grade": "silver",
+      "description": "Got all artefacts in Cooling Springs.",
+      "tags": ["collectible"],
+      "missable": false,
+      "afterStory": true,
+      "where": "Cooling Springs",
+      "when": "While clearing the world",
+      "unlock": "Collect all 9 artefacts in Cooling Springs: 2 each in Bot Beach, Springy Spa and Frigid Floes, and 3 in Hotel Hopalot (one is the reward for finishing it).",
+      "steps": [
+        "Explore each level for artefacts. The map (**Options**) shows which ones each level still has.",
+        "Replay any level from the map for missed ones."
+      ],
+      "sources": ["powerpyx-collectibles", "pushsquare-tips"]
+    },
+    {
+      "id": "cool-hoarder",
+      "name": "Cool Hoarder",
+      "grade": "silver",
+      "description": "Got all puzzle pieces in Cooling Springs.",
+      "tags": ["collectible"],
+      "missable": false,
+      "afterStory": true,
+      "where": "Cooling Springs",
+      "when": "While clearing the world",
+      "unlock": "Collect all 16 puzzle pieces in Cooling Springs, 4 in each level.",
+      "steps": [
+        "Explore each level for puzzle pieces. The map shows which ones are still missing.",
+        "Replay any level from the map for missed ones."
+      ],
+      "sources": ["powerpyx-collectibles", "pushsquare-tips"]
+    },
+    {
+      "id": "hd-graphics",
+      "name": "HD graphics!",
+      "grade": "silver",
+      "description": "Cleared Cooling Springs.",
+      "tags": ["story"],
+      "missable": false,
+      "afterStory": true,
+      "where": "Cooling Springs",
+      "when": "After its four levels",
+      "unlock": "Story-related: finish all four Cooling Springs levels.",
+      "steps": ["Complete Bot Beach, Springy Spa, Frigid Floes and Hotel Hopalot."],
+      "sources": ["powerpyx-ap"]
+    },
+    {
+      "id": "no-no-no-noooooo",
+      "name": "No No No Noooooo!",
+      "grade": "bronze",
+      "description": "Fell 30 meters and caught yourself in the monkey suit in GPU Jungle.",
+      "tags": ["misc"],
+      "missable": false,
+      "afterStory": true,
+      "where": "GPU Jungle: Teraflop Treetops (any long Monkey Suit climb)",
+      "when": "Any long climbing section",
+      "unlock": "In the Monkey Suit, let go high up, fall about 30 metres, and grab a handhold again.",
+      "steps": [
+        "In Teraflop Treetops' Monkey Suit section, climb the rods to the fourth one.",
+        "Let go and fall.",
+        "As you pass the first rod, grab it with **L2** or **R2**."
+      ],
+      "tips": [
+        "PlatGet notes any long climb in GPU Jungle works, and it often happens by accident."
+      ],
+      "sources": ["powerpyx-ap", "psthc-ap-guide", "platget-ap"]
+    },
+    {
+      "id": "ready-for-the-proving",
+      "name": "Ready for the Proving",
+      "grade": "bronze",
+      "description": "Deflected a Spitter's attack with an arrow.",
+      "tags": ["combat"],
+      "missable": false,
+      "afterStory": true,
+      "where": "GPU Jungle: Raytrace Ruins",
+      "when": "Once you have the bow",
+      "unlock": "Shoot a green Spitter's projectile out of the air with an arrow.",
+      "steps": [
+        "Play Raytrace Ruins until you get the bow.",
+        "Find a green Spitter, wait for it to spit, and shoot the projectile (aim with **L2**, fire with **R2**)."
+      ],
+      "sources": ["powerpyx-ap", "psthc-ap-guide", "pushsquare-ap"]
+    },
+    {
+      "id": "adequate-boy",
+      "name": "Adequate, Boy…",
+      "grade": "bronze",
+      "description": "Hit all rabbits with arrows at the mountain peak of GPU Jungle.",
+      "hidden": true,
+      "tags": ["misc"],
+      "missable": false,
+      "afterStory": true,
+      "where": "GPU Jungle: Mt. Motherboard (snowy area at the end)",
+      "when": "End of the level",
+      "unlock": "Hit all 8 rabbits with arrows.",
+      "steps": [
+        "In the snowy area at the end of Mt. Motherboard, go left and pull the cables out of the collapsed igloo.",
+        "Open the chest for a bow.",
+        "Shoot all 8 rabbits: three on the ground and five on the cliffs at the back, either side of the ice ramp. The last one unlocks the trophy."
+      ],
+      "sources": ["platget-ap", "psthc-ap-guide", "powerpyx-ap"]
+    },
+    {
+      "id": "charted",
+      "name": "Charted!",
+      "grade": "silver",
+      "description": "Got all artefacts in GPU Jungle.",
+      "tags": ["collectible"],
+      "missable": false,
+      "afterStory": true,
+      "where": "GPU Jungle",
+      "when": "While clearing the world",
+      "unlock": "Collect all 9 artefacts in GPU Jungle: 2 each in Renderforest, Teraflop Treetops and Raytrace Ruins, and 3 in Mt. Motherboard (one is the reward for finishing it).",
+      "steps": [
+        "Explore each level for artefacts. The map shows which ones each level still has.",
+        "Replay any level from the map for missed ones."
+      ],
+      "sources": ["powerpyx-collectibles", "pushsquare-tips"]
+    },
+    {
+      "id": "the-found-legacy",
+      "name": "The Found Legacy",
+      "grade": "silver",
+      "description": "Got all puzzle pieces in GPU Jungle.",
+      "tags": ["collectible"],
+      "missable": false,
+      "afterStory": true,
+      "where": "GPU Jungle",
+      "when": "While clearing the world",
+      "unlock": "Collect all 16 puzzle pieces in GPU Jungle, 4 in each level.",
+      "steps": [
+        "Explore each level for puzzle pieces. The map shows which ones are still missing.",
+        "Replay any level from the map for missed ones."
+      ],
+      "sources": ["powerpyx-collectibles", "pushsquare-tips"]
+    },
+    {
+      "id": "greatness-awaits",
+      "name": "Greatness Awaits!",
+      "grade": "silver",
+      "description": "Cleared GPU Jungle.",
+      "tags": ["story"],
+      "missable": false,
+      "afterStory": true,
+      "where": "GPU Jungle",
+      "when": "After its four levels",
+      "unlock": "Story-related: finish all four GPU Jungle levels.",
+      "steps": ["Complete Renderforest, Teraflop Treetops, Raytrace Ruins and Mt. Motherboard."],
+      "sources": ["powerpyx-ap"]
+    },
+    {
+      "id": "wild-arms",
+      "name": "Wild Arms",
+      "grade": "bronze",
+      "description": "Performed a spin while shooting the machine gun.",
+      "hidden": true,
+      "tags": ["combat"],
+      "missable": false,
+      "afterStory": true,
+      "where": "SSD Speedway: Deep Dataspace",
+      "when": "Once you have the machine gun",
+      "unlock": "Spin while firing the machine gun.",
+      "steps": [
+        "Play Deep Dataspace until you get the machine gun from a chest.",
+        "Hold **Square** to charge a spin attack, then release it.",
+        "While spinning, hold **R2** to fire."
+      ],
+      "sources": ["powerpyx-ap", "psthc-ap-guide"]
+    },
+    {
+      "id": "welcome-to-the-third-place",
+      "name": "Welcome to the Third Place",
+      "grade": "silver",
+      "description": "Got all artefacts in SSD Speedway.",
+      "tags": ["collectible"],
+      "missable": false,
+      "afterStory": true,
+      "where": "SSD Speedway",
+      "when": "While clearing the world",
+      "unlock": "Collect all 9 artefacts in SSD Speedway: 2 each in Turbo Trail, Caching Caves and Deep Dataspace, and 3 in Orbital Obstacles (one is the reward for finishing it).",
+      "steps": [
+        "Explore each level for artefacts. The map shows which ones each level still has.",
+        "In Deep Dataspace, the EyeToy camera sits behind glass that only the machine gun can break.",
+        "Replay any level from the map for missed ones."
+      ],
+      "sources": ["powerpyx-collectibles", "pushsquare-tips"]
+    },
+    {
+      "id": "omega-booster",
+      "name": "Omega Booster!",
+      "grade": "silver",
+      "description": "Got all puzzle pieces in SSD Speedway.",
+      "tags": ["collectible"],
+      "missable": false,
+      "afterStory": true,
+      "where": "SSD Speedway",
+      "when": "While clearing the world",
+      "unlock": "Collect all 16 puzzle pieces in SSD Speedway, 4 in each level.",
+      "steps": [
+        "Explore each level for puzzle pieces. The map shows which ones are still missing.",
+        "Replay any level from the map for missed ones."
+      ],
+      "sources": ["powerpyx-collectibles", "pushsquare-tips"]
+    },
+    {
+      "id": "emotion-engine",
+      "name": "Emotion Engine!",
+      "grade": "silver",
+      "description": "Cleared SSD Speedway.",
+      "tags": ["story"],
+      "missable": false,
+      "afterStory": true,
+      "where": "SSD Speedway",
+      "when": "After its four levels",
+      "unlock": "Story-related: finish all four SSD Speedway levels.",
+      "steps": ["Complete Turbo Trail, Caching Caves, Deep Dataspace and Orbital Obstacles."],
+      "sources": ["powerpyx-ap"]
+    },
+    {
+      "id": "pain",
+      "name": "Pain!",
+      "grade": "bronze",
+      "description": "Got hit by flying rubbish in Memory Meadow.",
+      "hidden": true,
+      "tags": ["misc"],
+      "missable": false,
+      "afterStory": true,
+      "where": "Memory Meadow: Gusty Gateway",
+      "when": "Start of the level",
+      "unlock": "Let a wind cloud hit you with rubbish.",
+      "steps": [
+        "At the first wind cloud, stand on the far left of its wind zone.",
+        "Wait. It throws rubbish about every 15 seconds; let it hit you."
+      ],
+      "sources": ["powerpyx-ap", "psthc-ap-guide"]
+    },
+    {
+      "id": "jason",
+      "name": "Jason!",
+      "grade": "bronze",
+      "description": "Sheltered from the heavy rain in Memory Meadow.",
+      "hidden": true,
+      "tags": ["misc"],
+      "missable": false,
+      "afterStory": true,
+      "where": "Memory Meadow: Gusty Gateway",
+      "when": "When the rain starts",
+      "unlock": "Shelter from the heavy rain for a few seconds.",
+      "steps": [
+        "Continue until the umbrella opens for the first time in the rain.",
+        "Stand under the bus-stop shelter on the right for a few seconds."
+      ],
+      "sources": ["powerpyx-ap"]
+    },
+    {
+      "id": "wipeout",
+      "name": "Wipeout!",
+      "grade": "bronze",
+      "description": "Got a strike in Memory Meadow.",
+      "tags": ["misc"],
+      "missable": false,
+      "afterStory": true,
+      "where": "Memory Meadow: Fastlane Fields",
+      "when": "The ball-suit section",
+      "unlock": "In the ball suit, knock down all 7 pins in one go.",
+      "steps": [
+        "In Fastlane Fields' first large ball-suit section, look for the bowling pins on the right.",
+        "Roll straight into them and knock all 7 down at once."
+      ],
+      "sources": ["powerpyx-ap", "psthc-ap-guide"]
+    },
+    {
+      "id": "and-conquered-worlds",
+      "name": "... And Conquered Worlds",
+      "grade": "silver",
+      "description": "Got all artefacts in Memory Meadow.",
+      "tags": ["collectible"],
+      "missable": false,
+      "afterStory": true,
+      "where": "Memory Meadow",
+      "when": "While clearing the world",
+      "unlock": "Collect all 9 artefacts in Memory Meadow: 2 each in Gusty Gateway, Fastlane Fields and Electrocloud, and 3 in Bumper Boardway (one is the reward for finishing it).",
+      "steps": [
+        "Explore each level for artefacts. The map shows which ones each level still has.",
+        "Bumper Boardway's second artefact needs careful ball control.",
+        "Replay any level from the map for missed ones."
+      ],
+      "sources": ["powerpyx-collectibles", "pushsquare-tips"]
+    },
+    {
+      "id": "ico-nic",
+      "name": "Ico-nic",
+      "grade": "silver",
+      "description": "Got all puzzle pieces in Memory Meadow.",
+      "tags": ["collectible"],
+      "missable": false,
+      "afterStory": true,
+      "where": "Memory Meadow",
+      "when": "While clearing the world",
+      "unlock": "Collect all 16 puzzle pieces in Memory Meadow, 4 in each level.",
+      "steps": [
+        "Explore each level for puzzle pieces. The map shows which ones are still missing.",
+        "Replay any level from the map for missed ones."
+      ],
+      "sources": ["powerpyx-collectibles", "pushsquare-tips"]
+    },
+    {
+      "id": "do-it",
+      "name": "Do it!",
+      "grade": "silver",
+      "description": "Cleared Memory Meadow.",
+      "tags": ["story"],
+      "missable": false,
+      "afterStory": true,
+      "where": "Memory Meadow",
+      "when": "After its four levels",
+      "unlock": "Story-related: finish all four Memory Meadow levels.",
+      "steps": ["Complete Gusty Gateway, Fastlane Fields, Electrocloud and Bumper Boardway."],
+      "sources": ["powerpyx-ap"]
+    },
+    {
+      "id": "this-way-up",
+      "name": "This Way Up",
+      "grade": "bronze",
+      "description": "Punched the PS Logo on the PS2 in PlayStation Labo.",
+      "hidden": true,
+      "tags": ["misc"],
+      "missable": false,
+      "afterStory": true,
+      "where": "PlayStation Labo",
+      "when": "Once you have the PS2 Slim artefact",
+      "prerequisites": ["The PS2 Slim artefact from SSD Speedway."],
+      "unlock": "Hit the PS logo on the PS2 Slim on display in Labo.",
+      "steps": [
+        "Collect the PS2 Slim artefact in SSD Speedway.",
+        "In PlayStation Labo, find the PS2 Slim and hit its PS logo with a charged spin attack (hold and release **Square**)."
+      ],
+      "sources": ["powerpyx-ap"]
+    },
+    {
+      "id": "i-recognise-you",
+      "name": "I Recognise You…",
+      "grade": "bronze",
+      "description": "Punched and looked into the lens of PS VR in PlayStation Labo.",
+      "hidden": true,
+      "tags": ["misc"],
+      "missable": false,
+      "afterStory": true,
+      "where": "PlayStation Labo",
+      "when": "Once you have the PS VR headset",
+      "prerequisites": ["The PS VR headset artefact from GPU Jungle's Mt. Motherboard."],
+      "unlock": "Punch the PS VR headset's lens, then look into it.",
+      "steps": [
+        "Collect the PS VR headset artefact in Mt. Motherboard.",
+        "In PlayStation Labo, punch the button on the headset's lens and look into it."
+      ],
+      "sources": ["powerpyx-ap"]
+    },
+    {
+      "id": "disc-swap",
+      "name": "Disc Swap!",
+      "grade": "bronze",
+      "description": "Opened the lid of the PlayStation console in PlayStation Labo.",
+      "hidden": true,
+      "tags": ["misc"],
+      "missable": false,
+      "afterStory": true,
+      "where": "PlayStation Labo",
+      "when": "After clearing Memory Meadow",
+      "prerequisites": ["The original PlayStation artefact, the reward for finishing Memory Meadow's last level."],
+      "unlock": "Open the original PlayStation's disc lid.",
+      "steps": [
+        "Finish Bumper Boardway to earn the PlayStation artefact.",
+        "In PlayStation Labo, jump onto the console's open button (PowerPyx double-jumps onto it) to open the lid."
+      ],
+      "sources": ["powerpyx-ap", "powerpyx-collectibles"]
+    },
+    {
+      "id": "the-very-far-point",
+      "name": "The Very Far Point...",
+      "grade": "bronze",
+      "description": "Stood on the tip of the Aim Controller in PlayStation Labo.",
+      "hidden": true,
+      "tags": ["misc"],
+      "missable": false,
+      "afterStory": true,
+      "where": "PlayStation Labo",
+      "when": "Once you have the four artefacts below",
+      "prerequisites": ["The PS2 (reward for finishing SSD Speedway's last level).", "The PS Move pistol and Sharpshooter (Cooling Springs: Springy Spa).", "The PS VR Aim Controller (GPU Jungle: Mt. Motherboard)."],
+      "unlock": "Climb onto the PS VR Aim Controller and stand on its tip.",
+      "steps": [
+        "Collect the four artefacts listed above.",
+        "In PlayStation Labo, climb the PS2 ladder.",
+        "Jump across the PS Move pistol and Sharpshooter to the Aim Controller, and walk out to its tip."
+      ],
+      "sources": ["powerpyx-ap"]
+    },
+    {
+      "id": "gatcha-beginner",
+      "name": "Gatcha Beginner",
+      "grade": "bronze",
+      "description": "Got your first Gatcha prize.",
+      "tags": ["misc"],
+      "missable": false,
+      "afterStory": true,
+      "where": "PlayStation Labo: Gatcha machine",
+      "when": "Your first 100 coins",
+      "unlock": "Win any prize from the Gatcha machine.",
+      "steps": [
+        "In PlayStation Labo, step on the large power button at the back to reveal the Gatcha machine.",
+        "Spend 100 coins on one prize."
+      ],
+      "sources": ["platget-ap", "powerpyx-collectibles"]
+    },
+    {
+      "id": "gatcha-maniac",
+      "name": "Gatcha Maniac",
+      "grade": "silver",
+      "description": "Got half the gatcha prizes.",
+      "tags": ["grind"],
+      "missable": false,
+      "afterStory": true,
+      "where": "PlayStation Labo: Gatcha machine",
+      "when": "On the way to Saru Gatcha!",
+      "unlock": "Win half of the Gatcha machine's prizes.",
+      "steps": ["Keep spending coins at the machine. This unlocks along the way to [[saru-gatcha]]."],
+      "sources": ["powerpyx-ap"]
+    },
+    {
+      "id": "for-the-players",
+      "name": "For the Players!",
+      "grade": "bronze",
+      "description": "Got a secret gatcha.",
+      "tags": ["misc"],
+      "missable": false,
+      "afterStory": true,
+      "where": "PlayStation Labo: Gatcha machine",
+      "when": "On the way to Saru Gatcha!",
+      "unlock": "Win the secret prize: an Astro Bot model holding a PlayStation trophy.",
+      "steps": ["Keep spending coins at the machine until the secret prize comes out."],
+      "sources": ["powerpyx-ap", "psthc-ap-guide"]
+    },
+    {
+      "id": "you-got-a-trophy",
+      "name": "You Got a Trophy!",
+      "grade": "bronze",
+      "description": "Picked up a trophy in PlayStation Labo.",
+      "hidden": true,
+      "tags": ["misc"],
+      "missable": false,
+      "afterStory": true,
+      "where": "PlayStation Labo",
+      "when": "Once the trophy prize drops",
+      "unlock": "Win the trophy model from the Gatcha machine, then pick it up.",
+      "steps": [
+        "Keep spending coins until you win the trophy model.",
+        "Pick it up from the trophy table beside PS Labo."
+      ],
+      "sources": ["powerpyx-ap"]
+    },
+    {
+      "id": "honey-im-home",
+      "name": "Honey, I'm Home!",
+      "grade": "bronze",
+      "description": "Walked under the PlayStation Home icon in PlayStation Labo.",
+      "hidden": true,
+      "tags": ["misc"],
+      "missable": false,
+      "afterStory": true,
+      "where": "PlayStation Labo",
+      "when": "Once the PlayStation Home prize drops",
+      "unlock": "Win the PlayStation Home model from the Gatcha machine, then walk under its icon.",
+      "steps": [
+        "Keep spending coins until you win the PlayStation Home model.",
+        "Walk through the Home icon to the right of the Gatcha machine."
+      ],
+      "sources": ["powerpyx-ap"]
+    },
+    {
+      "id": "super-computer",
+      "name": "Super Computer",
+      "grade": "bronze",
+      "description": "Revealed former logo in PlayStation Labo.",
+      "hidden": true,
+      "tags": ["misc"],
+      "missable": false,
+      "afterStory": true,
+      "where": "PlayStation Labo",
+      "when": "Once the SIE logo prize drops",
+      "unlock": "Win the SIE logo model from the Gatcha machine, then hit it to reveal the old logo.",
+      "steps": [
+        "Keep spending coins until you win the SIE logo model.",
+        "Hit it with a charged spin attack (hold and release **Square**)."
+      ],
+      "sources": ["powerpyx-ap"]
+    },
+    {
+      "id": "saru-gatcha",
+      "name": "Saru Gatcha!",
+      "grade": "gold",
+      "description": "Got all gatcha prizes.",
+      "tags": ["grind"],
+      "missable": false,
+      "afterStory": true,
+      "where": "PlayStation Labo: Gatcha machine",
+      "when": "Last, once you've collected everything else",
+      "unlock": "Empty the Gatcha machine. Each prize costs 100 coins, and emptying it takes about 6,000 in total. You can't choose what comes out.",
+      "steps": [
+        "Collect coins as you play the levels.",
+        "Spend them at the machine until it's empty.",
+        "If you run short, replay levels: coins respawn on replays and when you restart from a checkpoint. Re-collecting puzzle pieces and artefacts on replays also pays out lots of coins."
+      ],
+      "tips": [
+        "Leave this until last, so you know exactly how many more coins you need."
+      ],
+      "sources": ["psthc-ap-guide", "powerpyx-ap", "powerpyx-collectibles", "platget-ap"]
+    },
+    {
+      "id": "dude-raider",
+      "name": "Dude Raider!",
+      "grade": "gold",
+      "description": "Collected all artefacts in the 4 main stages and the PS Labo. Wow!",
+      "tags": ["collectible"],
+      "missable": false,
+      "afterStory": true,
+      "where": "The four worlds and the Gatcha machine",
+      "when": "After every world's artefacts",
+      "unlock": "Collect all 46 artefacts: 9 in each world (36) plus 10 from the Gatcha machine. The four New Generation artefacts after the credits don't count towards this.",
+      "steps": [
+        "Earn [[such-a-big-fan]], [[charted]], [[welcome-to-the-third-place]] and [[and-conquered-worlds]].",
+        "Keep spending coins at the Gatcha machine until all 10 of its artefacts are out."
+      ],
+      "sources": ["powerpyx-ap", "powerpyx-collectibles"]
+    },
+    {
+      "id": "a-grand-tour",
+      "name": "A Grand Tour!",
+      "grade": "gold",
+      "description": "Got all puzzle pieces in the game. Way to go!",
+      "tags": ["collectible"],
+      "missable": false,
+      "afterStory": true,
+      "where": "The four worlds, CPU Plaza and the Gatcha machine",
+      "when": "After every world's puzzle pieces",
+      "unlock": "Collect all 96 puzzle pieces: 16 in each world (64), 4 in CPU Plaza and 28 from the Gatcha machine.",
+      "steps": [
+        "Earn [[cool-hoarder]], [[the-found-legacy]], [[omega-booster]] and [[ico-nic]].",
+        "Find the 4 puzzle pieces in CPU Plaza.",
+        "Keep spending coins at the Gatcha machine until all 28 of its puzzle pieces are out."
+      ],
+      "sources": ["powerpyx-ap", "powerpyx-collectibles"]
+    },
+    {
+      "id": "the-last-guy",
+      "name": "The Last Guy",
+      "grade": "bronze",
+      "description": "Walked around with at least 20 bots following you in CPU Plaza.",
+      "tags": ["misc"],
+      "missable": false,
+      "afterStory": true,
+      "where": "CPU Plaza",
+      "when": "After the final boss",
+      "unlock": "Have 20 or more bots following you in CPU Plaza at once.",
+      "steps": [
+        "Beat the final boss (see [[play-has-no-limits]]).",
+        "In CPU Plaza, hit bots with **Square** so they follow you. Many are on the underground floors.",
+        "Keep collecting until 20 are behind you."
+      ],
+      "mistakes": [
+        "Trying too early. More bots appear as you progress, and PSTHC says that if you've cleared the four worlds you need to finish the final world before it can unlock."
+      ],
+      "sources": ["platget-ap", "psthc-ap-guide", "powerpyx-ap", "pushsquare-ap"]
+    },
+    {
+      "id": "project-neo",
+      "name": "Project Neo",
+      "grade": "bronze",
+      "description": "Sent 10 bots flying with a single spin attack.",
+      "tags": ["misc"],
+      "missable": false,
+      "afterStory": true,
+      "where": "CPU Plaza",
+      "when": "With The Last Guy",
+      "unlock": "Hit 10 bots with one spin attack.",
+      "steps": [
+        "Get at least 10 bots following you (see [[the-last-guy]]).",
+        "Let them bunch up around you.",
+        "Hold **Square** to charge a spin attack, release it, and steer into the group until you've hit 10."
+      ],
+      "sources": ["platget-ap", "powerpyx-ap", "pushsquare-ap"]
+    },
+    {
+      "id": "youve-only-done-everything",
+      "name": "You've Only Done Everything",
+      "grade": "platinum",
+      "description": "Found all trophies in ASTRO's PLAYROOM. See you in our next adventure!",
+      "tags": ["misc"],
+      "missable": false,
+      "afterStory": true,
+      "unlock": "Earn the other 42 base-game trophies. The add-on trophies aren't needed.",
+      "steps": ["Compare your trophy list with the checklist here and replay any level with something missing."],
+      "sources": ["powerpyx-ap", "exophase-ap"]
+    },
+    {
+      "id": "play-has-no-limits",
+      "name": "Play Has No Limits!",
+      "grade": "gold",
+      "description": "Cleared the game and got the New Generation artefacts.",
+      "hidden": true,
+      "dlc": "launch-add-on",
+      "tags": ["story"],
+      "missable": false,
+      "afterStory": true,
+      "where": "Lower floor of CPU Plaza",
+      "when": "After all four worlds",
+      "unlock": "Beat the final boss, a T-Rex in two phases, watch the credits, then collect the four New Generation artefacts in the bonus level that follows.",
+      "steps": [
+        "Clear all four worlds. The final boss then opens on the lower floor of CPU Plaza.",
+        "Phase 1: stay away from the platform's edge, where the T-Rex's bites reach. When it shakes the platform, jump and glide over the shockwave.",
+        "Phase 2: stay near the centre and leave the summoned monsters to its beam. When the throwable item appears, throw it at a monster, then charge a punch to blind the T-Rex. Repeat until it's beaten.",
+        "Let the credits run. In the bonus level afterwards, collect all four New Generation artefacts. The fourth unlocks the trophy."
+      ],
+      "sources": ["psthc-ap-dlc1", "platget-ap", "powerpyx-ap"]
+    },
+    {
+      "id": "gravity-daze",
+      "name": "Gravity Daze!",
+      "grade": "bronze",
+      "description": "Made the CPU Chip punch the glass sphere, sending at least 10 Bots flying.",
+      "hidden": true,
+      "dlc": "launch-add-on",
+      "tags": ["misc"],
+      "missable": false,
+      "afterStory": true,
+      "where": "CPU Plaza",
+      "when": "Late in the game, with The Last Guy",
+      "unlock": "With 10 or more bots following you, get the CPU chip to punch the glass sphere in the middle of CPU Plaza.",
+      "steps": [
+        "Gather at least 10 bots (see [[the-last-guy]]).",
+        "Lead them to the glass sphere in the centre of CPU Plaza.",
+        "Hit the sphere. If the CPU chip stays asleep, hit it again to wake it. It punches the sphere and sends you all flying."
+      ],
+      "tips": [
+        "PlatGet instead stands on the dome and shoots it with the bow from the grassy mound to the right of the PlayStation at the back of CPU Plaza."
+      ],
+      "sources": ["psthc-ap-dlc1", "pushsquare-ap", "powerpyx-ap", "platget-ap"]
+    },
+    {
+      "id": "run-astro-run",
+      "name": "Run Astro Run!",
+      "grade": "gold",
+      "description": "Got a total Speed Run time of 7 minutes or under.",
+      "hidden": true,
+      "dlc": "launch-add-on",
+      "tags": ["challenge"],
+      "missable": false,
+      "afterStory": true,
+      "where": "Network Speed Run, at the back of CPU Plaza",
+      "when": "Once all 8 runs are unlocked",
+      "unlock": "Finish all 8 speed run levels with a combined best time of 7 minutes or less. That's about 50 seconds each on average. Runs unlock as you progress through the game.",
+      "steps": [
+        "Open Network Speed Run at the back of CPU Plaza.",
+        "Play each of the 8 runs until you know its route, then push for a fast time.",
+        "Aim for about 50 seconds each, about 6:40 in total, to leave a margin.",
+        "Glide with **X**, then punch with **Square** (or the other way round) to carry further through the air.",
+        "Keep holding the left stick forward so you rarely stop."
+      ],
+      "tips": [
+        "Watch a video of each run first: the routes can be optimised a lot. PSTHC's author finished in 6:02.",
+        "PowerPyx commenters found the Stormy and Climber runs the hardest."
+      ],
+      "sources": ["psthc-ap-dlc1", "platget-ap", "powerpyx-ap", "pushsquare-ap", "wikipedia-ap"]
+    },
+    {
+      "id": "hunted-down",
+      "name": "Hunted down",
+      "grade": "bronze",
+      "description": "Rescued Special Bot trapped in GPU Jungle.",
+      "hidden": true,
+      "dlc": "special-bots",
+      "tags": ["collectible"],
+      "missable": false,
+      "afterStory": true,
+      "where": "GPU Jungle: Renderforest",
+      "when": "Any time after the update",
+      "unlock": "Rescue the Lady Maria Special Bot by solving its riddle.",
+      "steps": [
+        "In Renderforest, go straight ahead and climb to higher ground.",
+        "Look left for a Lady Maria-style bot fighting. Punch the grass in the foliage behind her to find the trapped Special Bot in a capsule.",
+        "Climb to the platform with the caterpillars and destroy them.",
+        "Spin-attack (hold **Square**) the plant that sprouts so it grows, then climb the CD leaves.",
+        "Cross the treetops to the third tree, which has a clock on the outside.",
+        "Stand in front of the clock, press **Options**, and set the date to 24 November 2015 (the release date of Bloodborne: The Old Hunters)."
+      ],
+      "sources": ["pushsquare-special-bots"]
+    },
+    {
+      "id": "deja-phew",
+      "name": "Déjà phew!",
+      "grade": "bronze",
+      "description": "Rescued Special Bot trapped in SSD Speedway.",
+      "hidden": true,
+      "dlc": "special-bots",
+      "tags": ["collectible"],
+      "missable": false,
+      "afterStory": true,
+      "where": "SSD Speedway: Deep Dataspace",
+      "when": "Any time after the update",
+      "unlock": "Rescue the Selene (Returnal) Special Bot by dying next to a tiny astronaut.",
+      "steps": [
+        "Play Deep Dataspace until Astro gets the shooter from a chest.",
+        "Near there, stand on the small ledge facing the swirling vortex in space and look out. Selene's capsule appears on a platform.",
+        "Take the shooter and carry on to the room full of enemies with dangling lights. Defeat the purple enemies but leave the green slime enemies alive.",
+        "Climb past them and walk along the walkways at the top of the room.",
+        "Find the tiny astronaut lying on a walkway and stand over it until a blue circle lights up.",
+        "Let a green slime's projectile hit you. You respawn at the checkpoint and Selene is freed."
+      ],
+      "sources": ["pushsquare-special-bots", "press-start-deja-phew"]
+    },
+    {
+      "id": "grand-tourist",
+      "name": "Grand tourist",
+      "grade": "bronze",
+      "description": "Rescued Special Bot trapped in Cooling Springs.",
+      "hidden": true,
+      "dlc": "special-bots",
+      "tags": ["collectible"],
+      "missable": false,
+      "afterStory": true,
+      "where": "Cooling Springs: Bot Beach",
+      "when": "Any time after the update",
+      "unlock": "Rescue the Gran Turismo Special Bot by stepping on four starfish, then tracing a race circuit.",
+      "steps": [
+        "Go to Bot Beach and slide down to the beach.",
+        "Step on the four starfish in this order: right side under the bridge with the fishing bots; left side near the Kratos boat; next to the middle tree beside a similar-coloured shell; far-left corner by the building wall.",
+        "The Gran Turismo bot appears above a race circuit screen.",
+        "In the far-right corner, opposite the bot, punch the blue shell to reveal a steering wheel.",
+        "Stand at the wheel, press **Options** and enter: Up, Left, Down, Down, Left, Down, Down, Right, Up, Right, Down, Right, Up, Up, Right, Up, Left, Left.",
+        "A tyre screech means a mistake: press **Options** twice to restart the sequence."
+      ],
+      "sources": ["pushsquare-special-bots"]
+    },
+    {
+      "id": "no-escape",
+      "name": "No escape!",
+      "grade": "bronze",
+      "description": "Rescued Special Bot trapped in Memory Meadow.",
+      "hidden": true,
+      "dlc": "special-bots",
+      "tags": ["collectible"],
+      "missable": false,
+      "afterStory": true,
+      "where": "Memory Meadow: Gusty Gateway",
+      "when": "Any time after the update",
+      "unlock": "Rescue the Ape Escape Special Bot by netting it, then copying its dance.",
+      "steps": [
+        "Go under the bridge in Gusty Gateway. Just to the right, pull the exposed cables for a throwable net canister.",
+        "Cross the controller-cable bridges to the windy island. Ahead, an Ape Escape bot hides in a bush; look over the edge for a blue aura in the clouds.",
+        "When the lock-on symbol appears, throw the net canister at the aura to reveal the Special Bot.",
+        "Use the floating DualShock clouds to reach the ledges on the opposite wall and climb up.",
+        "Spin-attack (hold **Square**) the tree there to drop a banana, and bring it to the Special Bot.",
+        "Copy his dance with the D-pad: **Up** = the Floss, **Left** = the Carlton, **Right** = Stayin' Alive, **Down** = the Dab. The order is random for each player."
+      ],
+      "tips": [
+        "A Push Square reader says you need both hands free to pull the cables for the first bridge, so grab the net canister after crossing it."
+      ],
+      "sources": ["pushsquare-special-bots"]
+    },
+    {
+      "id": "four-the-players",
+      "name": "Four The Players",
+      "grade": "silver",
+      "description": "Rescued all four Special Bots. Time to go off to a new adventure!",
+      "hidden": true,
+      "dlc": "special-bots",
+      "tags": ["collectible"],
+      "missable": false,
+      "afterStory": true,
+      "where": "All four worlds",
+      "when": "After the last Special Bot",
+      "unlock": "Rescue all four Special Bots.",
+      "steps": ["Earn [[hunted-down]], [[deja-phew]], [[grand-tourist]] and [[no-escape]]. The fourth rescue unlocks this too."],
+      "sources": ["psls-special-bots", "pushsquare-special-bots", "vgc-special-bots"]
+    }
+  ],
+  "images": [],
+  "sources": [
+    {
+      "id": "exophase-ap",
+      "title": "Astro's Playroom trophies – Exophase",
+      "url": "https://www.exophase.com/game/astros-playroom-psn/trophies/",
+      "supports": "Official trophy names and descriptions, and which trophies belong to the add-on groups.",
+      "checked": "2026-10-13"
+    },
+    {
+      "id": "psthc-ap-list",
+      "title": "Astro's Playroom trophy list – PSTHC",
+      "url": "https://www.psthc.fr/unjeu/astro-playroom-ps5/liste-trophees.htm",
+      "supports": "Grades, hidden trophies (23 of 51), no online trophies, and the two add-on groups (3 and 5 trophies).",
+      "checked": "2026-10-13"
+    },
+    {
+      "id": "psthc-ap-guide",
+      "title": "Astro's Playroom trophy guide – PSTHC",
+      "url": "https://www.psthc.fr/unjeu/astro-playroom-ps5/guide-trophees.htm",
+      "supports": "Difficulty (2/10), time (about 5 hours), no missables, level-trophy locations, about 6,000 coins for the Gatcha machine, and The Last Guy's timing.",
+      "checked": "2026-10-13"
+    },
+    {
+      "id": "psthc-ap-dlc1",
+      "title": "Astro's Playroom add-on trophy guide – PSTHC",
+      "url": "https://www.psthc.fr/unjeu/astro-playroom-ps5/guide-trophees-dlc1.htm",
+      "supports": "Final boss tactics and the New Generation artefacts, speed run targets and tips, and Gravity Daze.",
+      "checked": "2026-10-13"
+    },
+    {
+      "id": "powerpyx-ap",
+      "title": "Astro's Playroom Trophy Guide & Roadmap – PowerPyx",
+      "url": "https://www.powerpyx.com/astros-playroom-trophy-guide-roadmap/",
+      "supports": "Difficulty (2/10), time (3–4 hours), roadmap, and methods for every launch trophy including the PS Labo and level trophies.",
+      "checked": "2026-10-13"
+    },
+    {
+      "id": "powerpyx-collectibles",
+      "title": "Astro's Playroom all collectible locations – PowerPyx",
+      "url": "https://www.powerpyx.com/astros-playroom-all-collectible-locations-artefacts-puzzle-pieces/",
+      "supports": "Artefact and puzzle piece counts per level, CPU Plaza and the Gatcha machine; level-completion artefacts; 100 coins per Gatcha prize.",
+      "checked": "2026-10-13"
+    },
+    {
+      "id": "pushsquare-ap",
+      "title": "Astro's Playroom: all trophies and how to unlock the Platinum – Push Square",
+      "url": "https://www.pushsquare.com/guides/astros-playroom-all-trophies-and-how-to-unlock-the-platinum",
+      "supports": "Methods for the CPU Plaza, level and add-on trophies, and about 50 seconds per speed run.",
+      "checked": "2026-10-13"
+    },
+    {
+      "id": "pushsquare-tips",
+      "title": "Astro's Playroom guide: tips, tricks and all collectibles – Push Square",
+      "url": "https://www.pushsquare.com/guides/astros-playroom-guide-tips-tricks-and-all-collectibles",
+      "supports": "The map (Options) tracks the collectibles found in each level.",
+      "checked": "2026-10-13"
+    },
+    {
+      "id": "platget-ap",
+      "title": "Astro's Playroom trophy guide – PlatGet",
+      "url": "https://platget.com/guides/astros-playroom-trophy-guide",
+      "supports": "Detailed methods for Hell Diver, Adequate, Boy…, Keepy Uppies and the CPU Plaza trophies; revealing the Gatcha machine; the bow method for Gravity Daze; speed run unlocks.",
+      "checked": "2026-10-13"
+    },
+    {
+      "id": "pushsquare-special-bots",
+      "title": "Astro's Playroom: all Special Bots locations – Push Square",
+      "url": "https://www.pushsquare.com/guides/astros-playroom-all-special-bots-locations",
+      "supports": "Location and riddle solution for each of the four Special Bots, and which trophy each gives.",
+      "checked": "2026-10-13"
+    },
+    {
+      "id": "press-start-deja-phew",
+      "title": "Astro's Playroom: how to solve the SSD Speedway riddle – Press Start",
+      "url": "https://press-start.com.au/guides/2024/07/06/astros-playroom-how-to-solve-the-ssd-speedway-riddle-and-get-the-deja-phew-trophy/",
+      "supports": "The Selene Special Bot solution in Deep Dataspace.",
+      "checked": "2026-10-13"
+    },
+    {
+      "id": "psls-special-bots",
+      "title": "Astro's Playroom 1.900.000 update trophies – PlayStation LifeStyle",
+      "url": "https://www.playstationlifestyle.net/?p=905182",
+      "supports": "Update 1.900 (June 2024) and the five Special Bot trophies with their grades.",
+      "checked": "2026-10-13"
+    },
+    {
+      "id": "vgc-special-bots",
+      "title": "Astro's Playroom has received new content and trophies – VGC",
+      "url": "https://videogameschronicle.com/news/astros-playroom-has-received-new-content-and-trophies-ahead-of-astro-bots-release",
+      "supports": "The June 2024 update's new portal, Gatcha prizes and five trophies.",
+      "checked": "2026-10-13"
+    },
+    {
+      "id": "wikipedia-ap",
+      "title": "Astro's Playroom – Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Astro%27s_Playroom",
+      "supports": "Developer, release date, pre-installed on every PS5, the four worlds, Network Speed Run's online leaderboards, and the 2024 updates.",
+      "checked": "2026-10-13"
+    }
+  ]
+}

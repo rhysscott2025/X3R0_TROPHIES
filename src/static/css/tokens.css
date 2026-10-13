@@ -1,0 +1,102 @@
+/*
+  X3R0 TROPHIES — design tokens
+  Layout concept: a lit trophy cabinet. Content sits in glass display cases
+  under a single top light; guides read in one narrow column with a sticky
+  contents rail on wide screens.
+
+  Metal colours (bronze, silver, gold, platinum) are reserved for trophy
+  grades and the platinum brand. Alert red is reserved for missable trophies
+  and points of no return. Everything else stays quiet.
+*/
+
+@font-face {
+  font-family: "Archivo";
+  src: url("../assets/fonts/archivo-variable-latin.woff2") format("woff2-variations"),
+       url("../assets/fonts/archivo-variable-latin.woff2") format("woff2");
+  font-weight: 100 900;
+  font-stretch: 62% 125%;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* Metric-matched fallback keeps text from jumping when the web font arrives. */
+@font-face {
+  font-family: "Archivo Fallback";
+  src: local("Arial"), local("Helvetica Neue"), local("Helvetica");
+  size-adjust: 104%;
+  ascent-override: 88%;
+  descent-override: 21%;
+}
+
+:root {
+  color-scheme: dark;
+
+  /* Palette */
+  --cabinet: #0b0d13;        /* page ground: blue-black cabinet interior */
+  --shelf: #121620;          /* raised display cases */
+  --shelf-2: #181d29;        /* nested surfaces, inputs */
+  --glass: #283041;          /* hairline case edges */
+  --glass-strong: #3a4458;   /* control borders */
+  --ink: #dce2eb;            /* body text */
+  --ink-muted: #97a0b3;      /* secondary text */
+  --platinum: #e6ecf5;       /* brand metal, headings */
+  --platinum-deep: #8d99ae;  /* brand metal shadow tone */
+  --ice: #a9c7ff;            /* default interactive accent */
+  --alert: #ff7b88;          /* missables, points of no return */
+  --alert-ground: #2a1219;
+
+  /* Trophy grades */
+  --bronze: #da9462;
+  --silver: #c6cdd9;
+  --gold: #f3c85d;
+  --plat: #bed7ff;
+
+  /* Per-game theme hooks (overridden inline on game pages) */
+  --accent: var(--ice);
+  --accent-glow: #4d6fd1;
+  --theme-base: var(--cabinet);
+
+  --ground: var(--cabinet);  /* page ground; game pages swap in their theme base */
+
+  /* Derived */
+  --case-light: rgb(255 255 255 / 0.055);
+  --metal-gradient: linear-gradient(176deg, #ffffff 0%, #e3e9f2 34%, #93a0b6 52%, #eef2f8 68%, #b4bfd0 100%);
+
+  /* Type */
+  --font: "Archivo", "Archivo Fallback", system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+  --wide: 118%;             /* expanded width for display type */
+  --step--1: 0.8125rem;
+  --step-0: 1rem;
+  --step-1: 1.1875rem;
+  --step-2: 1.4375rem;
+  --step-3: clamp(1.6rem, 1.3rem + 1.4vw, 2.1rem);
+  --step-4: clamp(2rem, 1.5rem + 2.6vw, 3.1rem);
+  --step-5: clamp(3.4rem, 0.6rem + 22vw, 9.5rem);
+  --leading: 1.6;
+
+  /* Space and shape */
+  --space-1: 0.25rem;
+  --space-2: 0.5rem;
+  --space-3: 0.75rem;
+  --space-4: 1rem;
+  --space-5: 1.5rem;
+  --space-6: 2rem;
+  --space-7: 3rem;
+  --space-8: 4.5rem;
+  --gutter: clamp(16px, 4vw, 40px);
+  --max: 76rem;
+  --read: 46rem;
+  --radius-case: 16px;
+  --radius-control: 10px;
+  --radius-pill: 999px;
+  --header-h: 3.75rem;
+  --sticky-top: env(safe-area-inset-top, 0px);
+
+  --ease: cubic-bezier(0.2, 0.7, 0.2, 1);
+}
+
+/* Accent-derived tokens are recomputed wherever a theme overrides --accent */
+:root, [style*="--accent"] {
+  --accent-soft: color-mix(in oklab, var(--accent) 16%, transparent);
+  --accent-line: color-mix(in oklab, var(--accent) 45%, transparent);
+}

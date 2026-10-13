@@ -1,0 +1,1710 @@
+{
+  "schemaVersion": 1,
+  "slug": "immortals-fenyx-rising",
+  "status": "complete",
+  "demo": false,
+  "title": "Immortals Fenyx Rising",
+  "edition": "All editions",
+  "platforms": ["PS5", "PS4"],
+  "listNote": "The PS5 and PS4 versions have separate trophy lists with the same trophies: 51 in the base game, plus 6 in each of the three DLC packs. Because they're separate lists, each version has its own Platinum. This guide covers both.",
+  "releaseYear": 2020,
+  "developer": "Ubisoft Quebec",
+  "publisher": "Ubisoft",
+  "genres": ["Action-adventure", "Open world"],
+  "summary": "Restore the gods and stop Typhon on the Golden Isle. A relaxed 3/10 Platinum with one missable trophy, no difficulty trophies and a single point of no return before the final dungeon.",
+  "intro": [
+    "You play Fenyx, a shipwrecked shield-bearer on the Golden Isle. Typhon has escaped his prison and stripped the Olympian gods of their essences, and it's up to you to restore them. The island has seven regions full of Vaults of Tartaros, puzzles, mounts and mythical bosses.",
+    "The Platinum is relaxed. PowerPyx rates it 3/10 and confirms every trophy can be earned on the easiest difficulty. Only one base-game trophy can be missed, [[look-no-hands]], and this route covers it early. Most of the time goes on Hermes's 36 Heroic Tasks, taming 25 mounts, and gathering enough resources to max out every upgrade.",
+    "There's no free roam after the credits. The point of no return is entering the volcano for the final dungeon. The game warns you there and creates a save, and you can reload it after the credits to finish anything left. PowerPyx estimates 40 to 50 hours; Platinum Pursuit's community average is closer to 81."
+  ],
+  "lastUpdated": "2026-10-13",
+  "stats": {
+    "difficulty": { "value": 3, "sources": ["powerpyx-ifr"] },
+    "hours": { "min": 40, "max": 50, "sources": ["powerpyx-ifr"] },
+    "playthroughs": { "value": 1, "note": "Keep a save from just before the final dungeon and reload it after the credits to finish anything left.", "sources": ["powerpyx-ifr", "gamefaqs-volcano", "thegamer-after-game"] },
+    "online": { "value": false, "note": "No online trophies. The daily and weekly tasks on Hermes's board don't count towards More than Twelve Labours.", "sources": ["powerpyx-ifr", "tt-twelve-labours"] }
+  },
+  "officialCounts": {
+    "base": { "platinum": 1, "gold": 2, "silver": 10, "bronze": 38 },
+    "dlc": {
+      "a-new-god": { "platinum": 0, "gold": 1, "silver": 2, "bronze": 3 },
+      "myths-of-the-eastern-realm": { "platinum": 0, "gold": 1, "silver": 2, "bronze": 3 },
+      "the-lost-gods": { "platinum": 0, "gold": 1, "silver": 2, "bronze": 3 }
+    },
+    "sources": ["platpursuit-ifr", "powerpyx-ifr", "psthc-ifr", "supercheats-ifr"]
+  },
+  "theme": {
+    "accent": "#f2c55c",
+    "glow": "#2f5fb3",
+    "base": "#0a0c14",
+    "pattern": "rays",
+    "heroImage": null,
+    "coverImage": null
+  },
+  "dlc": [
+    {
+      "id": "a-new-god",
+      "title": "A New God",
+      "note": "Fenyx climbs Olympos and takes on trials set by the gods: 24 vaults from Aphrodite, Ares, Athena and Hephaistos, plus Hermes's own trials. Part of the Season Pass (also in the Gold Edition). Not needed for the Platinum."
+    },
+    {
+      "id": "myths-of-the-eastern-realm",
+      "title": "Myths of the Eastern Realm",
+      "note": "A separate adventure inspired by Chinese mythology. You play as Ku, guided by the goddess Nuwa. Part of the Season Pass (also in the Gold Edition). Not needed for the Platinum."
+    },
+    {
+      "id": "the-lost-gods",
+      "title": "The Lost Gods",
+      "note": "A top-down brawler. You play as Ash, a mortal sent to the Pyrite Islands to persuade the gods who left Olympos to return. Part of the Season Pass (also in the Gold Edition). Not needed for the Platinum."
+    }
+  ],
+  "route": [
+    {
+      "id": "opening",
+      "title": "Opening hours and the Hall of the Gods",
+      "summary": "The story introduces Hermes, the Hall of the Gods and your first god. Pick up the menu and one-off trophies as soon as they're available.",
+      "steps": [
+        "Choose any difficulty. PowerPyx confirms every trophy can be earned on the easiest setting, and no trophy rewards a harder one.",
+        "Play the story. [[dont-shoot-the-messenger]], [[the-giving-tree]] and [[from-the-ashes]] unlock automatically as the story introduces Hermes, Aphrodite and Phosphor.",
+        "In the Hall of the Gods, brew a potion at the cauldron for [[toil-and-trouble]] and sit in the barber chair for [[beautys-in-the-eye]].",
+        "Check Hermes's Heroic Tasks Board in the Hall and finish any task for [[one-chore-down]]. Check the board regularly from now on: some kill-count tasks only count kills made after the task is available.",
+        "Solve the first Constellation challenge you find for [[among-the-stars]].",
+        "Equip a helmet and armour from the same set for [[toot-or-boot]], and take a photo (**L3+R3**, then **X**) for [[photobomb]].",
+        "A Wraith appears during Aphrodite's questline. Defeat it for [[wraithless-in-battle]], then finish her questline for [[goddess-of-love]]."
+      ],
+      "warning": "",
+      "trophies": ["dont-shoot-the-messenger", "the-giving-tree", "from-the-ashes", "toil-and-trouble", "beautys-in-the-eye", "one-chore-down", "among-the-stars", "toot-or-boot", "photobomb", "wraithless-in-battle", "goddess-of-love"]
+    },
+    {
+      "id": "one-offs",
+      "title": "Trap kills and other one-offs",
+      "summary": "[[look-no-hands]] is the only base-game trophy you can lock yourself out of, so earn it in the first trap vaults you find. The rest are quick one-offs to grab whenever the chance comes.",
+      "steps": [
+        "Before you take the final treasure from any vault with floor spikes or lasers, use its traps to kill enemies for [[look-no-hands]]. You need 10 trap kills in total, across any number of vaults.",
+        "Throw a rock at a flying enemy (**L1+Triangle** to grab, **R2** to throw) for [[projectile-pro]].",
+        "Parry a projectile back at its shooter (**R1+L1**) for [[your-own-medicine]].",
+        "Sneak behind enemies and stealth attack them (**Triangle**) 10 times for [[join-the-creed]].",
+        "Break 10 crystal clusters for [[shard-miner]].",
+        "Tame an Epic mount for [[oceancookie]], and equip the wings from your first lieutenant for [[not-too-close-to-the-sun]].",
+        "Rest until night and open a Night Chest for [[moonlight-treasure]]."
+      ],
+      "warning": "Missable: [[look-no-hands]]. Each vault seals once you take its final treasure, so don't finish every vault with traps before you have 10 trap kills.",
+      "trophies": ["look-no-hands", "projectile-pro", "your-own-medicine", "join-the-creed", "shard-miner", "oceancookie", "not-too-close-to-the-sun", "moonlight-treasure"]
+    },
+    {
+      "id": "restore-the-gods",
+      "title": "Restore Athena, Hephaistos and Ares",
+      "summary": "The main story takes you to each remaining god in turn. Finishing Ares's questline also opens his fortress, where one of the Mythical Monsters waits.",
+      "steps": [
+        "Meet each god as the story reaches them: [[sassy-lost-child]] (Athena), [[the-iron-giant]] (Hephaistos) and [[big-chicken]] (Ares).",
+        "Finish each god's questline: [[goddess-of-wisdom]], [[god-of-the-forge]] and [[god-of-war]].",
+        "Follow Phosphor's quests on the map for [[down-in-flames]].",
+        "Take every side quest the gods offer as you go. They're marked on the map, and you need them all for [[servant-to-the-gods]]. Talk to Ares a second time to get his."
+      ],
+      "warning": "",
+      "trophies": ["sassy-lost-child", "the-iron-giant", "big-chicken", "goddess-of-wisdom", "god-of-the-forge", "god-of-war", "down-in-flames"]
+    },
+    {
+      "id": "explore",
+      "title": "Explore the Golden Isle",
+      "summary": "With the gods restored, sweep each region for bosses, Wraith lairs, vaults and challenges. Hermes's board tracks most of this for you. You can also leave it until after the credits and reload your pre-volcano save, which is PowerPyx's order.",
+      "steps": [
+        "Defeat the four Mythical Monsters for [[whos-the-boss]]: Ozomene (Valley of Eternal Spring), Medusa (Grove of Kleos), Polyphemos (the Forgelands) and Kottos (on the roof of Ares's fortress in War's Den).",
+        "Defeat each Wraith in its lair for [[last-hero-standing]]: Achilles, Atalanta, Odysseus and Herakles.",
+        "Place the four crests from the Wraiths on the pedestal at the base of Athena's statue to start Hermes's quest **Legendary or Bust**. Finish it and every other god's side quest for [[servant-to-the-gods]].",
+        "Complete Vaults of Tartaros as you find them. 25 gives [[hadess-new-neighbor]].",
+        "Work through all 36 tasks on the left side of Hermes's board for [[more-than-twelve-labours]].",
+        "Tame all 25 mounts for [[fenyx-the-horseman]], beat the 12 Legendary creatures for [[ornithology]], and beat every lieutenant and finish the Fresco Challenges for [[wing-nut]].",
+        "Chop down 100 large trees along the way for [[logs-and-monsters]], and lift all the map's fog for [[birds-eye-view]]."
+      ],
+      "warning": "",
+      "trophies": ["whos-the-boss", "last-hero-standing", "servant-to-the-gods", "hadess-new-neighbor", "more-than-twelve-labours", "fenyx-the-horseman", "ornithology", "wing-nut", "logs-and-monsters", "birds-eye-view"]
+    },
+    {
+      "id": "upgrades",
+      "title": "Max out every upgrade",
+      "summary": "Spend everything you've collected. Leave the long glide and the combo trophies until here: full stamina and skills make them much easier.",
+      "steps": [
+        "Spend Ambrosia on health for [[to-good-health]] and Zeus's Lightning on stamina for [[fully-charged]].",
+        "Buy every skill and godly power with the coins from challenges: [[show-your-moves]] and [[powered-up]].",
+        "At the Forge of Hephaistos, upgrade one weapon fully for [[weapon-master]], then everything for [[armed-and-dangerous]].",
+        "Upgrade every potion with Golden Amber for [[potion-professional]]. The whole tree costs about 308.",
+        "Glide 1,000 m in one go from Hephaistos's statue for [[the-floor-is-lava]].",
+        "Keep a combo going to 84 hits for [[c-c-c-combo]], and land 25 hits on a flying enemy without touching the ground for [[its-a-bird]]."
+      ],
+      "warning": "",
+      "trophies": ["to-good-health", "fully-charged", "show-your-moves", "powered-up", "weapon-master", "armed-and-dangerous", "potion-professional", "the-floor-is-lava", "c-c-c-combo", "its-a-bird"]
+    },
+    {
+      "id": "ligyron",
+      "title": "Ligyron and the island's peak",
+      "summary": "The late story. Beating your brother opens the way to the highest point on the island.",
+      "steps": [
+        "Continue the main story and defeat Ligyron for [[brother-battle]].",
+        "Afterwards, climb to the top of the boss arena for [[tippy-top]]. If you leave first, you can fast travel back later.",
+        "[[messenger-of-the-gods]] unlocks when Hermes's questline is finished. If it hasn't unlocked yet, check your quest log for open Hermes quests."
+      ],
+      "warning": "",
+      "trophies": ["brother-battle", "tippy-top", "messenger-of-the-gods"]
+    },
+    {
+      "id": "typhon",
+      "title": "The final dungeon",
+      "summary": "Entering the volcano locks you into the ending. Ideally everything else is done by now. If it isn't, keep the save from just before the volcano.",
+      "steps": [
+        "Before you go in, compare your trophy list with this checklist.",
+        "When the game warns you that you're about to enter the final dungeon, make a manual save. The game also creates its own save there.",
+        "Defeat Typhon for [[mission-complete]].",
+        "After the credits, load the pre-volcano save to return to the open world and finish anything left."
+      ],
+      "warning": "Point of no return: entering the volcano for the final dungeon locks you into the ending, and there's no free roam after the credits. Keep a save from just before it so you can go back.",
+      "trophies": ["mission-complete"]
+    },
+    {
+      "id": "platinum",
+      "title": "Platinum",
+      "summary": "Unlocks once the other 50 base-game trophies are earned. DLC isn't required.",
+      "steps": [
+        "Compare your console's trophy list with the checklist here, reload the pre-volcano save if anything's missing, and go back to that stage."
+      ],
+      "warning": "",
+      "trophies": ["the-end"]
+    },
+    {
+      "id": "olympos-trials",
+      "dlc": "a-new-god",
+      "title": "Trials of Olympos",
+      "summary": "Six vaults for each of four gods, plus Hermes's trials. Fail the very first trial on purpose, and open each vault's optional chest before you finish that vault.",
+      "steps": [
+        "Start A New God. At the first vault, the Trial of Hermes, run off the edge and fall for [[better-luck-next-time]]. It only counts on your first attempt.",
+        "Every trial has one optional chest holding a relic. Open it before you complete the trial, or you'll have to replay the trial for it. You need all 24 for [[putting-in-overtime]].",
+        "Clear the Trial of Rampage in Ares's area, using its portals to move blocks, for [[zoomies]].",
+        "Each initiation trial gives a piece of gear. Collect all five for [[wardrobe-warrior]].",
+        "Finish all six vaults for each god for [[overblessed]], and the story for [[tested-and-approved]].",
+        "After you meet Zeus, take Hermes's quest **It belongs in a Museum... er... Pantheon!**, hand in the 24 relics and complete the secret trial for [[putting-in-overtime]]."
+      ],
+      "warning": "Missable: [[better-luck-next-time]] only counts if you fail the Trial of Hermes on your first attempt.",
+      "trophies": ["better-luck-next-time", "zoomies", "wardrobe-warrior", "overblessed", "tested-and-approved", "putting-in-overtime"]
+    },
+    {
+      "id": "ku-journey",
+      "dlc": "myths-of-the-eastern-realm",
+      "title": "Ku's journey",
+      "summary": "A smaller map with five Ruins of Heaven and 17 Myth Challenges. Earn the Air Ring trophy before you seal the last Ruin.",
+      "steps": [
+        "Play on any difficulty. Story difficulty is fine for every trophy.",
+        "In the Tutelage of the Black Emperor Ruin of Heaven, chain 20 Air Rings without landing for [[lighter-than-air]]. It's full of Air Rings with stamina orbs beneath them.",
+        "Complete all five Ruins of Heaven for [[divine]]. The gate in the bottom-left of the map is the final boss's entrance and doesn't count.",
+        "Complete all 17 Myth Challenges (Sunchaser, Bagua, Mural and Musical) for [[stuff-of-legends]].",
+        "Finish Gong Gong's questline for [[the-last-warlord]] and Nuwa's for [[the-goddess-of-creation]], then defeat Tao Wu for [[balanced]]."
+      ],
+      "warning": "Missable: Air Rings only appear inside the Ruins of Heaven, so once every Ruin is completed and sealed, [[lighter-than-air]] can't be earned. Before the final boss, the game warns you and makes a save you can reload to finish side content.",
+      "trophies": ["lighter-than-air", "divine", "stuff-of-legends", "the-last-warlord", "the-goddess-of-creation", "balanced"]
+    },
+    {
+      "id": "pyrite-islands",
+      "dlc": "the-lost-gods",
+      "title": "Ash on the Pyrite Islands",
+      "summary": "A top-down adventure with its own upgrade system. Two trophies count up through the whole expansion, so set them up early.",
+      "steps": [
+        "Play on any difficulty; the easiest is fine. You save, upgrade and fast travel at altars by making offerings, so keep some resources in hand.",
+        "As soon as you have Heroic Gifts that restore or cost health, use them regularly. [[ash-the-leech]] (gain 10 health chunks) and [[masochist]] (lose 20) both build up as you play.",
+        "When Demeter gives you the Catastrophe Quake ability, use it to knock 10 Abas out of the ground for [[stomp-a-mole]].",
+        "Unlock every Heroic Gift for [[opportunist]]. Most come from the story; three come from nymphs' side quests.",
+        "Fully upgrade your gear with coloured shards for [[full-house]]. Purple and yellow are scarce, so break every shard cluster you pass.",
+        "Make the Ultimate Offering in the main story for [[the-ultimate-price]]."
+      ],
+      "warning": "",
+      "trophies": ["ash-the-leech", "masochist", "stomp-a-mole", "opportunist", "full-house", "the-ultimate-price"]
+    }
+  ],
+  "trophies": [
+    {
+      "id": "dont-shoot-the-messenger",
+      "name": "Don't Shoot the Messenger",
+      "grade": "bronze",
+      "description": "Meet Hermes.",
+      "hidden": true,
+      "tags": ["story"],
+      "missable": false,
+      "afterStory": true,
+      "where": "Main story",
+      "when": "Early in the story",
+      "unlock": "Story-related and can't be missed.",
+      "steps": [
+        "Play the main story from the start.",
+        "The trophy unlocks automatically when you meet Hermes."
+      ],
+      "sources": ["powerpyx-ifr", "platpursuit-ifr"]
+    },
+    {
+      "id": "the-giving-tree",
+      "name": "The Giving Tree",
+      "grade": "bronze",
+      "description": "Meet Aphrodite.",
+      "hidden": true,
+      "tags": ["story"],
+      "missable": false,
+      "afterStory": true,
+      "where": "Main story",
+      "when": "Early in the story",
+      "unlock": "Story-related and can't be missed.",
+      "steps": [
+        "Follow the main story.",
+        "The trophy unlocks automatically when you meet Aphrodite."
+      ],
+      "sources": ["powerpyx-ifr", "platpursuit-ifr"]
+    },
+    {
+      "id": "from-the-ashes",
+      "name": "From the Ashes",
+      "grade": "bronze",
+      "description": "Find Phosphor.",
+      "hidden": true,
+      "tags": ["story"],
+      "missable": false,
+      "afterStory": true,
+      "where": "Main story",
+      "when": "Early in the story",
+      "unlock": "Story-related and can't be missed. Phosphor is the phoenix who travels with you.",
+      "steps": [
+        "Follow the main story.",
+        "The trophy unlocks automatically when you find Phosphor."
+      ],
+      "sources": ["powerpyx-ifr", "platpursuit-ifr"]
+    },
+    {
+      "id": "toil-and-trouble",
+      "name": "Toil and Trouble",
+      "grade": "bronze",
+      "description": "Craft your first Potion.",
+      "tags": ["misc"],
+      "missable": false,
+      "afterStory": true,
+      "where": "Hall of the Gods",
+      "when": "As soon as you reach the Hall of the Gods",
+      "unlock": "Brew any potion at the cauldron.",
+      "steps": [
+        "Go to the cauldron in the Hall of the Gods.",
+        "Choose the ingredients and craft any potion."
+      ],
+      "sources": ["powerpyx-ifr"]
+    },
+    {
+      "id": "beautys-in-the-eye",
+      "name": "Beauty's in the Eye",
+      "grade": "bronze",
+      "description": "Change your appearance at the Hall of the Gods.",
+      "tags": ["misc"],
+      "missable": false,
+      "afterStory": true,
+      "where": "Hall of the Gods",
+      "when": "As soon as you reach the Hall of the Gods",
+      "unlock": "Change any part of Fenyx's look in the barber chair.",
+      "steps": [
+        "Sit in the barber chair in the Hall of the Gods.",
+        "Change any part of your appearance and confirm."
+      ],
+      "sources": ["powerpyx-ifr"]
+    },
+    {
+      "id": "one-chore-down",
+      "name": "One Chore Down",
+      "grade": "bronze",
+      "description": "Complete a task from Hermes's Heroic Tasks Board at the Hall of the Gods.",
+      "tags": ["side-quest"],
+      "missable": false,
+      "afterStory": true,
+      "where": "Hall of the Gods",
+      "when": "As soon as you reach the Hall of the Gods",
+      "unlock": "Complete any one task from the board.",
+      "steps": [
+        "Open Hermes's Heroic Tasks Board in the Hall of the Gods.",
+        "Pick any task on the left side and complete it. Many early ones are simple, like opening chests or taming a mount.",
+        "Rewards are claimed at the board."
+      ],
+      "sources": ["powerpyx-ifr", "tt-twelve-labours", "gamerevolution-amber"]
+    },
+    {
+      "id": "among-the-stars",
+      "name": "Among the Stars",
+      "grade": "bronze",
+      "description": "Solve a Constellation Myth Challenge.",
+      "tags": ["challenge"],
+      "missable": false,
+      "afterStory": true,
+      "where": "Any Constellation Myth Challenge",
+      "when": "The first one you find",
+      "unlock": "Constellation challenges have a mural with empty holes. Find the blue spheres nearby, usually within about 100 m, and place them to recreate the pattern.",
+      "steps": [
+        "Go to a Constellation challenge and look at the pattern on its mural.",
+        "Find the blue spheres scattered nearby.",
+        "Place them in the mural's holes to complete the constellation."
+      ],
+      "sources": ["powerpyx-ifr", "thegamer-myths"]
+    },
+    {
+      "id": "toot-or-boot",
+      "name": "Toot or Boot?",
+      "grade": "bronze",
+      "description": "Equip a matching helmet and armor.",
+      "tags": ["misc"],
+      "missable": false,
+      "afterStory": true,
+      "where": "Inventory",
+      "when": "Once you own a helmet and armour from the same set",
+      "unlock": "Wear a helmet and armour with the same set name at the same time.",
+      "steps": [
+        "Open your gear and find a helmet and armour that share a set name.",
+        "Equip both."
+      ],
+      "sources": ["powerpyx-ifr"]
+    },
+    {
+      "id": "photobomb",
+      "name": "Photobomb",
+      "grade": "bronze",
+      "description": "Take a photo.",
+      "tags": ["misc"],
+      "missable": false,
+      "afterStory": true,
+      "where": "Anywhere",
+      "when": "Any time",
+      "unlock": "Take any picture in photo mode.",
+      "steps": [
+        "Press **L3+R3** to open photo mode.",
+        "Press **X** to take a picture."
+      ],
+      "sources": ["powerpyx-ifr"]
+    },
+    {
+      "id": "wraithless-in-battle",
+      "name": "Wraithless in Battle",
+      "grade": "bronze",
+      "description": "Defeat a Wraith.",
+      "hidden": true,
+      "tags": ["combat", "story"],
+      "missable": false,
+      "afterStory": true,
+      "where": "Aphrodite's questline",
+      "when": "The first Wraith you meet",
+      "unlock": "Defeat any of the four Wraiths. The first one appears during Aphrodite's questline. Beating a Wraith opens its lair, which you need later for [[last-hero-standing]].",
+      "steps": [
+        "Follow Aphrodite's questline until a Wraith attacks.",
+        "Defeat it. Its lair now appears on your map."
+      ],
+      "sources": ["powerpyx-ifr", "thegamer-wraiths"]
+    },
+    {
+      "id": "goddess-of-love",
+      "name": "Goddess of Love",
+      "grade": "bronze",
+      "description": "Complete Aphrodite's Questline.",
+      "hidden": true,
+      "tags": ["story"],
+      "missable": false,
+      "afterStory": true,
+      "where": "Main story",
+      "when": "End of Aphrodite's questline",
+      "unlock": "Story-related and can't be missed.",
+      "steps": [
+        "Finish every quest in Aphrodite's questline.",
+        "The trophy unlocks automatically."
+      ],
+      "sources": ["powerpyx-ifr", "platpursuit-ifr"]
+    },
+    {
+      "id": "look-no-hands",
+      "name": "Look, No Hands!",
+      "grade": "bronze",
+      "description": "Defeat 10 enemies using traps inside the Vaults of Tartaros.",
+      "tags": ["combat"],
+      "missable": true,
+      "missableNote": "Each Vault of Tartaros seals once you collect its final treasure. If you finish every vault with traps before you have 10 trap kills, you can't earn this in that playthrough. Fallbacks: a weekly vault with traps on Hermes's board, if Ubisoft's weekly tasks are still running, or New Game+, which resets the vaults.",
+      "afterStory": null,
+      "where": "Vaults of Tartaros with floor spikes or lasers",
+      "when": "The first trap vaults you find",
+      "unlock": "Kill 10 enemies with vault traps. The total carries across vaults. The trap only has to do the killing: enemies walking onto timed spikes count.",
+      "steps": [
+        "Don't take the final treasure from any vault with traps until you have 10 trap kills.",
+        "**Arena of Fortitude** (early game): weaken enemies to about 20% health, then lure them onto the floor spike pads.",
+        "**Pot Ajar**, the rift inside Ares's pot: restore Ares, then do his side quest to return the pot (you may need to finish a fetch quest first). Each corner has timed floor spikes. Rounds 1 and 2 are mostly soldiers, and the enemies a shielded enemy summons in round 2 count too.",
+        "**Arena of Agility**, south of Athena's statue: timed lasers fire between the columns. Circle the two southern columns in a figure eight to drag enemies through them.",
+        "**Dolos's Stage of Trickery**, reached during Athena's questline: shoot the six targets with your bow to set off beams and floor spikes under the enemies."
+      ],
+      "tips": [
+        "Floor spikes and lasers both count. Fire-breathing wall sconces don't.",
+        "Lasers hurt you too, so dodge them while you lure enemies through.",
+        "Players have pulled harpies into the lasers with Herakles's pull."
+      ],
+      "mistakes": [
+        "Taking a vault's final treasure before you're done. The vault seals and its traps are gone for this playthrough."
+      ],
+      "sources": ["powerpyx-ifr", "steam-100-ifr", "ta-look-no-hands", "thegamer-after-game"]
+    },
+    {
+      "id": "projectile-pro",
+      "name": "Projectile Pro",
+      "grade": "bronze",
+      "description": "Defeat a flying enemy with any thrown object.",
+      "tags": ["combat"],
+      "missable": false,
+      "afterStory": true,
+      "where": "Anywhere with flying enemies",
+      "when": "The first harpy fight",
+      "unlock": "The killing blow on a flying enemy must be a thrown object.",
+      "steps": [
+        "Find a flying enemy and a small rock nearby.",
+        "Grab the rock with **L1+Triangle**.",
+        "Throw it at the flying enemy with **R2**."
+      ],
+      "tips": [
+        "Weaken the enemy first, so a single throw finishes it."
+      ],
+      "sources": ["powerpyx-ifr"]
+    },
+    {
+      "id": "your-own-medicine",
+      "name": "Your Own Medicine",
+      "grade": "bronze",
+      "description": "Defeat an enemy with their own projectile.",
+      "tags": ["combat"],
+      "missable": false,
+      "afterStory": true,
+      "where": "Any fight with ranged enemies",
+      "when": "Early",
+      "unlock": "Parry a projectile so it flies back and kills the enemy that fired it.",
+      "steps": [
+        "Find an enemy that fires projectiles.",
+        "Parry with **R1+L1** just as the projectile reaches you to send it back."
+      ],
+      "tips": [
+        "Damage the enemy first, so the reflected shot finishes it."
+      ],
+      "sources": ["powerpyx-ifr"]
+    },
+    {
+      "id": "join-the-creed",
+      "name": "Join the Creed",
+      "grade": "bronze",
+      "description": "Perform 10 Stealth Attacks.",
+      "tags": ["combat"],
+      "missable": false,
+      "afterStory": true,
+      "where": "Any enemy camp",
+      "when": "Early",
+      "unlock": "Ten stealth attacks in total, across any number of fights.",
+      "steps": [
+        "Sneak up behind an enemy that hasn't spotted you.",
+        "Press **Triangle** when prompted to stealth attack.",
+        "Repeat until you've done 10."
+      ],
+      "sources": ["powerpyx-ifr"]
+    },
+    {
+      "id": "shard-miner",
+      "name": "Shard Miner",
+      "grade": "bronze",
+      "description": "Destroy 10 Shards Clusters.",
+      "tags": ["exploration"],
+      "missable": false,
+      "afterStory": true,
+      "where": "Crystal clusters across the island",
+      "when": "Early",
+      "unlock": "Break 10 shard clusters with melee attacks. Each colour gives a different Forge currency, so it's worth breaking every one you pass.",
+      "steps": [
+        "Find a coloured crystal cluster.",
+        "Hit it with melee attacks until it breaks.",
+        "Repeat for 10 clusters."
+      ],
+      "sources": ["powerpyx-ifr"]
+    },
+    {
+      "id": "oceancookie",
+      "name": "Oceancookie",
+      "grade": "bronze",
+      "description": "Tame an Epic mount.",
+      "tags": ["exploration"],
+      "missable": false,
+      "afterStory": true,
+      "where": "Epic mount locations",
+      "when": "The first Epic mount you find",
+      "unlock": "Tame any Epic mount.",
+      "steps": [
+        "Find an Epic mount. Mount sightings show on the map as green stars, but the animals roam.",
+        "Approach slowly (PowerPyx uses **Circle**), then press **X** when the prompt appears to tame it."
+      ],
+      "sources": ["powerpyx-ifr"]
+    },
+    {
+      "id": "not-too-close-to-the-sun",
+      "name": "Not Too Close to the Sun",
+      "grade": "bronze",
+      "description": "Equip new Wings.",
+      "tags": ["misc"],
+      "missable": false,
+      "afterStory": true,
+      "where": "Inventory",
+      "when": "After your first lieutenant",
+      "unlock": "Equip any wings other than your starting pair.",
+      "steps": [
+        "Defeat a lieutenant boss in the open world. Lieutenants drop wings.",
+        "Equip the new wings from your gear menu."
+      ],
+      "sources": ["powerpyx-ifr"]
+    },
+    {
+      "id": "moonlight-treasure",
+      "name": "Moonlight Treasure",
+      "grade": "bronze",
+      "description": "Open a Night Chest.",
+      "tags": ["exploration"],
+      "missable": false,
+      "afterStory": true,
+      "where": "Any Night Chest",
+      "when": "Early",
+      "unlock": "Night Chests only appear at night and are marked with a moon icon.",
+      "steps": [
+        "Rest to skip to night (PowerPyx: from the **Options** menu).",
+        "Find a chest with a moon icon.",
+        "Defeat the enemies around it, then open it."
+      ],
+      "sources": ["powerpyx-ifr"]
+    },
+    {
+      "id": "sassy-lost-child",
+      "name": "Sassy, Lost Child",
+      "grade": "bronze",
+      "description": "Meet Athena.",
+      "hidden": true,
+      "tags": ["story"],
+      "missable": false,
+      "afterStory": true,
+      "where": "Main story",
+      "when": "When the story reaches Athena",
+      "unlock": "Story-related and can't be missed.",
+      "steps": [
+        "Follow the main story.",
+        "The trophy unlocks automatically when you meet Athena."
+      ],
+      "sources": ["powerpyx-ifr", "platpursuit-ifr"]
+    },
+    {
+      "id": "the-iron-giant",
+      "name": "The Iron Giant",
+      "grade": "bronze",
+      "description": "Meet Hephaistos.",
+      "hidden": true,
+      "tags": ["story"],
+      "missable": false,
+      "afterStory": true,
+      "where": "Main story",
+      "when": "When the story reaches Hephaistos",
+      "unlock": "Story-related and can't be missed.",
+      "steps": [
+        "Follow the main story.",
+        "The trophy unlocks automatically when you meet Hephaistos."
+      ],
+      "sources": ["powerpyx-ifr", "platpursuit-ifr"]
+    },
+    {
+      "id": "big-chicken",
+      "name": "Big Chicken",
+      "grade": "bronze",
+      "description": "Meet Ares.",
+      "hidden": true,
+      "tags": ["story"],
+      "missable": false,
+      "afterStory": true,
+      "where": "Main story",
+      "when": "When the story reaches Ares",
+      "unlock": "Story-related and can't be missed.",
+      "steps": [
+        "Follow the main story.",
+        "The trophy unlocks automatically when you meet Ares."
+      ],
+      "sources": ["powerpyx-ifr", "platpursuit-ifr"]
+    },
+    {
+      "id": "goddess-of-wisdom",
+      "name": "Goddess of Wisdom",
+      "grade": "bronze",
+      "description": "Complete Athena's Questline.",
+      "hidden": true,
+      "tags": ["story"],
+      "missable": false,
+      "afterStory": true,
+      "where": "Main story",
+      "when": "End of Athena's questline",
+      "unlock": "Story-related and can't be missed.",
+      "steps": [
+        "Finish every quest in Athena's questline.",
+        "The trophy unlocks automatically."
+      ],
+      "sources": ["powerpyx-ifr", "platpursuit-ifr"]
+    },
+    {
+      "id": "god-of-the-forge",
+      "name": "God of the Forge",
+      "grade": "bronze",
+      "description": "Complete Hephaistos's Questline.",
+      "hidden": true,
+      "tags": ["story"],
+      "missable": false,
+      "afterStory": true,
+      "where": "Main story",
+      "when": "End of Hephaistos's questline",
+      "unlock": "Story-related and can't be missed.",
+      "steps": [
+        "Finish every quest in Hephaistos's questline.",
+        "The trophy unlocks automatically."
+      ],
+      "sources": ["powerpyx-ifr", "platpursuit-ifr"]
+    },
+    {
+      "id": "god-of-war",
+      "name": "God of War",
+      "grade": "bronze",
+      "description": "Complete Ares's Questline.",
+      "hidden": true,
+      "tags": ["story"],
+      "missable": false,
+      "afterStory": true,
+      "where": "Main story",
+      "when": "End of Ares's questline",
+      "unlock": "Story-related and can't be missed.",
+      "steps": [
+        "Finish every quest in Ares's questline.",
+        "The trophy unlocks automatically. Ares's fortress in War's Den, home of the Mythical Monster Kottos, opens as you progress this questline."
+      ],
+      "sources": ["powerpyx-ifr", "platpursuit-ifr", "thegamer-bosses"]
+    },
+    {
+      "id": "down-in-flames",
+      "name": "Down in Flames",
+      "grade": "bronze",
+      "description": "Complete Phosphor's questline.",
+      "hidden": true,
+      "tags": ["story"],
+      "missable": false,
+      "afterStory": true,
+      "where": "Phosphor's quests",
+      "when": "Alongside the gods' questlines",
+      "unlock": "After you rescue Phosphor, complete the quests Phosphor gives you. They're marked on the map.",
+      "steps": [
+        "Rescue Phosphor in the story ([[from-the-ashes]]).",
+        "Complete each of Phosphor's quests as they appear on the map.",
+        "The trophy unlocks when the last one is done."
+      ],
+      "sources": ["powerpyx-ifr"]
+    },
+    {
+      "id": "whos-the-boss",
+      "name": "Who's the Boss?",
+      "grade": "silver",
+      "description": "Defeat the Mythical Monster bosses.",
+      "hidden": true,
+      "tags": ["combat", "exploration"],
+      "missable": false,
+      "afterStory": true,
+      "where": "One boss in each of four regions",
+      "when": "After Ares's questline opens his fortress",
+      "prerequisites": ["Enough progress in Ares's questline to open his fortress (for Kottos)."],
+      "unlock": "Defeat all four Mythical Monsters in the open world. The versions of these monsters you fight inside god vaults don't count.",
+      "steps": [
+        "**Ozomene the Harpy**, Valley of Eternal Spring: on a stone island west of the mainland with a wind cyclone at its peak. Climb round to the back to start the fight. Athena's questline also sends you here; beating her earlier doesn't break that quest.",
+        "**Medusa the Gorgon**, Grove of Kleos: at a temple on the foggy island in the northwest, among dead trees.",
+        "**Polyphemos the Cyclops**, the Forgelands: on the island in the northeast with a large circular arena, surrounded by smaller islands and floating purple crystals.",
+        "**Kottos the Hekatonchires**, War's Den: on the roof of the tallest building in Ares's fortress, in the southeast. The fortress gates open once you're far enough into Ares's questline."
+      ],
+      "tips": [
+        "Ozomene: use Herakles's Leap (**R1+Triangle**) to reach her in the air, and follow her to the top of the island once she's weakened.",
+        "Medusa: she turns to stone and can't be damaged until she changes back. Parry her orbs, and keep moving when she covers her eyes so her lasers don't petrify you. Lock on (**R3**), because she teleports often.",
+        "Polyphemos: his slams send out shockwaves and leave damaging purple pools. Perfect dodges slow time and open him up.",
+        "Kottos: his rocks can stun-lock you. Attack from under his legs and move away when he slams the ground."
+      ],
+      "sources": ["thegamer-bosses", "platget-bosses", "powerpyx-ifr"]
+    },
+    {
+      "id": "last-hero-standing",
+      "name": "Last Hero Standing",
+      "grade": "silver",
+      "description": "Defeat all Wraiths in their lairs.",
+      "tags": ["combat", "exploration"],
+      "missable": false,
+      "afterStory": true,
+      "where": "Four Wraith lairs",
+      "when": "Once each lair appears on your map",
+      "unlock": "There are four Wraiths: corrupted versions of the heroes Achilles, Atalanta, Odysseus and Herakles. Each lair appears on your map after you meet that Wraith in its region. Defeat all four inside their lairs.",
+      "steps": [
+        "**Achilles**: Valley of Eternal Spring, near a river.",
+        "**Atalanta**: north of the Grove of Kleos, near a large lake.",
+        "**Odysseus**: the Forgelands, close to the Forge of the Gods.",
+        "**Herakles**: War's Den, northwest of the statue of Ares.",
+        "Each lair has a few simple puzzles before the fight. Each Wraith drops a crest; keep all four for Hermes's **Legendary or Bust** quest ([[servant-to-the-gods]])."
+      ],
+      "tips": [
+        "Achilles: dodge his heavy attacks, which can't be blocked. Block his normal attack at the right moment to stun him, and watch for his long-range spear.",
+        "Atalanta: she fights with a hard-hitting bear. Beating her ends the fight, but you may need to deal with the bear first. Jump over her bow sweep.",
+        "Odysseus: he teleports, summons weak clones and charges out of portals. Attack while he isn't teleporting and watch for his spinning swords.",
+        "Herakles: slow, but his attacks can't be blocked. He glows red before most of them, so dodge and counter.",
+        "Wraiths in their lairs also count towards a task on Hermes's board ([[more-than-twelve-labours]])."
+      ],
+      "sources": ["thegamer-wraiths", "powerpyx-ifr", "tt-twelve-labours"]
+    },
+    {
+      "id": "servant-to-the-gods",
+      "name": "Servant to the Gods",
+      "grade": "silver",
+      "description": "Complete the gods' side questlines.",
+      "tags": ["side-quest"],
+      "missable": false,
+      "afterStory": true,
+      "where": "Side quests from the gods",
+      "when": "After all four Wraiths are beaten",
+      "prerequisites": ["All four Wraith crests (for Legendary or Bust).", "Progress in Hephaistos's questline (for some of his and Ares's side quests)."],
+      "unlock": "Each god gives you side quests once you've freed them, and they're always marked on the map. Finish them all, including Hermes's Legendary or Bust.",
+      "steps": [
+        "Do every side quest the gods offer. Talk to Ares a second time to get his.",
+        "Athena's side quest sends you after Ozomene the Harpy (see [[whos-the-boss]]).",
+        "Some side quests (a hidden area for Hephaistos, and one of Ares's armour quests) only open once you're further into Hephaistos's questline.",
+        "Defeat all four Wraiths in their lairs ([[last-hero-standing]]), then place their crests on the pedestal at the secret door at the base of Athena's statue. This starts **Legendary or Bust**, a vault with no puzzles. Finish it."
+      ],
+      "mistakes": [
+        "Expecting the trophy after the four gods' side quests alone. Sources say Hermes's Legendary or Bust is part of it too."
+      ],
+      "sources": ["powerpyx-ifr", "steam-100-ifr", "thegamer-wraiths", "platget-bosses"]
+    },
+    {
+      "id": "hadess-new-neighbor",
+      "name": "Hades's New Neighbor",
+      "grade": "silver",
+      "description": "Complete 25 Vaults of Tartaros.",
+      "tags": ["exploration", "challenge"],
+      "missable": false,
+      "afterStory": true,
+      "where": "Vaults of Tartaros across the island",
+      "when": "Throughout the game",
+      "unlock": "Complete any 25 Vaults of Tartaros. There are far more than 25 on the island.",
+      "steps": [
+        "Use Far Sight (**R3**) from high ground to spot vault entrances, and mark them with **R2**.",
+        "Complete vaults as you explore until you've done 25."
+      ],
+      "tips": [
+        "Hermes's board has vault tasks too, including three hard vaults (three skulls on the map) and the ten Molten Fragments from Arena Vaults. Do those vaults first."
+      ],
+      "mistakes": [
+        "Finishing trap vaults before you have [[look-no-hands]]."
+      ],
+      "sources": ["powerpyx-ifr", "tt-twelve-labours"]
+    },
+    {
+      "id": "more-than-twelve-labours",
+      "name": "More than Twelve Labours",
+      "grade": "silver",
+      "description": "Complete 36 tasks from Hermes's Heroic Tasks Board.",
+      "tags": ["side-quest", "grind"],
+      "missable": false,
+      "afterStory": true,
+      "where": "Hermes's Heroic Tasks Board, Hall of the Gods",
+      "when": "Throughout the game",
+      "unlock": "Finish every task on the left side of the board: 10 Elimination, 8 Vaults of Tartaros, 10 Treasure and 8 Myth Challenge. The daily and weekly tasks on the right side don't count.",
+      "steps": [
+        "**Elimination**: kill counts (animals, Soldiers of the Dead, mythical creatures and general enemies), three lieutenants, three Wraiths in their lairs, and all four Mythical Monsters.",
+        "**Vaults of Tartaros**: vault completions, three hard vaults (three skulls on the map), and all ten Molten Fragments from Arena Vaults.",
+        "**Treasure**: Ambrosia, taming mounts, opening normal, guarded and Night chests, and all ten Midnight Fragments from Night Chests.",
+        "**Myth Challenge**: Lyre, Nike's Run, Odysseus's Axes (shoot an arrow through the axes to light a pyre), Constellation and Fresco (rearrange tiles into a picture) challenges.",
+        "Return to the board to claim each finished task."
+      ],
+      "tips": [
+        "Some Elimination tasks only count kills made after the task is available. Check the board early and often so ordinary fights count."
+      ],
+      "mistakes": [
+        "Spending time on the daily and weekly tasks. They don't count towards the 36."
+      ],
+      "sources": ["tt-twelve-labours", "powerpyx-ifr"]
+    },
+    {
+      "id": "fenyx-the-horseman",
+      "name": "Fenyx the Horseman",
+      "grade": "silver",
+      "description": "Tame all mounts.",
+      "tags": ["collectible", "exploration"],
+      "missable": false,
+      "afterStory": true,
+      "where": "Across the island",
+      "when": "Throughout the game",
+      "unlock": "Tame all 25 mounts.",
+      "steps": [
+        "Green stars on the map mark where mounts have been sighted. They roam, so search around each marker.",
+        "Approach slowly (PowerPyx uses **Circle**), then press **X** at the prompt to tame.",
+        "Repeat for all 25."
+      ],
+      "tips": [
+        "Taming also counts towards Treasure tasks on Hermes's board."
+      ],
+      "sources": ["powerpyx-ifr", "tt-twelve-labours"]
+    },
+    {
+      "id": "ornithology",
+      "name": "Ornithology",
+      "grade": "silver",
+      "description": "Acquire all Phoenix skins.",
+      "tags": ["collectible", "combat"],
+      "missable": false,
+      "afterStory": true,
+      "where": "Legendary creatures in the open world",
+      "when": "Throughout the game",
+      "unlock": "12 Phoenix skins come from defeating the Legendary Monsters (Mystical Creatures) in the open world. The rest come automatically from the story and Hermes's challenges.",
+      "steps": [
+        "Find and defeat all 12 Legendary creatures across the regions.",
+        "Finish the story and keep working through Hermes's board for the remaining skins."
+      ],
+      "sources": ["powerpyx-ifr"]
+    },
+    {
+      "id": "wing-nut",
+      "name": "Wing Nut",
+      "grade": "silver",
+      "description": "Acquire all Wings.",
+      "tags": ["collectible", "combat"],
+      "missable": false,
+      "afterStory": true,
+      "where": "Lieutenants, Fresco Challenges and Ikaros's Workshop",
+      "when": "Throughout the game",
+      "unlock": "Most wings drop from lieutenant bosses in the open world. The Wings of Dawnlight Revels come from completing the Fresco Challenges and visiting Ikaros's Workshop.",
+      "steps": [
+        "Defeat every lieutenant in the open world. Each one drops wings.",
+        "Complete the Fresco Challenges, then visit Ikaros's Workshop for the Wings of Dawnlight Revels."
+      ],
+      "sources": ["powerpyx-ifr"]
+    },
+    {
+      "id": "logs-and-monsters",
+      "name": "Logs and Monsters",
+      "grade": "bronze",
+      "description": "Chop down 100 large trees.",
+      "tags": ["grind"],
+      "missable": false,
+      "afterStory": true,
+      "where": "Anywhere with trees",
+      "when": "Throughout the game",
+      "unlock": "Fell 100 large trees with your axe.",
+      "steps": [
+        "Use **R2** axe attacks on ordinary large trees until they fall.",
+        "Keep going as you explore until you've felled 100."
+      ],
+      "tips": [
+        "Chop trees with a glowing ring at the base first: they often drop Golden Amber for [[potion-professional]]."
+      ],
+      "mistakes": [
+        "Hacking at the very thick trees. They can't be felled."
+      ],
+      "sources": ["powerpyx-ifr", "gamerevolution-amber"]
+    },
+    {
+      "id": "birds-eye-view",
+      "name": "Bird's-Eye View",
+      "grade": "bronze",
+      "description": "Unfog the whole map.",
+      "tags": ["exploration"],
+      "missable": false,
+      "afterStory": true,
+      "where": "Every region",
+      "when": "Throughout the game",
+      "unlock": "Clear the fog from the entire map by activating every sync point.",
+      "steps": [
+        "Activate every sync point as you explore each region.",
+        "If fog remains, check the Gates of Tartaros. PowerPyx says the last sync point is on the southern peak of the volcano there."
+      ],
+      "sources": ["powerpyx-ifr"]
+    },
+    {
+      "id": "to-good-health",
+      "name": "To Good Health",
+      "grade": "silver",
+      "description": "Fully upgrade your Health.",
+      "tags": ["collectible"],
+      "missable": false,
+      "afterStory": true,
+      "where": "Ambrosia across the island",
+      "when": "Throughout the game",
+      "unlock": "Spend Ambrosia until health is fully upgraded. There's more Ambrosia in the world than you need.",
+      "steps": [
+        "Use Far Sight (**R3**) to spot Ambrosia and mark it (**R2**).",
+        "Collect it as you explore. Tasks on Hermes's board also reward some.",
+        "Spend it on health upgrades until they're maxed."
+      ],
+      "sources": ["powerpyx-ifr"]
+    },
+    {
+      "id": "fully-charged",
+      "name": "Fully Charged",
+      "grade": "silver",
+      "description": "Fully upgrade your Stamina.",
+      "tags": ["collectible"],
+      "missable": false,
+      "afterStory": true,
+      "where": "Vaults of Tartaros",
+      "when": "Throughout the game",
+      "unlock": "Spend Zeus's Lightning until stamina is fully upgraded.",
+      "steps": [
+        "Collect Zeus's Lightning from vault rewards and the larger story vaults. Hermes's tasks also reward some.",
+        "Spend it on stamina upgrades until they're maxed."
+      ],
+      "sources": ["powerpyx-ifr"]
+    },
+    {
+      "id": "show-your-moves",
+      "name": "Show Your Moves",
+      "grade": "bronze",
+      "description": "Fully upgrade the Skills tree.",
+      "tags": ["grind"],
+      "missable": false,
+      "afterStory": true,
+      "where": "Skills menu",
+      "when": "Late game",
+      "unlock": "Buy every skill.",
+      "steps": [
+        "Earn coins from challenges, such as running challenges and Constellations.",
+        "Spend them on skills until the whole tree is bought."
+      ],
+      "sources": ["powerpyx-ifr"]
+    },
+    {
+      "id": "powered-up",
+      "name": "Powered Up",
+      "grade": "bronze",
+      "description": "Fully upgrade the Godly Powers tree.",
+      "tags": ["grind"],
+      "missable": false,
+      "afterStory": true,
+      "where": "Godly Powers menu",
+      "when": "Late game",
+      "unlock": "Buy every Godly Power upgrade.",
+      "steps": [
+        "Earn coins from challenges, such as running challenges and Constellations.",
+        "Spend them on Godly Powers until the whole tree is bought."
+      ],
+      "sources": ["powerpyx-ifr"]
+    },
+    {
+      "id": "weapon-master",
+      "name": "Weapon Master",
+      "grade": "bronze",
+      "description": "Fully upgrade one weapon to its final tier.",
+      "tags": ["grind"],
+      "missable": false,
+      "afterStory": true,
+      "where": "Forge of Hephaistos",
+      "when": "Mid to late game",
+      "unlock": "Upgrade any one weapon all the way.",
+      "steps": [
+        "Collect coloured currency from chests, fights and shard clusters.",
+        "Pick one weapon and put everything into it at the Forge until it reaches its final tier."
+      ],
+      "sources": ["powerpyx-ifr"]
+    },
+    {
+      "id": "armed-and-dangerous",
+      "name": "Armed and Dangerous",
+      "grade": "gold",
+      "description": "Fully upgrade everything at the Forge of Hephaistos.",
+      "tags": ["grind"],
+      "missable": false,
+      "afterStory": true,
+      "where": "Forge of Hephaistos",
+      "when": "Late game",
+      "unlock": "Max out every upgrade the Forge offers. It takes a lot of resources.",
+      "steps": [
+        "Blue currency comes from chests and fights. Yellow, red and purple come from the other chest types.",
+        "Break every crystal cluster you pass for extra.",
+        "Use Far Sight (**R3**) and mark chests (**R2**) to find the ones you've missed.",
+        "Spend it all at the Forge until nothing is left to upgrade."
+      ],
+      "sources": ["powerpyx-ifr"]
+    },
+    {
+      "id": "potion-professional",
+      "name": "Potion Professional",
+      "grade": "bronze",
+      "description": "Fully upgrade the Potion tree.",
+      "tags": ["grind"],
+      "missable": false,
+      "afterStory": true,
+      "where": "Potion upgrades (the purple vase)",
+      "when": "Late game",
+      "unlock": "Upgrade every node of the Health, Attack, Defence and Stamina potions. Upgrades cost Golden Amber, about 308 in total.",
+      "steps": [
+        "Open ordinary chests as you explore. Each gives 3 Golden Amber; epic, guarded and Night chests give none.",
+        "Chop down trees with glowing particles at the base. They often drop Golden Amber.",
+        "Spend it at the purple vase, either in the open world or at your base in the Valley of Eternal Spring."
+      ],
+      "tips": [
+        "Farming spot: the groves of dead trees on the starting island. Clear one, move to the next, and the first respawns.",
+        "Another: the eastern Gates of Tartaros, full of charred trees. Chop them, quick-save from the inventory menu, reload, and repeat.",
+        "The Love's Embrace chest armour, from the Adonis's Fall vault in Tartaros, improves your ingredient yield."
+      ],
+      "mistakes": [
+        "Skipping ordinary chests. They're the fastest source, and collecting them as you go saves a long grind at the end."
+      ],
+      "sources": ["ta-potion-pro", "gamerevolution-amber", "powerpyx-ifr"]
+    },
+    {
+      "id": "the-floor-is-lava",
+      "name": "The Floor is Lava",
+      "grade": "bronze",
+      "description": "Glide a total of 1,000 meters in one go.",
+      "tags": ["exploration"],
+      "missable": false,
+      "afterStory": true,
+      "where": "Hephaistos's statue",
+      "when": "Once your stamina is well upgraded",
+      "prerequisites": ["Plenty of stamina, or stamina potions.", "The Glide Boost skill."],
+      "unlock": "Glide 1,000 metres without landing.",
+      "steps": [
+        "Climb Hephaistos's statue.",
+        "Jump off towards the canyon and glide.",
+        "Hold **Square** for Glide Boost, and drink stamina potions if you start running low."
+      ],
+      "sources": ["powerpyx-ifr"]
+    },
+    {
+      "id": "c-c-c-combo",
+      "name": "C-C-C-Combo",
+      "grade": "bronze",
+      "description": "Reach the final Combo stage.",
+      "tags": ["combat"],
+      "missable": false,
+      "afterStory": true,
+      "where": "Any large fight",
+      "when": "After Ares's questline, with skills upgraded",
+      "prerequisites": ["Ares's questline finished (PowerPyx)."],
+      "unlock": "Keep one combo going to the final stage, 84 hits.",
+      "steps": [
+        "Finish Ares's questline and upgrade your skills.",
+        "Find a large group of enemies.",
+        "Keep the combo alive to 84 hits. PowerPyx spams **L1+Square** to chain dashes between enemies."
+      ],
+      "tips": [
+        "Raising the difficulty makes enemies last longer, which keeps the combo going. The Steam guide suggests this."
+      ],
+      "sources": ["powerpyx-ifr", "steam-100-ifr"]
+    },
+    {
+      "id": "its-a-bird",
+      "name": "It's A Bird!",
+      "grade": "bronze",
+      "description": "Perform a 25 hit combo while in air.",
+      "tags": ["combat"],
+      "missable": false,
+      "afterStory": true,
+      "where": "Any fight with flying enemies",
+      "when": "With skills upgraded",
+      "prerequisites": ["Skills fully or mostly upgraded."],
+      "unlock": "Land 25 hits in one combo without touching the ground.",
+      "steps": [
+        "Find a flying enemy.",
+        "Pull yourself up to it with **L1+Triangle**.",
+        "Spam **L1+Square** to keep attacking in the air until the combo reaches 25."
+      ],
+      "sources": ["powerpyx-ifr"]
+    },
+    {
+      "id": "brother-battle",
+      "name": "Brother Battle",
+      "grade": "bronze",
+      "description": "Defeat Ligyron.",
+      "hidden": true,
+      "tags": ["story", "combat"],
+      "missable": false,
+      "afterStory": true,
+      "where": "Main story",
+      "when": "Late in the story",
+      "unlock": "Story-related and can't be missed.",
+      "steps": [
+        "Follow the main story to the fight with Ligyron.",
+        "Defeat him. The trophy unlocks automatically."
+      ],
+      "sources": ["powerpyx-ifr", "platpursuit-ifr"]
+    },
+    {
+      "id": "tippy-top",
+      "name": "Tippy-Top",
+      "grade": "bronze",
+      "description": "Reach the highest point on the island.",
+      "tags": ["exploration"],
+      "missable": false,
+      "afterStory": true,
+      "where": "The peak above Ligyron's arena",
+      "when": "Right after beating Ligyron",
+      "prerequisites": ["Story progress past Ligyron."],
+      "unlock": "The highest point opens up through the story, so it can't be reached before you beat your brother.",
+      "steps": [
+        "Defeat Ligyron.",
+        "Climb to the very top of the boss arena.",
+        "If you've already left, fast travel back and climb up."
+      ],
+      "sources": ["powerpyx-ifr", "steam-100-ifr"]
+    },
+    {
+      "id": "messenger-of-the-gods",
+      "name": "Messenger of the Gods",
+      "grade": "bronze",
+      "description": "Complete Hermes's Questline.",
+      "hidden": true,
+      "tags": ["story"],
+      "missable": false,
+      "afterStory": true,
+      "where": "Main story",
+      "when": "Late in the story",
+      "unlock": "Story-related and can't be missed.",
+      "steps": [
+        "Complete Hermes's questline.",
+        "The trophy unlocks automatically."
+      ],
+      "sources": ["powerpyx-ifr", "platpursuit-ifr"]
+    },
+    {
+      "id": "mission-complete",
+      "name": "Mission Complete",
+      "grade": "gold",
+      "description": "Defeat Typhon.",
+      "hidden": true,
+      "tags": ["story"],
+      "missable": false,
+      "where": "The final dungeon",
+      "when": "End of the story",
+      "unlock": "Defeat the final boss. Entering the volcano for the final dungeon is the point of no return.",
+      "steps": [
+        "Make a manual save when the game warns you that you're about to enter the final dungeon.",
+        "Enter the volcano and defeat Typhon.",
+        "After the credits, reload the pre-volcano save to keep exploring."
+      ],
+      "sources": ["powerpyx-ifr", "gamefaqs-volcano", "thegamer-after-game"]
+    },
+    {
+      "id": "the-end",
+      "name": "The End",
+      "grade": "platinum",
+      "description": "Obtain every Trophy.",
+      "tags": ["misc"],
+      "missable": false,
+      "unlock": "Earn the other 50 base-game trophies. DLC trophies aren't needed.",
+      "steps": [
+        "Compare your trophy list with the checklist here.",
+        "Reload your pre-volcano save if anything is missing."
+      ],
+      "sources": ["powerpyx-ifr", "platpursuit-ifr"]
+    },
+    {
+      "id": "better-luck-next-time",
+      "name": "Better Luck Next Time",
+      "grade": "bronze",
+      "description": "Fail the initiation trial",
+      "dlc": "a-new-god",
+      "tags": ["challenge"],
+      "missable": true,
+      "missableNote": "Only counts on your first attempt at the Trial of Hermes, the first vault in A New God. If you've already completed that trial, TheGamer's advice is to start a new game, since the trial comes right at the beginning.",
+      "afterStory": false,
+      "where": "Trial of Hermes",
+      "when": "Your first attempt at the first vault",
+      "unlock": "Fail the opening Trial of Hermes on purpose.",
+      "steps": [
+        "Start A New God. Hermes challenges you to the Trial of Hermes soon after.",
+        "As the trial begins, run off the edge and fall to your death."
+      ],
+      "sources": ["thegamer-new-god", "steam-100-ifr"]
+    },
+    {
+      "id": "zoomies",
+      "name": "Zoomies",
+      "grade": "bronze",
+      "description": "Master the art of fast transportation",
+      "dlc": "a-new-god",
+      "tags": ["challenge"],
+      "missable": false,
+      "afterStory": null,
+      "where": "Trial of Rampage, Ares's area of Olympos",
+      "when": "One of the first two vaults in Ares's area",
+      "unlock": "Complete the Trial of Rampage.",
+      "steps": [
+        "Go to Ares's area of Olympos.",
+        "Enter the Trial of Rampage and use its portals to move blocks and other objects through the puzzles.",
+        "Complete the vault."
+      ],
+      "sources": ["thegamer-new-god"]
+    },
+    {
+      "id": "wardrobe-warrior",
+      "name": "Wardrobe Warrior",
+      "grade": "bronze",
+      "description": "Find every piece of gear",
+      "dlc": "a-new-god",
+      "tags": ["collectible"],
+      "missable": false,
+      "afterStory": null,
+      "where": "The initiation trials",
+      "when": "Story progress",
+      "unlock": "Each initiation trial rewards one piece of gear. Collect all five.",
+      "steps": [
+        "**Vestment of the Horai**: Trial of Hermes.",
+        "**Crown of the Horai**: Trial of Love's Initiation (Aphrodite).",
+        "**Sword of Trials**: Trial of Rage's Initiation (Ares).",
+        "**Bow of Trials**: Trial of Wisdom's Initiation (Athena).",
+        "**Axe of Trials**: Trial of Artistry's Initiation (Hephaistos)."
+      ],
+      "sources": ["thegamer-new-god"]
+    },
+    {
+      "id": "overblessed",
+      "name": "Overblessed",
+      "grade": "silver",
+      "description": "Acquire all blessings",
+      "dlc": "a-new-god",
+      "tags": ["story"],
+      "missable": false,
+      "afterStory": null,
+      "where": "All 24 vaults",
+      "when": "Story progress",
+      "unlock": "Complete all six vaults for each of the four gods to earn every blessing.",
+      "steps": [
+        "Finish all six vaults for Aphrodite, Ares, Athena and Hephaistos.",
+        "The trophy unlocks with the last blessing."
+      ],
+      "sources": ["thegamer-new-god"]
+    },
+    {
+      "id": "tested-and-approved",
+      "name": "Tested and Approved",
+      "grade": "silver",
+      "description": "Earn your promotion",
+      "dlc": "a-new-god",
+      "tags": ["story"],
+      "missable": false,
+      "afterStory": null,
+      "where": "A New God story",
+      "when": "End of the expansion",
+      "unlock": "Story-related and can't be missed.",
+      "steps": [
+        "Finish the A New God storyline.",
+        "Watch the ending cutscene. The trophy unlocks."
+      ],
+      "sources": ["thegamer-new-god"]
+    },
+    {
+      "id": "putting-in-overtime",
+      "name": "Putting in Overtime",
+      "grade": "gold",
+      "description": "Complete the secret trial",
+      "dlc": "a-new-god",
+      "tags": ["collectible", "challenge"],
+      "missable": false,
+      "afterStory": null,
+      "where": "All 24 vaults, then the secret trial",
+      "when": "After meeting Zeus",
+      "prerequisites": ["All 24 relics, one from the optional chest in each vault."],
+      "unlock": "Collect the relic from the optional chest in each of the 24 vaults, hand them to Hermes, then complete the secret trial it unlocks.",
+      "steps": [
+        "In every vault, find and open the optional chest before you complete the vault. It holds a relic.",
+        "After you meet Zeus, take Hermes's side quest **It belongs in a Museum... er... Pantheon!**",
+        "Return all 24 relics to Hermes. This unlocks the secret trial.",
+        "Complete the secret trial."
+      ],
+      "mistakes": [
+        "Completing a vault without its chest. You'll have to replay that vault to get the relic."
+      ],
+      "sources": ["thegamer-new-god", "steam-100-ifr"]
+    },
+    {
+      "id": "lighter-than-air",
+      "name": "Lighter Than Air",
+      "grade": "silver",
+      "description": "Use Air Rings 20 times or more without touching the ground",
+      "dlc": "myths-of-the-eastern-realm",
+      "tags": ["challenge"],
+      "missable": true,
+      "missableNote": "Air Rings only appear inside the Ruins of Heaven, not in the open world. Once you've completed and sealed every Ruin of Heaven, you can't earn this. Do it before you finish the last Ruin.",
+      "afterStory": null,
+      "where": "Tutelage of the Black Emperor (a Ruin of Heaven)",
+      "when": "Before you complete the last Ruin of Heaven",
+      "unlock": "Pull yourself between Air Rings 20 or more times in a row without landing.",
+      "steps": [
+        "Enter the Tutelage of the Black Emperor Ruin of Heaven. It has lots of Air Rings, each with a stamina orb beneath it.",
+        "Target an Air Ring and pull yourself to it, then chain to the next one before you land.",
+        "Keep going until you've used 20 in one chain. Grab the stamina orbs as you pass."
+      ],
+      "tips": [
+        "The Steam guide finds it easiest during Gong Gong's questline. Other Ruins of Heaven have Air Rings too."
+      ],
+      "sources": ["thegamer-myths", "steam-100-ifr"]
+    },
+    {
+      "id": "divine",
+      "name": "Divine",
+      "grade": "bronze",
+      "description": "Complete all Ruins of Heaven",
+      "dlc": "myths-of-the-eastern-realm",
+      "tags": ["exploration", "challenge"],
+      "missable": false,
+      "afterStory": null,
+      "where": "The five Ruins of Heaven",
+      "when": "After Lighter Than Air",
+      "unlock": "Complete all five Ruins of Heaven. The story takes you through some of them, but not all.",
+      "steps": [
+        "Complete each of the five Ruins of Heaven.",
+        "You can skip the optional chests inside the Ruins."
+      ],
+      "mistakes": [
+        "Counting the gate in the bottom-left of the map. It's the entrance to the final boss and isn't one of the five.",
+        "Sealing the last Ruin before you've earned [[lighter-than-air]]."
+      ],
+      "sources": ["thegamer-myths", "steam-100-ifr"]
+    },
+    {
+      "id": "stuff-of-legends",
+      "name": "Stuff of Legends",
+      "grade": "silver",
+      "description": "Complete all Myth Challenges",
+      "dlc": "myths-of-the-eastern-realm",
+      "tags": ["challenge"],
+      "missable": false,
+      "afterStory": null,
+      "where": "Across the Myths map",
+      "when": "Throughout the expansion",
+      "unlock": "Complete all 17 Myth Challenges. One is part of the main story.",
+      "steps": [
+        "**Sunchaser**: reach the finish before time runs out, like the base game's running challenges.",
+        "**Bagua**: find the blue spheres and recreate the pattern shown, like Constellations.",
+        "**Mural**: hit the panels in the right order to reveal the picture.",
+        "**Musical**: find four bells and ring them in order."
+      ],
+      "tips": [
+        "The open-world chests aren't needed for any trophy, and neither are the optional chests inside the Ruins of Heaven."
+      ],
+      "sources": ["thegamer-myths", "steam-100-ifr"]
+    },
+    {
+      "id": "the-last-warlord",
+      "name": "The Last Warlord",
+      "grade": "bronze",
+      "description": "Complete Gong Gong's Questline",
+      "dlc": "myths-of-the-eastern-realm",
+      "tags": ["story"],
+      "missable": false,
+      "afterStory": null,
+      "where": "Myths story",
+      "when": "When Gong Gong reclaims his flames",
+      "unlock": "Story-related and can't be missed.",
+      "steps": [
+        "Follow Gong Gong's questline.",
+        "The trophy unlocks once he reclaims his flames."
+      ],
+      "sources": ["thegamer-myths"]
+    },
+    {
+      "id": "the-goddess-of-creation",
+      "name": "The Goddess of Creation",
+      "grade": "bronze",
+      "description": "Complete Nuwa's Questline",
+      "dlc": "myths-of-the-eastern-realm",
+      "tags": ["story"],
+      "missable": false,
+      "afterStory": null,
+      "where": "Myths story",
+      "when": "As you approach the final battle",
+      "unlock": "Story-related and can't be missed.",
+      "steps": [
+        "Follow Nuwa's questline.",
+        "The trophy unlocks as you head into the final boss battle with Tao Wu."
+      ],
+      "sources": ["thegamer-myths"]
+    },
+    {
+      "id": "balanced",
+      "name": "Balanced",
+      "grade": "gold",
+      "description": "Defeat Tao Wu",
+      "dlc": "myths-of-the-eastern-realm",
+      "tags": ["story", "combat"],
+      "missable": false,
+      "afterStory": null,
+      "where": "Final boss",
+      "when": "End of the expansion",
+      "unlock": "Story-related and can't be missed. Defeat the final boss, Tao Wu.",
+      "steps": [
+        "Before the final boss, the game warns you and makes a save. Finish any side content first, or reload that save afterwards.",
+        "Defeat Tao Wu."
+      ],
+      "sources": ["thegamer-myths", "steam-100-ifr"]
+    },
+    {
+      "id": "ash-the-leech",
+      "name": "Ash the Leech",
+      "grade": "bronze",
+      "description": "Gain 10 health chunks using Heroic Gifts",
+      "dlc": "the-lost-gods",
+      "tags": ["combat"],
+      "missable": false,
+      "afterStory": null,
+      "where": "Throughout The Lost Gods",
+      "when": "From the start",
+      "unlock": "Some Heroic Gift effects restore health. Regain 10 health chunks in total with them.",
+      "steps": [
+        "Equip Heroic Gift effects that restore health as soon as you have them.",
+        "Use them through the expansion. The count builds up as you play."
+      ],
+      "sources": ["steam-100-ifr", "platpursuit-ifr"]
+    },
+    {
+      "id": "masochist",
+      "name": "Masochist",
+      "grade": "bronze",
+      "description": "Lose 20 health chunks from using Heroic Gifts",
+      "dlc": "the-lost-gods",
+      "tags": ["combat"],
+      "missable": false,
+      "afterStory": null,
+      "where": "Throughout The Lost Gods",
+      "when": "From the start",
+      "unlock": "Some Heroic Gift effects cost health to use. Lose 20 health chunks in total to them.",
+      "steps": [
+        "Equip Heroic Gift effects that cost health as soon as you have them.",
+        "Use them through the expansion. The count builds up as you play."
+      ],
+      "tips": [
+        "Pair it with [[ash-the-leech]], so the health you spend comes back."
+      ],
+      "sources": ["steam-100-ifr", "platpursuit-ifr"]
+    },
+    {
+      "id": "stomp-a-mole",
+      "name": "Stomp-A-Mole",
+      "grade": "bronze",
+      "description": "Eject 10 Abas from the ground",
+      "dlc": "the-lost-gods",
+      "tags": ["combat"],
+      "missable": false,
+      "afterStory": null,
+      "where": "Demeter's quest, or anywhere with Abas",
+      "when": "As soon as you have Catastrophe Quake",
+      "prerequisites": ["The Catastrophe Quake ability, from Demeter."],
+      "unlock": "Abas are enemies that hide underground. Knock 10 out of the ground with Catastrophe Quake. The count is cumulative.",
+      "steps": [
+        "During one of Demeter's quests, talk to her to unlock Catastrophe Quake. She then asks you to use it on the Abas nearby.",
+        "Use Catastrophe Quake to knock an Abas out of the ground.",
+        "Back off instead of attacking. It burrows back underground.",
+        "Repeat until you've ejected 10."
+      ],
+      "tips": [
+        "If you've already left that area, there are plenty more Abas around the map."
+      ],
+      "sources": ["tt-stomp-a-mole", "steam-100-ifr"]
+    },
+    {
+      "id": "opportunist",
+      "name": "Opportunist",
+      "grade": "silver",
+      "description": "Unlock all Heroic Gifts",
+      "dlc": "the-lost-gods",
+      "tags": ["story", "side-quest"],
+      "missable": false,
+      "afterStory": null,
+      "where": "Story and nymph side quests",
+      "when": "Throughout the expansion",
+      "unlock": "Unlock all eleven Heroic Gifts. Most come from the story, and three come from nymphs' side quests.",
+      "steps": [
+        "Play through the story. It unlocks most of the Heroic Gifts.",
+        "Complete the side quests from the three nymphs. You're likely to meet all three during normal play."
+      ],
+      "sources": ["steam-100-ifr", "gamingtrend-lost-gods"]
+    },
+    {
+      "id": "full-house",
+      "name": "Full House",
+      "grade": "silver",
+      "description": "Fully upgrade your Gear",
+      "dlc": "the-lost-gods",
+      "tags": ["grind"],
+      "missable": false,
+      "afterStory": null,
+      "where": "Gear upgrades",
+      "when": "Late in the expansion",
+      "unlock": "Fully upgrade every piece of gear with coloured shards.",
+      "steps": [
+        "Collect coloured shards as you play.",
+        "Destroy every shard cluster in the open world. They're the main source of the scarce purple and yellow shards.",
+        "Spend them until all your gear is maxed."
+      ],
+      "sources": ["steam-100-ifr", "gamingtrend-lost-gods"]
+    },
+    {
+      "id": "the-ultimate-price",
+      "name": "The Ultimate Price",
+      "grade": "gold",
+      "description": "Make the Ultimate Offering",
+      "dlc": "the-lost-gods",
+      "tags": ["story"],
+      "missable": false,
+      "afterStory": null,
+      "where": "The Lost Gods story",
+      "when": "Main story",
+      "unlock": "Story-related. It unlocks when Ash makes the Ultimate Offering in the main story. Our sources don't say exactly when that happens.",
+      "steps": [
+        "Play through The Lost Gods' main story.",
+        "Make the Ultimate Offering when the story asks for it."
+      ],
+      "sources": ["steam-100-ifr", "platpursuit-ifr"]
+    }
+  ],
+  "images": [],
+  "sources": [
+    {
+      "id": "platpursuit-ifr",
+      "title": "Immortals Fenyx Rising trophies – Platinum Pursuit",
+      "url": "https://platpursuit.com/games/119357/",
+      "supports": "Official trophy names, descriptions and grades for the base game and all three DLC groups; separate PS5 and PS4 lists; community time to Platinum (about 81 hours).",
+      "checked": "2026-10-13"
+    },
+    {
+      "id": "psthc-ifr",
+      "title": "Immortals Fenyx Rising (PS5) trophy list – PSTHC",
+      "url": "https://www.psthc.fr/unjeu/immortals-fenyx-rising-ps5/liste-trophees.htm",
+      "supports": "Trophy grades and which 16 base-game trophies are hidden.",
+      "checked": "2026-10-13"
+    },
+    {
+      "id": "supercheats-ifr",
+      "title": "Trophies for Immortals Fenyx Rising – SuperCheats",
+      "url": "https://www.supercheats.com/immortals-fenyx-rising/trophies",
+      "supports": "Base-game grades and the 16 secret trophies.",
+      "checked": "2026-10-13"
+    },
+    {
+      "id": "powerpyx-ifr",
+      "title": "Immortals Fenyx Rising Trophy Guide & Roadmap – PowerPyx",
+      "url": "https://powerpyx.com/immortals-fenyx-rising-trophy-guide-roadmap",
+      "supports": "Difficulty (3/10), time (40–50 hours), one playthrough, the point of no return, the roadmap, and methods and controls for every base-game trophy.",
+      "checked": "2026-10-13"
+    },
+    {
+      "id": "steam-100-ifr",
+      "title": "100% Achievements Guide (KnightExcalibur) – Steam Community",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3437997027",
+      "supports": "Updated March 2025. Which traps count for Look, No Hands!, the side quests behind Servant to the Gods, Tippy-Top's story requirement, the combo difficulty tip, and methods for all three DLC packs. Steam showed a removal notice on the page when checked, so the link may not open.",
+      "checked": "2026-10-13"
+    },
+    {
+      "id": "ta-look-no-hands",
+      "title": "Look, No Hands! achievement – TrueAchievements",
+      "url": "https://i2.trueachievements.com/a316501/look-no-hands-achievement",
+      "supports": "The best trap vaults (Pot Ajar, Arena of Fortitude, Arena of Agility, Dolos's Stage of Trickery), that spikes and lasers count, and the weekly-vault fallback.",
+      "checked": "2026-10-13"
+    },
+    {
+      "id": "tt-twelve-labours",
+      "title": "More than Twelve Labours trophy – TrueTrophies",
+      "url": "https://i1.truetrophies.com/t332406/more-than-twelve-labours-trophy",
+      "supports": "The four task categories and their counts, task requirements, tasks that don't count retroactively, and that daily and weekly tasks don't count.",
+      "checked": "2026-10-13"
+    },
+    {
+      "id": "thegamer-bosses",
+      "title": "Immortals Fenyx Rising: Mythical Monster boss locations – TheGamer",
+      "url": "https://www.thegamer.com/immortals-fenyx-rising-guide-mythical-monster-bosses-locations/",
+      "supports": "The four Mythical Monsters and where they are, Kottos needing Ares's questline progress, and that vault versions don't count.",
+      "checked": "2026-10-13"
+    },
+    {
+      "id": "platget-bosses",
+      "title": "Immortals Fenyx Rising mythical boss guide – PlatGet",
+      "url": "https://platget.com/guides/immortals-fenyx-rising-mythical-boss-guide/",
+      "supports": "Boss locations and tactics, and that Athena's side quest leads to Ozomene.",
+      "checked": "2026-10-13"
+    },
+    {
+      "id": "thegamer-wraiths",
+      "title": "Immortals Fenyx Rising: Wraith lair locations – TheGamer",
+      "url": "https://www.thegamer.com/immortals-fenyx-rising-wraith-lair-locations-armor-bright-divinity/",
+      "supports": "The four Wraiths, their lair locations and tactics, and the crests that start Legendary or Bust.",
+      "checked": "2026-10-13"
+    },
+    {
+      "id": "ta-potion-pro",
+      "title": "Potion Professional achievement – TrueAchievements",
+      "url": "https://www.trueachievements.com/a316515/potion-professional-achievement",
+      "supports": "Golden Amber total (about 308), where to upgrade potions, and farming spots.",
+      "checked": "2026-10-13"
+    },
+    {
+      "id": "gamerevolution-amber",
+      "title": "Immortals Fenyx Rising: how to get golden amber – GameRevolution",
+      "url": "https://www.gamerevolution.com/?p=668413",
+      "supports": "Golden Amber only upgrades potions; 3 per ordinary chest and none from epic, guarded or Night chests; glowing trees drop it; tasks are claimed at the board.",
+      "checked": "2026-10-13"
+    },
+    {
+      "id": "gamefaqs-volcano",
+      "title": "Will I be able to continue to explore after I defeat Typhon? – GameFAQs",
+      "url": "https://gamefaqs.gamespot.com/ps4/266093-immortals-fenyx-rising/answers/580776-will-i-be-able-to-continue-to-explore-after-i-defeat-typhon",
+      "supports": "Entering the volcano locks you into the ending; the pre-volcano save is offered after the credits.",
+      "checked": "2026-10-13"
+    },
+    {
+      "id": "thegamer-after-game",
+      "title": "Immortals Fenyx Rising: things to do after beating the game – TheGamer",
+      "url": "https://www.thegamer.com/immortals-fenyx-rising-10-things-after-game/",
+      "supports": "The game saves at the point of no return before Typhon; New Game+ resets vaults, challenges and Hermes's board.",
+      "checked": "2026-10-13"
+    },
+    {
+      "id": "thegamer-new-god",
+      "title": "Immortals Fenyx Rising: A New God trophy guide – TheGamer",
+      "url": "https://www.thegamer.com/immortals-fenyx-rising-new-god-trophy-guide/",
+      "supports": "Methods for every A New God trophy, the 24 vaults and relic chests, the five gear pieces, and Better Luck Next Time only counting on the first attempt.",
+      "checked": "2026-10-13"
+    },
+    {
+      "id": "thegamer-myths",
+      "title": "Immortals Fenyx Rising: Myths of the Eastern Realm trophy guide – TheGamer",
+      "url": "https://www.thegamer.com/immortals-fenyx-rising-myths-of-the-eastern-realm-achievement-trophy-guide/",
+      "supports": "Methods for every Myths trophy, the five Ruins of Heaven, the 17 Myth Challenges, Lighter Than Air being missable, and how Constellation challenges work.",
+      "checked": "2026-10-13"
+    },
+    {
+      "id": "tt-stomp-a-mole",
+      "title": "Stomp-A-Mole trophy – TrueTrophies",
+      "url": "https://www.truetrophies.com/t353075/stompamole-trophy",
+      "supports": "Catastrophe Quake from Demeter, and the method for knocking Abas out of the ground repeatedly.",
+      "checked": "2026-10-13"
+    },
+    {
+      "id": "gamingtrend-lost-gods",
+      "title": "Immortals Fenyx Rising: The Lost Gods DLC review – Gaming Trend",
+      "url": "https://gamingtrend.com/reviews/zeusy-im-home-immortals-fenyx-rising-the-lost-gods-dlc-review",
+      "supports": "Eleven Heroic Gifts, gear upgrades, and saving that costs resources.",
+      "checked": "2026-10-13"
+    },
+    {
+      "id": "ubisoft-lost-gods",
+      "title": "Immortals Fenyx Rising – The Lost Gods – Ubisoft",
+      "url": "https://ubisoft.com/en-au/game/immortals-fenyx-rising/news-updates/1FI31Cfmdo7FlmJZbFLzJp/immortals-fenyx-rising-the-lost-gods",
+      "supports": "Release date (22 April 2021), Ash, the Pyrite Islands, and altars for saving, upgrades and fast travel.",
+      "checked": "2026-10-13"
+    },
+    {
+      "id": "rpgsite-season-pass",
+      "title": "Immortals Fenyx Rising post-launch and Season Pass outlined – RPG Site",
+      "url": "https://www.rpgsite.net/news/10503-immortals-fenyx-rising-post-launch-season-pass-outlined",
+      "supports": "What each DLC is about, and that all three are in the Season Pass and Gold Edition.",
+      "checked": "2026-10-13"
+    },
+    {
+      "id": "wikipedia-ifr",
+      "title": "Immortals Fenyx Rising – Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Immortals_Fenyx_Rising",
+      "supports": "Developer, release date (3 December 2020), story setup, the seven regions and DLC release dates.",
+      "checked": "2026-10-13"
+    }
+  ]
+}

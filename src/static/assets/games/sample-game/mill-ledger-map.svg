@@ -1,0 +1,71 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 750" width="1200" height="750" role="img" aria-labelledby="title desc">
+  <title id="title">Old Mill ledger page map</title>
+  <desc id="desc">Top-down diagram of the fictional Old Mill. Five numbered markers show the ledger pages in pickup order: 1 gatehouse desk, 2 bench by the well, 3 waterwheel housing, 4 grain loft, 5 cellar shelf.</desc>
+  <defs>
+    <pattern id="grass" width="24" height="24" patternUnits="userSpaceOnUse">
+      <path d="M0 24 L24 0" stroke="#2a1f1a" stroke-width="1"/>
+    </pattern>
+    <marker id="arrow" viewBox="0 0 10 10" refX="7" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M0 0 L10 5 L0 10 z" fill="#ffa66b"/>
+    </marker>
+  </defs>
+
+  <rect width="1200" height="750" fill="#120d0c"/>
+  <rect x="40" y="40" width="1120" height="670" rx="18" fill="url(#grass)" stroke="#3a2a22" stroke-width="2"/>
+
+  <!-- River and sluice -->
+  <path d="M860 40 C 900 200, 940 330, 980 420 S 1060 620, 1100 710 L 1160 710 L 1160 40 Z" fill="#14232b" stroke="#24414f" stroke-width="2"/>
+  <text x="1070" y="150" fill="#5f8797" font-family="Arial, Helvetica, sans-serif" font-size="22" text-anchor="middle">River</text>
+
+  <!-- Hedge line -->
+  <path d="M120 640 L120 180" stroke="#2f4a2a" stroke-width="22" stroke-linecap="round" stroke-dasharray="2 26"/>
+  <text x="150" y="420" fill="#7f9b77" font-family="Arial, Helvetica, sans-serif" font-size="20" transform="rotate(-90 150 420)" text-anchor="middle">Hedge line</text>
+
+  <!-- Gate -->
+  <rect x="200" y="670" width="160" height="16" rx="4" fill="#4a3a30"/>
+  <text x="280" y="660" fill="#c9b8aa" font-family="Arial, Helvetica, sans-serif" font-size="22" text-anchor="middle">Gate</text>
+
+  <!-- Gatehouse -->
+  <rect x="200" y="470" width="180" height="130" rx="8" fill="#241a16" stroke="#5a4538" stroke-width="2"/>
+  <text x="214" y="498" fill="#c9b8aa" font-family="Arial, Helvetica, sans-serif" font-size="20">Gatehouse</text>
+
+  <!-- Well -->
+  <circle cx="500" cy="360" r="46" fill="#1b2328" stroke="#4b5a63" stroke-width="2"/>
+  <text x="500" y="368" fill="#c9b8aa" font-family="Arial, Helvetica, sans-serif" font-size="22" text-anchor="middle">Well</text>
+  <rect x="440" y="430" width="120" height="18" rx="4" fill="#3d2e25"/>
+
+  <!-- Mill building -->
+  <rect x="560" y="90" width="300" height="230" rx="10" fill="#241a16" stroke="#7a5a45" stroke-width="3"/>
+  <text x="710" y="150" fill="#ece0d6" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="700" text-anchor="middle">Old Mill</text>
+  <text x="710" y="185" fill="#a8968a" font-family="Arial, Helvetica, sans-serif" font-size="18" text-anchor="middle">Loft above, cellar below</text>
+  <rect x="600" y="230" width="90" height="60" rx="6" fill="#2e221c" stroke="#5a4538"/>
+  <text x="645" y="250" fill="#a8968a" font-family="Arial, Helvetica, sans-serif" font-size="16" text-anchor="middle">Cellar</text>
+  <rect x="760" y="230" width="80" height="60" rx="6" fill="#2e221c" stroke="#5a4538"/>
+  <text x="800" y="250" fill="#a8968a" font-family="Arial, Helvetica, sans-serif" font-size="16" text-anchor="middle">Ladder</text>
+
+  <!-- Waterwheel -->
+  <circle cx="905" cy="300" r="58" fill="none" stroke="#7a5a45" stroke-width="10" stroke-dasharray="14 10"/>
+  <text x="905" y="395" fill="#c9b8aa" font-family="Arial, Helvetica, sans-serif" font-size="20" text-anchor="middle">Waterwheel</text>
+
+  <!-- Route -->
+  <path d="M280 662 L280 600 C 282 565 300 545 330 540 C 400 530 470 490 520 470 C 640 440 800 430 880 330 C 896 305 902 285 905 266 M890 220 C 870 180 840 150 820 138 M782 136 C 740 170 690 230 664 276" fill="none" stroke="#ffa66b" stroke-width="4" stroke-dasharray="12 10" marker-end="url(#arrow)" opacity="0.85"/>
+
+  <!-- Markers -->
+  <g font-family="Arial, Helvetica, sans-serif" font-weight="700" font-size="26" text-anchor="middle">
+    <circle cx="330" cy="540" r="24" fill="#ffa66b"/><text x="330" y="549" fill="#120d0c">1</text>
+    <circle cx="520" cy="470" r="24" fill="#ffa66b"/><text x="520" y="479" fill="#120d0c">2</text>
+    <circle cx="905" cy="240" r="24" fill="#ffa66b"/><text x="905" y="249" fill="#120d0c">3</text>
+    <circle cx="800" cy="120" r="24" fill="#ffa66b"/><text x="800" y="129" fill="#120d0c">4</text>
+    <circle cx="645" cy="292" r="24" fill="#ffa66b"/><text x="645" y="301" fill="#120d0c">5</text>
+  </g>
+
+  <!-- Legend -->
+  <g font-family="Arial, Helvetica, sans-serif" font-size="18" fill="#c9b8aa">
+    <rect x="70" y="60" width="300" height="170" rx="10" fill="#120d0c" fill-opacity="0.85" stroke="#3a2a22"/>
+    <text x="90" y="92" font-weight="700" fill="#ece0d6">Ledger pages</text>
+    <text x="90" y="122">1  Gatehouse desk</text>
+    <text x="90" y="148">2  Bench by the well</text>
+    <text x="90" y="174">3  Waterwheel housing</text>
+    <text x="90" y="200">4  Grain loft  ·  5  Cellar shelf</text>
+  </g>
+</svg>

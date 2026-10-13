@@ -1,0 +1,1371 @@
+{
+  "schemaVersion": 1,
+  "slug": "astro-bot",
+  "status": "complete",
+  "demo": false,
+  "title": "Astro Bot",
+  "edition": "All editions",
+  "platforms": ["PS5"],
+  "listNote": "This is the PS5 list, the only one. It has 44 base trophies plus 19 in four groups added by free updates: Stellar Speedway (6), Winter Wonder (3), Vicious Void (5) and Vicious Void 2 (5). None of the update trophies are needed for the Platinum.",
+  "releaseYear": 2024,
+  "developer": "Team Asobi",
+  "publisher": "Sony Interactive Entertainment",
+  "genres": ["Platformer"],
+  "summary": "Rebuild the PS5 mothership and rescue 300 bots across five galaxies. No missables and no difficulty settings: a collectathon finished off by the Great Master Challenge, a tough platforming gauntlet.",
+  "intro": [
+    "Space Bully Nebulax has ripped the CPU out of Astro's PS5-shaped mothership and scattered the crew. Astro crash-lands at Crash Site and heads out across five galaxies to recover the ship's parts and rescue 300 bots, many of them dressed as PlayStation and other game characters.",
+    "There are no missable trophies, no difficulty settings and no online trophies. PSTHC puts the Platinum at about 9 hours and 4/10; PowerPyx says about 15 hours and 3/10. Most of the work is finding every bot and puzzle piece, saving up about 15,000 coins for the Gatcha Lab, and setting up a few jokes between the cameo bots in Crash Site.",
+    "The hardest trophy is [[the-golden-bot]]: once you have every bot and puzzle piece, the Great Master Challenge is a three-minute platforming course where any death sends you back to the start. The four free update groups add speedruns, a festive level and ten very hard challenge levels."
+  ],
+  "lastUpdated": "2026-10-13",
+  "stats": {
+    "difficulty": { "value": 4, "sources": ["psthc-ab-guide"] },
+    "hours": { "min": 9, "max": 15, "sources": ["psthc-ab-guide", "powerpyx-ab"] },
+    "playthroughs": { "value": 1, "note": "Levels can be replayed from the galaxy map after the story, so nothing is missable. Replays also farm coins for the Gatcha Lab.", "sources": ["powerpyx-ab", "psthc-ab-guide"] },
+    "online": { "value": false, "note": "No online trophies.", "sources": ["psthc-ab-list", "powerpyx-ab"] }
+  },
+  "officialCounts": {
+    "base": { "platinum": 1, "gold": 2, "silver": 17, "bronze": 24 },
+    "dlc": {
+      "stellar-speedway": { "platinum": 0, "gold": 0, "silver": 1, "bronze": 5 },
+      "winter-wonder": { "platinum": 0, "gold": 0, "silver": 0, "bronze": 3 },
+      "vicious-void": { "platinum": 0, "gold": 0, "silver": 0, "bronze": 5 },
+      "vicious-void-2": { "platinum": 0, "gold": 0, "silver": 1, "bronze": 4 }
+    },
+    "sources": ["psthc-ab-list", "powerpyx-ab", "exophase-ab"]
+  },
+  "theme": {
+    "accent": "#b9a3ff",
+    "glow": "#3d55ff",
+    "base": "#0a0b18",
+    "pattern": "rays",
+    "heroImage": null,
+    "coverImage": null
+  },
+  "dlc": [
+    {
+      "id": "stellar-speedway",
+      "title": "Stellar Speedway",
+      "note": "Free update (October–November 2024): five speedrun levels in a yellow galaxy that appears after you finish the main game. Not needed for the Platinum."
+    },
+    {
+      "id": "winter-wonder",
+      "title": "Winter Wonder",
+      "note": "Free update (December 2024): one festive level. Not needed for the Platinum."
+    },
+    {
+      "id": "vicious-void",
+      "title": "Vicious Void",
+      "note": "Free update (February–March 2025): five challenge levels in the Vicious Void Galaxy, open once you've finished the main game. Each ends with a Special Bot, and rescuing it unlocks Time Attack for that level. Not needed for the Platinum."
+    },
+    {
+      "id": "vicious-void-2",
+      "title": "Vicious Void 2",
+      "note": "Free update (July 2025): five more Vicious Void challenge levels, ending with Megamix Mastery. Not needed for the Platinum."
+    }
+  ],
+  "route": [
+    {
+      "id": "gorilla-nebula",
+      "title": "Gorilla Nebula",
+      "summary": "The first galaxy. Collect every bot and puzzle piece as you go: the Crash Site rooms open as your puzzle piece total grows.",
+      "steps": [
+        "Sky Garden gives you [[one-bot-down]] and [[a-puzzling-start]] straight away.",
+        "In Construction Derby, dunk a basketball for [[um-jammer-slammy]]. In Apes On The Loose, catch the gold butterfly with the net for [[net-profit]].",
+        "On the galaxy map, destroy the ring of asteroids to open the Retro Rampage 1 level and rescue Ryu, who you need for [[ko]] later.",
+        "Rescue every bot in the galaxy for [[monkey-see-monkey-rescue]]. Finishing the galaxy gives [[unforgettable]].",
+        "With 16 puzzle pieces, return to Crash Site to open the Gatcha Lab ([[licence-to-spend]]) and spend 100 coins for [[first-prize]]."
+      ],
+      "warning": "",
+      "trophies": ["one-bot-down", "a-puzzling-start", "um-jammer-slammy", "net-profit", "monkey-see-monkey-rescue", "unforgettable", "licence-to-spend", "first-prize"]
+    },
+    {
+      "id": "tentacle-system",
+      "title": "Tentacle System",
+      "summary": "Three level-specific tricks, plus several cameo bots you'll need for the Crash Site trophies.",
+      "steps": [
+        "In Trunk of Funk, spray Papa Tree's face while he sings for [[what-is-he-saying]].",
+        "In Bot of War, find and defeat all eight ravens for [[eyes-of-the-all-father]].",
+        "In Wormy Passage, grab two Wormys at once with the frog gloves for [[double-dug-in]].",
+        "Rescue every bot for [[tentacular-spectacular]], including Kratos (Wako Tako), Thor (Bot of War), the Prince (Downsize Surprise) and Ken (Retro Rampage 2, opened by an asteroid group on this galaxy's map). Finishing the galaxy gives [[solid-performance]].",
+        "With 32 puzzle pieces, return to Crash Site for [[splash-my-dash]]."
+      ],
+      "warning": "",
+      "trophies": ["what-is-he-saying", "eyes-of-the-all-father", "double-dug-in", "tentacular-spectacular", "solid-performance", "splash-my-dash"]
+    },
+    {
+      "id": "serpent-starway",
+      "title": "Serpent Starway",
+      "summary": "A casino and a tomb raid.",
+      "steps": [
+        "In Slo-Mo Casino, slow time and hit the jackpot on all four slot machines for [[time-to-cash-in]].",
+        "In Dude Raiding, find all three egg artefacts for [[the-lost-eggacy]].",
+        "Rescue every bot for [[fangs-very-much]], including Nathan Drake at the end of the galaxy. Finishing it gives [[doing-it-for-you]].",
+        "With 48 puzzle pieces, return to Crash Site for [[time-for-a-change]]."
+      ],
+      "warning": "",
+      "trophies": ["time-to-cash-in", "the-lost-eggacy", "fangs-very-much", "doing-it-for-you", "time-for-a-change"]
+    },
+    {
+      "id": "camo-cosmos",
+      "title": "Camo Cosmos",
+      "summary": "Dolphins, a pyramid, and the camera.",
+      "steps": [
+        "In Bubbling Under, leap through the ring with the dolphins for [[jumping-through-hoops]].",
+        "Rescue Lara Croft, hidden underground in Hieroglitch Pyramid, and Kazuma Kiryu from Boing! Bonanza (a hidden square level on this galaxy's map). Every bot gives [[nowhere-to-hide]], and finishing the galaxy gives [[keep-it-cool]].",
+        "With 64 puzzle pieces, return to Crash Site to open the Safari Park ([[animal-attraction]]), which gives you the camera. Take a photo at a glowing photo spot for [[strike-a-pose]]."
+      ],
+      "warning": "",
+      "trophies": ["jumping-through-hoops", "nowhere-to-hide", "keep-it-cool", "animal-attraction", "strike-a-pose"]
+    },
+    {
+      "id": "feather-cluster",
+      "title": "Feather Cluster and the final boss",
+      "summary": "The last galaxy and the end of the story. The world stays open afterwards.",
+      "steps": [
+        "In Machine Learning, lure seven enemies into the Tripcaster's wires in one life for [[what-a-trip]].",
+        "Rescue every bot for [[back-to-the-nest]]. Finishing the galaxy gives [[take-cover]].",
+        "Beat the final boss to save the CPU Kid for [[a-lot-to-process]]."
+      ],
+      "warning": "",
+      "trophies": ["what-a-trip", "back-to-the-nest", "take-cover", "a-lot-to-process"]
+    },
+    {
+      "id": "lost-galaxy",
+      "title": "Lost Galaxy",
+      "summary": "Ten secret levels hidden in the main galaxies' levels, plus Final Encore once they're all done. You need them for the last bots and puzzle pieces.",
+      "steps": [
+        "Find the two hidden exits in each main galaxy that lead to the Lost Galaxy (see [[lost-and-found]] for every one).",
+        "Clear all ten secret levels, then Final Encore, and rescue every bot for [[lost-and-found]].",
+        "Mop up any remaining bots and puzzle pieces. With all 120 pieces, return to Crash Site for [[monumental-achievement]]."
+      ],
+      "warning": "",
+      "trophies": ["lost-and-found", "monumental-achievement"]
+    },
+    {
+      "id": "crash-site",
+      "title": "Gatcha Lab and Crash Site jokes",
+      "summary": "Spend your coins, then set up the cameo bots' gags. Several need a specific Gatcha prize, so do the Gatcha Lab first.",
+      "steps": [
+        "Win 150 Gatcha prizes for [[money-well-spent]]. That's about 15,000 coins; replay levels to farm more.",
+        "Climb the ladder beside the rebuilt ship and watch the parts sing for [[singstars]], then climb the scaffolding to the top for [[at-the-top-of-my-game]].",
+        "Call 100 bots and dance with them for [[bot-bot-revolution]]. Break a bot wall for [[wall-buster]], and knock a bot out of a tower without it falling for [[keep-it-together]].",
+        "Cameo jokes: photograph Nathan Drake and Lara Croft together ([[thick-as-thieves]]), get Thor frozen by Kratos's axe ([[thaw-god-of-thunder]]), get rolled up by the Prince ([[royally-stuck]]), dance with Crash ([[lets-twist-again]]), make Kiryu drop his items ([[deep-pocket-dragon]]), and get hit by both Ryu and Ken ([[ko]])."
+      ],
+      "warning": "",
+      "trophies": ["money-well-spent", "singstars", "at-the-top-of-my-game", "bot-bot-revolution", "wall-buster", "keep-it-together", "thick-as-thieves", "thaw-god-of-thunder", "royally-stuck", "lets-twist-again", "deep-pocket-dragon", "ko"]
+    },
+    {
+      "id": "golden-bot",
+      "title": "The Great Master Challenge",
+      "summary": "The hardest trophy in the base game. You need every bot to reach it.",
+      "steps": [
+        "With all 120 puzzle pieces and 300 bots, use the bots to build a wall up the Golden Statue in Crash Site.",
+        "Play the Great Master Challenge at the top. It's about three minutes long, and any death sends you back to the start.",
+        "Finish it to rescue the Special Master Bot for [[the-golden-bot]]."
+      ],
+      "warning": "",
+      "trophies": ["the-golden-bot"]
+    },
+    {
+      "id": "platinum",
+      "title": "Platinum",
+      "summary": "Unlocks once the other 43 base-game trophies are earned. The update trophies aren't required.",
+      "steps": [
+        "Compare your trophy list with the checklist here, and replay any level with something missing."
+      ],
+      "warning": "",
+      "trophies": ["astro-nomical"]
+    },
+    {
+      "id": "stellar-speedway-runs",
+      "dlc": "stellar-speedway",
+      "title": "Five speedrun levels",
+      "summary": "Each level hides two bots behind a time limit, shown by a blue bird and a red bird. About 30 to 60 minutes in all.",
+      "steps": [
+        "Find the yellow Stellar Speedway galaxy on the space map, between the green and red galaxies (top right).",
+        "In each level, beat the blue bird to the finish for one bot, or the red bird for both. Any rescue earns that level's trophy: [[hurtle-rescue]], [[ice-cold-rescue]], [[punchy-rescue]], [[breezy-rescue]] and [[flaming-rescue]].",
+        "Beat the red bird in all five for [[fast-and-found]]."
+      ],
+      "warning": "",
+      "trophies": ["hurtle-rescue", "ice-cold-rescue", "punchy-rescue", "breezy-rescue", "flaming-rescue", "fast-and-found"]
+    },
+    {
+      "id": "winter-wonder-level",
+      "dlc": "winter-wonder",
+      "title": "The festive level",
+      "summary": "One level with a costume, 15 presents and a tree to climb.",
+      "steps": [
+        "On the space map, fly into the meteorite wearing a red Santa hat (top left). The level then appears on the far right.",
+        "Hit the large golden present on the left at the start for [[astro-ho-ho]].",
+        "Open all 15 golden presents for [[unwrapped]]; they also hold the level's 7 bots.",
+        "Climb to the top of the festive tree for [[youre-a-star]]."
+      ],
+      "warning": "",
+      "trophies": ["astro-ho-ho", "unwrapped", "youre-a-star"]
+    },
+    {
+      "id": "vicious-void-levels",
+      "dlc": "vicious-void",
+      "title": "First five challenge levels",
+      "summary": "Much harder than the main game, built to test your platforming. Each level ends with a Special Bot.",
+      "steps": [
+        "Finish the main game, then enter the Vicious Void Galaxy on the space map.",
+        "Clear each level to rescue its Special Bot: [[timely-rescue]], [[thrusting-rescue]], [[rooster-rescue]], [[bearly-rescued]] and [[rolling-rescue]]."
+      ],
+      "warning": "",
+      "trophies": ["timely-rescue", "thrusting-rescue", "rooster-rescue", "bearly-rescued", "rolling-rescue"]
+    },
+    {
+      "id": "vicious-void-2-levels",
+      "dlc": "vicious-void-2",
+      "title": "Five more challenge levels",
+      "summary": "The July 2025 levels, ending with Megamix Mastery, the hardest level in the game.",
+      "steps": [
+        "In the Vicious Void Galaxy, clear each new level to rescue its Special Bot: [[springy-rescue]], [[slimy-rescue]], [[hanging-rescue]] and [[pumping-rescue]].",
+        "Finish Megamix Mastery for [[impossible-rescue]]."
+      ],
+      "warning": "",
+      "trophies": ["springy-rescue", "slimy-rescue", "hanging-rescue", "pumping-rescue", "impossible-rescue"]
+    }
+  ],
+  "trophies": [
+    {
+      "id": "one-bot-down",
+      "name": "One Bot Down…",
+      "grade": "bronze",
+      "description": "Rescued your first Bot.",
+      "tags": ["story"],
+      "missable": false,
+      "afterStory": true,
+      "where": "Sky Garden (first level)",
+      "when": "The first minutes",
+      "unlock": "Rescue any bot.",
+      "steps": ["Start Sky Garden. The first bot is right at the start."],
+      "sources": ["powerpyx-ab"]
+    },
+    {
+      "id": "a-puzzling-start",
+      "name": "A Puzzling Start",
+      "grade": "bronze",
+      "description": "Found your first Puzzle Piece.",
+      "tags": ["collectible"],
+      "missable": false,
+      "afterStory": true,
+      "where": "Sky Garden (first level)",
+      "when": "The first minutes",
+      "unlock": "Collect any puzzle piece.",
+      "steps": ["Pick up the first puzzle piece near the start of Sky Garden."],
+      "sources": ["powerpyx-ab"]
+    },
+    {
+      "id": "um-jammer-slammy",
+      "name": "Um Jammer Slammy",
+      "grade": "bronze",
+      "description": "Successfully dunked the basketball in Construction Derby.",
+      "tags": ["misc"],
+      "missable": false,
+      "afterStory": true,
+      "where": "Gorilla Nebula: Construction Derby",
+      "when": "Once you have the Rocket Dog power-up",
+      "unlock": "Knock a basketball into the hoop.",
+      "steps": [
+        "Play Construction Derby until you get the Rocket Dog power-up.",
+        "Break the crates near the basketball court to free the ball.",
+        "Hit the ball into the net."
+      ],
+      "sources": ["powerpyx-ab"]
+    },
+    {
+      "id": "net-profit",
+      "name": "Net Profit",
+      "grade": "bronze",
+      "description": "Caught the gold butterfly in Apes On The Loose.",
+      "hidden": true,
+      "tags": ["misc"],
+      "missable": false,
+      "afterStory": true,
+      "where": "Gorilla Nebula: Apes On The Loose",
+      "when": "Once you have the net",
+      "unlock": "Catch the golden butterfly with the net.",
+      "steps": [
+        "At the end of the plaza, hit the green bush with your net.",
+        "A golden butterfly flies out and circles. Jump and swing the net to catch it."
+      ],
+      "sources": ["powerpyx-ab"]
+    },
+    {
+      "id": "monkey-see-monkey-rescue",
+      "name": "Monkey See, Monkey Rescue",
+      "grade": "silver",
+      "description": "Rescued all Bots in Gorilla Nebula.",
+      "tags": ["collectible"],
+      "missable": false,
+      "afterStory": true,
+      "where": "Gorilla Nebula",
+      "when": "While clearing the galaxy",
+      "unlock": "Rescue every bot in Gorilla Nebula, including the ones in its asteroid-unlocked levels.",
+      "steps": [
+        "Search every level for bots.",
+        "Destroy the ring of asteroids on the galaxy map to open Retro Rampage 1 (with Ryu).",
+        "Replay any level from the galaxy map to find missing bots."
+      ],
+      "sources": ["powerpyx-ab", "psthc-ab-guide"]
+    },
+    {
+      "id": "unforgettable",
+      "name": "Unforgettable!",
+      "grade": "silver",
+      "description": "Recovered the Mothership's Memory.",
+      "tags": ["story"],
+      "missable": false,
+      "afterStory": true,
+      "where": "Gorilla Nebula",
+      "when": "End of the galaxy",
+      "unlock": "Story-related: finish Gorilla Nebula.",
+      "steps": ["Clear Gorilla Nebula's levels and boss. The trophy unlocks automatically."],
+      "sources": ["powerpyx-ab"]
+    },
+    {
+      "id": "licence-to-spend",
+      "name": "Licence To Spend",
+      "grade": "silver",
+      "description": "Opened the Gatcha Lab.",
+      "tags": ["collectible"],
+      "missable": false,
+      "afterStory": true,
+      "where": "Crash Site",
+      "when": "At 16 puzzle pieces",
+      "unlock": "Collect 16 puzzle pieces, then return to Crash Site to open the Gatcha Lab.",
+      "steps": ["With 16 puzzle pieces, go back to Crash Site."],
+      "sources": ["powerpyx-ab"]
+    },
+    {
+      "id": "first-prize",
+      "name": "First Prize",
+      "grade": "bronze",
+      "description": "Collected your first Gatcha from the Gatcha Lab.",
+      "tags": ["misc"],
+      "missable": false,
+      "afterStory": true,
+      "where": "Gatcha Lab, Crash Site",
+      "when": "As soon as it opens",
+      "unlock": "Play the claw machine once (100 coins).",
+      "steps": ["Spend 100 coins on the Gatcha Lab claw machine."],
+      "sources": ["powerpyx-ab"]
+    },
+    {
+      "id": "what-is-he-saying",
+      "name": "What Is He Saying?",
+      "grade": "bronze",
+      "description": "Splashed Papa Tree's face during his song.",
+      "tags": ["misc"],
+      "missable": false,
+      "afterStory": true,
+      "where": "Tentacle System: Trunk of Funk",
+      "when": "Early in the level",
+      "unlock": "Spray Papa Tree's face with water while he's singing.",
+      "steps": [
+        "Water the seed early in Trunk of Funk.",
+        "When the tree grows and starts singing, spray his face with the water cannon."
+      ],
+      "sources": ["powerpyx-ab"]
+    },
+    {
+      "id": "eyes-of-the-all-father",
+      "name": "Eyes Of The All-Father",
+      "grade": "bronze",
+      "description": "Found and defeated all eight ravens in Bot Of War.",
+      "hidden": true,
+      "tags": ["collectible", "combat"],
+      "missable": false,
+      "afterStory": true,
+      "where": "Tentacle System: Bot of War",
+      "when": "First visit",
+      "unlock": "Find and defeat all eight ravens hidden in the level.",
+      "steps": [
+        "Look around every area of Bot of War for ravens, including off the main path.",
+        "Defeat each one. If you miss any, replay the level; a video of all eight helps."
+      ],
+      "sources": ["powerpyx-ab"]
+    },
+    {
+      "id": "double-dug-in",
+      "name": "Double Dug-in",
+      "grade": "bronze",
+      "description": "Took out two Wormys at the same time.",
+      "hidden": true,
+      "tags": ["combat"],
+      "missable": false,
+      "afterStory": true,
+      "where": "Tentacle System: Wormy Passage",
+      "when": "Any pair of Wormys",
+      "unlock": "Defeat two Wormys at once.",
+      "steps": ["Use the Froggy Gloves to grab two Wormys at the same time. The level gives several chances."],
+      "sources": ["powerpyx-ab"]
+    },
+    {
+      "id": "tentacular-spectacular",
+      "name": "Tentacular Spectacular",
+      "grade": "silver",
+      "description": "Rescued all Bots in Tentacle System",
+      "tags": ["collectible"],
+      "missable": false,
+      "afterStory": true,
+      "where": "Tentacle System",
+      "when": "While clearing the galaxy",
+      "unlock": "Rescue every bot in Tentacle System, including its asteroid-unlocked level.",
+      "steps": [
+        "Search every level for bots.",
+        "Destroy the asteroid group near the top of the galaxy map to open Retro Rampage 2 (with Ken).",
+        "Replay any level from the galaxy map to find missing bots."
+      ],
+      "sources": ["powerpyx-ab", "psthc-ab-guide"]
+    },
+    {
+      "id": "solid-performance",
+      "name": "Solid Performance",
+      "grade": "silver",
+      "description": "Recovered the Mothership's SSD.",
+      "tags": ["story"],
+      "missable": false,
+      "afterStory": true,
+      "where": "Tentacle System",
+      "when": "End of the galaxy",
+      "unlock": "Story-related: finish Tentacle System.",
+      "steps": ["Clear Tentacle System's levels and boss. The trophy unlocks automatically."],
+      "sources": ["powerpyx-ab"]
+    },
+    {
+      "id": "splash-my-dash",
+      "name": "Splash My Dash",
+      "grade": "silver",
+      "description": "Opened the Dual Speeder Garage.",
+      "tags": ["collectible"],
+      "missable": false,
+      "afterStory": true,
+      "where": "Crash Site",
+      "when": "At 32 puzzle pieces",
+      "unlock": "Collect 32 puzzle pieces, then return to Crash Site.",
+      "steps": ["With 32 puzzle pieces, go back to Crash Site."],
+      "sources": ["powerpyx-ab"]
+    },
+    {
+      "id": "time-to-cash-in",
+      "name": "Time To Cash In!",
+      "grade": "bronze",
+      "description": "Stopped time and won the jackpot on all four slot machines in Slo-Mo Casino.",
+      "hidden": true,
+      "tags": ["misc"],
+      "missable": false,
+      "afterStory": true,
+      "where": "Serpent Starway: Slo-Mo Casino",
+      "when": "Near the start of the level",
+      "unlock": "Hit the jackpot (three yellow bot icons) on all four slot machines, using the time-slowing power-up.",
+      "steps": [
+        "Get the Slo-Mo power-up near the start.",
+        "Slow time at each of the four slot machines and stop them on three yellow bot icons.",
+        "Retry as many times as you need."
+      ],
+      "sources": ["powerpyx-ab"]
+    },
+    {
+      "id": "the-lost-eggacy",
+      "name": "The Lost Eggacy",
+      "grade": "bronze",
+      "description": "Collected all three egg artefacts in Dude Raiding.",
+      "hidden": true,
+      "tags": ["collectible"],
+      "missable": false,
+      "afterStory": true,
+      "where": "Serpent Starway: Dude Raiding (last level)",
+      "when": "First visit",
+      "unlock": "Find all three eggs.",
+      "steps": [
+        "Near the stuck plane, rotate the four wall stones to the double-dash icon.",
+        "Jump the platforms after the slide.",
+        "In the purple cave, climb halfway up the rope and jump off to reach the last egg."
+      ],
+      "sources": ["powerpyx-ab"]
+    },
+    {
+      "id": "fangs-very-much",
+      "name": "Fangs Very Much!",
+      "grade": "silver",
+      "description": "Rescued all Bots in Serpent Starway.",
+      "tags": ["collectible"],
+      "missable": false,
+      "afterStory": true,
+      "where": "Serpent Starway",
+      "when": "While clearing the galaxy",
+      "unlock": "Rescue every bot in Serpent Starway.",
+      "steps": [
+        "Search every level for bots. Nathan Drake is at the end of the galaxy.",
+        "Replay any level from the galaxy map to find missing bots."
+      ],
+      "sources": ["powerpyx-ab"]
+    },
+    {
+      "id": "doing-it-for-you",
+      "name": "Doing It For You",
+      "grade": "silver",
+      "description": "Recovered the Mothership's GPU.",
+      "tags": ["story"],
+      "missable": false,
+      "afterStory": true,
+      "where": "Serpent Starway",
+      "when": "End of the galaxy",
+      "unlock": "Story-related: finish Serpent Starway.",
+      "steps": ["Clear Serpent Starway's levels and boss. The trophy unlocks automatically."],
+      "sources": ["powerpyx-ab"]
+    },
+    {
+      "id": "time-for-a-change",
+      "name": "Time For A Change",
+      "grade": "silver",
+      "description": "Opened the Changing Room.",
+      "tags": ["collectible"],
+      "missable": false,
+      "afterStory": true,
+      "where": "Crash Site",
+      "when": "At 48 puzzle pieces",
+      "unlock": "Collect 48 puzzle pieces, then return to Crash Site.",
+      "steps": ["With 48 puzzle pieces, go back to Crash Site."],
+      "sources": ["powerpyx-ab"]
+    },
+    {
+      "id": "jumping-through-hoops",
+      "name": "Jumping Through Hoops",
+      "grade": "bronze",
+      "description": "Leapt through the ring in Bubbling Under.",
+      "hidden": true,
+      "tags": ["misc"],
+      "missable": false,
+      "afterStory": true,
+      "where": "Camo Cosmos: Bubbling Under",
+      "when": "After freeing the starfish",
+      "unlock": "Leap through the ring near the dolphins.",
+      "steps": [
+        "After freeing the starfish, swim up to the surface, where dolphins play near a ring in the air.",
+        "With the penguin power-up, leap out of the water through the ring."
+      ],
+      "sources": ["powerpyx-ab"]
+    },
+    {
+      "id": "nowhere-to-hide",
+      "name": "Nowhere To Hide",
+      "grade": "silver",
+      "description": "Rescued all Bots in Camo Cosmos.",
+      "tags": ["collectible"],
+      "missable": false,
+      "afterStory": true,
+      "where": "Camo Cosmos",
+      "when": "While clearing the galaxy",
+      "unlock": "Rescue every bot in Camo Cosmos, including the hidden square level Boing! Bonanza.",
+      "steps": [
+        "Search every level for bots.",
+        "Lara Croft is hidden underground in Hieroglitch Pyramid: destroy the vases behind the third crushing block, drill down (charged **Square**), then walk slowly under the traps.",
+        "On the galaxy map, fly into the bottom-left asteroid and circle until the pink square button appears, to open Boing! Bonanza (with Kazuma Kiryu).",
+        "Replay any level from the galaxy map to find missing bots."
+      ],
+      "sources": ["powerpyx-ab"]
+    },
+    {
+      "id": "keep-it-cool",
+      "name": "Keep It Cool",
+      "grade": "silver",
+      "description": "Recovered the Mothership's Cooling Fan.",
+      "tags": ["story"],
+      "missable": false,
+      "afterStory": true,
+      "where": "Camo Cosmos",
+      "when": "End of the galaxy",
+      "unlock": "Story-related: finish Camo Cosmos.",
+      "steps": ["Clear Camo Cosmos's levels and boss. The trophy unlocks automatically."],
+      "sources": ["powerpyx-ab"]
+    },
+    {
+      "id": "animal-attraction",
+      "name": "Animal Attraction",
+      "grade": "silver",
+      "description": "Opened the Safari Park.",
+      "tags": ["collectible"],
+      "missable": false,
+      "afterStory": true,
+      "where": "Crash Site",
+      "when": "At 64 puzzle pieces",
+      "unlock": "Collect 64 puzzle pieces, then return to Crash Site. The Safari Park gives you the camera.",
+      "steps": ["With 64 puzzle pieces, go back to Crash Site."],
+      "sources": ["powerpyx-ab"]
+    },
+    {
+      "id": "strike-a-pose",
+      "name": "Strike A Pose!",
+      "grade": "bronze",
+      "description": "Took a picture at a Photo Spot.",
+      "tags": ["misc"],
+      "missable": false,
+      "afterStory": true,
+      "where": "Safari Park, Crash Site",
+      "when": "Once you have the camera",
+      "unlock": "Take a photo at a photo spot.",
+      "steps": [
+        "Open the Safari Park (64 puzzle pieces) to get the camera.",
+        "Stand on a blue-glowing photo spot inside it, press **Up** for the camera and **R2** to take the photo."
+      ],
+      "sources": ["powerpyx-ab"]
+    },
+    {
+      "id": "what-a-trip",
+      "name": "What A Trip!",
+      "grade": "bronze",
+      "description": "Defeated seven enemies with the Tripcaster.",
+      "hidden": true,
+      "tags": ["combat"],
+      "missable": false,
+      "afterStory": true,
+      "where": "Feather Cluster: Machine Learning",
+      "when": "First visit",
+      "unlock": "Defeat seven enemies with the Tripcaster's wires within one life.",
+      "steps": [
+        "Get the Tripcaster power-up in Machine Learning.",
+        "Lure enemies across the purple tripwires until seven are defeated, without dying."
+      ],
+      "mistakes": [
+        "Using the feet lasers, which break the wires.",
+        "Wasting wires on electric enemies, which are immune."
+      ],
+      "sources": ["powerpyx-ab"]
+    },
+    {
+      "id": "back-to-the-nest",
+      "name": "Back To The Nest",
+      "grade": "silver",
+      "description": "Rescued all Bots in Feather Cluster.",
+      "tags": ["collectible"],
+      "missable": false,
+      "afterStory": true,
+      "where": "Feather Cluster",
+      "when": "While clearing the galaxy",
+      "unlock": "Rescue every bot in Feather Cluster.",
+      "steps": [
+        "Search every level for bots.",
+        "Replay any level from the galaxy map to find missing bots."
+      ],
+      "sources": ["powerpyx-ab"]
+    },
+    {
+      "id": "take-cover",
+      "name": "Take Cover!",
+      "grade": "silver",
+      "description": "Recovered the Mothership's Protection Covers.",
+      "tags": ["story"],
+      "missable": false,
+      "afterStory": true,
+      "where": "Feather Cluster",
+      "when": "End of the galaxy",
+      "unlock": "Story-related: finish Feather Cluster.",
+      "steps": ["Clear Feather Cluster's levels and boss. The trophy unlocks automatically."],
+      "sources": ["powerpyx-ab"]
+    },
+    {
+      "id": "a-lot-to-process",
+      "name": "A Lot To Process",
+      "grade": "gold",
+      "description": "Saved the CPU Kid.",
+      "tags": ["story"],
+      "missable": false,
+      "afterStory": true,
+      "where": "Final boss",
+      "when": "End of the story",
+      "unlock": "Story-related: beat all five galaxies and the final boss.",
+      "steps": ["Finish the five galaxies, then beat the final boss."],
+      "sources": ["powerpyx-ab"]
+    },
+    {
+      "id": "lost-and-found",
+      "name": "Lost And Found",
+      "grade": "silver",
+      "description": "Rescued all Bots in Lost Galaxy.",
+      "tags": ["collectible"],
+      "missable": false,
+      "afterStory": true,
+      "where": "Lost Galaxy (10 secret levels plus Final Encore)",
+      "when": "After finding each hidden exit",
+      "unlock": "Rescue every bot in the Lost Galaxy. Its ten levels are reached through hidden exits, two in each main galaxy; Final Encore appears in the middle once all ten are done.",
+      "steps": [
+        "**Fan Club**: in Az-Tech Trail, put out the four wall fires in a small temple.",
+        "**Funky Fungi**: in Creamy Canyon, throw a pig at the frozen seal sculpture, then drill into the sand.",
+        "**Light Bulb Limbo**: in Go-Go Archipelago, after the boss, spin down through the gap where a pincer landed.",
+        "**Boxel Bust-Up**: in Downsize Surprise, use the blue floor plate and the bubble-blowing frog, then ride the bubble to a tree branch.",
+        "**Furnace Fever**: in Bathhouse Battle, fill a pool, grow sponges into platforms, put out the chimney fire and jump in.",
+        "**Ghouls & Bots**: in Free Big Brother, after freeing the big robot, stand on the two lightning platforms during the alien's attacks.",
+        "**Rocket Pull Power!**: in Hieroglitch Pyramid, break the wooden boards behind the normal exit as a metal ball to get launched up.",
+        "**Danger Dojo**: in Balloon Breeze, reach the pot in the sky, slash the bamboo and use the thrusters on the metal ring around the eyes.",
+        "**High-Suction Hero**: in Djinny of the Lamp, after beating the Djinny, climb the invisible platforms and ride the carpet to the top.",
+        "**Turtles In Trash**: in Frozen Meal, push a snowball to a ledge, pull the wire and suck out the ice blocks.",
+        "**Final Encore**: appears in the middle of the Lost Galaxy once the other ten are done."
+      ],
+      "sources": ["powerpyx-ab-lost", "psthc-ab-guide", "powerpyx-ab"]
+    },
+    {
+      "id": "monumental-achievement",
+      "name": "Monumental Achievement",
+      "grade": "silver",
+      "description": "Unlocked the Golden Statue.",
+      "tags": ["collectible"],
+      "missable": false,
+      "afterStory": true,
+      "where": "Crash Site",
+      "when": "At 120 puzzle pieces",
+      "unlock": "Collect all 120 puzzle pieces, then return to Crash Site.",
+      "steps": ["With every puzzle piece, go back to Crash Site. The Golden Statue appears."],
+      "sources": ["powerpyx-ab"]
+    },
+    {
+      "id": "money-well-spent",
+      "name": "Money Well Spent",
+      "grade": "silver",
+      "description": "Earned 150 prizes from the Gatcha Lab.",
+      "tags": ["grind"],
+      "missable": false,
+      "afterStory": true,
+      "where": "Gatcha Lab, Crash Site",
+      "when": "After the story",
+      "unlock": "Win 150 prizes. Each play costs 100 coins, so you need at least 15,000. There are 169 prizes, and the machine sometimes drops an empty soda can, which can cost you extra plays.",
+      "steps": [
+        "Collect coins as you play; big coins hidden in trees and flowers are worth more.",
+        "Replay levels to farm more. PowerPyx recommends Danger Dojo in the Lost Galaxy and the +100 chest at the end of levels.",
+        "Spend everything at the Gatcha Lab until you have 150 prizes."
+      ],
+      "tips": [
+        "PSTHC notes that coins respawn after a death, so replaying a coin-heavy stretch from a checkpoint works too."
+      ],
+      "sources": ["powerpyx-ab", "psthc-ab-guide"]
+    },
+    {
+      "id": "singstars",
+      "name": "SingStars",
+      "grade": "bronze",
+      "description": "Witnessed all ship parts singing together in Crash Site.",
+      "tags": ["misc"],
+      "missable": false,
+      "afterStory": true,
+      "where": "Crash Site, beside the PS5 ship",
+      "when": "After the story",
+      "unlock": "With every ship part recovered, watch them sing together.",
+      "steps": [
+        "Finish the story so the ship is complete.",
+        "Climb the ladder on the side of the PS5 ship to its platform. The cover opens.",
+        "Stand there for a few seconds while the parts sing."
+      ],
+      "sources": ["powerpyx-ab", "psthc-ab-guide"]
+    },
+    {
+      "id": "at-the-top-of-my-game",
+      "name": "At The Top Of My Game",
+      "grade": "bronze",
+      "description": "Made it to the top of the Mothership.",
+      "tags": ["misc"],
+      "missable": false,
+      "afterStory": true,
+      "where": "Crash Site, the Mothership",
+      "when": "After all five galaxies",
+      "unlock": "Climb to the top of the rebuilt Mothership.",
+      "steps": [
+        "Beat all five galaxies so the Mothership is assembled in the middle of Crash Site.",
+        "Climb the scaffolding on its right side to the top."
+      ],
+      "sources": ["powerpyx-ab"]
+    },
+    {
+      "id": "bot-bot-revolution",
+      "name": "Bot Bot Revolution",
+      "grade": "bronze",
+      "description": "Danced with 100 Bots in Crash Site.",
+      "tags": ["misc"],
+      "missable": false,
+      "afterStory": true,
+      "where": "Crash Site",
+      "when": "With 100+ bots rescued",
+      "unlock": "Dance with at least 100 bots around you.",
+      "steps": [
+        "Rescue more than 100 bots.",
+        "In Crash Site, whistle with **Triangle** to call them.",
+        "When they're close, press **Down** to dance together."
+      ],
+      "sources": ["powerpyx-ab", "psthc-ab-guide"]
+    },
+    {
+      "id": "wall-buster",
+      "name": "Wall Buster",
+      "grade": "bronze",
+      "description": "Broke up a Bot Wall.",
+      "tags": ["misc"],
+      "missable": false,
+      "afterStory": true,
+      "where": "Crash Site",
+      "when": "Any time with enough bots",
+      "unlock": "Knock down a wall of bots.",
+      "steps": [
+        "Call your bots to build a wall or tower somewhere they're needed in Crash Site (PowerPyx uses a 90-bot tower left of the spawn point).",
+        "Hit bots at the bottom with **Square** until the wall breaks apart."
+      ],
+      "sources": ["powerpyx-ab", "psthc-ab-guide"]
+    },
+    {
+      "id": "keep-it-together",
+      "name": "Keep It Together!",
+      "grade": "bronze",
+      "description": "Knocked a Bot out of a Bot Tower without it collapsing.",
+      "tags": ["misc"],
+      "missable": false,
+      "afterStory": true,
+      "where": "Crash Site",
+      "when": "Any time with enough bots",
+      "unlock": "Hit a bot out of a supporting tower while the rest of it stays up.",
+      "steps": [
+        "Call bots to hold something up. PowerPyx uses the 10 bots lifting stones left of the spawn point.",
+        "Hit the bottom bot so it pops out while the tower stays standing."
+      ],
+      "sources": ["powerpyx-ab"]
+    },
+    {
+      "id": "thick-as-thieves",
+      "name": "Thick As Thieves",
+      "grade": "bronze",
+      "description": "Captured a photo of two legendary explorers in Crash Site.",
+      "tags": ["misc"],
+      "missable": false,
+      "afterStory": true,
+      "where": "Crash Site",
+      "when": "With Drake, Lara and the camera",
+      "prerequisites": ["Nathan Drake (end of Serpent Starway).", "Lara Croft (hidden underground in Hieroglitch Pyramid, Camo Cosmos).", "The camera (Safari Park, 64 puzzle pieces)."],
+      "unlock": "Take a photo with Nathan Drake and Lara Croft both in the frame.",
+      "steps": [
+        "Call your bots with **Triangle**.",
+        "Press **Up** for the camera and keep taking photos (**R2**) until both are in the shot."
+      ],
+      "tips": [
+        "PSTHC suggests a dinosaur prize from the Gatcha Lab, which makes Lara run past Nathan.",
+        "It can take several photos before it registers."
+      ],
+      "sources": ["powerpyx-ab", "psthc-ab-guide"]
+    },
+    {
+      "id": "thaw-god-of-thunder",
+      "name": "Thaw, God of Thunder!",
+      "grade": "bronze",
+      "description": "Froze a hammer-wielding deity with the axe in Crash Site.",
+      "tags": ["misc"],
+      "missable": false,
+      "afterStory": true,
+      "where": "Crash Site",
+      "when": "With Kratos, Thor and Kratos's prize",
+      "prerequisites": ["Kratos (Wako Tako, Tentacle System).", "Thor (Bot of War, Tentacle System).", "Kratos's Well-Stocked Campfire prize from the Gatcha Lab."],
+      "unlock": "Get Thor frozen by Kratos's axe.",
+      "steps": [
+        "Slap Kratos so he throws his axe at you.",
+        "Take cover behind Thor so the axe freezes him instead."
+      ],
+      "sources": ["powerpyx-ab"]
+    },
+    {
+      "id": "royally-stuck",
+      "name": "Royally Stuck",
+      "grade": "bronze",
+      "description": "Got a little too close to a sticky sphere in Crash Site.",
+      "hidden": true,
+      "tags": ["misc"],
+      "missable": false,
+      "afterStory": true,
+      "where": "Crash Site",
+      "when": "With the Prince and his prize",
+      "prerequisites": ["The Prince (Downsize Surprise, Tentacle System).", "His Rolling Star prize from the Gatcha Lab."],
+      "unlock": "Get rolled up by the Prince's ball.",
+      "steps": [
+        "Find the Prince on the left side of Crash Site.",
+        "Slap him so he rolls his ball over you."
+      ],
+      "sources": ["powerpyx-ab"]
+    },
+    {
+      "id": "lets-twist-again",
+      "name": "Let's Twist Again",
+      "grade": "bronze",
+      "description": "Busted a move with an iconic marsupial in Crash Site.",
+      "tags": ["misc"],
+      "missable": false,
+      "afterStory": true,
+      "where": "Crash Site",
+      "when": "With Crash and his prize",
+      "prerequisites": ["Crash Bandicoot (Az-Tech Trail, Gorilla Nebula).", "His Protective Spirit prize from the Gatcha Lab."],
+      "unlock": "Dance with Crash Bandicoot.",
+      "steps": [
+        "Wait for Crash to start dancing.",
+        "Get close and press **Down** to dance with him."
+      ],
+      "sources": ["powerpyx-ab"]
+    },
+    {
+      "id": "deep-pocket-dragon",
+      "name": "Deep-Pocket Dragon",
+      "grade": "bronze",
+      "description": "Made a tough guy drop all his items in Crash Site.",
+      "tags": ["misc"],
+      "missable": false,
+      "afterStory": true,
+      "where": "Crash Site (right side)",
+      "when": "With Kiryu and his prize",
+      "prerequisites": ["Kazuma Kiryu (reward for Boing! Bonanza, a hidden square level in Camo Cosmos).", "His Iconic Gate prize from the Gatcha Lab."],
+      "unlock": "Hit Kiryu until he drops everything he's carrying.",
+      "steps": [
+        "Find Kiryu on the right side of Crash Site.",
+        "Slap him repeatedly until all his items fall out."
+      ],
+      "sources": ["powerpyx-ab", "psthc-ab-guide"]
+    },
+    {
+      "id": "ko",
+      "name": "KO!",
+      "grade": "bronze",
+      "description": "Picked a fight with two street fighting warriors in Crash Site.",
+      "tags": ["misc"],
+      "missable": false,
+      "afterStory": true,
+      "where": "Crash Site (back right)",
+      "when": "With Ryu and Ken",
+      "prerequisites": ["Ryu (Retro Rampage 1: destroy the ring of asteroids on Gorilla Nebula's map).", "Ken (Retro Rampage 2: destroy the asteroid group near the top of Tentacle System's map)."],
+      "unlock": "Get hit by both Ryu and Ken.",
+      "steps": [
+        "Find Ryu and Ken at the back right of Crash Site.",
+        "Hit each of them, then stand between them so they both answer with their special moves."
+      ],
+      "sources": ["powerpyx-ab", "psthc-ab-guide"]
+    },
+    {
+      "id": "the-golden-bot",
+      "name": "The Golden Bot",
+      "grade": "gold",
+      "description": "Rescued the Special Master Bot at the top of the Golden Statue.",
+      "hidden": true,
+      "tags": ["challenge"],
+      "missable": false,
+      "afterStory": true,
+      "where": "Golden Statue, Crash Site",
+      "when": "Last",
+      "prerequisites": ["All 120 puzzle pieces (to unlock the statue).", "All 300 bots (to build the wall up it)."],
+      "unlock": "Reach the top of the Golden Statue and finish the Great Master Challenge.",
+      "steps": [
+        "Collect every puzzle piece so the Golden Statue appears ([[monumental-achievement]]).",
+        "Call all 300 bots to form a wall up the statue, and climb it.",
+        "Play the Great Master Challenge. It lasts about three minutes, with no pause, and any death sends you back to the start.",
+        "Finish it to rescue the Special Master Bot."
+      ],
+      "tips": [
+        "Learn the course section by section. Each attempt teaches you the next part."
+      ],
+      "sources": ["powerpyx-ab", "psthc-ab-guide"]
+    },
+    {
+      "id": "astro-nomical",
+      "name": "Astro-nomical!",
+      "grade": "platinum",
+      "description": "Earned all Trophies. Well done and see you in Astro's next adventure!",
+      "tags": ["misc"],
+      "missable": false,
+      "afterStory": true,
+      "unlock": "Earn the other 43 base-game trophies. The update trophies aren't needed.",
+      "steps": ["Compare your trophy list with the checklist here and finish anything missing."],
+      "sources": ["powerpyx-ab", "exophase-ab"]
+    },
+    {
+      "id": "hurtle-rescue",
+      "name": "Hurtle Rescue",
+      "grade": "bronze",
+      "description": "Rescued a Bot in Building Speed.",
+      "dlc": "stellar-speedway",
+      "tags": ["challenge"],
+      "missable": false,
+      "afterStory": true,
+      "where": "Stellar Speedway: Building Speed",
+      "when": "After the main game",
+      "unlock": "Beat the blue bird to the finish (one bot) or the red bird (two bots).",
+      "steps": ["Learn the route, then finish ahead of the blue bird."],
+      "sources": ["powerpyx-ab", "exophase-ab"]
+    },
+    {
+      "id": "ice-cold-rescue",
+      "name": "Ice-cold Rescue",
+      "grade": "bronze",
+      "description": "Rescued a Bot in Let It Slide.",
+      "dlc": "stellar-speedway",
+      "tags": ["challenge"],
+      "missable": false,
+      "afterStory": true,
+      "where": "Stellar Speedway: Let It Slide",
+      "when": "After the main game",
+      "unlock": "Beat the blue bird to the finish (one bot) or the red bird (two bots).",
+      "steps": ["Learn the route, then finish ahead of the blue bird."],
+      "sources": ["powerpyx-ab", "exophase-ab"]
+    },
+    {
+      "id": "punchy-rescue",
+      "name": "Punchy Rescue",
+      "grade": "bronze",
+      "description": "Rescued a Bot in Spring-Loaded Run.",
+      "dlc": "stellar-speedway",
+      "tags": ["challenge"],
+      "missable": false,
+      "afterStory": true,
+      "where": "Stellar Speedway: Spring-Loaded Run",
+      "when": "After the main game",
+      "unlock": "Beat the blue bird to the finish (one bot) or the red bird (two bots).",
+      "steps": ["Learn the route, then finish ahead of the blue bird."],
+      "sources": ["powerpyx-ab", "exophase-ab"]
+    },
+    {
+      "id": "breezy-rescue",
+      "name": "Breezy Rescue",
+      "grade": "bronze",
+      "description": "Rescued a Bot in Helium Heights.",
+      "dlc": "stellar-speedway",
+      "tags": ["challenge"],
+      "missable": false,
+      "afterStory": true,
+      "where": "Stellar Speedway: Helium Heights",
+      "when": "After the main game",
+      "unlock": "Beat the blue bird to the finish (one bot) or the red bird (two bots).",
+      "steps": ["Learn the route, then finish ahead of the blue bird."],
+      "sources": ["powerpyx-ab", "exophase-ab"]
+    },
+    {
+      "id": "flaming-rescue",
+      "name": "Flaming Rescue",
+      "grade": "bronze",
+      "description": "Rescued a Bot in Rising Heat.",
+      "dlc": "stellar-speedway",
+      "tags": ["challenge"],
+      "missable": false,
+      "afterStory": true,
+      "where": "Stellar Speedway: Rising Heat",
+      "when": "After the main game",
+      "unlock": "Beat the blue bird to the finish (one bot) or the red bird (two bots).",
+      "steps": ["Learn the route, then finish ahead of the blue bird."],
+      "sources": ["powerpyx-ab", "exophase-ab"]
+    },
+    {
+      "id": "fast-and-found",
+      "name": "Fast and Found",
+      "grade": "silver",
+      "description": "Rescued all Bots in Stellar Speedway.",
+      "dlc": "stellar-speedway",
+      "tags": ["challenge"],
+      "missable": false,
+      "afterStory": true,
+      "where": "All five Stellar Speedway levels",
+      "when": "After the five rescue trophies",
+      "unlock": "Rescue both bots in every level, which means beating the red bird in all five.",
+      "steps": ["Replay each level until you beat the red bird. The fifth level's second bot unlocks the trophy."],
+      "sources": ["powerpyx-ab", "pushsquare-ab"]
+    },
+    {
+      "id": "astro-ho-ho",
+      "name": "Astro-ho-ho!",
+      "grade": "bronze",
+      "description": "Changed into the Festive Fellow Outfit.",
+      "dlc": "winter-wonder",
+      "tags": ["misc"],
+      "missable": false,
+      "afterStory": true,
+      "where": "Winter Wonder",
+      "when": "The start of the level",
+      "unlock": "Put on the Festive Fellow outfit.",
+      "steps": ["Hit the large golden present on the left at the start of the level."],
+      "sources": ["powerpyx-ab"]
+    },
+    {
+      "id": "unwrapped",
+      "name": "Unwrapped!",
+      "grade": "bronze",
+      "description": "Opened all presents in Winter Wonder.",
+      "dlc": "winter-wonder",
+      "tags": ["collectible"],
+      "missable": false,
+      "afterStory": true,
+      "where": "Winter Wonder",
+      "when": "Throughout the level",
+      "unlock": "Open all 15 golden presents. They also hold the level's 7 bots.",
+      "steps": [
+        "Open every golden present you find.",
+        "Replay the level for any you missed; a presents video guide helps."
+      ],
+      "sources": ["powerpyx-ab"]
+    },
+    {
+      "id": "youre-a-star",
+      "name": "You're a star!",
+      "grade": "bronze",
+      "description": "Climbed to the top of the festive tree in Winter Wonder.",
+      "dlc": "winter-wonder",
+      "tags": ["misc"],
+      "missable": false,
+      "afterStory": true,
+      "where": "Winter Wonder: the big tree",
+      "when": "Any time in the level",
+      "unlock": "Reach the very top of the festive tree.",
+      "steps": [
+        "Open the blue gear chest to the right of the big tree for the monkey drummer power-up.",
+        "Use it (**L2+R2**) on the bulbs: the left two, then the right two.",
+        "Ride the rails to the igloo roof, spin through the igloo and grab the balloon chest.",
+        "Float up to the squid, pump it with **L2** and get catapulted onto the tree's platforms.",
+        "Balloon between platforms to the last one, then fly into the blue balloon above the top yellow present to reach the top."
+      ],
+      "sources": ["powerpyx-ab"]
+    },
+    {
+      "id": "timely-rescue",
+      "name": "Timely Rescue",
+      "grade": "bronze",
+      "description": "Rescued the Bot in Tick-Tock Shock.",
+      "dlc": "vicious-void",
+      "tags": ["challenge"],
+      "missable": false,
+      "afterStory": true,
+      "where": "Vicious Void Galaxy: Tick-Tock Shock",
+      "when": "After the main game",
+      "unlock": "Reach the end of the level to rescue its Special Bot.",
+      "steps": [
+        "Finish the main game so the Vicious Void Galaxy opens.",
+        "Clear Tick-Tock Shock. The Special Bot waits at the goal."
+      ],
+      "tips": ["These levels are much harder than the main game; expect plenty of retries."],
+      "sources": ["psblog-vv1", "pushsquare-vv", "exophase-ab"]
+    },
+    {
+      "id": "thrusting-rescue",
+      "name": "Thrusting Rescue",
+      "grade": "bronze",
+      "description": "Rescued the Bot in Thrust or Bust.",
+      "dlc": "vicious-void",
+      "tags": ["challenge"],
+      "missable": false,
+      "afterStory": true,
+      "where": "Vicious Void Galaxy: Thrust or Bust",
+      "when": "After the main game",
+      "unlock": "Reach the end of the level to rescue its Special Bot, Toan.",
+      "steps": ["Clear Thrust or Bust. The Special Bot unlocks when you reach the goal."],
+      "sources": ["pushsquare-thrust", "psblog-vv1", "exophase-ab"]
+    },
+    {
+      "id": "rooster-rescue",
+      "name": "Rooster Rescue",
+      "grade": "bronze",
+      "description": "Rescued the Bot in Cock-A-Doodle-Doom.",
+      "dlc": "vicious-void",
+      "tags": ["challenge"],
+      "missable": false,
+      "afterStory": true,
+      "where": "Vicious Void Galaxy: Cock-A-Doodle-Doom",
+      "when": "After the main game",
+      "unlock": "Reach the end of the level to rescue its Special Bot.",
+      "steps": ["Clear Cock-A-Doodle-Doom. The Special Bot waits at the goal."],
+      "sources": ["psblog-vv1", "exophase-ab"]
+    },
+    {
+      "id": "bearly-rescued",
+      "name": "Bearly Rescued",
+      "grade": "bronze",
+      "description": "Rescued the Bot in Hard to Bear.",
+      "dlc": "vicious-void",
+      "tags": ["challenge"],
+      "missable": false,
+      "afterStory": true,
+      "where": "Vicious Void Galaxy: Hard to Bear",
+      "when": "After the main game",
+      "unlock": "Reach the end of the level to rescue its Special Bot.",
+      "steps": ["Clear Hard to Bear. The Special Bot waits at the goal."],
+      "sources": ["psblog-vv1", "exophase-ab"]
+    },
+    {
+      "id": "rolling-rescue",
+      "name": "Rolling Rescue",
+      "grade": "bronze",
+      "description": "Rescued the Bot in Armored Hardcore.",
+      "dlc": "vicious-void",
+      "tags": ["challenge"],
+      "missable": false,
+      "afterStory": true,
+      "where": "Vicious Void Galaxy: Armored Hardcore",
+      "when": "After the main game",
+      "unlock": "Reach the end of the level to rescue its Special Bot.",
+      "steps": ["Clear Armored Hardcore. The Special Bot waits at the goal."],
+      "sources": ["psblog-vv1", "exophase-ab"]
+    },
+    {
+      "id": "springy-rescue",
+      "name": "Springy Rescue",
+      "grade": "bronze",
+      "description": "Rescued the Bot in Twin-Frog Trouble.",
+      "dlc": "vicious-void-2",
+      "tags": ["challenge"],
+      "missable": false,
+      "afterStory": true,
+      "where": "Vicious Void Galaxy: Twin-Frog Trouble",
+      "when": "After the main game",
+      "unlock": "Reach the end of the level to rescue its Special Bot.",
+      "steps": ["Clear Twin-Frog Trouble. The Special Bot waits at the goal."],
+      "sources": ["psls-vv2", "psblog-vv2", "exophase-ab"]
+    },
+    {
+      "id": "slimy-rescue",
+      "name": "Slimy Rescue",
+      "grade": "bronze",
+      "description": "Rescued the Bot in Suck It Up.",
+      "dlc": "vicious-void-2",
+      "tags": ["challenge"],
+      "missable": false,
+      "afterStory": true,
+      "where": "Vicious Void Galaxy: Suck It Up",
+      "when": "After the main game",
+      "unlock": "Reach the end of the level to rescue its Special Bot.",
+      "steps": ["Clear Suck It Up. The Special Bot waits at the goal."],
+      "sources": ["psls-vv2", "psblog-vv2", "exophase-ab"]
+    },
+    {
+      "id": "hanging-rescue",
+      "name": "Hanging Rescue",
+      "grade": "bronze",
+      "description": "Rescued the Bot in Handhold Havoc.",
+      "dlc": "vicious-void-2",
+      "tags": ["challenge"],
+      "missable": false,
+      "afterStory": true,
+      "where": "Vicious Void Galaxy: Handhold Havoc",
+      "when": "After the main game",
+      "unlock": "Reach the end of the level to rescue its Special Bot.",
+      "steps": ["Clear Handhold Havoc. The Special Bot waits at the goal."],
+      "sources": ["psls-vv2", "psblog-vv2", "exophase-ab"]
+    },
+    {
+      "id": "pumping-rescue",
+      "name": "Pumping Rescue",
+      "grade": "bronze",
+      "description": "Rescued the Bot in High Inflation.",
+      "dlc": "vicious-void-2",
+      "tags": ["challenge"],
+      "missable": false,
+      "afterStory": true,
+      "where": "Vicious Void Galaxy: High Inflation",
+      "when": "After the main game",
+      "unlock": "Reach the end of the level to rescue its Special Bot.",
+      "steps": ["Clear High Inflation. The Special Bot waits at the goal."],
+      "sources": ["psls-vv2", "psblog-vv2", "exophase-ab"]
+    },
+    {
+      "id": "impossible-rescue",
+      "name": "Impossible Rescue",
+      "grade": "silver",
+      "description": "Rescued the Bot in Megamix Mastery.",
+      "dlc": "vicious-void-2",
+      "tags": ["challenge"],
+      "missable": false,
+      "afterStory": true,
+      "where": "Vicious Void Galaxy: Megamix Mastery",
+      "when": "Last",
+      "unlock": "Reach the end of Megamix Mastery, the final and hardest Vicious Void level, to rescue its Special Bot.",
+      "steps": [
+        "Warm up on the other nine Vicious Void levels first.",
+        "Clear Megamix Mastery. The Special Bot waits at the goal."
+      ],
+      "sources": ["psls-vv2", "psblog-vv2", "exophase-ab"]
+    }
+  ],
+  "images": [],
+  "sources": [
+    {
+      "id": "exophase-ab",
+      "title": "Astro Bot trophies – Exophase",
+      "url": "https://www.exophase.com/game/astro-bot-psn/trophies/",
+      "supports": "Official names and descriptions for all 63 trophies, and the four update groups (Stellar Speedway, Winter Wonder, Vicious Void, Vicious Void 2).",
+      "checked": "2026-10-13"
+    },
+    {
+      "id": "psthc-ab-list",
+      "title": "Astro Bot trophy list – PSTHC",
+      "url": "https://www.psthc.fr/unjeu/astro-bot-ps5/liste-trophees.htm",
+      "supports": "Grades per group, the 9 hidden base-game trophies, and no online trophies.",
+      "checked": "2026-10-13"
+    },
+    {
+      "id": "psthc-ab-guide",
+      "title": "Astro Bot trophy guide – PSTHC",
+      "url": "https://www.psthc.fr/unjeu/astro-bot-ps5/guide-trophees.htm",
+      "supports": "Updated August 2026. About 9 hours, 4/10, no missables; the Great Master Challenge's length and restart rule; coin farming; Lost Galaxy structure; Crash Site trophy tips.",
+      "checked": "2026-10-13"
+    },
+    {
+      "id": "powerpyx-ab",
+      "title": "Astro Bot Trophy Guide & Roadmap – PowerPyx",
+      "url": "https://www.powerpyx.com/astro-bot-trophy-guide-roadmap/",
+      "supports": "3/10, about 15 hours, the roadmap, and methods for every base, Stellar Speedway and Winter Wonder trophy.",
+      "checked": "2026-10-13"
+    },
+    {
+      "id": "powerpyx-ab-lost",
+      "title": "Astro Bot: how to unlock all secret levels (Lost Galaxy) – PowerPyx",
+      "url": "https://www.powerpyx.com/astro-bot-how-to-unlock-all-secret-levels-lost-galaxies/",
+      "supports": "Where and how to open each of the ten Lost Galaxy levels, plus Final Encore.",
+      "checked": "2026-10-13"
+    },
+    {
+      "id": "pushsquare-ab",
+      "title": "Astro Bot trophy guide – Push Square",
+      "url": "https://pushsquare.com/guides/astro-bot-trophy-guide-all-ps5-trophies-and-how-to-get-the-platinum",
+      "supports": "No missables or difficulty trophies, and Stellar Speedway appearing after you clear the main game.",
+      "checked": "2026-10-13"
+    },
+    {
+      "id": "pushsquare-vv",
+      "title": "5 more Astro Bot PS5 levels coming for free – Push Square",
+      "url": "https://www.pushsquare.com/news/2025/02/5-more-astro-bot-ps5-levels-coming-for-free-first-is-out-today",
+      "supports": "The Vicious Void Galaxy on the hub screen, the main game requirement, the release schedule and Time Attack.",
+      "checked": "2026-10-13"
+    },
+    {
+      "id": "pushsquare-thrust",
+      "title": "Astro Bot: Thrust or Bust – all collectibles – Push Square",
+      "url": "https://www.pushsquare.com/guides/astro-bot-thrust-or-bust-all-collectibles-bots",
+      "supports": "The Vicious Void Special Bot is the reward for reaching the level's goal.",
+      "checked": "2026-10-13"
+    },
+    {
+      "id": "psblog-vv1",
+      "title": "Astro Bot: five new levels and Special Bots begin rolling out today – PlayStation Blog",
+      "url": "https://blog.playstation.com/2025/02/13/astro-bot-five-new-levels-and-special-bots-begin-rolling-out-today/",
+      "supports": "The first five Vicious Void levels, the main game requirement, Time Attack, and that they're harder than earlier content.",
+      "checked": "2026-10-13"
+    },
+    {
+      "id": "psblog-vv2",
+      "title": "Astro Bot: five new Vicious Void Galaxy levels, Special Bots launch this July – PlayStation Blog",
+      "url": "https://blog.playstation.com/2025/06/04/astro-bot-five-new-vicious-void-galaxy-levels-special-bots-launch-this-july/",
+      "supports": "The July 2025 Vicious Void levels and their difficulty.",
+      "checked": "2026-10-13"
+    },
+    {
+      "id": "psls-vv2",
+      "title": "Astro Bot PS5 update adds Square Enix love, trophies and levels – PlayStation LifeStyle",
+      "url": "https://www.playstationlifestyle.net/2025/07/10/astro-bot-update-july-2025-square-enix-bots/",
+      "supports": "The five July 2025 levels, including Megamix Mastery, and their trophies' grades.",
+      "checked": "2026-10-13"
+    },
+    {
+      "id": "wikipedia-ab",
+      "title": "Astro Bot – Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Astro_Bot",
+      "supports": "Developer, release date, story premise and the timeline of free updates.",
+      "checked": "2026-10-13"
+    }
+  ]
+}

@@ -1,0 +1,1934 @@
+{
+  "schemaVersion": 1,
+  "slug": "the-division",
+  "status": "complete",
+  "demo": false,
+  "title": "Tom Clancy's The Division",
+  "edition": "Standard, Gold and Definitive editions",
+  "platforms": ["PS4"],
+  "listNote": "This is the PS4 trophy list. It's also the list you earn when you play on PS5, through backwards compatibility. The Definitive Edition sold on PlayStation since February 2026 is the same PS4 game bundled with all three expansions, so it uses this list too. Xbox and PC have their own achievement lists, with slightly different DLC entries.",
+  "releaseYear": 2016,
+  "developer": "Massive Entertainment",
+  "publisher": "Ubisoft",
+  "genres": ["Action RPG", "Third-person shooter"],
+  "summary": "An always-online looter shooter set in a collapsed, snowbound Manhattan. The Platinum is a long, gentle grind: level 30, all 16 main missions on Hard, 293 collectibles, a fully upgraded base and some Dark Zone PvP.",
+  "intro": [
+    "You're a sleeper agent of the Strategic Homeland Division, activated after a smallpox-style outbreak empties New York. The Platinum asks for everything the campaign offers plus a second pass of the main missions on Hard, some co-op and a few Dark Zone kills and extractions. Nothing is missable: every mission can be replayed from the map, and collectibles stay available after the credits.",
+    "The game is online-only, even solo. Ubisoft re-released it as the Definitive Edition in February 2026 and marked its 10th anniversary in March 2026, and players were still active on its servers in late 2024. Check that you can connect before you start.",
+    "The hardest part today is other players. The co-op trophies and the Dark Zone rogue kills need people, and the player base is far smaller than at launch. A friend or two (or a Division community Discord) makes those trophies quick."
+  ],
+  "lastUpdated": "2026-10-13",
+  "stats": {
+    "difficulty": { "value": 2, "sources": ["powerpyx"] },
+    "hours": { "min": 50, "sources": ["powerpyx"] },
+    "playthroughs": { "value": 2, "note": "One story run to level 30, then the 16 main missions again on Hard. Missions are replayed from the map, so this isn't a fresh save.", "sources": ["powerpyx", "ta-know-no-fear"] },
+    "online": { "value": true, "note": "Always online. Co-op and Dark Zone trophies need other players.", "sources": ["powerpyx"] }
+  },
+  "officialCounts": {
+    "base": { "platinum": 1, "gold": 3, "silver": 5, "bronze": 42 },
+    "dlc": {
+      "underground": { "platinum": 0, "gold": 0, "silver": 3, "bronze": 2 },
+      "survival": { "platinum": 0, "gold": 0, "silver": 3, "bronze": 2 },
+      "last-stand": { "platinum": 0, "gold": 0, "silver": 3, "bronze": 2 }
+    },
+    "sources": ["exophase", "powerpyx", "meinmmo-trophies", "gamefaqs-base", "gamefaqs-last-stand", "supercheats"]
+  },
+  "theme": {
+    "accent": "#ff8f3f",
+    "glow": "#b4471a",
+    "base": "#0b0e12",
+    "pattern": "mist",
+    "heroImage": null,
+    "coverImage": null
+  },
+  "dlc": [
+    {
+      "id": "underground",
+      "title": "Expansion I: Underground",
+      "note": "Randomly generated co-op operations in the tunnels under Manhattan. Needs level 30 and the story finished. Included in the Season Pass, Gold Edition and Definitive Edition. Not needed for the Platinum."
+    },
+    {
+      "id": "survival",
+      "title": "Expansion II: Survival",
+      "note": "A one-life, roughly two-hour survival run through a blizzard. Can be played solo against AI. Included in the Season Pass, Gold Edition and Definitive Edition. Not needed for the Platinum."
+    },
+    {
+      "id": "last-stand",
+      "title": "Expansion III: Last Stand",
+      "note": "8 v 8 objective PvP. A match needs 16 players, so with today's player base expect to organise sessions with a community group. Not needed for the Platinum."
+    }
+  ],
+  "route": [
+    {
+      "id": "before-you-start",
+      "title": "Before you start",
+      "summary": "A few habits that save hours later. Nothing in The Division is missable, so the order below is about efficiency, not risk.",
+      "steps": [
+        "Check you can connect: the whole game, including the story, needs Ubisoft's servers.",
+        "Play the story on **Normal**. Enemies die faster, so you level quicker. Hard runs only count at level 30, so there's no point doing them early.",
+        "Start your first story mission with matchmaking on. Joining or creating a group unlocks [[looking-for-group]], and every main mission you finish as a group counts towards [[networking]] (20 needed).",
+        "Plan to clear each district's side missions and encounters as you pass through. They pay the supplies for Base upgrades and, once you own the Canine Unit, reveal that district's collectibles on the map."
+      ],
+      "warning": "",
+      "trophies": ["looking-for-group"]
+    },
+    {
+      "id": "brooklyn",
+      "title": "Brooklyn prologue",
+      "summary": "The tutorial area. Two quick trophies, one of which most people get without trying.",
+      "steps": [
+        "Play Agent Activation and the Brooklyn side missions. While you're out, take cover behind a car with an open door for [[shut-that-door]].",
+        "Precinct Siege is the Brooklyn main mission. It doesn't count towards the Hard-mode trophy later, so play it however you like.",
+        "Take the Manhattan Transfer mission. [[activated]] unlocks when you arrive in Manhattan."
+      ],
+      "warning": "",
+      "trophies": ["shut-that-door", "activated"]
+    },
+    {
+      "id": "base-and-wings",
+      "title": "The Base of Operations and the three wings (levels 4–10)",
+      "summary": "Set up the base, rescue the three wing leaders and buy the two upgrades that matter most for the rest of the Platinum.",
+      "steps": [
+        "Reach the Base of Operations in the James Farley Post Office (Pennsylvania Plaza) for [[gain-a-foothold]].",
+        "Play Madison Field Hospital (level 4) for [[the-doctor]]. This opens the Medical Wing.",
+        "Play Lincoln Tunnel Checkpoint (level 5) for [[the-captain]]. This opens the Security Wing.",
+        "Play Subway Morgue (level 6) for [[the-engineer]]. This opens the Tech Wing.",
+        "Buy the **Canine Unit** (Security Wing) as soon as you can, then **Pediatric Care** (Medical Wing), for [[the-humanitarian]]. The Canine Unit carries the Intel Discovery perk, which marks every collectible in a district once its side missions and encounters are done.",
+        "Play Hudson Refugee Camp (level 7), then Broadway Emporium (level 8) for [[outbreak]].",
+        "Pick up every gun type you find and get a kill with each for [[raid-the-arsenal]]. [[natural-talent]] comes naturally once you have a talent equipped."
+      ],
+      "warning": "",
+      "trophies": ["gain-a-foothold", "the-doctor", "the-captain", "the-engineer", "the-humanitarian", "outbreak", "raid-the-arsenal", "natural-talent"]
+    },
+    {
+      "id": "midtown",
+      "title": "Story: levels 10–20",
+      "summary": "Five main missions through Midtown. Keep clearing side content district by district so supplies and collectibles keep pace.",
+      "steps": [
+        "Napalm Production Site (level 10, Tenderloin) for [[cant-stand-the-heat]].",
+        "Times Square Power Relay (level 12) and Amherst's Apartment (level 14, Clinton). Neither has a trophy of its own.",
+        "Police Academy (level 16, Gramercy). No trophy of its own.",
+        "WarrenGate Power Plant (level 18, Stuyvesant) for [[ive-got-the-power]].",
+        "Use your skills to finish off weakened enemies throughout for [[skill-kill]]."
+      ],
+      "warning": "",
+      "trophies": ["cant-stand-the-heat", "ive-got-the-power", "skill-kill"]
+    },
+    {
+      "id": "east-side",
+      "title": "Story: levels 20–30 and the ending",
+      "summary": "The last six main missions, the post-credits mission and level 30.",
+      "steps": [
+        "Lexington Event Center (level 20) for [[crime-and-punishment]].",
+        "Rooftop Comm Relay (level 22) for [[fly-on-the-wall]].",
+        "Queens Tunnel Camp (level 24, Murray Hill). No trophy of its own.",
+        "Grand Central Station (level 26) for [[what-needs-to-be-done]].",
+        "Russian Consulate (level 27) for [[you-win-some]].",
+        "General Assembly (level 28, Turtle Bay) for [[last-man-standing]].",
+        "After the credits, play the short **Unknown Signal** mission in Chelsea for [[the-final-curtain]]. Its ECHO is also the final one for [[shadows-of-the-past]].",
+        "Finish the remaining side missions and encounters to reach level 30 for [[on-the-level]]."
+      ],
+      "warning": "",
+      "trophies": ["crime-and-punishment", "fly-on-the-wall", "what-needs-to-be-done", "you-win-some", "last-man-standing", "the-final-curtain", "on-the-level"]
+    },
+    {
+      "id": "finish-manhattan",
+      "title": "Finish Manhattan: collectibles, safe houses and the base",
+      "summary": "Mop up everything in the open world. With the Canine Unit bought and every district's side content done, all 293 collectibles show on your map.",
+      "steps": [
+        "Open **Intel > Field Data** to see how many collectibles each district still has, then sweep them up.",
+        "Upgrade the Medical Wing's filter upgrades (Virus Lab, Hazmat Unit, Pharmacy) so you can enter every contaminated area. Some collectibles sit inside them.",
+        "Visit any safe house you haven't discovered for [[marathon]].",
+        "Spend your supplies until every wing is maxed: [[one-down]], [[fixer-upper]], then [[state-of-the-art]].",
+        "Equip 10 different skill mods for [[skillz]]."
+      ],
+      "warning": "",
+      "trophies": ["shadows-of-the-past", "droning-on", "survivalist", "agent-diaries", "the-finder", "incident-reports", "marathon", "one-down", "fixer-upper", "state-of-the-art", "skillz"]
+    },
+    {
+      "id": "level-30-gear",
+      "title": "Level 30: gear up and craft",
+      "summary": "Four quick trophies that also prepare you for Hard missions and the Dark Zone.",
+      "steps": [
+        "Fill every gear slot with purple (Superior) or yellow (High-end) items for [[bling-bling]]. Level 30 vendors sell them.",
+        "Deconstruct everything you don't need for [[deconstructive-criticism]]. It also gives you crafting materials.",
+        "At the crafting station, craft 10 items for [[good-with-my-hands]] and one High-end item for [[master-craftsman]]."
+      ],
+      "warning": "",
+      "trophies": ["bling-bling", "deconstructive-criticism", "good-with-my-hands", "master-craftsman"]
+    },
+    {
+      "id": "hard-missions",
+      "title": "Hard missions in a group (level 30)",
+      "summary": "Replay all 16 main missions on Hard. Doing them with other players knocks out the co-op trophies at the same time.",
+      "steps": [
+        "Set your World Tier to 1 (lowest enemy level), then replay all 16 main missions on **Hard** for [[know-no-fear]]. Keep a checklist: the game doesn't track which ones you've done.",
+        "Play them as a group wherever you can. Each one counts towards [[networking]], and healing and reviving teammates counts towards [[lean-on-me]] and [[medic]].",
+        "With a group already formed, start one mission and finish it with nobody going down for [[united-we-stand]]. An early mission on Normal is easiest.",
+        "Use a Signature Skill whenever it's ready for [[those-signature-moves]]."
+      ],
+      "warning": "",
+      "trophies": ["know-no-fear", "networking", "united-we-stand", "medic", "lean-on-me", "those-signature-moves"]
+    },
+    {
+      "id": "dark-zone",
+      "title": "The Dark Zone",
+      "summary": "Extractions, named enemies and rogue agents. Go with at least one friend: it's safer, and it's the only reliable way to get the rogue kills with today's player numbers.",
+      "steps": [
+        "Extract one contaminated item for [[worth-the-wait]], and one purple or yellow item for [[plundered]].",
+        "Extract at all 8 extraction zones in DZ01–DZ06 for [[mass-extraction]].",
+        "Clear landmarks for named enemies: one for [[headhunter]], 10 in total for [[you-just-made-the-list]].",
+        "Kill a rogue agent for [[for-justice]] and 20 in total for [[i-am-the-law]]."
+      ],
+      "warning": "",
+      "trophies": ["worth-the-wait", "plundered", "mass-extraction", "headhunter", "you-just-made-the-list", "for-justice", "i-am-the-law"]
+    },
+    {
+      "id": "challenge-mission",
+      "title": "One Challenge mission",
+      "summary": "The hardest PvE trophy, saved for when your gear is at its best.",
+      "steps": [
+        "Raise your World Tier to 2 or higher to unlock Challenging difficulty.",
+        "Complete Lincoln Tunnel Checkpoint on Challenging for [[hardened-combatant]], ideally with a full group of four."
+      ],
+      "warning": "",
+      "trophies": ["hardened-combatant"]
+    },
+    {
+      "id": "platinum",
+      "title": "Platinum",
+      "summary": "Unlocks automatically once all 50 other base-game trophies are earned. DLC trophies aren't needed.",
+      "steps": [
+        "Compare your console's trophy list with the checklist here. If something hasn't popped, its stage is linked from the Platinum Route."
+      ],
+      "warning": "",
+      "trophies": ["platinum-agent"]
+    },
+    {
+      "id": "underground",
+      "dlc": "underground",
+      "title": "Underground",
+      "summary": "Co-op operations generated at random in the tunnels and subway. Rank 40 is the long one; the rest come along the way.",
+      "steps": [
+        "At level 30 with General Assembly done, take Captain Benitez's **Secure Quarantine Centre** mission in Tenderloin. Afterwards, enter the Underground from the Terminal at the back of the Base of Operations.",
+        "Start any operation at the Tactical Operations Center table for [[begin-with-a-bang]].",
+        "Run operations, ideally on Hard with several directives and three phases, until you reach rank 40 for [[the-beast-below]]. Along the way, finish all six objective types for [[objectively-experienced]] and pick up the collectible by each restock crate for [[gone-spelunking]].",
+        "With a full group of four, finish one operation on Challenging with all 5 directives on for [[tier-one]]."
+      ],
+      "warning": "",
+      "trophies": ["begin-with-a-bang", "objectively-experienced", "gone-spelunking", "the-beast-below", "tier-one"]
+    },
+    {
+      "id": "survival",
+      "dlc": "survival",
+      "title": "Survival",
+      "summary": "Four of the five trophies can come in one good solo run. The fifth, 100 extracted items, needs about 17 successful runs.",
+      "steps": [
+        "Start Survival from the Terminal at the Base of Operations. Choose **PvE** and play solo.",
+        "Craft the Virus Filter to enter the Dark Zone and the Flare Gun once you have the antivirals, for [[tools-of-the-trade]].",
+        "Craft clothing at a hideout near the Dark Zone until your cold rating reaches -22°C for [[subzero-hero]].",
+        "Escape on the helicopter for [[born-survivor]], with at least 10,000 points for [[survival-instincts]].",
+        "Bring out 6 items every successful run until you've extracted 100 in total for [[for-the-hoarder]]."
+      ],
+      "warning": "",
+      "trophies": ["tools-of-the-trade", "subzero-hero", "born-survivor", "survival-instincts", "for-the-hoarder"]
+    },
+    {
+      "id": "last-stand",
+      "dlc": "last-stand",
+      "title": "Last Stand",
+      "summary": "8 v 8 PvP. Every match needs 16 players, so organise a boosting session with a community group: four parties of four searching at the same time.",
+      "steps": [
+        "Finish one match for [[first-blood]].",
+        "In one match, help capture an objective, build both fortifications at A or C and activate both perks for [[objectively-good]].",
+        "Agree which team wins each match and alternate, so everyone gets [[stand-taken]] (50 wins). [[captivated]] (50 captures) and [[buffing-please-wait]] (10 perks) come along the way."
+      ],
+      "warning": "",
+      "trophies": ["first-blood", "objectively-good", "captivated", "buffing-please-wait", "stand-taken"]
+    }
+  ],
+  "trophies": [
+    {
+      "id": "looking-for-group",
+      "name": "Looking for Group",
+      "grade": "bronze",
+      "description": "Join or create a group.",
+      "tags": ["online"],
+      "missable": false,
+      "afterStory": true,
+      "where": "Anywhere",
+      "when": "Your first main mission",
+      "unlock": "Being in a group with at least one other player, whether you invited them, they invited you or matchmaking put you together.",
+      "steps": [
+        "Open a main mission on the map and start matchmaking, or invite a friend from the group menu.",
+        "The trophy unlocks as soon as someone joins your group or you join theirs."
+      ],
+      "tips": [
+        "Using matchmaking for story missions from the start also counts those missions towards [[networking]]."
+      ],
+      "sources": ["psls-guide", "ta-walkthrough-9"]
+    },
+    {
+      "id": "shut-that-door",
+      "name": "Shut That Door",
+      "grade": "bronze",
+      "description": "Close a car door whilst in cover.",
+      "tags": ["misc"],
+      "missable": false,
+      "afterStory": true,
+      "where": "Any street with abandoned cars",
+      "when": "Brooklyn, during the first side missions",
+      "unlock": "Moving along a car in cover pushes any open door shut, which counts.",
+      "steps": [
+        "Find a car with a door hanging open. They're common on almost every street.",
+        "Press **X** to take cover against the car.",
+        "Move along the car while still in cover. The door closes as you pass it and the trophy unlocks."
+      ],
+      "sources": ["powerpyx", "ta-walkthrough-5"]
+    },
+    {
+      "id": "activated",
+      "name": "Activated",
+      "grade": "bronze",
+      "description": "Get to Manhattan.",
+      "tags": ["story"],
+      "missable": false,
+      "afterStory": true,
+      "where": "Brooklyn to Manhattan",
+      "when": "End of the Brooklyn prologue",
+      "unlock": "Story-related and can't be missed.",
+      "steps": [
+        "Finish the Brooklyn side missions until Manhattan Transfer is available.",
+        "Complete Manhattan Transfer. The trophy unlocks when you arrive in Manhattan."
+      ],
+      "sources": ["ta-walkthrough-5", "ta-walkthrough-6"]
+    },
+    {
+      "id": "gain-a-foothold",
+      "name": "Gain a Foothold",
+      "grade": "bronze",
+      "description": "Regroup with Faye Lau in the Base of Operations.",
+      "tags": ["story"],
+      "missable": false,
+      "afterStory": true,
+      "where": "Pennsylvania Plaza",
+      "when": "Your first few minutes in Manhattan",
+      "unlock": "Story-related and can't be missed.",
+      "steps": [
+        "Follow the Establish Base of Operations objective to the James Farley Post Office in Pennsylvania Plaza.",
+        "Talk to Faye Lau inside. The trophy unlocks as you regroup with her."
+      ],
+      "sources": ["ta-walkthrough-6"]
+    },
+    {
+      "id": "the-doctor",
+      "name": "The Doctor",
+      "grade": "bronze",
+      "description": "Rescue and extract Dr. Jessica Kandel.",
+      "tags": ["story"],
+      "missable": false,
+      "afterStory": true,
+      "where": "Madison Field Hospital",
+      "when": "Main mission, recommended level 4",
+      "unlock": "Story-related. Completing Madison Field Hospital rescues Dr. Kandel and unlocks the Medical Wing.",
+      "steps": [
+        "Start Madison Field Hospital from the map.",
+        "Fight through to Dr. Kandel and escort her out.",
+        "The trophy unlocks when the mission completes."
+      ],
+      "tips": [
+        "A locked room inside is contaminated. If your filter level is too low it kills you quickly, but you can grab the loot inside before you go down."
+      ],
+      "sources": ["ta-walkthrough-6", "ta-know-no-fear"]
+    },
+    {
+      "id": "the-captain",
+      "name": "The Captain",
+      "grade": "bronze",
+      "description": "Rescue Captain Roy Benitez.",
+      "tags": ["story"],
+      "missable": false,
+      "afterStory": true,
+      "where": "Lincoln Tunnel Checkpoint, Hudson Yards",
+      "when": "Main mission, recommended level 5",
+      "unlock": "Story-related. Completing Lincoln Tunnel Checkpoint rescues Captain Benitez and unlocks the Security Wing.",
+      "steps": [
+        "Start Lincoln Tunnel Checkpoint from the map.",
+        "Clear the checkpoint and protect Benitez in the final phase.",
+        "The trophy unlocks when the mission completes."
+      ],
+      "sources": ["ta-walkthrough-6", "ta-know-no-fear"]
+    },
+    {
+      "id": "the-engineer",
+      "name": "The Engineer",
+      "grade": "bronze",
+      "description": "Rescue Paul Rhodes.",
+      "tags": ["story"],
+      "missable": false,
+      "afterStory": true,
+      "where": "Subway Morgue, Garment District",
+      "when": "Main mission, recommended level 6",
+      "unlock": "Story-related. Completing Subway Morgue rescues Paul Rhodes and unlocks the Tech Wing.",
+      "steps": [
+        "Start Subway Morgue from the map.",
+        "Complete the objectives and defeat the boss.",
+        "The trophy unlocks when the mission completes."
+      ],
+      "sources": ["ta-engineer", "ta-know-no-fear"]
+    },
+    {
+      "id": "the-humanitarian",
+      "name": "The Humanitarian",
+      "grade": "bronze",
+      "description": "Purchase the Canine Unit and Pediatric Care Base of Operations Upgrade.",
+      "tags": ["misc"],
+      "missable": false,
+      "afterStory": true,
+      "where": "Base of Operations",
+      "when": "As soon as you can afford both upgrades",
+      "prerequisites": [
+        "Security Wing unlocked (Lincoln Tunnel Checkpoint) and Medical Wing unlocked (Madison Field Hospital).",
+        "Enough Security and Medical supplies, earned from main missions and encounters."
+      ],
+      "unlock": "Owning both upgrades: Canine Unit in the Security Wing and Pediatric Care in the Medical Wing.",
+      "steps": [
+        "In the Security Wing, use the upgrade laptop and buy **Canine Unit**.",
+        "In the Medical Wing, buy **Pediatric Care**.",
+        "The trophy unlocks once you own both."
+      ],
+      "tips": [
+        "Buy the Canine Unit first. It carries the Intel Discovery perk, which marks a district's collectibles on the map once its side missions and encounters are done. That makes the six collectible trophies far quicker."
+      ],
+      "sources": ["ta-walkthrough-6", "powerpyx", "powerpyx-intel"]
+    },
+    {
+      "id": "outbreak",
+      "name": "Outbreak",
+      "grade": "bronze",
+      "description": "Secure a sample of the original virus strain.",
+      "tags": ["story"],
+      "missable": false,
+      "afterStory": true,
+      "where": "Broadway Emporium, Garment District",
+      "when": "Main mission, recommended level 8",
+      "unlock": "Story-related and can't be missed.",
+      "steps": [
+        "Finish Hudson Refugee Camp (level 7) first if you're following the level order.",
+        "Start Broadway Emporium from the map and secure the virus sample.",
+        "The trophy unlocks when the mission completes."
+      ],
+      "sources": ["ta-walkthrough-7", "ta-know-no-fear"]
+    },
+    {
+      "id": "raid-the-arsenal",
+      "name": "Raid the Arsenal",
+      "grade": "bronze",
+      "description": "Kill 1 enemy with each of the 6 Gun classes.",
+      "tags": ["combat"],
+      "missable": false,
+      "afterStory": true,
+      "where": "Anywhere",
+      "when": "Early game, as you pick up new gun types",
+      "unlock": "One kill each with a pistol (sidearm), shotgun, marksman rifle, assault rifle, submachine gun and light machine gun. The kills don't have to be in one session.",
+      "steps": [
+        "Keep at least one gun of every class in your inventory as you find them.",
+        "Swap to each class in turn and get a kill with it. Weak enemies in a low-level area make this quick.",
+        "The trophy unlocks after the sixth class gets its kill."
+      ],
+      "tips": [
+        "If you're missing a class, check the vendors at the Base of Operations and safe houses."
+      ],
+      "sources": ["psls-guide", "ta-walkthrough-8"]
+    },
+    {
+      "id": "natural-talent",
+      "name": "Natural Talent",
+      "grade": "bronze",
+      "description": "Be attributed with a kill whilst having a Talent active.",
+      "tags": ["combat"],
+      "missable": false,
+      "afterStory": true,
+      "where": "Anywhere",
+      "when": "Early game, once a talent is equipped",
+      "unlock": "Talents are bonuses that switch on when you meet their condition. You need a kill while one is switched on.",
+      "steps": [
+        "Buy a talent from a wing upgrade and equip it in the Abilities menu.",
+        "Trigger it. Each talent's description says what switches it on.",
+        "Get a kill while the bonus is active. The TrueAchievements walkthrough author earned it by using a medkit at critical health and then finishing a fight."
+      ],
+      "sources": ["ta-walkthrough-6", "psls-guide"]
+    },
+    {
+      "id": "cant-stand-the-heat",
+      "name": "Can't Stand the Heat!",
+      "grade": "bronze",
+      "description": "Eliminate the leader of the Cleaners and escape the Napalm Production Site.",
+      "tags": ["story"],
+      "missable": false,
+      "afterStory": true,
+      "where": "Napalm Production Site, Tenderloin",
+      "when": "Main mission, recommended level 10",
+      "unlock": "Story-related and can't be missed.",
+      "steps": [
+        "Start Napalm Production Site from the map.",
+        "Defeat the Cleaners' leader and escape the site.",
+        "The trophy unlocks when the mission completes."
+      ],
+      "tips": [
+        "Cleaners carry fuel tanks on their backs. Shooting a tank makes it explode, which deals heavy damage to anyone nearby."
+      ],
+      "sources": ["ta-walkthrough-8", "ta-know-no-fear"]
+    },
+    {
+      "id": "ive-got-the-power",
+      "name": "I've Got the Power",
+      "grade": "bronze",
+      "description": "Secure the Power Plant.",
+      "tags": ["story"],
+      "missable": false,
+      "afterStory": true,
+      "where": "WarrenGate Power Plant, Stuyvesant",
+      "when": "Main mission, recommended level 18",
+      "unlock": "Story-related and can't be missed.",
+      "steps": [
+        "Times Square Power Relay (level 12), Amherst's Apartment (level 14) and Police Academy (level 16) come before this in level order. None of them has its own trophy.",
+        "Start WarrenGate Power Plant from the map and secure the plant.",
+        "The trophy unlocks when the mission completes."
+      ],
+      "sources": ["ta-walkthrough-11", "ta-know-no-fear"]
+    },
+    {
+      "id": "skill-kill",
+      "name": "Skill Kill",
+      "grade": "bronze",
+      "description": "Finish off 50 enemies using Skills.",
+      "tags": ["combat"],
+      "missable": false,
+      "afterStory": true,
+      "where": "Anywhere",
+      "when": "Throughout the story",
+      "unlock": "The final blow on 50 enemies has to come from a skill. The count carries over between sessions.",
+      "steps": [
+        "Equip a damaging skill: Sticky Bomb, Turret or Seeker Mine.",
+        "Wear an enemy or group down with gunfire, then finish them with the skill.",
+        "Keep a damaging skill equipped while levelling. Most players get this before the end of the story."
+      ],
+      "sources": ["psls-guide", "ta-walkthrough-6"]
+    },
+    {
+      "id": "crime-and-punishment",
+      "name": "Crime and Punishment",
+      "grade": "bronze",
+      "description": "Eliminate the leader of the Rikers gang and her bodyguards in Lexington Event Center.",
+      "tags": ["story"],
+      "missable": false,
+      "afterStory": true,
+      "where": "Lexington Event Center",
+      "when": "Main mission, recommended level 20",
+      "unlock": "Story-related and can't be missed.",
+      "steps": [
+        "Start Lexington Event Center from the map.",
+        "Defeat the Rikers' leader and her bodyguards.",
+        "The trophy unlocks when the mission completes."
+      ],
+      "sources": ["ta-walkthrough-12", "ta-know-no-fear"]
+    },
+    {
+      "id": "fly-on-the-wall",
+      "name": "Fly on the Wall",
+      "grade": "bronze",
+      "description": "Restore the JTF comm relay.",
+      "tags": ["story"],
+      "missable": false,
+      "afterStory": true,
+      "where": "Rooftop Comm Relay",
+      "when": "Main mission, recommended level 22",
+      "unlock": "Story-related and can't be missed.",
+      "steps": [
+        "Start Rooftop Comm Relay from the map.",
+        "Restore the relay.",
+        "The trophy unlocks when the mission completes."
+      ],
+      "sources": ["ta-walkthrough-12", "ta-know-no-fear"]
+    },
+    {
+      "id": "what-needs-to-be-done",
+      "name": "What Needs To Be Done",
+      "grade": "bronze",
+      "description": "Recover Charles Bliss' propaganda tape.",
+      "tags": ["story"],
+      "missable": false,
+      "afterStory": true,
+      "where": "Grand Central Station, Murray Hill",
+      "when": "Main mission, recommended level 26",
+      "unlock": "Story-related and can't be missed.",
+      "steps": [
+        "Queens Tunnel Camp (level 24) comes first in level order and has no trophy of its own.",
+        "Start Grand Central Station from the map and recover the tape.",
+        "The trophy unlocks when the mission completes."
+      ],
+      "sources": ["ta-walkthrough-13", "ta-know-no-fear"]
+    },
+    {
+      "id": "you-win-some",
+      "name": "You Win Some, You Lose Some",
+      "grade": "bronze",
+      "description": "Recover Tchernenko's research data from the Russian Consulate.",
+      "tags": ["story"],
+      "missable": false,
+      "afterStory": true,
+      "where": "Russian Consulate, Murray Hill",
+      "when": "Main mission, recommended level 27",
+      "unlock": "Story-related and can't be missed.",
+      "steps": [
+        "Start Russian Consulate from the map.",
+        "Recover the research data.",
+        "The trophy unlocks when the mission completes."
+      ],
+      "sources": ["ta-walkthrough-13", "ta-know-no-fear"]
+    },
+    {
+      "id": "last-man-standing",
+      "name": "Last Man Standing",
+      "grade": "bronze",
+      "description": "Eliminate the leader of the Last Man Battalion and his men in the U.N. Building.",
+      "tags": ["story"],
+      "missable": false,
+      "afterStory": true,
+      "where": "General Assembly, Turtle Bay",
+      "when": "Final main mission, recommended level 28",
+      "unlock": "Story-related and can't be missed.",
+      "steps": [
+        "Start General Assembly from the map.",
+        "Fight through the south gate, tunnels and car park to the U.N. building.",
+        "Defeat the attack helicopter at the end. Use the turret consoles, Pulse and Sticky Bombs, and stay behind solid cover when it fires rockets.",
+        "The trophy unlocks when the mission completes."
+      ],
+      "sources": ["ta-walkthrough-14", "ta-know-no-fear"]
+    },
+    {
+      "id": "the-final-curtain",
+      "name": "The Final Curtain",
+      "grade": "bronze",
+      "description": "Uncover the fates of Gordon Amherst and Aaron Keener.",
+      "tags": ["story"],
+      "missable": false,
+      "afterStory": true,
+      "where": "Unknown Signal, Chelsea",
+      "when": "After General Assembly",
+      "prerequisites": [
+        "General Assembly completed."
+      ],
+      "unlock": "A short side mission called Unknown Signal appears in Chelsea after the story. Activating the ECHO at its end unlocks the trophy.",
+      "steps": [
+        "After the credits, open the map and find **Unknown Signal** in Chelsea.",
+        "Follow it into the building.",
+        "Activate the ECHO inside. It holds the last virus report, and the trophy unlocks."
+      ],
+      "tips": [
+        "This ECHO only exists after the story. It's also the one people miss for [[shadows-of-the-past]]."
+      ],
+      "sources": ["powerpyx", "psls-guide"]
+    },
+    {
+      "id": "on-the-level",
+      "name": "On the Level",
+      "grade": "gold",
+      "description": "Reach Level 30 with an Agent.",
+      "tags": ["grind"],
+      "missable": false,
+      "afterStory": true,
+      "where": "Anywhere",
+      "when": "Around the end of the story",
+      "unlock": "Reaching the level cap of 30. XP comes from main missions, side missions, encounters and kills.",
+      "steps": [
+        "Play main missions on Normal; they give XP faster than Hard at this stage.",
+        "Clear each district's side missions and encounters as you go.",
+        "If you finish the story short of 30, finish the remaining side missions. The TrueAchievements walkthrough author hit 30 at the Procurement: Lab Data side mission."
+      ],
+      "sources": ["powerpyx", "ta-walkthrough-13", "psls-guide"]
+    },
+    {
+      "id": "shadows-of-the-past",
+      "name": "Shadows of the Past",
+      "grade": "bronze",
+      "description": "Activate 63 ECHO scenes.",
+      "tags": ["collectible"],
+      "missable": false,
+      "afterStory": true,
+      "where": "All Manhattan districts",
+      "when": "After the story (one ECHO only appears then)",
+      "prerequisites": [
+        "Canine Unit bought (Intel Discovery perk), so collectibles show on the map.",
+        "General Assembly completed, for the final ECHO in Unknown Signal."
+      ],
+      "unlock": "Activate all 63 ECHOs, the frozen holographic scenes you find around the city.",
+      "steps": [
+        "In each district, finish every side mission and encounter. With Intel Discovery, that district's ECHOs then appear on your map.",
+        { "text": "Check **Intel > Field Data** for districts that still have collectibles left.", "image": "field-data-screen" },
+        "Play Unknown Signal in Chelsea after the credits for the 63rd ECHO."
+      ],
+      "mistakes": [
+        "Expecting all 63 before the ending. One only exists after General Assembly."
+      ],
+      "sources": ["powerpyx", "powerpyx-intel", "psls-guide"]
+    },
+    {
+      "id": "droning-on",
+      "name": "Droning on…",
+      "grade": "bronze",
+      "description": "Extract 16 aerial photos from crashed drones.",
+      "tags": ["collectible"],
+      "missable": false,
+      "afterStory": true,
+      "where": "All Manhattan districts",
+      "when": "While clearing districts",
+      "prerequisites": [
+        "Canine Unit bought, so collectibles show on the map."
+      ],
+      "unlock": "Interact with all 16 crashed drones.",
+      "steps": [
+        "Clear each district's side missions and encounters so Intel Discovery marks its drones.",
+        "Collect every drone marked on the map.",
+        "Use **Intel > Field Data** to find districts with drones left."
+      ],
+      "sources": ["powerpyx-intel", "psls-guide"]
+    },
+    {
+      "id": "survivalist",
+      "name": "Survivalist",
+      "grade": "bronze",
+      "description": "Recover 24 Survival Handbook pages.",
+      "tags": ["collectible"],
+      "missable": false,
+      "afterStory": true,
+      "where": "All Manhattan districts",
+      "when": "While clearing districts",
+      "prerequisites": [
+        "Canine Unit bought, so collectibles show on the map."
+      ],
+      "unlock": "Pick up all 24 Survival Guide pages.",
+      "steps": [
+        "Clear each district's side missions and encounters so Intel Discovery marks its pages.",
+        "Collect every page marked on the map.",
+        "Use **Intel > Field Data** to find districts with pages left."
+      ],
+      "sources": ["powerpyx-intel", "psls-guide"]
+    },
+    {
+      "id": "agent-diaries",
+      "name": "Agent Diaries",
+      "grade": "bronze",
+      "description": "Extract 130 phone recordings from phones found in Manhattan.",
+      "tags": ["collectible"],
+      "missable": false,
+      "afterStory": true,
+      "where": "All Manhattan districts",
+      "when": "While clearing districts",
+      "prerequisites": [
+        "Canine Unit bought, so collectibles show on the map."
+      ],
+      "unlock": "Collect all 130 phone recordings. This is the biggest collectible set.",
+      "steps": [
+        "Clear each district's side missions and encounters so Intel Discovery marks its phones.",
+        "Collect every phone marked on the map.",
+        "Use **Intel > Field Data** to find districts with phones left."
+      ],
+      "tips": [
+        "Collectibles also mark themselves when you walk near them, so you'll find many without trying. If an icon seems to be missing, turn on the map's Intel filter; other icons can hide it."
+      ],
+      "sources": ["powerpyx-intel", "psls-guide", "ta-walkthrough-9"]
+    },
+    {
+      "id": "the-finder",
+      "name": "The Finder",
+      "grade": "bronze",
+      "description": "Retrieve 20 missing First Wave Division Agent profiles.",
+      "tags": ["collectible"],
+      "missable": false,
+      "afterStory": true,
+      "where": "All Manhattan districts",
+      "when": "While clearing districts",
+      "prerequisites": [
+        "Canine Unit bought, so collectibles show on the map."
+      ],
+      "unlock": "Find all 20 missing First Wave agents and take their profiles.",
+      "steps": [
+        "Clear each district's side missions and encounters so Intel Discovery marks its missing agents.",
+        "Collect every one marked on the map.",
+        "Use **Intel > Field Data** to find districts with agents left."
+      ],
+      "mistakes": [
+        "Giving up on the two Midtown East agents reached by lifts. In 2016 those lifts sent some players back to a safe house or out of bounds; a later fix was reported. If it happens to you, reload and try again."
+      ],
+      "sources": ["powerpyx-intel", "psls-guide", "ta-walkthrough-14"]
+    },
+    {
+      "id": "incident-reports",
+      "name": "Incident Reports",
+      "grade": "bronze",
+      "description": "Extract 40 audio incident reports from JTF laptops.",
+      "tags": ["collectible"],
+      "missable": false,
+      "afterStory": true,
+      "where": "All Manhattan districts",
+      "when": "While clearing districts",
+      "prerequisites": [
+        "Canine Unit bought, so collectibles show on the map.",
+        "Medical Wing filter upgrades, for laptops inside contaminated areas."
+      ],
+      "unlock": "Collect all 40 JTF laptop reports.",
+      "steps": [
+        "Clear each district's side missions and encounters so Intel Discovery marks its laptops.",
+        "Buy the Medical Wing's Virus Lab, Hazmat Unit and Pharmacy upgrades. They raise your filter level so you can enter every contaminated area.",
+        "Collect every laptop marked on the map, and check **Intel > Field Data** for leftovers."
+      ],
+      "tips": [
+        "The 10 Virus Research medical encounters send you into contaminated areas with a virus scanner. Doing them also reveals collectibles and pays 60 Medical supplies each."
+      ],
+      "sources": ["powerpyx", "powerpyx-intel", "psls-guide"]
+    },
+    {
+      "id": "marathon",
+      "name": "Marathon",
+      "grade": "bronze",
+      "description": "Discover ALL of the Safe Houses in Manhattan.",
+      "tags": ["exploration"],
+      "missable": false,
+      "afterStory": true,
+      "where": "Every Manhattan district",
+      "when": "Most come naturally with the story; finish the rest at level 30",
+      "unlock": "Enter every Manhattan safe house. Walking in is enough to discover it. The Brooklyn safe house and the Dark Zone safe rooms aren't part of the list below.",
+      "steps": [
+        "Kerman Station (Hudson Yards, levels 5–9).",
+        "The Cavern (Garment District, levels 5–9), in the sewers.",
+        "The Meat Locker (Tenderloin, levels 9–12).",
+        "Dante's Run (Hell's Kitchen, levels 10–13).",
+        "Autumn's Hope (Times Square, levels 10–13). This is the one players most often miss.",
+        "Wolves Den (Clinton, levels 14–15).",
+        "Madison's Stand (Flatiron District, levels 15–16).",
+        "The Last Call (Gramercy, levels 16–18).",
+        "The Ward (Stuyvesant, levels 18–19).",
+        "Southpaw (Kips Bay, levels 20–23).",
+        "The Grindhouse (Murray Hill, levels 24–26).",
+        "The Firewall (Turtle Bay, levels 27–28).",
+        "The Crypt (Midtown East, levels 28–30).",
+        "Camp Clinton (Piers South), added in update 1.8, after most guides were written. It's unclear whether the trophy needs it, so visit it at level 30 to be safe."
+      ],
+      "tips": [
+        "To skip dangerous walks, join a friend who's already discovered a safe house and fast travel to them, then walk the last few metres yourself.",
+        "The suggested route on the map can lead straight through enemy encounters. Take a quieter street if you're under-levelled."
+      ],
+      "mistakes": [
+        "Missing Autumn's Hope in Times Square. Older lists of 12 safe houses leave it out."
+      ],
+      "sources": ["ta-marathon", "mp1st-update-1-8", "psls-guide"]
+    },
+    {
+      "id": "one-down",
+      "name": "One Down, Two to Go!",
+      "grade": "silver",
+      "description": "Completely upgrade any one wing of the Base of Operations.",
+      "tags": ["grind"],
+      "missable": false,
+      "afterStory": true,
+      "where": "Base of Operations",
+      "when": "Around the end of the story",
+      "unlock": "Buy all 10 upgrades in one wing. Each wing uses its own supply type and needs 3,000 in total.",
+      "steps": [
+        "Earn supplies: each main mission gives 500 of its wing's type, and each encounter gives 60.",
+        "At the wing's upgrade laptop, buy upgrades as you can afford them. Some need earlier upgrades first.",
+        "The trophy unlocks when the 10th upgrade in any wing is bought."
+      ],
+      "sources": ["ta-fixer-upper", "reddit-boo"]
+    },
+    {
+      "id": "fixer-upper",
+      "name": "Fixer Upper",
+      "grade": "silver",
+      "description": "Completely upgrade any two wings of the Base of Operations.",
+      "tags": ["grind"],
+      "missable": false,
+      "afterStory": true,
+      "where": "Base of Operations",
+      "when": "After [[one-down]]",
+      "unlock": "Buy all 10 upgrades in a second wing.",
+      "steps": [
+        "Encounters are tied to a wing (Medical, Tech or Security). Do the ones for the wing that's behind.",
+        "Buy the second wing's remaining upgrades. The trophy unlocks with the last one."
+      ],
+      "sources": ["ta-fixer-upper", "ta-walkthrough-14"]
+    },
+    {
+      "id": "state-of-the-art",
+      "name": "State of the Art",
+      "grade": "gold",
+      "description": "Fully Upgrade the Base of Operations.",
+      "tags": ["grind"],
+      "missable": false,
+      "afterStory": true,
+      "where": "Base of Operations",
+      "when": "After the story and side content",
+      "unlock": "All 30 upgrades bought: 10 in each of the Medical, Tech and Security wings, 9,000 supplies in all.",
+      "steps": [
+        "Finish all 16 main missions (500 supplies each) and every encounter (60 each).",
+        "Buy the last upgrades in the third wing. The trophy unlocks with the final purchase."
+      ],
+      "tips": [
+        "Short of one supply type with no encounters left? Ask a JTF officer at a safe house for a situation report. One player reported this spawned extra encounters."
+      ],
+      "sources": ["ta-fixer-upper", "psls-guide"]
+    },
+    {
+      "id": "skillz",
+      "name": "Skillz",
+      "grade": "bronze",
+      "description": "Equip 10 different skill mods.",
+      "tags": ["misc"],
+      "missable": false,
+      "afterStory": true,
+      "where": "Abilities menu",
+      "when": "Once you've unlocked 10 mods",
+      "unlock": "Equip 10 different skill mods. Each one only has to be equipped once; you don't need to use them.",
+      "steps": [
+        "Buy skill-mod upgrades in the wings. Each costs 400 supplies, and four of them give you 12 mods. Medical: Quarantine, Intensive Care, Hazmat Unit. Tech: Generators, Water Purification, Field Engineering. Security: Dark Zone Ops, Supply Line, Gunsmith.",
+        "Open the Abilities menu, pick a skill and equip one mod.",
+        "Swap through different mods until you've equipped 10 different ones. The trophy should unlock with the 10th."
+      ],
+      "mistakes": [
+        "Assuming you're stuck if it doesn't pop. This trophy is known to fail for some players. Players reported that equipping the mods on a newly created second character unlocked it."
+      ],
+      "sources": ["ta-skillz", "powerpyx"]
+    },
+    {
+      "id": "bling-bling",
+      "name": "Bling! Bling!",
+      "grade": "silver",
+      "description": "Equip all Equipment slots with Superior or High end Items.",
+      "tags": ["misc"],
+      "missable": false,
+      "afterStory": true,
+      "where": "Inventory",
+      "when": "Level 30",
+      "unlock": "Every gear slot at once holding a purple (Superior) or yellow (High-end) item: body armour, mask, kneepads, backpack, gloves and holster.",
+      "steps": [
+        "At level 30, check the vendors at the Base of Operations. Since update 1.4 they stock gear-score 163+ items as soon as you hit 30, so you can buy any slot you're missing.",
+        "Fill any slot still below purple from loot drops or vendors.",
+        "Equip all six. The trophy unlocks when the last one goes on."
+      ],
+      "sources": ["powerpyx", "shacknews-update-1-4", "ta-walkthrough-2"]
+    },
+    {
+      "id": "deconstructive-criticism",
+      "name": "Deconstructive Criticism",
+      "grade": "bronze",
+      "description": "Deconstruct 100 items.",
+      "tags": ["grind"],
+      "missable": false,
+      "afterStory": true,
+      "where": "Inventory or stash",
+      "when": "Throughout; easily finished at level 30",
+      "unlock": "Break down 100 weapons, gear pieces or mods. The count carries over between sessions.",
+      "steps": [
+        "Mark unwanted items as junk in your inventory.",
+        "Deconstruct them instead of selling them. Since update 1.4 you can also deconstruct straight from the stash.",
+        "Keep going until 100. The materials feed the crafting trophies next."
+      ],
+      "sources": ["powerpyx", "ta-walkthrough-7", "shacknews-update-1-4"]
+    },
+    {
+      "id": "good-with-my-hands",
+      "name": "Good With My Hands",
+      "grade": "bronze",
+      "description": "Craft 10 items.",
+      "tags": ["misc"],
+      "missable": false,
+      "afterStory": true,
+      "where": "Crafting station, Base of Operations",
+      "when": "Level 30, alongside [[master-craftsman]]",
+      "unlock": "Craft 10 things at the crafting station.",
+      "steps": [
+        "Go to the crafting station in the Base of Operations.",
+        "Craft any 10 items you have blueprints and materials for. Cheap low-tier items are fine.",
+        "PowerPyx reports that converting materials counts as crafting for [[master-craftsman]], so conversions are worth trying here too. If the count doesn't move, craft blueprint items instead."
+      ],
+      "sources": ["psls-guide", "powerpyx"]
+    },
+    {
+      "id": "master-craftsman",
+      "name": "Master Craftsman",
+      "grade": "silver",
+      "description": "Craft a high-end item.",
+      "tags": ["misc"],
+      "missable": false,
+      "afterStory": true,
+      "where": "Crafting station, Base of Operations",
+      "when": "Level 30",
+      "unlock": "Craft any High-end (yellow) item. A High-end crafting material counts, so you don't need a blueprint.",
+      "steps": [
+        "Gather blue crafting materials, from deconstructing items or converting green materials up.",
+        "At the crafting station, convert 5 blue materials of one type (weapon parts, tools, electronics or fabric) into 1 High-end material.",
+        "The trophy unlocks when the conversion completes."
+      ],
+      "sources": ["powerpyx", "psls-guide"]
+    },
+    {
+      "id": "know-no-fear",
+      "name": "Know No Fear",
+      "grade": "gold",
+      "description": "Finish all of the missions at Level 30 on the Hard difficulty.",
+      "tags": ["difficulty"],
+      "missable": false,
+      "afterStory": true,
+      "where": "All 16 main missions",
+      "when": "Level 30, after the story",
+      "prerequisites": [
+        "Level 30. Everyone in your group must be level 30 too, or the run may not count."
+      ],
+      "unlock": "Complete each of the 16 Manhattan main missions on Hard while level 30. Precinct Siege in Brooklyn isn't one of them. Challenging doesn't count in place of Hard.",
+      "steps": [
+        "Set your World Tier to 1. Since update 1.4, World Tier 1 keeps enemies at level 30, the lowest available.",
+        "Replay each mission on **Hard** (press **Triangle** on a mission in the map to change difficulty), and note each one as you finish it: Madison Field Hospital, Lincoln Tunnel Checkpoint, Subway Morgue, Hudson Refugee Camp.",
+        "Broadway Emporium, Napalm Production Site, Times Square Power Relay, Amherst's Apartment.",
+        "Police Academy, WarrenGate Power Plant, Lexington Event Center, Rooftop Comm Relay.",
+        "Queens Tunnel Camp, Grand Central Station, Russian Consulate, General Assembly.",
+        "The trophy unlocks after the 16th."
+      ],
+      "tips": [
+        "Start each mission yourself and let others join, rather than joining someone else's run partway. Players disagree on whether a mid-mission join counts.",
+        "Hard turns regular enemies into Veterans and Veterans into Elites. A larger group also brings more enemies, so a decent solo build can be the easier option.",
+        "Expect about 20–40 minutes per mission, around 5–6 hours in all."
+      ],
+      "mistakes": [
+        "Not keeping a list. The game doesn't show which missions you've done on Hard.",
+        "If it hasn't unlocked after all 16, it's a known glitch. Replay missions on Hard; one player reported it finally popped after a couple of daily missions."
+      ],
+      "sources": ["ta-know-no-fear", "powerpyx", "shacknews-update-1-4", "meinmmo-update-1-4", "ta-walkthrough-15"]
+    },
+    {
+      "id": "networking",
+      "name": "Networking",
+      "grade": "bronze",
+      "description": "Complete 20 Missions as part of a group.",
+      "tags": ["online"],
+      "missable": false,
+      "afterStory": true,
+      "where": "Main missions",
+      "when": "From the start, finished during your Hard runs",
+      "unlock": "Complete 20 missions while in a group. They don't need to be in a row or with the same people. Main missions are the safe choice; PlayStation LifeStyle's guide says only story missions count.",
+      "steps": [
+        "Use matchmaking on story missions from your first playthrough.",
+        "Do the 16 Hard missions for [[know-no-fear]] in a group as well.",
+        "Replay a few short missions in a group to reach 20 if needed."
+      ],
+      "mistakes": [
+        "Letting the group break up. If your teammates quit before the end, the mission isn't counted as a group completion."
+      ],
+      "sources": ["psls-guide", "ta-walkthrough-15", "powerpyx"]
+    },
+    {
+      "id": "united-we-stand",
+      "name": "United We Stand",
+      "grade": "silver",
+      "description": "At lvl 30 start and complete a Co-op Mission without anyone being Downed or Dying.",
+      "tags": ["online"],
+      "missable": false,
+      "afterStory": true,
+      "where": "Any main mission",
+      "when": "Level 30, with a friend",
+      "prerequisites": [
+        "You and your group are level 30.",
+        "The group is formed before the mission starts."
+      ],
+      "unlock": "Start a mission already in a group, then finish it with nobody being downed or killed at any point.",
+      "steps": [
+        "Group up with one or more level 30 friends.",
+        "Pick an early main mission, such as Madison Field Hospital, and start it on Normal with World Tier 1.",
+        "Play carefully and finish with no downs. The trophy unlocks at mission complete."
+      ],
+      "mistakes": [
+        "Playing with strangers who rush in. One down from anyone ruins the attempt.",
+        "If it doesn't unlock after a clean run, it's a known glitch. Repeat the run."
+      ],
+      "sources": ["psls-guide", "powerpyx", "ta-walkthrough-15"]
+    },
+    {
+      "id": "medic",
+      "name": "Medic!",
+      "grade": "bronze",
+      "description": "Revive a teammate 20 times in co-op.",
+      "tags": ["online"],
+      "missable": false,
+      "afterStory": true,
+      "where": "Any co-op activity",
+      "when": "During your group Hard runs",
+      "unlock": "Bring a downed or dead teammate back 20 times in total.",
+      "steps": [
+        "Play Hard or Challenging missions in a group. Teammates go down often there.",
+        "Hold **Square** next to a downed teammate to revive them.",
+        "Skills count too. A Support Station with the Revival mod, or First Aid with the Defibrillator mod, revives allies quickly."
+      ],
+      "tips": [
+        "Support Station revives occasionally fail and leave a teammate down. Revive them by hand if that happens."
+      ],
+      "sources": ["psls-guide", "ta-walkthrough-15"]
+    },
+    {
+      "id": "lean-on-me",
+      "name": "Lean On Me",
+      "grade": "bronze",
+      "description": "Heal or buff 100 times whilst in a group.",
+      "tags": ["online"],
+      "missable": false,
+      "afterStory": true,
+      "where": "Any group activity",
+      "when": "During your group Hard runs",
+      "unlock": "Heal or buff teammates 100 times while grouped.",
+      "steps": [
+        "Equip First Aid. Its area heal covers teammates near you.",
+        "Use a Support Station for continuous healing in long fights.",
+        "Fire your Signature Skill for the group whenever it's ready; group buffs count too."
+      ],
+      "sources": ["psls-guide", "ta-walkthrough-15"]
+    },
+    {
+      "id": "those-signature-moves",
+      "name": "Those Signature Moves",
+      "grade": "bronze",
+      "description": "Activate any of the Signature Skills 100 times.",
+      "tags": ["grind"],
+      "missable": false,
+      "afterStory": true,
+      "where": "Anywhere",
+      "when": "From when your first Signature Skill unlocks",
+      "unlock": "Use Signature Skills 100 times in total. There are three: Recovery Link (Medical), Tactical Link (Tech) and Survivor Link (Security).",
+      "steps": [
+        "Unlock a Signature Skill from its wing's upgrades and equip it.",
+        "Press **L1 + R1** together to activate it.",
+        "Use it in every fight as soon as it's charged. With long cooldowns, 100 uses spreads across the whole Platinum."
+      ],
+      "mistakes": [
+        "Saving it for emergencies. Every activation counts, so use it freely."
+      ],
+      "sources": ["psls-guide", "shacknews-update-1-4"]
+    },
+    {
+      "id": "worth-the-wait",
+      "name": "Worth the Wait",
+      "grade": "bronze",
+      "description": "Successfully Extract a contaminated item from the Dark Zone.",
+      "tags": ["online"],
+      "missable": false,
+      "afterStory": true,
+      "where": "Any Dark Zone extraction zone",
+      "when": "Your first Dark Zone extraction",
+      "unlock": "Gear picked up in the Dark Zone is contaminated and goes in your yellow pouch. Getting any of it out by helicopter counts.",
+      "steps": [
+        "Pick up any gear drop in the Dark Zone.",
+        "Go to an extraction zone and call the helicopter. The flare is visible to every player and NPC nearby.",
+        "Defend the area until the helicopter arrives, then attach your bag to the rope.",
+        "The trophy unlocks once the helicopter flies off with it."
+      ],
+      "mistakes": [
+        "Getting downed or killed before extracting. You drop your contaminated loot."
+      ],
+      "sources": ["ta-walkthrough-3", "reddit-dz", "psls-guide"]
+    },
+    {
+      "id": "plundered",
+      "name": "Plundered!",
+      "grade": "bronze",
+      "description": "Extract a Superior or High end Item from the Dark Zone.",
+      "tags": ["online"],
+      "missable": false,
+      "afterStory": true,
+      "where": "Any Dark Zone extraction zone",
+      "when": "Level 30, when most drops are purple or yellow",
+      "unlock": "Extract one purple (Superior) or yellow (High-end) contaminated item.",
+      "steps": [
+        "At level 30, kill Dark Zone enemies or clear a landmark until a purple or yellow item drops.",
+        "Extract it at any extraction zone."
+      ],
+      "sources": ["psls-guide", "ta-walkthrough-11"]
+    },
+    {
+      "id": "mass-extraction",
+      "name": "Mass Extraction",
+      "grade": "bronze",
+      "description": "Extract an item from all Extraction zones in DZ01-06.",
+      "tags": ["online"],
+      "missable": false,
+      "afterStory": true,
+      "where": "DZ01–DZ06",
+      "when": "Level 30, ideally with a friend",
+      "unlock": "Extract at least one item at each of the 8 extraction zones in DZ01 to DZ06. Zones in DZ07–DZ09 aren't needed.",
+      "steps": [
+        "DZ01 has two zones, one on the east side and one on the west side. Extract at both.",
+        "DZ02 has one zone.",
+        { "text": "DZ03 has one zone, at Bryant Park. Players report it doesn't show on the map until you're close.", "image": "dz-extraction-map" },
+        "DZ04 has one zone, on its east side.",
+        "DZ05 has two zones. Extract at both.",
+        "DZ06 has one zone. The trophy unlocks when your eighth extraction lifts off."
+      ],
+      "tips": [
+        "Tick each zone off as you go: the game doesn't track which ones you've done.",
+        "Carry several items so a single trip through a zone always has something to send.",
+        "An extraction only counts once the helicopter leaves with your bag."
+      ],
+      "mistakes": [
+        "Letting a rogue agent cut the rope. Items they steal don't count."
+      ],
+      "sources": ["ta-mass-extraction", "reddit-dz"]
+    },
+    {
+      "id": "headhunter",
+      "name": "Headhunter",
+      "grade": "bronze",
+      "description": "Kill a named Elite in the Dark Zone.",
+      "tags": ["combat"],
+      "missable": false,
+      "afterStory": true,
+      "where": "Dark Zone landmarks",
+      "when": "Your first landmark clear",
+      "unlock": "Kill one named Elite inside the Dark Zone. Named enemies have their own name and a yellow health bar.",
+      "steps": [
+        "Go to a landmark in the Dark Zone: a building or street area that shows violet on the map while enemies are present.",
+        "Clear all its waves. Named enemies appear among them.",
+        "Get the kill on a named Elite."
+      ],
+      "sources": ["psls-guide", "reddit-dz"]
+    },
+    {
+      "id": "you-just-made-the-list",
+      "name": "You Just Made the List…",
+      "grade": "bronze",
+      "description": "Kill 10 Named Enemies in the Dark Zone.",
+      "tags": ["combat", "grind"],
+      "missable": false,
+      "afterStory": true,
+      "where": "Dark Zone landmarks",
+      "when": "While farming the other Dark Zone trophies",
+      "unlock": "Kill 10 named enemies in the Dark Zone. The count is cumulative, and the same named enemy counts again each time it respawns.",
+      "steps": [
+        "Clear landmarks fully. Enemies only respawn once a landmark has been completely cleared.",
+        "Kill the named enemy each time.",
+        "Rotate between nearby landmarks until you reach 10."
+      ],
+      "sources": ["psls-guide", "reddit-dz"]
+    },
+    {
+      "id": "for-justice",
+      "name": "For Justice!",
+      "grade": "bronze",
+      "description": "Kill a player who has Gone Rogue.",
+      "tags": ["online", "multiplayer"],
+      "missable": false,
+      "afterStory": true,
+      "where": "Dark Zone",
+      "when": "With a friend, or whenever a rogue shows up",
+      "unlock": "Kill a rogue agent: a player who has turned hostile and shows a skull marker. Attacking a rogue doesn't make you rogue.",
+      "steps": [
+        "Group up with a friend and enter the Dark Zone, so you share an instance.",
+        "Your friend leaves the group and turns on Rogue status. Since update 1.8 players have to switch Rogue on before they can hurt other agents.",
+        "Kill them. The trophy unlocks with the kill, and the boost continues into [[i-am-the-law]]."
+      ],
+      "sources": ["psls-guide", "mp1st-update-1-8", "reddit-dz", "ta-walkthrough-13"]
+    },
+    {
+      "id": "i-am-the-law",
+      "name": "I am the LAW!",
+      "grade": "bronze",
+      "description": "Kill 20 Rogue Agents.",
+      "tags": ["online", "multiplayer", "grind"],
+      "missable": false,
+      "afterStory": true,
+      "where": "Dark Zone",
+      "when": "Straight after [[for-justice]]",
+      "unlock": "20 rogue kills in total, credited to you.",
+      "steps": [
+        "Repeat the [[for-justice]] boost: your friend goes rogue, you kill them, they respawn and do it again.",
+        "Make sure your hits land the kill. In fights with other players, deal most of the damage and finish with a melee hit.",
+        "The trophy unlocks at 20. TrueAchievements' walkthrough estimates about 20 minutes boosting, versus 20+ hours waiting for real rogues."
+      ],
+      "tips": [
+        "Swap roles afterwards so your friend gets the kills too. Dying as a rogue costs Dark Zone XP and currency, but nothing that matters for trophies."
+      ],
+      "sources": ["ta-walkthrough-3", "ta-walkthrough-13", "mp1st-update-1-8", "reddit-dz"]
+    },
+    {
+      "id": "hardened-combatant",
+      "name": "Hardened Combatant",
+      "grade": "bronze",
+      "description": "Complete a mission in Challenge mode.",
+      "tags": ["difficulty"],
+      "missable": false,
+      "afterStory": true,
+      "where": "Lincoln Tunnel Checkpoint (recommended)",
+      "when": "Last, once your gear is at its best",
+      "prerequisites": [
+        "Level 30 and World Tier 2 or higher. Since update 1.4, World Tier 2 is what unlocks Challenging difficulty.",
+        "Purple or yellow gear in every slot."
+      ],
+      "unlock": "Complete any main mission on Challenging. Every enemy is an Elite, and the difficulty scales with the size of your group.",
+      "steps": [
+        "Set World Tier 2 or higher.",
+        "Highlight Lincoln Tunnel Checkpoint on the map, hold **Triangle** to replay it and choose **Challenging**. It's early, short and has many pistol-armed enemies and no flamethrower or shotgun rushers.",
+        "Stay back and fight from long range. A marksman rifle for headshots and an SMG for anything that closes in works well.",
+        "For the final defend-Benitez phase, swap to Pulse and First Aid so the team can spot and heal.",
+        "The trophy unlocks at mission complete."
+      ],
+      "tips": [
+        "A riot shield user with a pistol, backed by a fully upgraded Security Wing, can soak fire while reviving teammates.",
+        "Learn where the ammo crates are before the fight gets hectic.",
+        "Use talents that refund ammo on pistol and skill kills; Elites take a lot of bullets."
+      ],
+      "sources": ["powerpyx", "ta-walkthrough-15", "shacknews-update-1-4", "meinmmo-update-1-4"]
+    },
+    {
+      "id": "platinum-agent",
+      "name": "Platinum Agent",
+      "grade": "platinum",
+      "description": "Unlocked every Trophy in Tom Clancy's The Division™.",
+      "tags": [],
+      "missable": false,
+      "afterStory": true,
+      "where": "Anywhere",
+      "when": "After the other 50 base-game trophies",
+      "unlock": "Unlocks automatically once all 50 other base-game trophies are earned. DLC trophies aren't required.",
+      "steps": [
+        "Earn the remaining base-game trophies. Your progress panel shows what's left."
+      ],
+      "sources": ["exophase", "powerpyx"]
+    },
+    {
+      "id": "begin-with-a-bang",
+      "name": "Begin with a BANG",
+      "grade": "bronze",
+      "description": "Access the Tactical Operations Center.",
+      "dlc": "underground",
+      "tags": ["story"],
+      "missable": false,
+      "afterStory": true,
+      "where": "Underground, Tactical Operations Center",
+      "when": "Your first visit to the Underground",
+      "prerequisites": [
+        "Level 30 with General Assembly completed.",
+        "The Underground expansion."
+      ],
+      "unlock": "Starting an operation from the Tactical Operations Center (TOC) table.",
+      "steps": [
+        "Play Captain Benitez's **Secure Quarantine Centre** mission in Tenderloin. A named Elite drops the phone you need to pick up.",
+        "Enter the Underground through the new entrance at the back of the Base of Operations, next to the rewards vendor.",
+        "At the TOC table, start a one-phase operation on Normal with no directives."
+      ],
+      "sources": ["ta-walkthrough-17"]
+    },
+    {
+      "id": "objectively-experienced",
+      "name": "Objectively Experienced",
+      "grade": "bronze",
+      "description": "Complete each of the 6 different mission objectives in the underground.",
+      "dlc": "underground",
+      "tags": ["misc"],
+      "missable": false,
+      "afterStory": true,
+      "where": "Underground operations",
+      "when": "While ranking up",
+      "unlock": "Operations are built from random objectives. Complete each of the six types at least once.",
+      "steps": [
+        "Critical Infrastructure.",
+        "Missing Patrol.",
+        "Recover the Report.",
+        "Supply Depot.",
+        "Surgical Strike.",
+        "Target of Opportunity. Keep running operations until you've finished all six types."
+      ],
+      "tips": [
+        "Multi-phase operations show you more objectives per run."
+      ],
+      "sources": ["ta-walkthrough-16"]
+    },
+    {
+      "id": "gone-spelunking",
+      "name": "Gone Spelunking",
+      "grade": "silver",
+      "description": "Retrieve all 55 Audio Logs and 25 UrbEx Diaries the Underground.",
+      "dlc": "underground",
+      "tags": ["collectible"],
+      "missable": false,
+      "afterStory": true,
+      "where": "Underground operations",
+      "when": "While ranking up",
+      "unlock": "Collect 80 items in all. Because operations are randomly generated, the collectibles have no fixed locations.",
+      "steps": [
+        "Each phase of an operation holds one collectible: one-phase operations have one, three-phase operations have three.",
+        "Look in quiet areas near restock crates. When you reach a crate, open the map and check for a collectible icon nearby.",
+        "Keep collecting until the trophy pops. Late on, some operations won't hold any you still need."
+      ],
+      "mistakes": [
+        "Trusting the in-game tracker; it has been unreliable since launch.",
+        "If it doesn't pop after all 80, players reported that collecting one more item on a second character playing solo unlocked it."
+      ],
+      "sources": ["ta-gone-spelunking"]
+    },
+    {
+      "id": "the-beast-below",
+      "name": "The Beast Below",
+      "grade": "silver",
+      "description": "Reach Underground Rank 40.",
+      "dlc": "underground",
+      "tags": ["grind"],
+      "missable": false,
+      "afterStory": true,
+      "where": "Underground operations",
+      "when": "The longest part of this DLC",
+      "unlock": "Reach rank 40 with Underground XP, which is separate from your agent level.",
+      "steps": [
+        "Run operations with as many phases and directives as you can handle. On Hard, a three-phase operation with all 5 directives pays about 6,000 XP; a two-phase one pays about 4,000.",
+        "Hard solo is manageable once you're geared. Challenging pays more but needs a group.",
+        "Keep going until rank 40. The other Underground trophies come along the way."
+      ],
+      "tips": [
+        "Directive Intel, needed to switch directives on, drops from enemies anywhere in the game.",
+        "Fog of War (no radar) is the easiest directive to always leave on."
+      ],
+      "sources": ["ta-walkthrough-17", "ta-walkthrough-16"]
+    },
+    {
+      "id": "tier-one",
+      "name": "Tier One",
+      "grade": "silver",
+      "description": "In a group of 4 finish an Operation on Challenge with 5 directives enabled.",
+      "dlc": "underground",
+      "tags": ["difficulty", "multiplayer"],
+      "missable": false,
+      "afterStory": true,
+      "where": "Underground operations",
+      "when": "Once your group is well geared",
+      "prerequisites": [
+        "A group of four.",
+        "Enough Directive Intel to switch on all five directives."
+      ],
+      "unlock": "Finish one operation on Challenging with four players and all five directives on: Fog of War, Mad Skills, Waste Not Want Not, Special Forces and Sickness.",
+      "steps": [
+        "Form a group of four who'll use voice chat, and agree skills and gear first.",
+        "Start a one-phase operation on **Challenging** with all five directives.",
+        "Move slowly, Pulse before every fight and kill Chargers first.",
+        "The trophy unlocks when the operation completes."
+      ],
+      "tips": [
+        "Special Forces gives enemies special ammo. A Support Station with the Immunization mod counters its status effects."
+      ],
+      "sources": ["ta-walkthrough-17", "ta-walkthrough-16"]
+    },
+    {
+      "id": "tools-of-the-trade",
+      "name": "Tools of the Trade",
+      "grade": "bronze",
+      "description": "Craft the Virus Filter and Flare Gun in Survival mode.",
+      "dlc": "survival",
+      "tags": ["misc"],
+      "missable": false,
+      "afterStory": true,
+      "where": "Survival",
+      "when": "During any run that reaches the Dark Zone",
+      "unlock": "Craft both items in Survival, in the same run or across runs.",
+      "steps": [
+        "Craft the **Virus Filter** at a hideout. You need it to enter the Dark Zone, and it's worth 300 points.",
+        "Find the antivirals in the Dark Zone.",
+        "Craft the **Flare Gun** at a Dark Zone hideout. It's worth 500 points."
+      ],
+      "mistakes": [
+        "Skipping the Flare Gun because someone else already called the helicopter. Crafting it is what counts."
+      ],
+      "sources": ["ta-walkthrough-19"]
+    },
+    {
+      "id": "subzero-hero",
+      "name": "Subzero Hero",
+      "grade": "silver",
+      "description": "Obtain clothing to get a survivable temperature rating of -22°C / -7°F.",
+      "dlc": "survival",
+      "tags": ["misc"],
+      "missable": false,
+      "afterStory": true,
+      "where": "Survival hideouts",
+      "when": "Before you head into the Dark Zone",
+      "unlock": "Wear enough cold-weather clothing to bring your rating to -22°C. Outside it drops to about -33°C, so you'll want this anyway.",
+      "steps": [
+        "Collect fabric and other resources while exploring.",
+        "At a hideout near the Dark Zone, craft the best clothing you can. Crafted clothing adds +4 to your cold rating.",
+        "Keep crafting and equipping warmer pieces until your rating shows -22°C."
+      ],
+      "sources": ["ta-walkthrough-19"]
+    },
+    {
+      "id": "born-survivor",
+      "name": "Born Survivor",
+      "grade": "bronze",
+      "description": "Successfully survive and escape in Survival Mode.",
+      "dlc": "survival",
+      "tags": ["misc"],
+      "missable": false,
+      "afterStory": true,
+      "where": "Survival",
+      "when": "Your first successful run",
+      "unlock": "Escape on the extraction helicopter before the infection kills you.",
+      "steps": [
+        "Start Survival from the Terminal in the Base of Operations. Choose PvE and play solo.",
+        "Loot food, water, medicine and painkillers. Medicine and painkillers slow the infection, buying up to about two hours.",
+        "Craft the Virus Filter, enter the Dark Zone and recover the antivirals.",
+        "Call the extraction with about 4 minutes left on your infection timer, and get on the helicopter."
+      ],
+      "tips": [
+        "Explore outside until roughly 32–35 minutes remain, then head for a Dark Zone hideout.",
+        "The game doesn't make a big fuss when you escape; check your trophy list."
+      ],
+      "sources": ["ta-walkthrough-18", "ta-walkthrough-19"]
+    },
+    {
+      "id": "survival-instincts",
+      "name": "Survival Instincts",
+      "grade": "silver",
+      "description": "Achieve Master Rank in Survival Mode.",
+      "dlc": "survival",
+      "tags": ["challenge"],
+      "missable": false,
+      "afterStory": true,
+      "where": "Survival",
+      "when": "One long, careful run",
+      "unlock": "Master is rank 5 and needs at least 10,000 points in one run.",
+      "steps": [
+        "Bank the mission points: Virus Filter 300, entering the Dark Zone 400, Flare Gun 500, antivirals 600, extraction 700.",
+        "Survive as long as you can: each hour is worth 300, and medicine and painkillers stretch the run to about two hours.",
+        "Never get downed (750) or killed (500), and kill a Hunter yourself (400).",
+        "Extract wearing high gear-score items and carrying spare supplies; both add points."
+      ],
+      "tips": [
+        "A good run earns about 750–900 points per hour survived.",
+        "Use medkits on your last health segment instead of going down."
+      ],
+      "sources": ["ta-walkthrough-19", "ta-walkthrough-18"]
+    },
+    {
+      "id": "for-the-hoarder",
+      "name": "For the Hoarder…",
+      "grade": "silver",
+      "description": "Successfully extract 100 items from the Survival Dark Zone.",
+      "dlc": "survival",
+      "tags": ["grind"],
+      "missable": false,
+      "afterStory": true,
+      "where": "Survival",
+      "when": "Across many successful runs",
+      "unlock": "100 items extracted in total across runs. Each run can extract at most 6.",
+      "steps": [
+        "Fill all 6 extraction slots before every escape, for example with High-End Sealed Caches.",
+        "Repeat successful runs. At 6 items per run you need at least 17 escapes.",
+        "TrueAchievements' walkthrough estimates 30–34 hours of successful runs."
+      ],
+      "sources": ["ta-walkthrough-19", "ta-walkthrough-18"]
+    },
+    {
+      "id": "first-blood",
+      "name": "First Blood",
+      "grade": "bronze",
+      "description": "Finish a round of Last Stand",
+      "dlc": "last-stand",
+      "tags": ["multiplayer"],
+      "missable": false,
+      "afterStory": true,
+      "where": "Last Stand",
+      "when": "Your first match",
+      "unlock": "Play one Last Stand match to the end, win or lose.",
+      "steps": [
+        "Start Last Stand from the Terminal or the Last Stand gate.",
+        "Stay until the match ends: a team reaches 15,000 points or the 20-minute timer runs out."
+      ],
+      "sources": ["ta-walkthrough-20", "reddit-boo", "mp1st-update-1-8"]
+    },
+    {
+      "id": "objectively-good",
+      "name": "Objectively Good",
+      "grade": "silver",
+      "description": "Capture an objective, build both fortifications and unlock both perks",
+      "dlc": "last-stand",
+      "tags": ["multiplayer"],
+      "missable": false,
+      "afterStory": true,
+      "where": "Last Stand",
+      "when": "In a boosting session",
+      "unlock": "In one match: help capture an objective, activate both fortifications and activate both perks.",
+      "steps": [
+        "Take at least one node of an objective your team goes on to capture.",
+        "At objective A or C, activate both fortifications: the turret and the pulse beacon.",
+        "Earn 2,000 SHD tech per perk by killing opponents, then activate both perks: Points for Kills and Victory Point Multiplier."
+      ],
+      "sources": ["ta-walkthrough-20"]
+    },
+    {
+      "id": "captivated",
+      "name": "Captivated",
+      "grade": "bronze",
+      "description": "Capture 50 Tactical Objectives",
+      "dlc": "last-stand",
+      "tags": ["multiplayer", "grind"],
+      "missable": false,
+      "afterStory": true,
+      "where": "Last Stand",
+      "when": "Alongside [[stand-taken]]",
+      "unlock": "50 objective captures. A capture counts once your team holds all three of its nodes and you took at least one of them.",
+      "steps": [
+        "In each match, take a node of every objective your team captures.",
+        "Win matches for [[stand-taken]]. 50 wins usually brings 50 captures."
+      ],
+      "mistakes": [
+        "Retaking a node someone else lost. Recapturing doesn't give you credit."
+      ],
+      "sources": ["ta-walkthrough-20"]
+    },
+    {
+      "id": "buffing-please-wait",
+      "name": "Buffing... Please Wait",
+      "grade": "silver",
+      "description": "Grant your team a Perk 10 times",
+      "dlc": "last-stand",
+      "tags": ["multiplayer"],
+      "missable": false,
+      "afterStory": true,
+      "where": "Last Stand",
+      "when": "Alongside [[stand-taken]]",
+      "unlock": "Activate a perk for your team 10 times.",
+      "steps": [
+        "Bank at least 2,000 SHD tech (4,000 lets a teammate take the second perk).",
+        "Perks become available about 7 minutes in, with 1-minute and 10-second warnings, and again later in the match.",
+        "Take turns activating perks across your boosting group until everyone has 10."
+      ],
+      "sources": ["ta-walkthrough-20"]
+    },
+    {
+      "id": "stand-taken",
+      "name": "Stand Taken",
+      "grade": "silver",
+      "description": "Win 50 rounds of Last Stand",
+      "dlc": "last-stand",
+      "tags": ["multiplayer", "grind"],
+      "missable": false,
+      "afterStory": true,
+      "where": "Last Stand",
+      "when": "The last DLC trophy",
+      "unlock": "50 match wins. With 20-minute matches, that's up to about 17 hours of play.",
+      "steps": [
+        "Organise 16 players: four parties of four who search at the same time so they fill one match.",
+        "Keep each team's leader in the same region, with a second player ready to take over the party if a random player slips in.",
+        "Agree the winning side before each match. The winners take every objective and perk; the losers stay in their base.",
+        "Alternate winners and track the count so everyone reaches 50."
+      ],
+      "sources": ["ta-walkthrough-20"]
+    }
+  ],
+  "images": [
+    {
+      "id": "field-data-screen",
+      "placeholder": true,
+      "needed": "Screenshot of Intel > Field Data, showing collectible counts for each district.",
+      "aspect": "16/9"
+    },
+    {
+      "id": "dz-extraction-map",
+      "placeholder": true,
+      "needed": "Map of DZ01–DZ06 with the eight extraction zones marked and numbered.",
+      "aspect": "4/3"
+    }
+  ],
+  "sources": [
+    {
+      "id": "exophase",
+      "title": "Tom Clancy's The Division (PS4) trophies – Exophase",
+      "url": "https://www.exophase.com/game/tom-clancys-the-division-ps4/trophies/",
+      "supports": "Official trophy names and descriptions, base game and DLC groupings (51 + 5 + 5 + 5).",
+      "checked": "2026-10-13"
+    },
+    {
+      "id": "gamefaqs-base",
+      "title": "Tom Clancy's The Division trophies for PlayStation 4 – GameFAQs",
+      "url": "https://gamefaqs.gamespot.com/ps4/718814-tom-clancys-the-division/trophies",
+      "supports": "Trophy grades for the base game and DLC, from the page's trophy-type icons.",
+      "checked": "2026-10-13"
+    },
+    {
+      "id": "gamefaqs-last-stand",
+      "title": "Tom Clancy's The Division – The Last Stand trophies – GameFAQs",
+      "url": "https://gamefaqs.gamespot.com/ps4/206642-tom-clancys-the-division-the-last-stand/trophies",
+      "supports": "Trophy grades for Underground, Survival and Last Stand, from the page's trophy-type icons.",
+      "checked": "2026-10-13"
+    },
+    {
+      "id": "supercheats",
+      "title": "Tom Clancy's The Division trophies – SuperCheats",
+      "url": "https://www.supercheats.com/tom-clancys-the-division/trophies",
+      "supports": "Second source for Underground and Survival grades. Its base list marks You Win Some, You Lose Some as Silver, which three other sources contradict.",
+      "checked": "2026-10-13"
+    },
+    {
+      "id": "meinmmo-trophies",
+      "title": "The Division: Trophäen und Achievements – Mein-MMO",
+      "url": "https://mein-mmo.de/the-division-trophaeen-achievements-alle-erfolge-ps4-xbox-one/",
+      "supports": "Base-game trophy grades (42 Bronze, 5 Silver, 3 Gold, 1 Platinum).",
+      "checked": "2026-10-13"
+    },
+    {
+      "id": "psls-list",
+      "title": "The Division trophy list (Gold and Silver trophies) – PlayStation LifeStyle",
+      "url": "https://www.playstationlifestyle.net/?p=471419",
+      "supports": "Which base-game trophies are Gold and Silver.",
+      "checked": "2026-10-13"
+    },
+    {
+      "id": "psls-guide",
+      "title": "The Division Trophy Guide – PlayStation LifeStyle",
+      "url": "https://www.playstationlifestyle.net/2016/03/21/the-division-trophy-guide-playstation-lifestyle/",
+      "supports": "Grades, missables (none), PS4 controls, methods for co-op, crafting, skill and Dark Zone trophies.",
+      "checked": "2026-10-13"
+    },
+    {
+      "id": "powerpyx",
+      "title": "The Division Trophy Guide & Roadmap – PowerPyx",
+      "url": "https://powerpyx.com/guides/the-division-trophy-guide-roadmap.html",
+      "supports": "Difficulty, time, playthroughs, grade counts, roadmap, known glitches, collectible total, Canine Unit perk, crafting and Challenge-mode methods.",
+      "checked": "2026-10-13"
+    },
+    {
+      "id": "powerpyx-intel",
+      "title": "The Division: How to unlock all intel collectible locations on the map – PowerPyx",
+      "url": "https://powerpyx.com/guide/the-division-how-to-unlock-all-intel-collectible-locations-on-the-map.html",
+      "supports": "Intel Discovery perk, district completion requirement, Field Data tab, 293 collectibles.",
+      "checked": "2026-10-13"
+    },
+    {
+      "id": "ta-know-no-fear",
+      "title": "Know No Fear achievement – TrueAchievements",
+      "url": "https://www.trueachievements.com/a213499/know-no-fear-achievement",
+      "supports": "The 16 qualifying main missions and their levels, Hard-only rule, tracking, glitch reports, co-op tips.",
+      "checked": "2026-10-13"
+    },
+    {
+      "id": "ta-skillz",
+      "title": "Skillz achievement – TrueAchievements",
+      "url": "https://www.trueachievements.com/a213511/skillz-achievement",
+      "supports": "Skill-mod upgrades and costs, glitch and new-character workaround.",
+      "checked": "2026-10-13"
+    },
+    {
+      "id": "ta-marathon",
+      "title": "Marathon achievement – TrueAchievements",
+      "url": "https://www.trueachievements.com/a213498/marathon-achievement",
+      "supports": "The 14 safe houses with districts and levels, fast-travel tip.",
+      "checked": "2026-10-13"
+    },
+    {
+      "id": "ta-mass-extraction",
+      "title": "Mass Extraction achievement – TrueAchievements",
+      "url": "https://www.trueachievements.com/a213527/mass-extraction-achievement",
+      "supports": "The 8 extraction zones in DZ01–DZ06, tracking, rogue theft, DZ03 map visibility.",
+      "checked": "2026-10-13"
+    },
+    {
+      "id": "ta-engineer",
+      "title": "The Engineer achievement – TrueAchievements",
+      "url": "https://www.trueachievements.com/a213508/the-engineer-achievement",
+      "supports": "Subway Morgue rescues Paul Rhodes and unlocks the Tech Wing.",
+      "checked": "2026-10-13"
+    },
+    {
+      "id": "ta-fixer-upper",
+      "title": "Fixer-Upper achievement – TrueAchievements",
+      "url": "https://www.trueachievements.com/a213517/fixerupper-achievement",
+      "supports": "10 upgrades and 3,000 supplies per wing, supply amounts per mission and encounter, situation-report tip.",
+      "checked": "2026-10-13"
+    },
+    {
+      "id": "ta-gone-spelunking",
+      "title": "Gone Spelunking achievement – TrueAchievements",
+      "url": "https://i2.trueachievements.com/a218274/gone-spelunking-achievement",
+      "supports": "How Underground collectibles spawn, tracker reliability, unlock workaround.",
+      "checked": "2026-10-13"
+    },
+    {
+      "id": "ta-walkthrough-2",
+      "title": "The Division walkthrough: general hints and tips – TrueAchievements",
+      "url": "https://www.trueachievements.com/game/The-Division/walkthrough/2",
+      "supports": "Gear slot types.",
+      "checked": "2026-10-13"
+    },
+    {
+      "id": "ta-walkthrough-3",
+      "title": "The Division walkthrough: Dark Zone hints and tips – TrueAchievements",
+      "url": "https://www.trueachievements.com/game/The-Division/walkthrough/3",
+      "supports": "Extraction steps, rogue kill credit, Dark Zone loot.",
+      "checked": "2026-10-13"
+    },
+    {
+      "id": "ta-walkthrough-5",
+      "title": "The Division walkthrough: Brooklyn intro – TrueAchievements",
+      "url": "https://www.trueachievements.com/game/The-Division/walkthrough/5",
+      "supports": "Brooklyn missions, Shut That Door timing, Precinct Siege not counting for Hard.",
+      "checked": "2026-10-13"
+    },
+    {
+      "id": "ta-walkthrough-6",
+      "title": "The Division walkthrough: story part one – TrueAchievements",
+      "url": "https://www.trueachievements.com/game/The-Division/walkthrough/6",
+      "supports": "Early mission order and trophies, The Humanitarian upgrades, Natural Talent and Skill Kill methods.",
+      "checked": "2026-10-13"
+    },
+    {
+      "id": "ta-walkthrough-7",
+      "title": "The Division walkthrough: story part two – TrueAchievements",
+      "url": "https://www.trueachievements.com/game/The-Division/walkthrough/7",
+      "supports": "Broadway Emporium and Outbreak, deconstructing junk.",
+      "checked": "2026-10-13"
+    },
+    {
+      "id": "ta-walkthrough-8",
+      "title": "The Division walkthrough: story part three – TrueAchievements",
+      "url": "https://www.trueachievements.com/game/The-Division/walkthrough/8",
+      "supports": "Napalm Production Site, Raid the Arsenal, Cleaners' fuel tanks.",
+      "checked": "2026-10-13"
+    },
+    {
+      "id": "ta-walkthrough-9",
+      "title": "The Division walkthrough: story part four – TrueAchievements",
+      "url": "https://www.trueachievements.com/game/The-Division/walkthrough/9",
+      "supports": "Looking for Group, map Intel filter tip.",
+      "checked": "2026-10-13"
+    },
+    {
+      "id": "ta-walkthrough-11",
+      "title": "The Division walkthrough: story part six – TrueAchievements",
+      "url": "https://www.trueachievements.com/game/The-Division/walkthrough/11",
+      "supports": "WarrenGate Power Plant, Plundered!",
+      "checked": "2026-10-13"
+    },
+    {
+      "id": "ta-walkthrough-12",
+      "title": "The Division walkthrough: story part seven – TrueAchievements",
+      "url": "https://www.trueachievements.com/game/The-Division/walkthrough/12",
+      "supports": "Lexington Event Center and Rooftop Comm Relay trophies.",
+      "checked": "2026-10-13"
+    },
+    {
+      "id": "ta-walkthrough-13",
+      "title": "The Division walkthrough: story part eight – TrueAchievements",
+      "url": "https://www.trueachievements.com/game/The-Division/walkthrough/13",
+      "supports": "Grand Central Station and Russian Consulate trophies, reaching level 30, rogue-kill boosting.",
+      "checked": "2026-10-13"
+    },
+    {
+      "id": "ta-walkthrough-14",
+      "title": "The Division walkthrough: story part nine – TrueAchievements",
+      "url": "https://www.trueachievements.com/game/The-Division/walkthrough/14",
+      "supports": "General Assembly boss, Midtown East missing-agent lift issue.",
+      "checked": "2026-10-13"
+    },
+    {
+      "id": "ta-walkthrough-15",
+      "title": "The Division walkthrough: Hard, Challenge and co-op – TrueAchievements",
+      "url": "https://www.trueachievements.com/game/The-Division/walkthrough/15",
+      "supports": "Challenge-mode tactics, co-op rules, revive and heal methods, Support Station glitch.",
+      "checked": "2026-10-13"
+    },
+    {
+      "id": "ta-walkthrough-16",
+      "title": "The Division walkthrough: Underground hints and tips – TrueAchievements",
+      "url": "https://www.trueachievements.com/game/The-Division/walkthrough/16",
+      "supports": "The six Underground objective types, directives, Underground difficulty.",
+      "checked": "2026-10-13"
+    },
+    {
+      "id": "ta-walkthrough-17",
+      "title": "The Division walkthrough: Underground DLC – TrueAchievements",
+      "url": "https://www.trueachievements.com/game/The-Division/walkthrough/17",
+      "supports": "Underground access, Begin with a BANG, rank XP figures, Tier One advice.",
+      "checked": "2026-10-13"
+    },
+    {
+      "id": "ta-walkthrough-18",
+      "title": "The Division walkthrough: Survival tips – TrueAchievements",
+      "url": "https://www.trueachievements.com/game/The-Division/walkthrough/18",
+      "supports": "Survival setup, timings, 6-item extraction limit, 30–34 hour estimate.",
+      "checked": "2026-10-13"
+    },
+    {
+      "id": "ta-walkthrough-19",
+      "title": "The Division walkthrough: Survival DLC – TrueAchievements",
+      "url": "https://www.trueachievements.com/game/The-Division/walkthrough/19",
+      "supports": "Survival crafting, cold ratings, scoring and Master rank, For the Hoarder count.",
+      "checked": "2026-10-13"
+    },
+    {
+      "id": "ta-walkthrough-20",
+      "title": "The Division walkthrough: Last Stand DLC – TrueAchievements",
+      "url": "https://www.trueachievements.com/game/The-Division/walkthrough/20",
+      "supports": "Last Stand rules, every Last Stand trophy, 16-player boosting setup.",
+      "checked": "2026-10-13"
+    },
+    {
+      "id": "shacknews-update-1-4",
+      "title": "The Division update 1.4 patch notes – Shacknews",
+      "url": "https://www.shacknews.com/article/97360/the-division-update-14-patch-notes-now-available",
+      "supports": "World Tiers and enemy levels, Challenging unlocking at World Tier 2, level 30 vendors, crafting and skill changes.",
+      "checked": "2026-10-13"
+    },
+    {
+      "id": "meinmmo-update-1-4",
+      "title": "The Division: what difficulty does after update 1.4 – Mein-MMO",
+      "url": "https://mein-mmo.de/en/the-division-schwierigkeit-nach-update-14,114847",
+      "supports": "How Hard and Challenging change enemies, Challenging scaling with group size.",
+      "checked": "2026-10-13"
+    },
+    {
+      "id": "mp1st-update-1-8",
+      "title": "The Division update 1.8 patch notes – MP1st",
+      "url": "https://mp1st.com/news/the-division-update-1-8-now-out-heres-the-patch-notes-and-launch-trailer",
+      "supports": "Rogue status toggle (Rogue 2.0), Camp Clinton safe house and West Side Pier.",
+      "checked": "2026-10-13"
+    },
+    {
+      "id": "reddit-dz",
+      "title": "r/thedivision wiki: Dark Zone (Redlib mirror)",
+      "url": "https://reddit.birdcat.cafe/r/thedivision/wiki/thedivision1/newplayer/darkzone",
+      "supports": "Extraction mechanics, landmarks and named enemies, rogue rules.",
+      "checked": "2026-10-13"
+    },
+    {
+      "id": "reddit-boo",
+      "title": "r/thedivision wiki: Base of Operations (Redlib mirror)",
+      "url": "https://reddit.birdcat.cafe/r/thedivision/wiki/thedivision1/newplayer/boo",
+      "supports": "Wings, 10 upgrades per wing, the Terminal for Underground, Survival and Last Stand.",
+      "checked": "2026-10-13"
+    },
+    {
+      "id": "ubisoft-10th-anniversary",
+      "title": "The Division 10th Anniversary Showcase – Ubisoft News",
+      "url": "https://news.ubisoft.com/pl-pl/article/5pVBLd1upCxSwirB01VQ9m/the-division-10th-anniversary-showcase-the-division-2-anniversary-season-and-roadmap-the-division-resurgence-launch-date",
+      "supports": "Definitive Edition with all three expansions, 10th anniversary (March 2026).",
+      "checked": "2026-10-13"
+    },
+    {
+      "id": "multiplayer-definitive",
+      "title": "The Division Definitive Edition on PlayStation and Xbox – Multiplayer.it",
+      "url": "https://multiplayer.it/notizie/the-division-definitive-edition-disponibile-playstation-xbox-forse-non-e-quello-che-vi-aspettavate.html",
+      "supports": "The Definitive Edition is the PS4 version with all expansions (3 February 2026).",
+      "checked": "2026-10-13"
+    },
+    {
+      "id": "steam-2024",
+      "title": "Still playable in 2024? – Steam Community",
+      "url": "https://steamcommunity.com/app/365590/discussions/0/4629233576852915459",
+      "supports": "Players still active on the servers in December 2024.",
+      "checked": "2026-10-13"
+    }
+  ]
+}

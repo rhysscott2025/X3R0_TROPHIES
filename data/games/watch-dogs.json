@@ -1,0 +1,1340 @@
+{
+  "schemaVersion": 1,
+  "slug": "watch-dogs",
+  "status": "complete",
+  "demo": false,
+  "title": "Watch Dogs",
+  "edition": "All editions",
+  "platforms": ["PS4"],
+  "listNote": "This is the PS4 trophy list, which is also the one you earn when you play the PS4 version on PS5. The PS3 version has its own separate list with the same layout (40 base trophies and 10 for Bad Blood). The methods here should work there too, but this guide is written against the PS4 list.",
+  "releaseYear": 2014,
+  "developer": "Ubisoft Montreal",
+  "publisher": "Ubisoft",
+  "genres": ["Action-adventure", "Open world"],
+  "summary": "Hack your way through Chicago as Aiden Pearce. No missables and one playthrough, but a long checklist of side missions and collectibles, plus five online trophies that need other players.",
+  "intro": [
+    "You play Aiden Pearce, a hacker and vigilante in a fictional Chicago run by ctOS, a city-wide network you can hack from your phone. The story runs across five acts, and the open world is packed with side missions, investigations and city games.",
+    "Nothing is missable and the city stays open after the credits, so one playthrough covers everything. PSTHC rates the Platinum 4/10 and about 50 hours. Most of that time goes on side content: 40 Fixer Contracts, 30 Privacy Invasions, 18 Criminal Convoys, 15 Gang Hideouts, 100 Hotspots and five investigations.",
+    "Five trophies need online play against other players. Ubisoft hasn't shut down Watch Dogs' online services, but few people still play, so plan those trophies with a friend. Switch **Online Invasions** on from the start: [[traced]] only counts when other players tail you."
+  ],
+  "lastUpdated": "2026-10-13",
+  "stats": {
+    "difficulty": { "value": 4, "sources": ["psthc-wd-guide"] },
+    "hours": { "min": 50, "sources": ["psthc-wd-guide", "pushsquare-wd"] },
+    "playthroughs": { "value": 1, "note": "Free roam continues after the story, and nothing is missable.", "sources": ["psthc-wd-guide", "powerpyx-wd"] },
+    "online": { "value": true, "note": "Five base-game trophies need online play against other players: Hackification, Piggyback, Stealth Cookie, Superhighway and Traced. Online play on PS4 needs PS Plus. Ubisoft hasn't announced a shutdown for Watch Dogs, and players were still doing the online trophies on PC in 2025, but expect few players.", "sources": ["psthc-wd-list", "vgc-decommission", "ubisoft-jan-2024", "steam-online-2025"] }
+  },
+  "officialCounts": {
+    "base": { "platinum": 1, "gold": 2, "silver": 19, "bronze": 18 },
+    "dlc": {
+      "bad-blood": { "platinum": 0, "gold": 0, "silver": 0, "bronze": 10 }
+    },
+    "sources": ["platpursuit-wd", "psthc-wd-list"]
+  },
+  "theme": {
+    "accent": "#5fe0cf",
+    "glow": "#1d5c6a",
+    "base": "#090c0e",
+    "pattern": "grid",
+    "heroImage": null,
+    "coverImage": null
+  },
+  "dlc": [
+    {
+      "id": "bad-blood",
+      "title": "Bad Blood",
+      "note": "A separate campaign started from the main menu. You play Raymond \"T-Bone\" Kenney a year after the main story, across 10 missions plus new side missions, some of which can be played in online co-op. Part of the Season Pass. Not needed for the Platinum."
+    }
+  ],
+  "route": [
+    {
+      "id": "act-1",
+      "title": "Act 1 and first settings",
+      "summary": "The opening act teaches hacking, driving and combat. Set up a couple of things now so later trophies count from the start.",
+      "steps": [
+        "Pick any difficulty. No trophy depends on it.",
+        "Turn on **Online Invasions** in the options and leave it on. [[traced]] needs other players to tail you, and switching invasions off resets your online rank.",
+        "Keep the profiler on as you move around. It reveals crimes, songs and other targets, and every enemy you tag counts towards [[bookmarked]].",
+        "Play the opening mission, Bottom of the Eighth, for [[hello-world]]. You hack the first of the eight Burner Phones as part of it.",
+        "Finish Act 1 for [[family-man]]."
+      ],
+      "warning": "",
+      "trophies": ["hello-world", "family-man"]
+    },
+    {
+      "id": "towers",
+      "title": "Unlock every ctOS Tower",
+      "summary": "Towers reveal side missions and collectibles on the map and add fast travel points. Several later trophies depend on them, so open them early.",
+      "steps": [
+        "Hack each district's ctOS Control Centre first. They're marked on the map from the start and are guarded.",
+        "Unlock all 13 ctOS Towers for [[clear-signals]]. Most mean climbing and using cameras to reach locked control boxes."
+      ],
+      "warning": "",
+      "trophies": ["clear-signals"]
+    },
+    {
+      "id": "story",
+      "title": "Acts 2 to 5",
+      "summary": "Finish the story. The city stays open after the credits, so there's no need to clear side content first.",
+      "steps": [
+        "Finish Act 2 for [[who-is-raymond-kenney]], Act 3 for [[one-down-one-to-go]] and Act 4 for [[vengeance]].",
+        "Act 5 is a single mission. Finish it for [[log-off]].",
+        "Several Burner Phones are near story missions in Acts 2 to 4. Pick them up when you see them."
+      ],
+      "warning": "",
+      "trophies": ["who-is-raymond-kenney", "one-down-one-to-go", "vengeance", "log-off"]
+    },
+    {
+      "id": "side-missions",
+      "title": "Side missions",
+      "summary": "The bulk of the Platinum. Each type shows on the map once the nearby ctOS Tower is unlocked.",
+      "steps": [
+        "Complete 40 Fixer Contracts (steering-wheel icons) for [[end-of-line]]. There are more than 40, so skip any you don't like.",
+        "Clear all 15 Gang Hideouts for [[basest-base]]. The leader must be taken down non-lethally.",
+        "Stop all 18 Criminal Convoys for [[road-rage]].",
+        "Watch all 30 Privacy Invasions for [[peephole]].",
+        "Complete all 16 ctOS Breaches for [[system-mangler]]. They appear once all 13 towers are unlocked.",
+        "Stop 20 criminals flagged by the Crime Detection System for [[enforcer]]."
+      ],
+      "warning": "",
+      "trophies": ["end-of-line", "basest-base", "road-rage", "peephole", "system-mangler", "enforcer"]
+    },
+    {
+      "id": "investigations",
+      "title": "Investigations and collectibles",
+      "summary": "Five investigations, each ending in a final mission, plus Hotspots and songs. Towers reveal most of the locations.",
+      "steps": [
+        "Collect the remaining Burner Phones for [[sanity-check]].",
+        "Hack the Human Traffic locations, then play the final mission for [[revoking-client-privileges]].",
+        "Scan the 9 Weapons Trade stashes, then play the final mission for [[saturday-night-special]]. The final mission only opens after a point in the story.",
+        "Find all 16 QR Codes, then play the final mission for [[read-only]].",
+        "Scan the 6 Missing Persons bodies, then play the final mission for [[darkness-looms]].",
+        "With all five investigations done, [[they-call-him-the-vigilante]] unlocks.",
+        "Check in at all 100 Hotspots for [[geolocated]], and unlock all 23 songs in SongSneak for [[disk-space-full]]."
+      ],
+      "warning": "",
+      "trophies": ["sanity-check", "revoking-client-privileges", "saturday-night-special", "read-only", "darkness-looms", "they-call-him-the-vigilante", "geolocated", "disk-space-full"]
+    },
+    {
+      "id": "city-games",
+      "title": "City games",
+      "summary": "The minigames scattered around Chicago. The drinking game is the trickiest single trophy in the base game.",
+      "steps": [
+        "Play any 5 different City Games for [[power-cycle]]. Winning doesn't matter.",
+        "Beat level 10 against each of the three Drinking Game opponents for [[social-lubricant]].",
+        "While you're here, finish 10 Chess puzzles, reach level 5 in NVZN and earn 3 gold stars in Cash Runs. Each unlocks a skill you need for [[freeware]]."
+      ],
+      "warning": "",
+      "trophies": ["power-cycle", "social-lubricant"]
+    },
+    {
+      "id": "police-and-combat",
+      "title": "Police and combat challenges",
+      "summary": "Several of these pop on their own during the story. Finish the rest here, starting with the counters and leaving the level 5 escapes until last.",
+      "steps": [
+        "Disable 10 vehicles with hacks or ramming for [[hard-crash]], shoot a tyre on 15 different vehicles for [[hardware-fail]], and tag 100 enemies for [[bookmarked]].",
+        "Stop 10 callers from reporting you with non-lethal takedowns for [[communication-fail]].",
+        "Escape 15 police chases for [[escape-loop]] and 15 police scans for [[white-rabbit-object]].",
+        "Kill 4 enemies in one use of Focus for [[magic-smoke]], and 3 with one IED for [[black-hat-trick]]. Police cars arrive with two officers each, which makes both easier.",
+        "Escape a level 5 chase for [[free-radical]] and a level 5 scan for [[scanproof]]."
+      ],
+      "warning": "",
+      "trophies": ["hard-crash", "hardware-fail", "bookmarked", "communication-fail", "escape-loop", "white-rabbit-object", "magic-smoke", "black-hat-trick", "free-radical", "scanproof"]
+    },
+    {
+      "id": "skills",
+      "title": "Every skill",
+      "summary": "Once the side content is done you should have most of the XP you need. Seven skills also need a task done first.",
+      "steps": [
+        "Earn XP until you can buy all 52 single-player skills. Push Square and PSTHC both put this around level 50.",
+        "Check the seven skills with extra requirements (see [[freeware]]) and finish anything missing.",
+        "Buy every skill in the Skills Tree for [[freeware]]. The online skills don't count."
+      ],
+      "warning": "",
+      "trophies": ["freeware"]
+    },
+    {
+      "id": "online",
+      "title": "Online contracts",
+      "summary": "Five trophies need other players. Online contracts open from your phone after an early story mission. Doing them with a friend is far more reliable than waiting for strangers.",
+      "steps": [
+        "Make sure PS Plus is active and you're signed in to your Ubisoft account in the game.",
+        "Win 10 Online Hacking contracts for [[hackification]].",
+        "Complete 10 Online Tailing contracts for [[piggyback]]. Finish one without the target spotting you for [[stealth-cookie]].",
+        "Finish 10 public Online Races for [[superhighway]].",
+        "Get tailed by other players 5 times for [[traced]]. With a friend, have them tail you through the online contracts menu."
+      ],
+      "warning": "",
+      "trophies": ["hackification", "piggyback", "stealth-cookie", "superhighway", "traced"]
+    },
+    {
+      "id": "platinum",
+      "title": "Platinum",
+      "summary": "Unlocks once the other 39 base-game trophies are earned. Bad Blood isn't required.",
+      "steps": [
+        "Compare your console's trophy list with the checklist here, and go back to any stage with something missing."
+      ],
+      "warning": "",
+      "trophies": ["hundred-percent-clear"]
+    },
+    {
+      "id": "t-bone",
+      "dlc": "bad-blood",
+      "title": "T-Bone's return to Chicago",
+      "summary": "Ten story missions plus three gangs' worth of side missions. Only one trophy needs a co-op partner, and co-op missions also count towards the gang trophies.",
+      "steps": [
+        "Start Bad Blood from the main menu. Difficulty doesn't affect any trophy.",
+        "Play the story: Act 1 for [[tbone-friends-in-need]], Act 2 for [[tbone-no-easy-fix]] and Act 3 for [[tbone-pest-control]].",
+        "Street Sweep contracts open after Act 1's second mission. Complete 20 each for the Chicago South Club ([[tbone-mob-ruled]]), the Militia ([[tbone-second-amendement]]) and the Fixers ([[tbone-unfixable]]).",
+        "Do 10 of those contracts in online co-op for [[tbone-tag-team]]. They count towards the gang totals too.",
+        "Complete all 29 driving missions solo for [[tbone-full-circuit]].",
+        "Solve the two side investigations, Fox Hunt and A Council of Daves, for [[tbone-looking-for-trouble]].",
+        "At Militia level 15, the RC car Eugene can blow itself up. Use it on a group of 4 enemies for [[tbone-negative-eugenics]]."
+      ],
+      "warning": "",
+      "trophies": ["tbone-friends-in-need", "tbone-no-easy-fix", "tbone-pest-control", "tbone-mob-ruled", "tbone-second-amendement", "tbone-unfixable", "tbone-tag-team", "tbone-full-circuit", "tbone-looking-for-trouble", "tbone-negative-eugenics"]
+    }
+  ],
+  "trophies": [
+    {
+      "id": "hello-world",
+      "name": "Hello World",
+      "grade": "bronze",
+      "description": "Take down Maurice",
+      "tags": ["story"],
+      "missable": false,
+      "afterStory": true,
+      "where": "Bottom of the Eighth (opening mission)",
+      "when": "The first mission",
+      "unlock": "Story-related and can't be missed.",
+      "steps": [
+        "Start a new game. Bottom of the Eighth is the opening mission.",
+        "Take down Maurice when the mission tells you to. The trophy unlocks automatically."
+      ],
+      "sources": ["pushsquare-wd", "platpursuit-wd"]
+    },
+    {
+      "id": "family-man",
+      "name": "Family Man",
+      "grade": "bronze",
+      "description": "Complete Act 1",
+      "hidden": true,
+      "tags": ["story"],
+      "missable": false,
+      "afterStory": true,
+      "where": "Main story",
+      "when": "End of Act 1",
+      "unlock": "Story-related and can't be missed.",
+      "steps": [
+        "Play through Act 1's missions.",
+        "The trophy unlocks when the act ends."
+      ],
+      "sources": ["pushsquare-wd", "platpursuit-wd"]
+    },
+    {
+      "id": "clear-signals",
+      "name": "Clear Signals",
+      "grade": "silver",
+      "description": "Unlock every ctOS Tower",
+      "tags": ["exploration"],
+      "missable": false,
+      "afterStory": true,
+      "where": "13 towers across Chicago",
+      "when": "As early as possible",
+      "unlock": "Unlock all 13 ctOS Towers. Each district's ctOS Control Centre has to be hacked before its towers can be used.",
+      "steps": [
+        "Hack the district's ctOS Control Centre. It's marked on the map from the start and guarded by enemies.",
+        "Go to each tower (red icons) and work your way up. Use surveillance cameras to hack the locked control boxes you can't reach directly.",
+        "Repeat for all 13. Each tower also adds a fast travel point."
+      ],
+      "tips": [
+        "Do these early. Towers reveal Privacy Invasions, QR Codes, Burner Phones and other side content on the map, and the ctOS Breaches only appear once all 13 are done."
+      ],
+      "sources": ["powerpyx-wd", "psthc-wd-guide", "pushsquare-wd"]
+    },
+    {
+      "id": "who-is-raymond-kenney",
+      "name": "Who Is Raymond Kenney?",
+      "grade": "bronze",
+      "description": "Complete Act 2",
+      "hidden": true,
+      "tags": ["story"],
+      "missable": false,
+      "afterStory": true,
+      "where": "Main story",
+      "when": "End of Act 2",
+      "unlock": "Story-related and can't be missed.",
+      "steps": [
+        "Play through Act 2's missions.",
+        "The trophy unlocks when the act ends."
+      ],
+      "sources": ["pushsquare-wd", "platpursuit-wd"]
+    },
+    {
+      "id": "one-down-one-to-go",
+      "name": "One Down, One to Go",
+      "grade": "bronze",
+      "description": "Complete Act 3",
+      "hidden": true,
+      "tags": ["story"],
+      "missable": false,
+      "afterStory": true,
+      "where": "Main story",
+      "when": "End of Act 3",
+      "unlock": "Story-related and can't be missed.",
+      "steps": [
+        "Play through Act 3's missions.",
+        "The trophy unlocks when the act ends."
+      ],
+      "sources": ["pushsquare-wd", "platpursuit-wd"]
+    },
+    {
+      "id": "vengeance",
+      "name": "Vengeance",
+      "grade": "silver",
+      "description": "Complete Act 4",
+      "hidden": true,
+      "tags": ["story"],
+      "missable": false,
+      "afterStory": true,
+      "where": "Main story",
+      "when": "End of Act 4",
+      "unlock": "Story-related and can't be missed.",
+      "steps": [
+        "Play through Act 4's missions.",
+        "The trophy unlocks when the act ends."
+      ],
+      "sources": ["pushsquare-wd", "platpursuit-wd"]
+    },
+    {
+      "id": "log-off",
+      "name": "Log Off",
+      "grade": "gold",
+      "description": "Complete Act 5",
+      "hidden": true,
+      "tags": ["story"],
+      "missable": false,
+      "afterStory": true,
+      "where": "Main story",
+      "when": "End of the story",
+      "unlock": "Story-related and can't be missed. Act 5 is a single mission.",
+      "steps": [
+        "Play Act 5's mission.",
+        "The trophy unlocks when it ends. Free roam continues afterwards."
+      ],
+      "sources": ["pushsquare-wd", "platpursuit-wd", "powerpyx-wd"]
+    },
+    {
+      "id": "end-of-line",
+      "name": "End of Line",
+      "grade": "silver",
+      "description": "Complete 40 Fixer Contracts",
+      "tags": ["side-quest"],
+      "missable": false,
+      "afterStory": true,
+      "where": "Fixer Contracts across Chicago",
+      "when": "Throughout the game",
+      "unlock": "Complete any 40 Fixer Contracts. They're driving missions marked with steering-wheel icons. PSTHC counts 46 standard contracts in four types (Decoy, Escape, Interception and Transport), so you can skip a few.",
+      "steps": [
+        "Profile people around the city to reveal contracts, and check the map for steering-wheel icons.",
+        "Complete 40 of them in any mix of types."
+      ],
+      "tips": [
+        "Five completed Fixer Contracts also unlock the Offensive Driver skill, which you need for [[freeware]]."
+      ],
+      "sources": ["pushsquare-wd", "psthc-wd-guide", "gamerguides-wd"]
+    },
+    {
+      "id": "basest-base",
+      "name": "Basest Base",
+      "grade": "silver",
+      "description": "Complete every Gang Hideout",
+      "tags": ["side-quest", "combat"],
+      "missable": false,
+      "afterStory": true,
+      "where": "15 Gang Hideouts (fist icons)",
+      "when": "Throughout the game",
+      "unlock": "Complete all 15 Gang Hideouts. The main target must be taken down non-lethally.",
+      "steps": [
+        "Go to a Gang Hideout and find the main target.",
+        "Take them down non-lethally with **Circle**. The hideout only counts with a non-lethal takedown.",
+        "Repeat for all 15."
+      ],
+      "tips": [
+        "Five hideouts unlock the Rapid Reload skill, needed for [[freeware]]."
+      ],
+      "sources": ["pushsquare-wd", "psthc-wd-guide", "gamerguides-wd"]
+    },
+    {
+      "id": "road-rage",
+      "name": "Road Rage",
+      "grade": "silver",
+      "description": "Complete every Criminal Convoy",
+      "tags": ["side-quest", "combat"],
+      "missable": false,
+      "afterStory": true,
+      "where": "18 Criminal Convoys",
+      "when": "Throughout the game",
+      "unlock": "Complete all 18 Criminal Convoys by stopping the marked vehicles. Some targets have to be knocked out rather than killed.",
+      "steps": [
+        "Start a convoy from its map icon.",
+        "Immobilise the marked vehicles. A heavy vehicle, road hacks and explosives all help.",
+        "Read the objective: if it asks for a takedown, knock the target out instead of killing them.",
+        "Repeat for all 18."
+      ],
+      "tips": [
+        "Your first convoy unlocks the Critical Focus skill, needed for [[freeware]]."
+      ],
+      "sources": ["pushsquare-wd", "psthc-wd-guide", "gamerguides-wd"]
+    },
+    {
+      "id": "peephole",
+      "name": "Peephole",
+      "grade": "silver",
+      "description": "Complete every Privacy Invasion",
+      "tags": ["collectible"],
+      "missable": false,
+      "afterStory": true,
+      "where": "30 Privacy Invasions (eye icons)",
+      "when": "After unlocking the nearby towers",
+      "unlock": "Watch all 30 Privacy Invasions. They only show on the map once the nearby ctOS Tower is unlocked.",
+      "steps": [
+        "Unlock the ctOS Towers first ([[clear-signals]]).",
+        "Go to each eye icon and hack into the camera to complete it.",
+        "Repeat for all 30."
+      ],
+      "sources": ["pushsquare-wd", "psthc-wd-guide"]
+    },
+    {
+      "id": "system-mangler",
+      "name": "System Mangler",
+      "grade": "silver",
+      "description": "Complete every ctOS Breach",
+      "tags": ["challenge"],
+      "missable": false,
+      "afterStory": true,
+      "where": "16 ctOS Breaches",
+      "when": "After all 13 towers",
+      "prerequisites": ["All 13 ctOS Towers unlocked."],
+      "unlock": "Complete all 16 ctOS Breaches. In each one you hack 5 boxes before the timer runs out. Hacking the first box starts the timer.",
+      "steps": [
+        "Unlock all 13 ctOS Towers. The Breaches then appear on the map.",
+        "At each Breach, look around first and plan a route to all 5 boxes before hacking the first.",
+        "Hack all 5 within the time limit. Some need climbing or cameras, and some need a car parked against a wall to use as a step."
+      ],
+      "sources": ["powerpyx-wd", "psthc-wd-guide", "pushsquare-wd"]
+    },
+    {
+      "id": "enforcer",
+      "name": "Enforcer",
+      "grade": "bronze",
+      "description": "Use the Crime Detection System to take down 20 confirmed criminals",
+      "tags": ["side-quest", "combat"],
+      "missable": false,
+      "afterStory": true,
+      "where": "Crime Detection events across the city",
+      "when": "Throughout the game",
+      "unlock": "Stop 20 criminals through Crime Detection. You can kill or subdue them, but only after the crime is confirmed.",
+      "steps": [
+        "When a Crime Detection alert appears, go to the area and profile people to find the suspect.",
+        "Stay out of sight until the game confirms the crime.",
+        "Take the criminal down. Repeat for 20."
+      ],
+      "tips": [
+        "Your first Crime Detection unlocks the Quick Switch skill, needed for [[freeware]]."
+      ],
+      "mistakes": [
+        "Moving in too early. Wait until the game confirms the crime before you act."
+      ],
+      "sources": ["pushsquare-wd", "psthc-wd-guide", "gamerguides-wd"]
+    },
+    {
+      "id": "sanity-check",
+      "name": "Sanity Check",
+      "grade": "bronze",
+      "description": "Collect all 8 Burner Phones",
+      "tags": ["collectible"],
+      "missable": false,
+      "afterStory": true,
+      "where": "8 phones across Chicago",
+      "when": "Throughout the game",
+      "unlock": "Hack all 8 of Maurice's Burner Phones. The first is part of the opening mission. The rest show on the map once the area's ctOS Tower is unlocked.",
+      "steps": [
+        "**Parker Square**: May Stadium locker room, during the opening mission.",
+        "**The Wards**: the right guard tower in the Rossi-Fremont courtyard.",
+        "**Brandon Docks** (east): a desk upstairs in a warehouse.",
+        "**Brandon Docks** (south): on a mattress in a warehouse, behind a gate you hack open.",
+        "**The Loop**: on a bed in the homeless camp under the freeway, near Tobias's shop.",
+        "**Pawnee**: on the roof behind the MOTEL sign of the Crazy Moose Inn, reached by a yellow ladder.",
+        "**Pawnee** (south): in the trailer park, on the balcony of a dark blue trailer next to a red trailer with a pink umbrella.",
+        "**Pawnee** (south): in a shuttered shed at a boat shop, behind a fish sandwich restaurant. Go through the gate to the left of the building."
+      ],
+      "tips": [
+        "Several phones are near story missions, so you'll pass most of them anyway. Seven phones also unlock a car in the Car On Demand app."
+      ],
+      "sources": ["fandom-burners", "prima-burners", "gamerguides-burners"]
+    },
+    {
+      "id": "revoking-client-privileges",
+      "name": "Revoking Client Privileges",
+      "grade": "bronze",
+      "description": "Complete the final mission in the Human Traffic Investigation",
+      "tags": ["side-quest"],
+      "missable": false,
+      "afterStory": true,
+      "where": "Human Traffic Investigation",
+      "when": "Throughout the game",
+      "unlock": "Hack the 10 Human Traffic locations to unlock the 11th, final mission, then complete it.",
+      "steps": [
+        "Visit each Human Traffic marker and complete its hack (10 in total).",
+        "Play the final mission that unlocks."
+      ],
+      "sources": ["pushsquare-wd", "psthc-wd-guide"]
+    },
+    {
+      "id": "saturday-night-special",
+      "name": "Saturday Night Special",
+      "grade": "bronze",
+      "description": "Complete the final mission in the Weapons Trade Investigation",
+      "tags": ["side-quest", "combat"],
+      "missable": false,
+      "afterStory": true,
+      "where": "Weapons Trade Investigation",
+      "when": "After the story point that opens the final mission",
+      "unlock": "Scan the 9 weapon stashes, then complete the final ambush mission. The final mission only opens after a point in the main story.",
+      "steps": [
+        "Find the 9 weapon stashes. They're behind locked garage doors: follow the wire to the hack point.",
+        "Scan each stash.",
+        "Once the story has progressed far enough, play the final mission. It's a big gunfight, so bring good weapons."
+      ],
+      "sources": ["pushsquare-wd", "psthc-wd-guide"]
+    },
+    {
+      "id": "read-only",
+      "name": "Read-only",
+      "grade": "bronze",
+      "description": "Complete the final mission in the QR Code Investigation",
+      "tags": ["collectible", "side-quest"],
+      "missable": false,
+      "afterStory": true,
+      "where": "16 QR Codes across Chicago",
+      "when": "After unlocking the towers",
+      "prerequisites": ["The ctOS Towers unlocked (they reveal the QR Code markers)."],
+      "unlock": "Find all 16 QR Codes, which unlocks the 17th, final mission. Complete it.",
+      "steps": [
+        "Unlock the towers so the QR Code markers appear on the map. The markers are only approximate.",
+        "Near each marker, find the surveillance camera that shows the code, and view it from the right angle. Some need a far-away or high camera.",
+        "Once all 16 are found, play the final mission. It ends with a complex hacking puzzle."
+      ],
+      "sources": ["powerpyx-wd", "pushsquare-wd"]
+    },
+    {
+      "id": "darkness-looms",
+      "name": "Darkness Looms",
+      "grade": "bronze",
+      "description": "Complete the final mission of the Missing Persons Investigation",
+      "tags": ["side-quest"],
+      "missable": false,
+      "afterStory": true,
+      "where": "Missing Persons Investigation (magnifier icons)",
+      "when": "Throughout the game",
+      "unlock": "Scan the 6 bodies, then complete the 7th, final mission by profiling the killer.",
+      "steps": [
+        "Go to each magnifier icon and scan the body (6 in total).",
+        "Play the final mission and profile the suspect."
+      ],
+      "sources": ["pushsquare-wd", "psthc-wd-guide"]
+    },
+    {
+      "id": "they-call-him-the-vigilante",
+      "name": "They Call Him The Vigilante",
+      "grade": "silver",
+      "description": "Complete every Investigation",
+      "tags": ["side-quest", "collectible"],
+      "missable": false,
+      "afterStory": true,
+      "where": "All five investigations",
+      "when": "After the last investigation",
+      "unlock": "Complete all five investigations: Human Traffic, Weapons Trade, QR Codes, Missing Persons and Burner Phones.",
+      "steps": [
+        "Finish [[revoking-client-privileges]], [[saturday-night-special]], [[read-only]] and [[darkness-looms]].",
+        "Collect all 8 Burner Phones ([[sanity-check]]).",
+        "The trophy unlocks with the last one."
+      ],
+      "sources": ["pushsquare-wd", "gamerguides-burners", "powerpyx-wd"]
+    },
+    {
+      "id": "geolocated",
+      "name": "Geolocated",
+      "grade": "silver",
+      "description": "Check in at every Hotspot",
+      "tags": ["collectible", "exploration"],
+      "missable": false,
+      "afterStory": true,
+      "where": "100 Hotspots across Chicago",
+      "when": "Whenever you pass one",
+      "unlock": "Check in at all 100 Hotspots.",
+      "steps": [
+        "When you're near a Hotspot, check in (PSTHC: press **Up** on the D-pad).",
+        "Use the City Hotspots app on your phone to see which ones you haven't visited."
+      ],
+      "tips": [
+        "Check in whenever you drive past one. Going back for them all at the end takes much longer."
+      ],
+      "sources": ["pushsquare-wd", "psthc-wd-guide"]
+    },
+    {
+      "id": "disk-space-full",
+      "name": "Disk Space Full",
+      "grade": "silver",
+      "description": "Unlock every song with the SongSneak app",
+      "tags": ["collectible"],
+      "missable": false,
+      "afterStory": true,
+      "where": "Shops, bars, newsstands and civilians' phones",
+      "when": "Throughout the game",
+      "unlock": "Unlock all 23 songs that SongSneak can identify. Some unlock through the story; the rest come from music playing around the city.",
+      "steps": [
+        "When SongSneak shows a song playing nearby, use it to unlock that song.",
+        "Check newsstands, bars, clothing shops, coffee shops and gun shops, which often play music.",
+        "Hack civilians who are listening to music. PSTHC says three songs can only be found this way."
+      ],
+      "sources": ["pushsquare-wd", "psls-wd", "psthc-wd-guide"]
+    },
+    {
+      "id": "power-cycle",
+      "name": "Power Cycle",
+      "grade": "bronze",
+      "description": "Participate in 5 different City Games",
+      "tags": ["misc"],
+      "missable": false,
+      "afterStory": true,
+      "where": "City Games (small dark blue icons)",
+      "when": "Any time",
+      "unlock": "Play 5 different City Games. Winning or losing doesn't matter.",
+      "steps": [
+        "Play any 5 of: Chess, Drinking Game, Poker, Shell Game, Cash Run, NVZN and the slot machine.",
+        "If it doesn't unlock, Push Square suggests playing the slot machine in the baseball stadium bar."
+      ],
+      "sources": ["pushsquare-wd", "psls-wd"]
+    },
+    {
+      "id": "social-lubricant",
+      "name": "Social Lubricant",
+      "grade": "bronze",
+      "description": "Complete level 10 against all 3 Drinking Game opponents",
+      "tags": ["challenge"],
+      "missable": false,
+      "afterStory": true,
+      "where": "Bars in The Loop, The Wards and Pawnee (bottle icons)",
+      "when": "Any time",
+      "unlock": "Reach level 10 against each of the three Drinking Game opponents.",
+      "steps": [
+        "Play the bars in The Loop and The Wards first.",
+        "Play Pawnee last. Its opponent mixes the challenges of the other two.",
+        "After each drink, a timer starts and the screen darkens as it runs out, so react quickly."
+      ],
+      "tips": [
+        "Patch 1.03 made the game easier: steadier cursors that move more slowly, and more time each round. Make sure your game is up to date.",
+        "The two-stick rounds are the hardest. PSTHC suggests a friend can help with those."
+      ],
+      "sources": ["psls-wd", "psthc-wd-guide", "pushsquare-wd"]
+    },
+    {
+      "id": "hard-crash",
+      "name": "Hard Crash",
+      "grade": "bronze",
+      "description": "Perform 10 vehicle take downs",
+      "tags": ["combat"],
+      "missable": false,
+      "afterStory": true,
+      "where": "Anywhere",
+      "when": "During chases",
+      "unlock": "Disable 10 vehicles so they can't continue. Hacks and ramming both count.",
+      "steps": [
+        "During a chase, hack steam pipes, road blockers, barriers or traffic lights as pursuers pass.",
+        "Ram cars until they're wrecked if you have a heavy vehicle.",
+        "Repeat until 10 have been taken out."
+      ],
+      "sources": ["psls-wd", "psthc-wd-guide", "pushsquare-wd"]
+    },
+    {
+      "id": "hardware-fail",
+      "name": "Hardware Fail",
+      "grade": "silver",
+      "description": "Shoot out a tire on 15 different vehicles",
+      "tags": ["combat"],
+      "missable": false,
+      "afterStory": true,
+      "where": "Anywhere with vehicles",
+      "when": "Any time",
+      "unlock": "Shoot out one tyre on each of 15 different vehicles. Parked and enemy vehicles both count.",
+      "steps": [
+        "Find a car park full of vehicles.",
+        "Shoot one tyre on each car, ideally with a silenced pistol so you don't attract the police.",
+        "Keep going until 15 different vehicles are done."
+      ],
+      "sources": ["pushsquare-wd", "psthc-wd-guide"]
+    },
+    {
+      "id": "bookmarked",
+      "name": "Bookmarked",
+      "grade": "silver",
+      "description": "Tag 100 enemies",
+      "tags": ["combat"],
+      "missable": false,
+      "afterStory": true,
+      "where": "Any mission with enemies",
+      "when": "Throughout the game",
+      "unlock": "Tag 100 enemies with the profiler. Tagging through cameras counts.",
+      "steps": [
+        "Before each fight, profile and tag the enemies, directly or through cameras.",
+        "It usually unlocks naturally during Act 2."
+      ],
+      "sources": ["pushsquare-wd", "psthc-wd-guide"]
+    },
+    {
+      "id": "communication-fail",
+      "name": "Communication Fail",
+      "grade": "bronze",
+      "description": "Using non-lethal takedown, stop 10 civilians from calling to report you",
+      "tags": ["combat"],
+      "missable": false,
+      "afterStory": true,
+      "where": "Anywhere",
+      "when": "Any time",
+      "unlock": "When a civilian starts calling the police about you (a red icon over their head), stop them with a non-lethal takedown. Killing them doesn't count.",
+      "steps": [
+        "Commit a minor crime near civilians, such as stealing a car.",
+        "Watch for a civilian with the red icon who starts calling.",
+        "Run up and take them down non-lethally before the call goes through. Repeat for 10."
+      ],
+      "tips": [
+        "Push Square and PSTHC say the Jam Coms hack also stops callers and counts."
+      ],
+      "sources": ["pushsquare-wd", "psthc-wd-guide"]
+    },
+    {
+      "id": "escape-loop",
+      "name": "Escape Loop",
+      "grade": "bronze",
+      "description": "Escape 15 police chases",
+      "tags": ["combat"],
+      "missable": false,
+      "afterStory": true,
+      "where": "Anywhere",
+      "when": "Throughout the game",
+      "unlock": "Escape from 15 police chases.",
+      "steps": [
+        "Commit a minor crime, such as stealing a car, until the police chase you.",
+        "Lose them using alleys, road hacks and water.",
+        "Repeat until you've escaped 15."
+      ],
+      "sources": ["pushsquare-wd", "psthc-wd-guide"]
+    },
+    {
+      "id": "white-rabbit-object",
+      "name": "White Rabbit Object",
+      "grade": "silver",
+      "description": "Escape 15 police scans",
+      "tags": ["combat"],
+      "missable": false,
+      "afterStory": true,
+      "where": "Anywhere",
+      "when": "Throughout the game",
+      "unlock": "When the police start a scan, escape the yellow search circles 15 times.",
+      "steps": [
+        "Commit a crime and let a civilian report you so the police start a scan.",
+        "Leave the yellow circles before they find you. Jam Coms (**R1**) briefly stops the scan.",
+        "Repeat until you've escaped 15."
+      ],
+      "sources": ["pushsquare-wd", "psthc-wd-guide", "powerpyx-wd"]
+    },
+    {
+      "id": "magic-smoke",
+      "name": "Magic Smoke",
+      "grade": "bronze",
+      "description": "Kill 4 enemies within a single instance of Focus",
+      "tags": ["combat"],
+      "missable": false,
+      "afterStory": true,
+      "where": "Anywhere with groups of enemies",
+      "when": "Once you have Focus",
+      "prerequisites": ["The Focus skill from the Combat tree. Duration upgrades help."],
+      "unlock": "Kill 4 enemies during one activation of Focus, which slows time.",
+      "steps": [
+        "Buy the Focus skill in the Combat tree, plus duration upgrades if you can.",
+        "Draw the police. They usually arrive in three cars with two officers each.",
+        "As they approach, activate Focus (**R3**) and aim at the windscreens, killing 4 before it runs out."
+      ],
+      "tips": [
+        "If it fails, reload the last autosave from the pause menu and try again."
+      ],
+      "sources": ["powerpyx-wd", "pushsquare-wd"]
+    },
+    {
+      "id": "black-hat-trick",
+      "name": "Black Hat Trick",
+      "grade": "silver",
+      "description": "Kill 3 enemies with a single IED",
+      "tags": ["combat"],
+      "missable": false,
+      "afterStory": true,
+      "where": "Anywhere with police",
+      "when": "Once you have IEDs",
+      "prerequisites": ["IEDs: buy them at Tobias's shop in the southwest of The Loop, or craft them once the skill is unlocked."],
+      "unlock": "Kill 3 enemies with one IED blast.",
+      "steps": [
+        "Get IEDs. They cost $300 at Tobias's shop, or craft them with the skill.",
+        "Fire shots in the street until the police are called.",
+        "Detonate one IED next to two police cars at once, ideally before the officers get out. Each car has two officers."
+      ],
+      "tips": [
+        "If it fails, reload the last autosave from the pause menu and try again."
+      ],
+      "sources": ["powerpyx-wd", "pushsquare-wd", "psthc-wd-guide"]
+    },
+    {
+      "id": "free-radical",
+      "name": "Free Radical",
+      "grade": "silver",
+      "description": "Escape a level 5 police chase",
+      "tags": ["combat", "challenge"],
+      "missable": false,
+      "afterStory": true,
+      "where": "The Loop (or any water)",
+      "when": "Late game, with upgrades",
+      "unlock": "Raise your wanted level to 5, the maximum, then escape. Level 5 brings helicopters, armoured police and armoured cars.",
+      "steps": [
+        "Start a fight with the police and keep killing officers from cover until you reach level 5. This takes about one to two minutes.",
+        "Get into a vehicle and drive to the tunnel under the northernmost street in The Loop.",
+        "At the tunnel's western end, drive into the room behind the hackable gate and close it.",
+        "Wait about two minutes. Helicopters can't see you there and police can't open the gate."
+      ],
+      "tips": [
+        "Escaping by boat also works: police struggle to follow on water.",
+        "Buy the skill that lets you disable helicopters with your phone."
+      ],
+      "sources": ["powerpyx-wd", "pushsquare-wd", "psthc-wd-guide"]
+    },
+    {
+      "id": "scanproof",
+      "name": "Scanproof",
+      "grade": "silver",
+      "description": "Escape a level 5 police scan",
+      "tags": ["combat", "challenge"],
+      "missable": false,
+      "afterStory": true,
+      "where": "A busy open area, ideally near water",
+      "when": "Late game",
+      "unlock": "You must already be at wanted level 5 when the scan starts. Build up to level 5 without letting anyone call the police, then let a call through and escape the scan.",
+      "steps": [
+        "Pick a crowded, open area. PowerPyx uses the docks in the northeast.",
+        "Raise your wanted level to 5, and stop anyone with a red icon before they finish calling. Jam Coms helps.",
+        "At level 5, let someone call the police.",
+        "Escape the yellow scan circles in a very fast vehicle or by water, using Jam Coms to pause the scan."
+      ],
+      "sources": ["powerpyx-wd", "psls-wd", "pushsquare-wd", "psthc-wd-guide"]
+    },
+    {
+      "id": "freeware",
+      "name": "Freeware",
+      "grade": "gold",
+      "description": "Unlock every Skill in the Skills Tree",
+      "tags": ["grind"],
+      "missable": false,
+      "afterStory": true,
+      "where": "Skills Tree",
+      "when": "Late game",
+      "unlock": "Buy all 52 single-player skills. Most only need skill points from XP, but seven also need a task done first. The online skills don't count.",
+      "steps": [
+        "**Quick Switch**: complete 1 Crime Detection ([[enforcer]]).",
+        "**Critical Focus**: complete 1 Criminal Convoy ([[road-rage]]).",
+        "**Offensive Driver**: complete 5 Fixer Contracts ([[end-of-line]]).",
+        "**Rapid Reload**: complete 5 Gang Hideouts ([[basest-base]]).",
+        "**Maximize Focus**: complete 10 Chess puzzles.",
+        "**Auto Weapons Expert**: reach level 5 in NVZN.",
+        "**Blast Resistance**: earn 3 gold stars in Cash Runs.",
+        "Earn XP from story missions, side missions, stopping criminals and kills until you can buy every skill."
+      ],
+      "sources": ["gamerguides-wd", "psls-wd", "pushsquare-wd", "psthc-wd-guide"]
+    },
+    {
+      "id": "hackification",
+      "name": "Hackification",
+      "grade": "silver",
+      "description": "Invade and successfully hack 10 enemy Fixers in Online Hacking",
+      "tags": ["online"],
+      "missable": false,
+      "afterStory": true,
+      "where": "Online Contracts > Online Hacking",
+      "when": "After online contracts unlock",
+      "prerequisites": ["PS Plus.", "Online contracts unlocked through the story."],
+      "unlock": "Win 10 Online Hacking contracts. You enter another player's game, find them within five minutes, install a backdoor on their phone and finish the download without being found or killed.",
+      "steps": [
+        "Open the Contracts app on your phone and pick Online Hacking.",
+        "Find the target and start the hack.",
+        "Stay hidden while the download runs. The search area your target sees shrinks as the bar fills, so keep moving or hide in bushes.",
+        "Repeat until you have 10 successful hacks."
+      ],
+      "tips": [
+        "Luck plays a big part, and few people still play. Arrange sessions with a friend or a boosting partner."
+      ],
+      "sources": ["fandom-online", "psls-wd", "pushsquare-wd", "psthc-wd-guide"]
+    },
+    {
+      "id": "piggyback",
+      "name": "Piggyback",
+      "grade": "silver",
+      "description": "Invade and successfully observe 10 enemy Fixers in Online Tailing",
+      "tags": ["online"],
+      "missable": false,
+      "afterStory": true,
+      "where": "Online Contracts > Online Tailing",
+      "when": "After online contracts unlock",
+      "prerequisites": ["PS Plus.", "Online contracts unlocked through the story."],
+      "unlock": "Complete 10 Online Tailing contracts by filling the observation meter to 100%. Killing the target or escaping only counts as a partial success.",
+      "steps": [
+        "Open the Contracts app, pick Online Tailing and request a target.",
+        "Find and profile the target, then stay within the observation radius.",
+        "Act like a civilian, so the target doesn't profile you, until the meter reaches 100%.",
+        "Repeat for 10."
+      ],
+      "sources": ["fandom-online", "psls-wd", "pushsquare-wd"]
+    },
+    {
+      "id": "stealth-cookie",
+      "name": "Stealth Cookie",
+      "grade": "silver",
+      "description": "Complete an Online Tailing without being detected",
+      "tags": ["online"],
+      "missable": false,
+      "afterStory": true,
+      "where": "Online Contracts > Online Tailing",
+      "when": "Alongside Piggyback",
+      "prerequisites": ["PS Plus."],
+      "unlock": "Fill the observation meter in one Online Tailing without the target ever spotting you. It usually unlocks along the way to [[piggyback]].",
+      "steps": [
+        "Use the same method as [[piggyback]].",
+        "Stay at the edge of the radius and keep blending in until the meter reaches 100%."
+      ],
+      "sources": ["pushsquare-wd", "psls-wd"]
+    },
+    {
+      "id": "superhighway",
+      "name": "Superhighway",
+      "grade": "bronze",
+      "description": "Complete 10 Public Online Races",
+      "tags": ["online", "multiplayer"],
+      "missable": false,
+      "afterStory": true,
+      "where": "Online Contracts > Online Race",
+      "when": "After online contracts unlock",
+      "prerequisites": ["PS Plus."],
+      "unlock": "Finish 10 public online races. You don't have to win, but a Did Not Finish doesn't count.",
+      "steps": [
+        "Join a public session through the Online Race option.",
+        "Hit every checkpoint and cross the line. Once the first racer finishes, a 30-second countdown starts, so you must finish before it ends.",
+        "Repeat for 10."
+      ],
+      "sources": ["pushsquare-wd", "psls-wd", "psthc-wd-guide"]
+    },
+    {
+      "id": "traced",
+      "name": "Traced",
+      "grade": "bronze",
+      "description": "Get tailed 5 times",
+      "hidden": true,
+      "tags": ["online"],
+      "missable": false,
+      "afterStory": true,
+      "where": "Your own game, with Online Invasions on",
+      "when": "From early on",
+      "prerequisites": ["Online Invasions turned on.", "PS Plus."],
+      "unlock": "Other players have to tail you 5 times. There's no in-game counter, and you only know it happened if you catch the tailer or they fill their meter.",
+      "steps": [
+        "Turn on **Online Invasions** and stay online while you play.",
+        "With a friend: since patch 1.03, a friend can choose to tail you through the online contracts menu. Let them complete it 5 times."
+      ],
+      "mistakes": [
+        "Playing offline or with invasions off. Nobody can tail you, and switching invasions off also resets your online rank."
+      ],
+      "sources": ["psls-wd", "psthc-wd-guide", "pushsquare-wd", "wikipedia-wd"]
+    },
+    {
+      "id": "hundred-percent-clear",
+      "name": "100% Clear",
+      "grade": "platinum",
+      "description": "This is the platinum trophy and is unlocked automatically when all the trophies have been unlocked.",
+      "tags": ["misc"],
+      "missable": false,
+      "afterStory": true,
+      "unlock": "Earn the other 39 base-game trophies. Bad Blood trophies aren't needed.",
+      "steps": [
+        "Compare your trophy list with the checklist here and finish anything missing."
+      ],
+      "sources": ["platpursuit-wd"]
+    },
+    {
+      "id": "tbone-friends-in-need",
+      "name": "T-Bone: Friends in Need",
+      "grade": "bronze",
+      "description": "Complete Act 1",
+      "hidden": true,
+      "dlc": "bad-blood",
+      "tags": ["story"],
+      "missable": false,
+      "afterStory": true,
+      "where": "Bad Blood story",
+      "when": "End of Act 1",
+      "unlock": "Story-related and can't be missed.",
+      "steps": [
+        "Start Bad Blood from the main menu.",
+        "Play through Act 1. The trophy unlocks when it ends."
+      ],
+      "sources": ["psthc-bad-blood", "psls-bad-blood", "gamestar-bad-blood"]
+    },
+    {
+      "id": "tbone-no-easy-fix",
+      "name": "T-Bone: No Easy Fix",
+      "grade": "bronze",
+      "description": "Complete Act 2",
+      "hidden": true,
+      "dlc": "bad-blood",
+      "tags": ["story"],
+      "missable": false,
+      "afterStory": true,
+      "where": "Bad Blood story",
+      "when": "End of Act 2",
+      "unlock": "Story-related and can't be missed.",
+      "steps": [
+        "Play through Act 2. The trophy unlocks when it ends."
+      ],
+      "sources": ["psthc-bad-blood", "psls-bad-blood"]
+    },
+    {
+      "id": "tbone-pest-control",
+      "name": "T-Bone: Pest Control",
+      "grade": "bronze",
+      "description": "Complete Act 3",
+      "hidden": true,
+      "dlc": "bad-blood",
+      "tags": ["story"],
+      "missable": false,
+      "afterStory": true,
+      "where": "Bad Blood story",
+      "when": "End of Bad Blood",
+      "unlock": "Story-related and can't be missed.",
+      "steps": [
+        "Play through Act 3. The trophy unlocks when it ends."
+      ],
+      "sources": ["psthc-bad-blood", "psls-bad-blood"]
+    },
+    {
+      "id": "tbone-mob-ruled",
+      "name": "T-Bone: Mob Ruled",
+      "grade": "bronze",
+      "description": "Complete 20 Chicago South Club contracts",
+      "dlc": "bad-blood",
+      "tags": ["side-quest"],
+      "missable": false,
+      "afterStory": true,
+      "where": "Street Sweep (orange fist icons)",
+      "when": "After Act 1's second mission",
+      "unlock": "Complete 20 Chicago South Club Street Sweep contracts, solo or in co-op.",
+      "steps": [
+        "Do the Chicago South Club contracts on the map solo first.",
+        "Use repeatable contracts or co-op contracts for the rest until you reach 20."
+      ],
+      "sources": ["psls-bad-blood", "psthc-bad-blood", "tt-bb-walkthrough"]
+    },
+    {
+      "id": "tbone-second-amendement",
+      "name": "T-Bone: Second Amendement",
+      "grade": "bronze",
+      "description": "Complete 20 Militia contracts",
+      "dlc": "bad-blood",
+      "tags": ["side-quest"],
+      "missable": false,
+      "afterStory": true,
+      "where": "Street Sweep (orange icons with two arrows)",
+      "when": "After Act 1's second mission",
+      "unlock": "Complete 20 Militia Street Sweep contracts, solo or in co-op. (The trophy name's spelling is the official one.)",
+      "steps": [
+        "Do the Militia contracts on the map solo first.",
+        "Use repeatable contracts or co-op contracts for the rest until you reach 20."
+      ],
+      "tips": [
+        "Reaching Militia level 15 also unlocks the RC car's detonation, which you need for [[tbone-negative-eugenics]]."
+      ],
+      "sources": ["psls-bad-blood", "psthc-bad-blood", "ta-negative-eugenics"]
+    },
+    {
+      "id": "tbone-unfixable",
+      "name": "T-Bone: Unfixable",
+      "grade": "bronze",
+      "description": "Complete 20 Fixer contracts",
+      "dlc": "bad-blood",
+      "tags": ["side-quest"],
+      "missable": false,
+      "afterStory": true,
+      "where": "Street Sweep (orange icons with horizontal lines)",
+      "when": "After Act 1's second mission",
+      "unlock": "Complete 20 Fixer Street Sweep contracts, solo or in co-op.",
+      "steps": [
+        "Do the Fixer contracts on the map solo first.",
+        "Use repeatable contracts or co-op contracts for the rest until you reach 20."
+      ],
+      "sources": ["psls-bad-blood", "psthc-bad-blood"]
+    },
+    {
+      "id": "tbone-tag-team",
+      "name": "T-Bone: Tag Team",
+      "grade": "bronze",
+      "description": "Complete 10 coop missions",
+      "dlc": "bad-blood",
+      "tags": ["online", "multiplayer"],
+      "missable": false,
+      "afterStory": true,
+      "where": "Street Sweep online co-op",
+      "when": "Alongside the gang contracts",
+      "prerequisites": ["PS Plus.", "A co-op partner."],
+      "unlock": "Complete 10 Street Sweep missions in online co-op. They also count towards [[tbone-mob-ruled]], [[tbone-second-amendement]] and [[tbone-unfixable]].",
+      "steps": [
+        "Open the online contracts app on your phone, or use a white skull icon on the map.",
+        "Start a private session with a friend, or join a public session.",
+        "Complete 10 co-op missions together."
+      ],
+      "tips": [
+        "Do these early: they count towards all three gang trophies, so fewer solo contracts are needed afterwards."
+      ],
+      "sources": ["psthc-bad-blood", "psls-bad-blood", "tt-bb-walkthrough"]
+    },
+    {
+      "id": "tbone-full-circuit",
+      "name": "T-Bone: Full Circuit",
+      "grade": "bronze",
+      "description": "Complete 29 driving missions",
+      "dlc": "bad-blood",
+      "tags": ["side-quest"],
+      "missable": false,
+      "afterStory": true,
+      "where": "Driving missions (orange steering-wheel icons)",
+      "when": "After Act 1's second mission",
+      "unlock": "Complete all 29 driving missions. They're single-player only and can't be done in co-op.",
+      "steps": [
+        "**Escort**: protect an ally vehicle from enemy fixers without ramming it yourself.",
+        "**Overdrive**: pass the checkpoints at speed. Bike versions are easier than car versions; tap the accelerator round tight corners.",
+        "**Carrier**: deliver a vehicle undamaged within the time limit. Take corners slowly and watch the traffic lights.",
+        "**Fixers**: chase an enemy fixer and stay close enough to hack his data. You can ram him to slow him down, but don't kill him."
+      ],
+      "tips": [
+        "Upgrade the driving skills in your phone's skill tree first. PSTHC recommends Defensive Driving, All-Terrain Pilot and Aggressive Driving."
+      ],
+      "sources": ["tt-full-circuit", "psthc-bad-blood", "psls-bad-blood", "gamestar-bad-blood"]
+    },
+    {
+      "id": "tbone-looking-for-trouble",
+      "name": "T-Bone: Looking For Trouble",
+      "grade": "bronze",
+      "description": "Complete all side investigations",
+      "dlc": "bad-blood",
+      "tags": ["side-quest"],
+      "missable": false,
+      "afterStory": true,
+      "where": "Mad Mile, The Loop, Parker Square and Pawnee",
+      "when": "From Act 2",
+      "unlock": "Solve the two side investigations, Fox Hunt and A Council of Daves. Each has 5 clues and a final encounter.",
+      "steps": [
+        "**Fox Hunt** opens after Act 2's first mission. Find the five clues in Mad Mile and The Loop, then go to Parker Square to stop the Rosario brothers, bounty hunters who are after Aiden.",
+        "**A Council of Daves** opens after Act 2's second mission. Find the clues in Mad Mile, The Loop and Pawnee (leave Pawnee until last), then defend the Daves in Pawnee and hack the enforcer's phone to finish."
+      ],
+      "tips": [
+        "PSTHC suggests a grenade launcher for the convoy fight at the end of A Council of Daves."
+      ],
+      "sources": ["tt-bb-walkthrough", "psls-bad-blood", "psthc-bad-blood"]
+    },
+    {
+      "id": "tbone-negative-eugenics",
+      "name": "T-Bone: Negative Eugenics",
+      "grade": "bronze",
+      "description": "Kill 4 enemies at once by blowing up the RC Car",
+      "dlc": "bad-blood",
+      "tags": ["combat"],
+      "missable": false,
+      "afterStory": true,
+      "where": "A red mission zone with grouped enemies",
+      "when": "After reaching Militia level 15",
+      "prerequisites": ["The RC car, Eugene (unlocked in the story).", "Its explosive upgrade: reach level 15 with the Militia in Street Sweep. Any Militia contract, driving mission or co-op mission counts."],
+      "unlock": "Drive Eugene into a group of 4 or more enemies and detonate it. The RC car only works inside red mission zones.",
+      "steps": [
+        "Reach Militia level 15 to unlock Eugene's explosive upgrade.",
+        "In a mission, hide near where enemies gather and deploy the RC car.",
+        "Drive it into a group of 4 or more and detonate.",
+        "If too few die, restart from the last checkpoint and try again."
+      ],
+      "tips": [
+        "Good spots: Act 2's first mission, where two groups of four attack the area you defend; and in Act 3, the maze after you escort Tobias, where six or seven enemies gather in the bottom-right.",
+        "Throwing lures can pull enemies together before you detonate."
+      ],
+      "sources": ["ta-negative-eugenics", "psls-bad-blood", "psthc-bad-blood"]
+    }
+  ],
+  "images": [],
+  "sources": [
+    {
+      "id": "platpursuit-wd",
+      "title": "Watch Dogs (PS4) trophies – Platinum Pursuit",
+      "url": "https://platpursuit.com/games/NPWR05212_00/kruznr/",
+      "supports": "Official trophy names, descriptions and grades for the base game (40) and Bad Blood (10); the separate PS3 list; community time to Platinum (about 60 hours).",
+      "checked": "2026-10-13"
+    },
+    {
+      "id": "psthc-wd-list",
+      "title": "Watch Dogs (PS4) trophy list – PSTHC",
+      "url": "https://www.psthc.fr/unjeu/watch-dogs-ps4/liste-trophees.htm",
+      "supports": "Grades, which trophies are hidden, and which need online play (5 base, 1 Bad Blood).",
+      "checked": "2026-10-13"
+    },
+    {
+      "id": "psthc-wd-ps3",
+      "title": "Watch Dogs (PS3) trophy list – PSTHC",
+      "url": "https://www.psthc.fr/unjeu/watch-dogs-ps3/liste-trophees.htm",
+      "supports": "The PS3 list has the same layout: 40 base trophies and 10 for Bad Blood.",
+      "checked": "2026-10-13"
+    },
+    {
+      "id": "psthc-wd-guide",
+      "title": "Watch Dogs (PS4) trophy guide – PSTHC",
+      "url": "https://www.psthc.fr/unjeu/watch-dogs-ps4/guide-trophees.htm",
+      "supports": "Difficulty (4/10), time (about 50 hours), no missables, collectible and side-mission counts, patch 1.03 changes, and methods for most trophies including the online ones.",
+      "checked": "2026-10-13"
+    },
+    {
+      "id": "pushsquare-wd",
+      "title": "Guide: Watch Dogs PS4 trophy guide and road map – Push Square",
+      "url": "https://www.pushsquare.com/news/2014/05/guide_watch_dogs_ps4_trophy_guide_and_road_map",
+      "supports": "Roadmap, around 50 hours, one playthrough, and methods for every base-game trophy.",
+      "checked": "2026-10-13"
+    },
+    {
+      "id": "powerpyx-wd",
+      "title": "Watch Dogs trophy guide – PowerPyx",
+      "url": "https://powerpyx.com/guides/watch_dogs.html",
+      "supports": "ctOS Towers, Breaches and QR Codes (not missable, doable after the story), and methods for Black Hat Trick, Magic Smoke, Free Radical and Scanproof.",
+      "checked": "2026-10-13"
+    },
+    {
+      "id": "psls-wd",
+      "title": "Watch Dogs trophy guide – PlayStation LifeStyle",
+      "url": "https://www.playstationlifestyle.net/?p=316355",
+      "supports": "Drinking Game bars and order, City Games, SongSneak sources, Scanproof setup, and how the online contracts work.",
+      "checked": "2026-10-13"
+    },
+    {
+      "id": "gamerguides-wd",
+      "title": "Watch Dogs trophy guide – GamerGuides",
+      "url": "https://www.gamerguides.com/watch-dogs/appendix",
+      "supports": "The seven skills with extra unlock requirements for Freeware.",
+      "checked": "2026-10-13"
+    },
+    {
+      "id": "gamerguides-burners",
+      "title": "Watch Dogs: Burner Phones – GamerGuides",
+      "url": "https://gamerguides.com/watch-dogs/guide/side-quests/investigations/burner-phones",
+      "supports": "The five investigations (including Burner Phones), and that one phone is part of the opening mission.",
+      "checked": "2026-10-13"
+    },
+    {
+      "id": "fandom-burners",
+      "title": "Burner Phones – Watch Dogs Wiki",
+      "url": "https://watchdogs.fandom.com/wiki/Burner_Phones",
+      "supports": "All eight Burner Phone locations, and the Car On Demand reward for seven.",
+      "checked": "2026-10-13"
+    },
+    {
+      "id": "prima-burners",
+      "title": "Watch Dogs: all 8 Burner Phone locations – Prima Games",
+      "url": "https://primagames.com/featured/watch-dogs-all-8-burner-phone-locations-unlock-sanity-check-trophy",
+      "supports": "Burner Phone location details, and that markers appear once the area's towers are unlocked.",
+      "checked": "2026-10-13"
+    },
+    {
+      "id": "fandom-online",
+      "title": "Online Contracts – Watch Dogs Wiki",
+      "url": "https://watchdogs.fandom.com/wiki/Online_Contracts",
+      "supports": "How Online Hacking, Online Tailing and Online Races work, and what counts as success.",
+      "checked": "2026-10-13"
+    },
+    {
+      "id": "wikipedia-wd",
+      "title": "Watch Dogs (video game) – Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Watch_Dogs_(video_game)",
+      "supports": "Developer, release date, setting and story premise; disabling invasions resets your online rank; Bad Blood's setting.",
+      "checked": "2026-10-13"
+    },
+    {
+      "id": "vgc-decommission",
+      "title": "Ubisoft has officially shut down online services for over 90 games – VGC",
+      "url": "https://www.videogameschronicle.com/news/ubisoft-has-officially-shut-down-online-services-for-over-90-games",
+      "supports": "April 2022 list: the only Watch Dogs entry is the Watch Dogs Companion mobile app, not the game.",
+      "checked": "2026-10-13"
+    },
+    {
+      "id": "ubisoft-jan-2024",
+      "title": "Decommissioning some online services in January – Ubisoft News",
+      "url": "https://news.ubisoft.com/en-us/article/64NYEKbdiuRMqFE0YXvWCN/decommissioning-some-online-services-in-january",
+      "supports": "The January 2024 shutdown list doesn't include Watch Dogs.",
+      "checked": "2026-10-13"
+    },
+    {
+      "id": "steam-online-2025",
+      "title": "Can u still platinum this game? – Steam Community",
+      "url": "https://steamcommunity.com/app/243470/discussions/0/591764421283455907/",
+      "supports": "February 2025 replies: the online achievements were still doable and Ubisoft hadn't announced a shutdown (PC).",
+      "checked": "2026-10-13"
+    },
+    {
+      "id": "psthc-bad-blood",
+      "title": "Watch Dogs: Bad Blood trophy guide – PSTHC",
+      "url": "https://www.psthc.fr/unjeu/watch-dogs-ps4/guide-trophees-dlc1.htm",
+      "supports": "Bad Blood difficulty and time, no missables, contract and driving-mission methods, co-op through the phone, and both side investigations.",
+      "checked": "2026-10-13"
+    },
+    {
+      "id": "psls-bad-blood",
+      "title": "Watch Dogs Bad Blood trophy guide – PlayStation LifeStyle",
+      "url": "https://www.playstationlifestyle.net/2014/10/01/watch-dogs-bad-blood-trophy-guide/",
+      "supports": "Map icons for each contract type, co-op missions counting towards the gang trophies, investigation unlocks, and the RC car.",
+      "checked": "2026-10-13"
+    },
+    {
+      "id": "tt-bb-walkthrough",
+      "title": "Watch_Dogs (PS3) walkthrough: Bad Blood contracts and investigations – TrueTrophies",
+      "url": "https://www.truetrophies.com/game/WatchDogs-PS3/walkthrough/17",
+      "supports": "Street Sweep unlocking after Act 1's second mission, and the clues for Fox Hunt and A Council of Daves.",
+      "checked": "2026-10-13"
+    },
+    {
+      "id": "tt-full-circuit",
+      "title": "T-Bone: Full Circuit trophy – TrueTrophies",
+      "url": "https://i1.truetrophies.com/t89344/tbone-full-circuit-trophy",
+      "supports": "The four driving-mission types and tips, and that they're solo only.",
+      "checked": "2026-10-13"
+    },
+    {
+      "id": "ta-negative-eugenics",
+      "title": "Negative Eugenics achievement – TrueAchievements",
+      "url": "https://www.trueachievements.com/a191488/negative-eugenics-achievement",
+      "supports": "Militia level 15 for the RC car's explosive, red mission zones, and the best missions to use it in.",
+      "checked": "2026-10-13"
+    },
+    {
+      "id": "gamestar-bad-blood",
+      "title": "Watch Dogs: Bad Blood DLC review – GameStar",
+      "url": "https://www.gamestar.de/artikel/watch-dogs-bad-blood-im-dlc-test-auf-dem-weg-zu-watch-dogs-2,3078998.html",
+      "supports": "Bad Blood starts from the main menu; 10 missions in three acts; 29 driving missions; co-op for the side missions.",
+      "checked": "2026-10-13"
+    }
+  ]
+}

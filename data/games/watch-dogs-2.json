@@ -1,0 +1,1260 @@
+{
+  "schemaVersion": 1,
+  "slug": "watch-dogs-2",
+  "status": "complete",
+  "demo": false,
+  "title": "Watch Dogs 2",
+  "edition": "All editions",
+  "platforms": ["PS4"],
+  "listNote": "This is the PS4 trophy list, which is also the one you earn when you play the PS4 version on PS5. The 50 base trophies include the Platinum. Human Conditions (4), No Compromise (1) and the free Showd0wn update (1) add 6 more that aren't needed for it.",
+  "releaseYear": 2016,
+  "developer": "Ubisoft Montreal",
+  "publisher": "Ubisoft",
+  "genres": ["Action-adventure", "Open world"],
+  "summary": "Join DedSec in the San Francisco Bay Area. A relaxed Platinum with no missables: the story, a handful of side operations, quirky one-off tasks and 24 Key Data, plus five online trophies that need other players.",
+  "intro": [
+    "You play Marcus Holloway, a young hacker who joins DedSec to take down ctOS 2.0 across an open-world San Francisco Bay Area: San Francisco, Oakland, Marin County and Silicon Valley.",
+    "PowerPyx rates the Platinum 2/10 and 20 to 30 hours; PSTHC says 4/10 and about 25. Nothing is missable and difficulty doesn't matter. Most trophies are story operations and odd jobs around the city: buy some trousers, pet a dog, photograph someone being sick, ride a cable car.",
+    "Five trophies need other players: co-op, Bounty Hunter, a hacking invasion and DedSec events. Watch Dogs 2's online services haven't been shut down, but plan those trophies with a friend rather than relying on strangers."
+  ],
+  "lastUpdated": "2026-10-13",
+  "stats": {
+    "difficulty": { "value": 4, "sources": ["psthc-wd2-guide"] },
+    "hours": { "min": 20, "max": 30, "sources": ["powerpyx-wd2", "psthc-wd2-guide"] },
+    "playthroughs": { "value": 1, "note": "The world stays open after the story, and nothing is missable.", "sources": ["powerpyx-wd2", "psthc-wd2-guide"] },
+    "online": { "value": true, "note": "Five base-game trophies need online play: One of the Gang, Natural Born Killer, Please Marcus, Don't Hurt Them, Hold My Hand and Troll'r. Online play on PS4 needs PS Plus. Watch Dogs 2 isn't on Ubisoft's shutdown lists, and the PC version had a big player surge in mid-2026, but we couldn't find a recent PS4-specific report, so plan these with a friend.", "sources": ["psthc-wd2-list", "powerpyx-wd2", "vgc-decommission", "shazoo-2026"] }
+  },
+  "officialCounts": {
+    "base": { "platinum": 1, "gold": 1, "silver": 14, "bronze": 34 },
+    "dlc": {
+      "human-conditions": { "platinum": 0, "gold": 0, "silver": 4, "bronze": 0 },
+      "no-compromise": { "platinum": 0, "gold": 0, "silver": 1, "bronze": 0 },
+      "showd0wn": { "platinum": 0, "gold": 0, "silver": 1, "bronze": 0 }
+    },
+    "sources": ["psthc-wd2-list", "vgtimes-wd2", "vgtimes-wd2-dlc"]
+  },
+  "theme": {
+    "accent": "#ff6fb5",
+    "glow": "#6b2bd9",
+    "base": "#0d0a12",
+    "pattern": "grid",
+    "heroImage": null,
+    "coverImage": null
+  },
+  "dlc": [
+    {
+      "id": "human-conditions",
+      "title": "Human Conditions",
+      "note": "Three new operations (Automata, Bad Medicine and Caustic Progress) plus Off the Hook, a harder Elite co-op operation, and a new enemy, the Jammer. Released February 2017. Part of the Season Pass. Not needed for the Platinum."
+    },
+    {
+      "id": "no-compromise",
+      "title": "No Compromise",
+      "note": "The Moscow Gambit operation, in which Marcus takes on a film studio with Russian mob ties, plus time-trial races and new outfits. About an hour and a half. Released April 2017. Part of the Season Pass. Not needed for the Platinum."
+    },
+    {
+      "id": "showd0wn",
+      "title": "Showd0wn",
+      "note": "A free update (1.13, April 2017) that added Showd0wn, a 2v2 online PvP mode. Its one trophy needs four other players online. Not needed for the Platinum."
+    }
+  ],
+  "route": [
+    {
+      "id": "prologue",
+      "title": "Prologue and early odd jobs",
+      "summary": "The prologue introduces DedSec, then the Bay Area opens up. Several quick trophies can be done as soon as you're free to roam, and two of them depend on luck, so start them early.",
+      "steps": [
+        "Finish the prologue for [[who-am-i]], then buy any trousers at a clothes shop for [[put-your-damn-pants-on]].",
+        "Download every app in the App Shop on your phone for [[apping-around]].",
+        "Pet dogs as you find them (hold **Triangle**): the same dog 10 times counts for [[doggyland]].",
+        "Take selfies around people until one photobombs you for [[photobombed]], and photograph someone vomiting for [[hold-my-hair]]. Both are random, so keep an eye out from the start.",
+        "Hijack a bus for [[something-to-ride]] and a boat for [[bad-boys]]. Ride a cable car for [[dedsec-a-roni]], and get three jumps in a row in a vehicle for [[third-times-the-charm]]."
+      ],
+      "warning": "",
+      "trophies": ["who-am-i", "put-your-damn-pants-on", "apping-around", "doggyland", "photobombed", "hold-my-hair", "something-to-ride", "bad-boys", "dedsec-a-roni", "third-times-the-charm"]
+    },
+    {
+      "id": "operations",
+      "title": "Main operations",
+      "summary": "Each main DedSec operation has its own trophy, unlocked as the story progresses. They're listed here in trophy-list order; play them as the game offers them.",
+      "steps": [
+        "Play through the story. Each completed operation unlocks its trophy automatically.",
+        "The story ends with [[hack-the-world]]. The world stays open afterwards."
+      ],
+      "warning": "",
+      "trophies": ["joined-the-mile-high-club", "picking-up-the-pieces", "baby-i-got-your-money", "knight-ridden", "no-place-like-haum", "informer", "hypnotize", "old-school-justice", "sabotage", "make-every-voice-count", "the-itsy-bitsy-spider", "youre-on-a-boat", "hack-the-world"]
+    },
+    {
+      "id": "side-ops",
+      "title": "Four side operations",
+      "summary": "Most side operations can be skipped, but these four have trophies. Each has to be started from a particular place.",
+      "steps": [
+        "Shadows: talk to the DedSec contact in a Chinatown restaurant, the North Beach strip club or a backyard west of Coit Tower, and finish it for [[the-fox]].",
+        "Ubistolen: hack the phone of the person across from the Torque Rat bike shop in the far south, then finish it for [[leaks-and-leaks]].",
+        "$911: investigate the orange Operation Intel icons until it appears, then finish it for [[100-legit]].",
+        "eKart Challenge: follow the side operation to get both eKart upgrades for [[pimp-my-ekart]]."
+      ],
+      "warning": "",
+      "trophies": ["the-fox", "leaks-and-leaks", "100-legit", "pimp-my-ekart"]
+    },
+    {
+      "id": "skills-and-stunts",
+      "title": "Hacks, skills and stunts",
+      "summary": "Several trophies need a particular hack from the skill tree, bought with research points. Buy these early and the rest are quick.",
+      "steps": [
+        "Buy Vehicle Directional Hack. Ride 200 m on the roof of a car you're steering by hack for [[let-me-ride]], and use it at the Port of Oakland to free a unique vehicle for [[a-ride-to-remember]].",
+        "Buy the hack for calling the police on someone, then use it on the donut-costumed man in Haight-Ashbury during the day for [[feeding-frenzy]].",
+        "Do 30 stealth takedowns for [[knock-you-out]].",
+        "Escape a level 5 police chase for [[smooth-felon]].",
+        "Jump 140 m in a vehicle, ideally on a fast motorbike with the nitro upgrade, for [[jump-around]]."
+      ],
+      "warning": "",
+      "trophies": ["let-me-ride", "a-ride-to-remember", "feeding-frenzy", "knock-you-out", "smooth-felon", "jump-around"]
+    },
+    {
+      "id": "shopping",
+      "title": "Shopping, vehicles and races",
+      "summary": "Spending money: one weapon, two clothing items, 25 vehicles and a boat, plus the robot and two races.",
+      "steps": [
+        "Print a two-handed weapon at the 3D printer in the Hackerspace for [[menace]]. The cheapest is just over $10,000.",
+        "Buy the Gatorfeet Whine Country shoes ($65, Plainstock in Oakland) for [[in-style]], and a $5 shirt from the Nudle vending machine in Silicon Valley for [[only-god-can-judge-me]].",
+        "Hack a campus robot near the Nudle vending machine for [[roboteer]].",
+        "Drive the Merengue for 4 km for [[miniroadtrip]], and buy 25 vehicles for [[one-man-garage]].",
+        "Buy a boat at the Marin Yacht Club and do a sailboat race for [[earn-your-sea-legs]].",
+        "Build the drone at the 3D printer and do a drone race for [[i-get-around]]. Do a bike race for [[aint-no-stopping]]."
+      ],
+      "warning": "",
+      "trophies": ["menace", "in-style", "only-god-can-judge-me", "roboteer", "miniroadtrip", "one-man-garage", "earn-your-sea-legs", "i-get-around", "aint-no-stopping"]
+    },
+    {
+      "id": "collectibles",
+      "title": "Key Data and ScoutX",
+      "summary": "The only collectibles. The Research app shows where the Key Data are; ScoutX tells you when you're near a photo spot.",
+      "steps": [
+        "Collect all 24 Key Data for [[researcher]]. Some need RC Jumper upgrades or Environmental RC.",
+        "Take selfies at 25 of the 57 ScoutX locations for [[got-the-shutterbug]]."
+      ],
+      "warning": "",
+      "trophies": ["researcher", "got-the-shutterbug"]
+    },
+    {
+      "id": "online",
+      "title": "Online modes",
+      "summary": "Five trophies need other players. Line up a friend: the Bounty Hunter trophies especially are much easier with a partner.",
+      "steps": [
+        "Make sure PS Plus is active. Online modes are started from the multiplayer menu or the phone.",
+        "Complete one online co-op operation for [[hold-my-hand]].",
+        "Complete 5 DedSec Events (purple markers) for [[one-of-the-gang]]. They appear more often right after a co-op operation.",
+        "In Bounty Hunter, kill a hunter while you're the target for [[natural-born-killer]], and neutralise 5 targets as a hunter for [[please-marcus-dont-hurt-them]].",
+        "Invade another player and finish the hack without being found for [[trollr]]."
+      ],
+      "warning": "",
+      "trophies": ["hold-my-hand", "one-of-the-gang", "natural-born-killer", "please-marcus-dont-hurt-them", "trollr"]
+    },
+    {
+      "id": "platinum",
+      "title": "Platinum",
+      "summary": "Unlocks once the other 49 base-game trophies are earned. The DLC trophies aren't required.",
+      "steps": [
+        "Compare your console's trophy list with the checklist here, and go back to any stage with something missing."
+      ],
+      "warning": "",
+      "trophies": ["graduation-day"]
+    },
+    {
+      "id": "hc-operations",
+      "dlc": "human-conditions",
+      "title": "Three stories and an Elite co-op op",
+      "summary": "If you've finished the main game, everything in Human Conditions is available straight away. Three trophies are single-player operations; the fourth needs a co-op partner.",
+      "steps": [
+        "Finish Operation: Bad Medicine for [[not-the-pizza-guy]], Automata for [[the-score-of-your-life]] and Caustic Progress for [[nanotriumph]].",
+        "With a partner, finish the Elite co-op operation Off the Hook for [[prize-catch]]. A DLC owner can invite a friend who doesn't own it in Guest mode."
+      ],
+      "warning": "",
+      "trophies": ["not-the-pizza-guy", "the-score-of-your-life", "nanotriumph", "prize-catch"]
+    },
+    {
+      "id": "moscow-gambit",
+      "dlc": "no-compromise",
+      "title": "Moscow Gambit",
+      "summary": "A short single-player operation, about an hour and a half.",
+      "steps": [
+        "Finish Operation: Moscow Gambit for [[that-escalated-quickly]]."
+      ],
+      "warning": "",
+      "trophies": ["that-escalated-quickly"]
+    },
+    {
+      "id": "showd0wn-streak",
+      "dlc": "showd0wn",
+      "title": "Four wins in a row",
+      "summary": "The hardest trophy on the list: 2v2 online PvP with a four-match winning streak. You need three other players, so organise a group.",
+      "steps": [
+        "Team up with a partner and win four Showd0wn matches in a row for [[its-the-final-showd0wn]]."
+      ],
+      "warning": "",
+      "trophies": ["its-the-final-showd0wn"]
+    }
+  ],
+  "trophies": [
+    {
+      "id": "who-am-i",
+      "name": "Who Am I",
+      "grade": "bronze",
+      "description": "Erase your past identity in the Blume servers",
+      "tags": ["story"],
+      "missable": false,
+      "afterStory": true,
+      "where": "Prologue",
+      "when": "The first mission",
+      "unlock": "Story-related and can't be missed.",
+      "steps": ["Play the prologue. The trophy unlocks automatically."],
+      "sources": ["powerpyx-wd2", "vgtimes-wd2"]
+    },
+    {
+      "id": "put-your-damn-pants-on",
+      "name": "Put Your Damn Pants On",
+      "grade": "bronze",
+      "description": "Buy some pants after the party",
+      "tags": ["misc"],
+      "missable": false,
+      "afterStory": true,
+      "where": "Any clothes shop",
+      "when": "As soon as you reach the open world",
+      "unlock": "Buy any trousers once the prologue's party is over.",
+      "steps": ["Go into any clothes shop and buy a pair of trousers."],
+      "sources": ["powerpyx-wd2"]
+    },
+    {
+      "id": "apping-around",
+      "name": "App'ing Around",
+      "grade": "bronze",
+      "description": "Buy all the apps in the App Shop",
+      "tags": ["misc"],
+      "missable": false,
+      "afterStory": true,
+      "where": "Phone: App Shop",
+      "when": "After the prologue",
+      "unlock": "Download every app in the App Shop.",
+      "steps": [
+        "Open the App Shop on your phone.",
+        "Select each app in turn and press **X** to download it."
+      ],
+      "sources": ["powerpyx-wd2"]
+    },
+    {
+      "id": "doggyland",
+      "name": "Doggyland",
+      "grade": "bronze",
+      "description": "Pet 10 dogs",
+      "tags": ["misc"],
+      "missable": false,
+      "afterStory": true,
+      "where": "Anywhere with dogs; Pier 39 is reliable",
+      "when": "Any time",
+      "unlock": "Pet a dog 10 times. Petting the same dog repeatedly counts.",
+      "steps": [
+        "Find a dog. PowerPyx says they spawn reliably around Pier 39.",
+        "Hold **Triangle** to pet it, and repeat 10 times."
+      ],
+      "sources": ["powerpyx-wd2", "psthc-wd2-guide"]
+    },
+    {
+      "id": "photobombed",
+      "name": "Photobombed!",
+      "grade": "bronze",
+      "description": "Get photobombed in a selfie",
+      "tags": ["misc"],
+      "missable": false,
+      "afterStory": true,
+      "where": "Busy pavements",
+      "when": "Early; it's random",
+      "unlock": "Take selfies near people until one of them jumps into the shot.",
+      "steps": [
+        "Go somewhere busy and switch to the selfie camera.",
+        "Keep taking selfies near people until someone poses behind you."
+      ],
+      "sources": ["powerpyx-wd2"]
+    },
+    {
+      "id": "hold-my-hair",
+      "name": "Hold My Hair",
+      "grade": "bronze",
+      "description": "Take a picture of someone vomiting",
+      "tags": ["misc"],
+      "missable": false,
+      "afterStory": true,
+      "where": "Bars, restaurants and universities, mostly at night",
+      "when": "Start early; it's random",
+      "unlock": "Photograph someone while they're being sick.",
+      "steps": [
+        "Look around bars, restaurants and universities, mostly at night. PowerPyx found them at the Jack London Square pier.",
+        "Follow anyone who looks drunk, and take the photo while they're vomiting."
+      ],
+      "sources": ["powerpyx-wd2", "psthc-wd2-guide"]
+    },
+    {
+      "id": "something-to-ride",
+      "name": "Something To Ride",
+      "grade": "bronze",
+      "description": "Hijack a bus",
+      "tags": ["misc"],
+      "missable": false,
+      "afterStory": true,
+      "where": "Central San Francisco",
+      "when": "Any time",
+      "unlock": "Steal any bus.",
+      "steps": ["Find a bus, most common in central San Francisco, and take it."],
+      "sources": ["powerpyx-wd2"]
+    },
+    {
+      "id": "bad-boys",
+      "name": "Bad Boys",
+      "grade": "bronze",
+      "description": "Hijack a boat",
+      "tags": ["misc"],
+      "missable": false,
+      "afterStory": true,
+      "where": "Marin Yacht Club or any marina",
+      "when": "Any time",
+      "unlock": "Steal any boat.",
+      "steps": ["Find a boat, often near the Marin Yacht Club, and take it."],
+      "sources": ["powerpyx-wd2"]
+    },
+    {
+      "id": "dedsec-a-roni",
+      "name": "DedSec-A-Roni",
+      "grade": "bronze",
+      "description": "Ride a cable car",
+      "tags": ["misc"],
+      "missable": false,
+      "afterStory": true,
+      "where": "San Francisco, near the Transamerica Pyramid",
+      "when": "Any time",
+      "unlock": "Ride a cable car.",
+      "steps": ["Find a cable car near the Transamerica Pyramid and ride it."],
+      "sources": ["powerpyx-wd2"]
+    },
+    {
+      "id": "third-times-the-charm",
+      "name": "Third Time's the Charm",
+      "grade": "bronze",
+      "description": "Make 3 jumps in a row aboard a vehicle",
+      "tags": ["misc"],
+      "missable": false,
+      "afterStory": true,
+      "where": "Hills or off-road",
+      "when": "Any time",
+      "unlock": "Get three jumps in a row in one vehicle.",
+      "steps": ["Drive fast over hills or off-road until you've made three jumps in a row."],
+      "sources": ["powerpyx-wd2", "psthc-wd2-guide"]
+    },
+    {
+      "id": "joined-the-mile-high-club",
+      "name": "Joined the Mile High Club",
+      "grade": "silver",
+      "description": "Finish Operation: Hack teh World",
+      "tags": ["story"],
+      "missable": false,
+      "afterStory": true,
+      "where": "Main story",
+      "when": "Story progress",
+      "unlock": "Story-related and can't be missed.",
+      "steps": ["Finish the operation. The trophy unlocks automatically."],
+      "sources": ["powerpyx-wd2", "vgtimes-wd2"]
+    },
+    {
+      "id": "picking-up-the-pieces",
+      "name": "Picking Up the Pieces",
+      "grade": "silver",
+      "description": "Finish Operation: Looking Glass",
+      "hidden": true,
+      "tags": ["story"],
+      "missable": false,
+      "afterStory": true,
+      "where": "Main story",
+      "when": "Story progress",
+      "unlock": "Story-related and can't be missed.",
+      "steps": ["Finish the operation. The trophy unlocks automatically."],
+      "sources": ["powerpyx-wd2", "vgtimes-wd2"]
+    },
+    {
+      "id": "baby-i-got-your-money",
+      "name": "Baby, I Got Your Money",
+      "grade": "silver",
+      "description": "Finish Operation: False Profits",
+      "tags": ["story"],
+      "missable": false,
+      "afterStory": true,
+      "where": "Main story",
+      "when": "Story progress",
+      "unlock": "Story-related and can't be missed.",
+      "steps": ["Finish the operation. The trophy unlocks automatically."],
+      "sources": ["powerpyx-wd2", "vgtimes-wd2"]
+    },
+    {
+      "id": "knight-ridden",
+      "name": "Knight Ridden",
+      "grade": "silver",
+      "description": "Finish Operation: Cyber Driver",
+      "tags": ["story"],
+      "missable": false,
+      "afterStory": true,
+      "where": "Main story",
+      "when": "Story progress",
+      "unlock": "Story-related and can't be missed.",
+      "steps": ["Finish the operation. The trophy unlocks automatically."],
+      "sources": ["powerpyx-wd2", "vgtimes-wd2"]
+    },
+    {
+      "id": "no-place-like-haum",
+      "name": "No Place Like Haum",
+      "grade": "silver",
+      "description": "Finish Operation: Haum Sweet Haum",
+      "tags": ["story"],
+      "missable": false,
+      "afterStory": true,
+      "where": "Main story",
+      "when": "Story progress",
+      "unlock": "Story-related and can't be missed.",
+      "steps": ["Finish the operation. The trophy unlocks automatically."],
+      "sources": ["powerpyx-wd2", "vgtimes-wd2"]
+    },
+    {
+      "id": "informer",
+      "name": "Informer",
+      "grade": "silver",
+      "description": "Finish Operation: Limp Nudle",
+      "tags": ["story"],
+      "missable": false,
+      "afterStory": true,
+      "where": "Main story",
+      "when": "Story progress",
+      "unlock": "Story-related and can't be missed.",
+      "steps": ["Finish the operation. The trophy unlocks automatically."],
+      "sources": ["powerpyx-wd2", "vgtimes-wd2"]
+    },
+    {
+      "id": "hypnotize",
+      "name": "Hypnotize",
+      "grade": "silver",
+      "description": "Finish Operation: W4tched",
+      "tags": ["story"],
+      "missable": false,
+      "afterStory": true,
+      "where": "Main story",
+      "when": "Story progress",
+      "unlock": "Story-related and can't be missed.",
+      "steps": ["Finish the operation. The trophy unlocks automatically."],
+      "sources": ["powerpyx-wd2", "vgtimes-wd2"]
+    },
+    {
+      "id": "old-school-justice",
+      "name": "Old School Justice",
+      "grade": "silver",
+      "description": "Finish Operation: Eye for An Eye",
+      "tags": ["story"],
+      "missable": false,
+      "afterStory": true,
+      "where": "Main story",
+      "when": "Story progress",
+      "unlock": "Story-related and can't be missed.",
+      "steps": ["Finish the operation. The trophy unlocks automatically."],
+      "sources": ["powerpyx-wd2", "vgtimes-wd2"]
+    },
+    {
+      "id": "sabotage",
+      "name": "Sabotage",
+      "grade": "silver",
+      "description": "Finish Operation: Hacker War",
+      "tags": ["story"],
+      "missable": false,
+      "afterStory": true,
+      "where": "Main story",
+      "when": "Story progress",
+      "unlock": "Story-related and can't be missed.",
+      "steps": ["Finish the operation. The trophy unlocks automatically."],
+      "sources": ["powerpyx-wd2", "vgtimes-wd2"]
+    },
+    {
+      "id": "make-every-voice-count",
+      "name": "Make Every Voice Count",
+      "grade": "silver",
+      "description": "Finish Operation: Power to the Sheeple",
+      "tags": ["story"],
+      "missable": false,
+      "afterStory": true,
+      "where": "Main story",
+      "when": "Story progress",
+      "unlock": "Story-related and can't be missed.",
+      "steps": ["Finish the operation. The trophy unlocks automatically."],
+      "sources": ["powerpyx-wd2", "vgtimes-wd2"]
+    },
+    {
+      "id": "the-itsy-bitsy-spider",
+      "name": "The Itsy Bitsy Spider",
+      "grade": "silver",
+      "description": "Finish Operation: Robot Wars",
+      "tags": ["story"],
+      "missable": false,
+      "afterStory": true,
+      "where": "Main story",
+      "when": "Story progress",
+      "unlock": "Story-related and can't be missed.",
+      "steps": ["Finish the operation. The trophy unlocks automatically."],
+      "sources": ["powerpyx-wd2", "vgtimes-wd2"]
+    },
+    {
+      "id": "youre-on-a-boat",
+      "name": "You're On A Boat!",
+      "grade": "silver",
+      "description": "Finish Operation: Shanghaied",
+      "tags": ["story"],
+      "missable": false,
+      "afterStory": true,
+      "where": "Main story",
+      "when": "Story progress",
+      "unlock": "Story-related and can't be missed.",
+      "steps": ["Finish the operation. The trophy unlocks automatically."],
+      "sources": ["powerpyx-wd2", "vgtimes-wd2"]
+    },
+    {
+      "id": "hack-the-world",
+      "name": "Hack the World",
+      "grade": "gold",
+      "description": "Trigger the hack of the century",
+      "hidden": true,
+      "tags": ["story"],
+      "missable": false,
+      "afterStory": true,
+      "where": "Main story",
+      "when": "End of the story",
+      "unlock": "Story-related and can't be missed. It unlocks at the end of the final mission.",
+      "steps": ["Finish the story. The world stays open afterwards."],
+      "sources": ["powerpyx-wd2", "vgtimes-wd2"]
+    },
+    {
+      "id": "the-fox",
+      "name": "The Fox",
+      "grade": "bronze",
+      "description": "Finish Operation: Shadow",
+      "hidden": true,
+      "tags": ["side-quest"],
+      "missable": false,
+      "afterStory": true,
+      "where": "Shadows side operation",
+      "when": "Any time once it appears",
+      "unlock": "Complete the Shadows side operation (three missions), in which Marcus helps Aiden Pearce, the hero of the first game.",
+      "steps": [
+        "Start it by talking to a DedSec contact. SuperCheats lists three possible spots: inside the Chinese restaurant south of Chinatown, inside the strip club in North Beach, or a backyard west of Coit Tower.",
+        "**Bad Intentions**: fly the quadcopter to the marked spot and hack Victor Cheung's phone from the air.",
+        "**Swap Meet**: send the RC Jumper into the back of the container van and hack the phone inside.",
+        "**Fox**: at the restricted bunker, send the Jumper in, hack the ctOS junction box, then hack the guard's phone to distract him while Aiden escapes."
+      ],
+      "sources": ["supercheats-shadows", "fandom-shadows", "powerpyx-wd2", "psthc-wd2-guide"]
+    },
+    {
+      "id": "leaks-and-leaks",
+      "name": "Leaks and Leaks",
+      "grade": "bronze",
+      "description": "Finish Operation: Ubistolen",
+      "hidden": true,
+      "tags": ["side-quest"],
+      "missable": false,
+      "afterStory": true,
+      "where": "Silicon Valley, then Ubisoft's San Francisco office",
+      "when": "Any time once it appears",
+      "unlock": "Complete the Ubistolen side operation.",
+      "steps": [
+        "Hack the phone of the person across from the Torque Rat bike shop in the far south of the map.",
+        "Follow the operation to Ubisoft's San Francisco office and hack the computer there."
+      ],
+      "sources": ["psthc-wd2-guide", "powerpyx-wd2"]
+    },
+    {
+      "id": "100-legit",
+      "name": "100% Legit",
+      "grade": "silver",
+      "description": "Finish Operation: $911",
+      "tags": ["side-quest"],
+      "missable": false,
+      "afterStory": true,
+      "where": "Orange Operation Intel icons",
+      "when": "Any time once it appears",
+      "unlock": "Complete the $911 side operation.",
+      "steps": [
+        "Investigate the orange Operation Intel icons on the map until $911 appears.",
+        "Complete the operation."
+      ],
+      "sources": ["powerpyx-wd2", "steam-wd2-guide"]
+    },
+    {
+      "id": "pimp-my-ekart",
+      "name": "Pimp My eKart",
+      "grade": "bronze",
+      "description": "Get all the eKart upgrades",
+      "tags": ["side-quest"],
+      "missable": false,
+      "afterStory": true,
+      "where": "eKart Challenge side operation",
+      "when": "Any time once it appears",
+      "unlock": "Win both eKart upgrades, the battery and the accelerator chip, by completing the eKart Challenge.",
+      "steps": [
+        "Start the eKart Challenge side operation.",
+        "Win its races until you have both upgrades."
+      ],
+      "sources": ["psthc-wd2-guide", "powerpyx-wd2"]
+    },
+    {
+      "id": "let-me-ride",
+      "name": "Let Me Ride",
+      "grade": "bronze",
+      "description": "Travel 200 meters on top of a car by hacking it",
+      "tags": ["misc"],
+      "missable": false,
+      "afterStory": true,
+      "where": "A long straight road",
+      "when": "Once you have Vehicle Directional Hack",
+      "prerequisites": ["Vehicle Directional Hack (2 research points)."],
+      "unlock": "Stand on a car's roof and steer it by hack for 200 metres.",
+      "steps": [
+        "Buy Vehicle Directional Hack in the skill tree.",
+        "Climb onto a car's roof on a straight road or motorway.",
+        "Hack it (PowerPyx: **L1+Triangle**) and steer it for 200 m without falling off."
+      ],
+      "sources": ["powerpyx-wd2", "psthc-wd2-guide"]
+    },
+    {
+      "id": "a-ride-to-remember",
+      "name": "A Ride to Remember",
+      "grade": "bronze",
+      "description": "Drive one of the Unique Vehicles",
+      "tags": ["exploration"],
+      "missable": false,
+      "afterStory": true,
+      "where": "Port of Oakland",
+      "when": "Once you have Vehicle Directional Hack",
+      "prerequisites": ["Vehicle Directional Hack (2 research points)."],
+      "unlock": "Drive any unique vehicle. PowerPyx's method uses the one at the Port of Oakland.",
+      "steps": [
+        "Go to the Port of Oakland.",
+        "Hack the container crane and use Vehicle Directional Hack to free the unique car.",
+        "Get in and drive it."
+      ],
+      "sources": ["powerpyx-wd2"]
+    },
+    {
+      "id": "feeding-frenzy",
+      "name": "Feeding Frenzy",
+      "grade": "bronze",
+      "description": "Use the \"Call the cops\" hack on the donut-disguised man in Haight-Ashbury",
+      "tags": ["misc"],
+      "missable": false,
+      "afterStory": true,
+      "where": "Haight-Ashbury, by the donut shop",
+      "when": "Daytime, once you have the hack",
+      "prerequisites": ["The skill to call the police on someone. PowerPyx and PC Games buy APB: Suspect Located and Botnet Upgrade (6 research points in total)."],
+      "unlock": "Call the police on the man in the donut costume.",
+      "steps": [
+        "Buy the hack that lets you report a civilian to the police.",
+        "Go to Haight-Ashbury during the day and find the man in the donut costume near the donut shop.",
+        "Target him (hold **L1**) and use the call-the-cops hack."
+      ],
+      "tips": [
+        "PC Games notes that photographing him with ScoutX also counts towards [[got-the-shutterbug]]."
+      ],
+      "sources": ["powerpyx-wd2", "pcgames-wd2", "psthc-wd2-guide"]
+    },
+    {
+      "id": "knock-you-out",
+      "name": "Knock You Out",
+      "grade": "bronze",
+      "description": "Do a stealth takedown on 30 enemies",
+      "tags": ["combat"],
+      "missable": false,
+      "afterStory": true,
+      "where": "Any restricted area",
+      "when": "Throughout the game",
+      "unlock": "Take down 30 enemies with stealth takedowns.",
+      "steps": [
+        "Sneak up behind enemies in missions and restricted areas and take them down.",
+        "If you're short, farm a restricted area: PowerPyx notes enemies there respawn."
+      ],
+      "sources": ["powerpyx-wd2"]
+    },
+    {
+      "id": "smooth-felon",
+      "name": "Smooth Felon",
+      "grade": "bronze",
+      "description": "Escape a Level 5 felony",
+      "tags": ["combat"],
+      "missable": false,
+      "afterStory": true,
+      "where": "Anywhere; parking garages help",
+      "when": "Mid to late game",
+      "unlock": "Raise your wanted level to 5, then escape.",
+      "steps": [
+        "Cause trouble until you reach wanted level 5.",
+        "Drive into a parking garage and use the garage door hacks to block pursuers and get out of sight.",
+        "Stay hidden until the police give up."
+      ],
+      "tips": [
+        "PSTHC raises the level in the south near the Nudle distribution centre, where fewer police spawn, and escapes to the map's edge. Buy the police helicopter hack first."
+      ],
+      "sources": ["powerpyx-wd2", "psthc-wd2-guide"]
+    },
+    {
+      "id": "jump-around",
+      "name": "Jump Around",
+      "grade": "bronze",
+      "description": "Do a 140 meters long jump while driving a vehicle",
+      "tags": ["misc"],
+      "missable": false,
+      "afterStory": true,
+      "where": "A known jump spot (see the guides' videos)",
+      "when": "Once you have a fast motorbike and nitro",
+      "prerequisites": ["A fast motorbike: the Sayonara ($28,500) is recommended.", "The nitro skill (Engine Override / Supercharger)."],
+      "unlock": "Make a single 140-metre jump in a vehicle.",
+      "steps": [
+        "Buy the Sayonara motorbike and the nitro upgrade.",
+        "Go to a long ramp. PowerPyx, PSTHC and PC Games each show a spot in their videos.",
+        "Hit the ramp at full speed with nitro."
+      ],
+      "sources": ["powerpyx-wd2", "psthc-wd2-guide", "pcgames-wd2"]
+    },
+    {
+      "id": "menace",
+      "name": "Menace",
+      "grade": "bronze",
+      "description": "Buy a two handed weapon at the 3D printer",
+      "tags": ["misc"],
+      "missable": false,
+      "afterStory": true,
+      "where": "Hackerspace 3D printer",
+      "when": "Once you have about $10,000",
+      "unlock": "Print any two-handed weapon.",
+      "steps": [
+        "Go to the 3D printer in the Hackerspace.",
+        "Print any two-handed weapon. PSTHC says the cheapest, the Bullet Hell, costs just over $10,000."
+      ],
+      "sources": ["powerpyx-wd2", "psthc-wd2-guide"]
+    },
+    {
+      "id": "in-style",
+      "name": "In Style",
+      "grade": "bronze",
+      "description": "Buy the Gatorfeet Whine Country footwear",
+      "tags": ["misc"],
+      "missable": false,
+      "afterStory": true,
+      "where": "Plainstock, Oakland",
+      "when": "Any time",
+      "unlock": "Buy one particular pair of shoes.",
+      "steps": ["Go to the Plainstock clothes shop in Oakland and buy the Gatorfeet Whine Country shoes ($65)."],
+      "sources": ["powerpyx-wd2"]
+    },
+    {
+      "id": "only-god-can-judge-me",
+      "name": "Only God Can Judge Me",
+      "grade": "bronze",
+      "description": "Buy a shirt in the Nudle vending machine",
+      "tags": ["misc"],
+      "missable": false,
+      "afterStory": true,
+      "where": "Nudle campus, south Silicon Valley",
+      "when": "Any time",
+      "unlock": "Buy a shirt from the Nudle vending machine.",
+      "steps": ["Find the Nudle vending machine in the south of Silicon Valley and buy the $5 shirt."],
+      "sources": ["powerpyx-wd2"]
+    },
+    {
+      "id": "roboteer",
+      "name": "Roboteer",
+      "grade": "bronze",
+      "description": "Hack a robot",
+      "tags": ["misc"],
+      "missable": false,
+      "afterStory": true,
+      "where": "Nudle campus, Silicon Valley",
+      "when": "Any time",
+      "unlock": "Hack one of the campus robots.",
+      "steps": ["Near the Nudle vending machine, target one of the campus robots and hack it (**L1+X**)."],
+      "sources": ["powerpyx-wd2"]
+    },
+    {
+      "id": "miniroadtrip",
+      "name": "Miniroadtrip!",
+      "grade": "bronze",
+      "description": "Drive 4 km in the world while driving the Merengue from Elek Motors",
+      "tags": ["misc"],
+      "missable": false,
+      "afterStory": true,
+      "where": "Total Motors",
+      "when": "Once you can afford it",
+      "unlock": "Drive the Merengue for 4 km in one go.",
+      "steps": [
+        "Buy the Merengue at Total Motors ($43,125), or steal one if you find it on the road.",
+        "Drive it 4 km, then stop."
+      ],
+      "sources": ["powerpyx-wd2", "psthc-wd2-guide"]
+    },
+    {
+      "id": "one-man-garage",
+      "name": "One-Man Garage",
+      "grade": "bronze",
+      "description": "Buy 25 cars in car dealerships",
+      "tags": ["grind"],
+      "missable": false,
+      "afterStory": true,
+      "where": "Car dealerships",
+      "when": "Late game, once you have money",
+      "unlock": "Buy 25 vehicles. PSTHC says boats count too.",
+      "steps": [
+        "Earn money from story missions, races, money bags, hacking rich civilians' bank accounts and selling items from glove boxes at pawn shops.",
+        "Buy the cheapest vehicles at Total Motors. PowerPyx puts the cheapest 25 at about $269,000 in total."
+      ],
+      "sources": ["powerpyx-wd2", "psthc-wd2-guide"]
+    },
+    {
+      "id": "earn-your-sea-legs",
+      "name": "Earn your Sea Legs",
+      "grade": "bronze",
+      "description": "Do a sailboat race",
+      "tags": ["misc"],
+      "missable": false,
+      "afterStory": true,
+      "where": "Marin Yacht Club",
+      "when": "Once you have $3,000",
+      "unlock": "Finish a sailboat race.",
+      "steps": [
+        "Buy a boat at the Marin Yacht Club. PSTHC says the cheapest, the Ocean Breezeway, is $3,000.",
+        "Start any boat race from the map and finish it."
+      ],
+      "sources": ["powerpyx-wd2", "psthc-wd2-guide"]
+    },
+    {
+      "id": "i-get-around",
+      "name": "I Get Around",
+      "grade": "bronze",
+      "description": "Do a drone race",
+      "tags": ["misc"],
+      "missable": false,
+      "afterStory": true,
+      "where": "Hackerspace, then a drone race (green icons)",
+      "when": "Once you have the drone",
+      "unlock": "Finish a drone race.",
+      "steps": [
+        "Build the drone at the Hackerspace 3D printer if you don't have it.",
+        "Start a drone race from its green map icon and finish it."
+      ],
+      "sources": ["powerpyx-wd2", "psthc-wd2-guide"]
+    },
+    {
+      "id": "aint-no-stopping",
+      "name": "Ain't No Stopping",
+      "grade": "bronze",
+      "description": "Do a bike race",
+      "tags": ["misc"],
+      "missable": false,
+      "afterStory": true,
+      "where": "A bike race (green icons)",
+      "when": "Any time",
+      "unlock": "Finish a bike race.",
+      "steps": ["Start any bike race from its green map icon and finish it."],
+      "sources": ["powerpyx-wd2"]
+    },
+    {
+      "id": "researcher",
+      "name": "Researcher",
+      "grade": "silver",
+      "description": "Collect all the Key Data hidden in the world",
+      "tags": ["collectible"],
+      "missable": false,
+      "afterStory": true,
+      "where": "24 locations across the Bay Area",
+      "when": "Once you have the RC Jumper upgrades",
+      "prerequisites": ["Environmental RC (2 research points) for one of them.", "RC Jumper jump and speed upgrades help with several."],
+      "unlock": "Collect all 24 Key Data. Each is a small environmental puzzle.",
+      "steps": [
+        "Open the Research app on your phone and press **Triangle** on each entry to mark it on the map.",
+        "Solve the puzzle at each location. Many need the quadcopter or the RC Jumper.",
+        "Use a video guide for any you're stuck on."
+      ],
+      "sources": ["powerpyx-wd2", "psthc-wd2-guide"]
+    },
+    {
+      "id": "got-the-shutterbug",
+      "name": "Got The Shutterbug",
+      "grade": "bronze",
+      "description": "Take 25 ScoutX location pictures",
+      "tags": ["collectible", "exploration"],
+      "missable": false,
+      "afterStory": true,
+      "where": "ScoutX locations (57 in total)",
+      "when": "Throughout the game",
+      "unlock": "Take selfies at 25 of the 57 ScoutX locations.",
+      "steps": [
+        "Your phone tells you when you're near a ScoutX spot, and the ScoutX app shows the target.",
+        "Stand where the app shows and take a selfie with the landmark. Skip any that are awkward; you only need 25."
+      ],
+      "sources": ["powerpyx-wd2", "psthc-wd2-guide"]
+    },
+    {
+      "id": "hold-my-hand",
+      "name": "Hold My Hand",
+      "grade": "bronze",
+      "description": "Successfully complete an online Co-op Operation",
+      "tags": ["online", "multiplayer"],
+      "missable": false,
+      "afterStory": true,
+      "where": "Multiplayer menu: Online Co-op",
+      "when": "With a friend",
+      "prerequisites": ["PS Plus.", "A partner (a friend or a random player)."],
+      "unlock": "Complete one co-op operation with another player.",
+      "steps": [
+        "Open the multiplayer menu from **Options** and start an online co-op operation.",
+        "Finish it with your partner."
+      ],
+      "sources": ["powerpyx-wd2", "psthc-wd2-guide"]
+    },
+    {
+      "id": "one-of-the-gang",
+      "name": "One of the Gang",
+      "grade": "bronze",
+      "description": "Complete 5 DedSec Events",
+      "tags": ["online", "multiplayer"],
+      "missable": false,
+      "afterStory": true,
+      "where": "Online free roam",
+      "when": "Alongside co-op",
+      "prerequisites": ["PS Plus."],
+      "unlock": "Complete 5 DedSec Events: short co-op tasks that pop up as purple markers and on-screen alerts while you're online.",
+      "steps": [
+        "Play online with a partner.",
+        "When a DedSec Event appears, go to it and complete it together. PSTHC says they appear more often right after a co-op operation.",
+        "Repeat for 5."
+      ],
+      "sources": ["powerpyx-wd2", "psthc-wd2-guide"]
+    },
+    {
+      "id": "natural-born-killer",
+      "name": "Natural Born Killer",
+      "grade": "bronze",
+      "description": "Neutralize 1 Hunter in Bounty Hunter mode",
+      "tags": ["online"],
+      "missable": false,
+      "afterStory": true,
+      "where": "Bounty Hunter",
+      "when": "With a partner",
+      "prerequisites": ["PS Plus."],
+      "unlock": "While you're the target in Bounty Hunter, kill a player who's hunting you.",
+      "steps": [
+        "Start Bounty Hunter from the multiplayer menu (**Options**). PowerPyx says a level 5 police chase helps draw hunters to you.",
+        "When a hunter arrives, kill them."
+      ],
+      "tips": [
+        "With a friend, PSTHC's timing trick: the target lets the evidence build, and the partner presses **Find a Target** when it reaches 100% so the game matches you together. It doesn't always work.",
+        "The Steam guide suggests waiting near your Hackerspace, where you know the ground."
+      ],
+      "sources": ["powerpyx-wd2", "psthc-wd2-guide", "steam-wd2-guide"]
+    },
+    {
+      "id": "please-marcus-dont-hurt-them",
+      "name": "Please Marcus, Don't Hurt Them",
+      "grade": "bronze",
+      "description": "Successfully neutralize 5 fugitives in Bounty Hunter",
+      "tags": ["online"],
+      "missable": false,
+      "afterStory": true,
+      "where": "Bounty Hunter: Find a Target",
+      "when": "With a partner",
+      "prerequisites": ["PS Plus."],
+      "unlock": "As a hunter, be the one to kill 5 targets. Only the hunter who lands the kill gets credit.",
+      "steps": [
+        "Choose **Find a Target** in Bounty Hunter.",
+        "Hunt the target down and kill them yourself. Explosives help.",
+        "Repeat for 5."
+      ],
+      "tips": [
+        "With a friend, use PSTHC's timing trick (see [[natural-born-killer]]) to be matched as hunter and target."
+      ],
+      "mistakes": [
+        "Letting the police or another hunter finish the target. Those kills don't count for you."
+      ],
+      "sources": ["powerpyx-wd2", "psthc-wd2-guide", "steam-wd2-guide"]
+    },
+    {
+      "id": "trollr",
+      "name": "Troll'r",
+      "grade": "bronze",
+      "description": "Successfully invade another hacker",
+      "tags": ["online"],
+      "missable": false,
+      "afterStory": true,
+      "where": "Hacking Invasion",
+      "when": "Any time online",
+      "prerequisites": ["PS Plus."],
+      "unlock": "Invade another player's game and complete the hack without being found.",
+      "steps": [
+        "Start a hacking invasion.",
+        "Find the target, start the hack and stay hidden until it reaches 100%.",
+        "Hacking a friend works."
+      ],
+      "sources": ["powerpyx-wd2", "psthc-wd2-guide", "steam-wd2-guide"]
+    },
+    {
+      "id": "graduation-day",
+      "name": "Graduation Day",
+      "grade": "platinum",
+      "description": "Win every trophy",
+      "tags": ["misc"],
+      "missable": false,
+      "afterStory": true,
+      "unlock": "Earn the other 49 base-game trophies. DLC trophies aren't needed.",
+      "steps": ["Compare your trophy list with the checklist here and finish anything missing."],
+      "sources": ["powerpyx-wd2", "vgtimes-wd2"]
+    },
+    {
+      "id": "not-the-pizza-guy",
+      "name": "Not the Pizza Guy",
+      "grade": "silver",
+      "description": "Finish Operation: Bad Medicine",
+      "dlc": "human-conditions",
+      "tags": ["story"],
+      "missable": false,
+      "afterStory": true,
+      "where": "Human Conditions",
+      "when": "Any time",
+      "unlock": "Finish the Bad Medicine operation: Russian hackers are holding hospital software to ransom, and Jordi helps out.",
+      "steps": ["Play Bad Medicine through to the end."],
+      "sources": ["vgtimes-wd2-dlc", "techraptor-hc"]
+    },
+    {
+      "id": "the-score-of-your-life",
+      "name": "The Score of Your Life",
+      "grade": "silver",
+      "description": "Finish Operation: Automata",
+      "dlc": "human-conditions",
+      "tags": ["story"],
+      "missable": false,
+      "afterStory": true,
+      "where": "Human Conditions",
+      "when": "Any time",
+      "unlock": "Finish the Automata operation, about a self-driving car that scores people.",
+      "steps": ["Play Automata through to the end."],
+      "sources": ["vgtimes-wd2-dlc", "techraptor-hc"]
+    },
+    {
+      "id": "nanotriumph",
+      "name": "Nanotriumph",
+      "grade": "silver",
+      "description": "Finish Operation: Caustic Progress",
+      "dlc": "human-conditions",
+      "tags": ["story"],
+      "missable": false,
+      "afterStory": true,
+      "where": "Human Conditions",
+      "when": "Any time",
+      "unlock": "Finish Caustic Progress, the shortest of the three: one investigation and a stealth attack on a lab.",
+      "steps": ["Play Caustic Progress through to the end."],
+      "sources": ["vgtimes-wd2-dlc", "techraptor-hc"]
+    },
+    {
+      "id": "prize-catch",
+      "name": "Prize Catch",
+      "grade": "silver",
+      "description": "Finish Operation: Off the Hook",
+      "dlc": "human-conditions",
+      "tags": ["online", "multiplayer"],
+      "missable": false,
+      "afterStory": true,
+      "where": "Off the Hook (Elite co-op)",
+      "when": "With a partner",
+      "prerequisites": ["PS Plus.", "A co-op partner. A Human Conditions owner can bring in a friend who doesn't own it through Guest mode."],
+      "unlock": "Finish Off the Hook, the expansion's Elite co-op operation against a new gang, the Hooks. It's harder than the base game's co-op, spread across bigger areas, and adds Jammer enemies that block hacking nearby.",
+      "steps": [
+        "Team up with a partner and start Off the Hook.",
+        "Work through its missions until the operation is complete. The Steam guide counts 15 of them and suggests replaying the unique ones as needed."
+      ],
+      "tips": [
+        "Take out Jammers first: they disable every hack in a radius around them."
+      ],
+      "sources": ["vgtimes-wd2-dlc", "psblog-hc", "techraptor-hc", "steam-wd2-guide"]
+    },
+    {
+      "id": "that-escalated-quickly",
+      "name": "That Escalated Quickly",
+      "grade": "silver",
+      "description": "Finish Operation: Moscow Gambit",
+      "dlc": "no-compromise",
+      "tags": ["story"],
+      "missable": false,
+      "afterStory": true,
+      "where": "No Compromise",
+      "when": "Any time",
+      "unlock": "Finish Moscow Gambit, No Compromise's single-player operation.",
+      "steps": ["Play Moscow Gambit through to the end."],
+      "sources": ["vgtimes-wd2-dlc", "checkpoint-nc", "techraptor-nc"]
+    },
+    {
+      "id": "its-the-final-showd0wn",
+      "name": "It's the Final Showd0wn",
+      "grade": "silver",
+      "description": "Reach the maximum win streak bonus in Showd0wn",
+      "dlc": "showd0wn",
+      "tags": ["online", "multiplayer"],
+      "missable": false,
+      "afterStory": true,
+      "where": "Showd0wn (2v2 online PvP)",
+      "when": "With a partner and an opposing team",
+      "prerequisites": ["PS Plus.", "A partner, and ideally a second pair to play against."],
+      "unlock": "Win 4 Showd0wn matches in a row. The game modes are Steal the HDD, Doomload (king of the hill) and Erase/Protect the Servers.",
+      "steps": [
+        "Get your partner into your group before searching, so you're on the same team.",
+        "Search for Showd0wn matches. If you're arranging it with another pair, start searching at the same time.",
+        "Stay together between matches. The end-of-match screen shows your streak; keep going until the fourth win in a row."
+      ],
+      "tips": [
+        "Host migration or someone quitting can separate you from your partner, so stick together in a party.",
+        "One TrueAchievements guide warns that quitting a match resets your streak."
+      ],
+      "sources": ["vgtimes-wd2-dlc", "ta-final-showd0wn", "fandom-showd0wn", "gamepro-113"]
+    }
+  ],
+  "images": [],
+  "sources": [
+    {
+      "id": "vgtimes-wd2",
+      "title": "Watch Dogs 2 trophies (PS4) – VGTimes",
+      "url": "https://vgtimes.com/games/watch-dogs-2/achievements-and-trophies/ps4/",
+      "supports": "Official base-game trophy names, descriptions and grades, and the four secret trophies.",
+      "checked": "2026-10-13"
+    },
+    {
+      "id": "vgtimes-wd2-dlc",
+      "title": "Watch Dogs 2 DLC trophies (Human Conditions, No Compromise, Showd0wn) – VGTimes",
+      "url": "https://vgtimes.com/games/watch-dogs-2/achievements-and-trophies/ps4/human-conditions-dlc/",
+      "supports": "Official names, descriptions and grades of the six DLC trophies (also on VGTimes' No Compromise and Showd0wn pages).",
+      "checked": "2026-10-13"
+    },
+    {
+      "id": "psthc-wd2-list",
+      "title": "Watch Dogs 2 (PS4) trophy list – PSTHC",
+      "url": "https://www.psthc.fr/unjeu/watch-dogs2-ps4/liste-trophees.htm",
+      "supports": "Grades per group, the 5 online trophies and the 4 hidden trophies.",
+      "checked": "2026-10-13"
+    },
+    {
+      "id": "psthc-wd2-guide",
+      "title": "Watch Dogs 2 (PS4) trophy guide – PSTHC",
+      "url": "https://www.psthc.fr/unjeu/watch-dogs2-ps4/guide-trophees.htm",
+      "supports": "Difficulty (4/10), about 25 hours, no missables, Key Data and ScoutX counts, prices, side-operation starts, and online tips including the Bounty Hunter timing trick.",
+      "checked": "2026-10-13"
+    },
+    {
+      "id": "powerpyx-wd2",
+      "title": "Watch Dogs 2 Trophy Guide & Roadmap – PowerPyx",
+      "url": "https://powerpyx.com/watch-dogs-2-trophy-guide-roadmap",
+      "supports": "Difficulty (2/10), 20–30 hours, no missables, the roadmap, and methods for every base-game trophy.",
+      "checked": "2026-10-13"
+    },
+    {
+      "id": "steam-wd2-guide",
+      "title": "100% Achievement Guide (Lenolium) – Steam Community",
+      "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3437278741",
+      "supports": "Updated July 2025. Online achievement tips, the four-win Showd0wn streak, and Off the Hook's mission count. Steam showed a removal notice on the page when checked, so the link may not open.",
+      "checked": "2026-10-13"
+    },
+    {
+      "id": "ta-final-showd0wn",
+      "title": "It's the Final Showd0wn achievement – TrueAchievements",
+      "url": "https://www.trueachievements.com/a232471/its-the-final-showd0wn-achievement",
+      "supports": "Four wins in a row for the maximum streak bonus; matchmaking with a partner; quitting resets the streak.",
+      "checked": "2026-10-13"
+    },
+    {
+      "id": "fandom-showd0wn",
+      "title": "Showd0wn – Watch Dogs Wiki",
+      "url": "https://watchdogs.fandom.com/wiki/Showd0wn",
+      "supports": "Showd0wn is free, 2v2 online PvP, and its three game modes.",
+      "checked": "2026-10-13"
+    },
+    {
+      "id": "gamepro-113",
+      "title": "Watch Dogs 2: update 1.13 with the new Showdown mode – GamePro",
+      "url": "https://www.gamepro.de/artikel/watch-dogs-2-update-113-mit-neuem-showdown-modus-ist-da,3312854.html",
+      "supports": "Showd0wn arrived in update 1.13 (18 April 2017), with matchmaking alone or with a friend.",
+      "checked": "2026-10-13"
+    },
+    {
+      "id": "psblog-hc",
+      "title": "Watch Dogs 2 Human Conditions DLC out February 21 on PS4 – PlayStation Blog",
+      "url": "https://blog.playstation.com/?p=188676",
+      "supports": "Human Conditions' release, the Elite co-op content against the Hooks, Guest mode and the Jammer enemy.",
+      "checked": "2026-10-13"
+    },
+    {
+      "id": "techraptor-hc",
+      "title": "Watch Dogs 2 Human Conditions review – TechRaptor",
+      "url": "https://techraptor.net/content/watch-dogs-2-human-conditions-review",
+      "supports": "The three operations, Off the Hook as the co-op operation, and that everything is available straight away after the main game.",
+      "checked": "2026-10-13"
+    },
+    {
+      "id": "checkpoint-nc",
+      "title": "No Compromise DLC available for Watch Dogs 2 on PS4 – Checkpoint Gaming",
+      "url": "https://checkpointgaming.net/news/2017/04/no-compromise-dlc-available-watch-dogs-2-ps4",
+      "supports": "No Compromise's PS4 release (19 April 2017) and the Moscow Gambit operation.",
+      "checked": "2026-10-13"
+    },
+    {
+      "id": "techraptor-nc",
+      "title": "Watch Dogs 2 No Compromise review – TechRaptor",
+      "url": "https://techraptor.net/content/watch-dogs-2-no-compromise-review",
+      "supports": "No Compromise's story and length (about an hour and a half).",
+      "checked": "2026-10-13"
+    },
+    {
+      "id": "fandom-shadows",
+      "title": "Shadows – Watch Dogs Wiki",
+      "url": "https://watchdogs.fandom.com/wiki/Shadows",
+      "supports": "Shadows is a side operation with three missions, helping Aiden Pearce.",
+      "checked": "2026-10-13"
+    },
+    {
+      "id": "supercheats-shadows",
+      "title": "Watch Dogs 2: Shadows walkthrough – SuperCheats",
+      "url": "https://www.supercheats.com/watch-dogs-2/walkthrough/shadows",
+      "supports": "The three places Shadows can start, and each mission's steps.",
+      "checked": "2026-10-13"
+    },
+    {
+      "id": "pcgames-wd2",
+      "title": "Watch Dogs 2: all trophies and achievements – PC Games",
+      "url": "https://www.pcgames.de/Watch-Dogs-2-Spiel-55550/Tipps/Guide-Trophaee-Achievements-Erfolg-1213989/",
+      "supports": "Feeding Frenzy's skills and the photo that also counts for ScoutX; the Sayonara and nitro for Jump Around.",
+      "checked": "2026-10-13"
+    },
+    {
+      "id": "wikipedia-wd2",
+      "title": "Watch Dogs 2 – Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Watch_Dogs_2",
+      "supports": "Developer, release date, setting, multiplayer modes and DLC release dates.",
+      "checked": "2026-10-13"
+    },
+    {
+      "id": "vgc-decommission",
+      "title": "Ubisoft has officially shut down online services for over 90 games – VGC",
+      "url": "https://www.videogameschronicle.com/news/ubisoft-has-officially-shut-down-online-services-for-over-90-games",
+      "supports": "April 2022 list: the only Watch Dogs entry is the Watch Dogs Companion app, not Watch Dogs 2.",
+      "checked": "2026-10-13"
+    },
+    {
+      "id": "shazoo-2026",
+      "title": "Watch Dogs 2's Steam player count up tenfold, ten years on – Shazoo",
+      "url": "https://shazoo.ru/2026/07/01/186595/onlain-watch-dogs-2-v-steam-vyros-v-10-raz-spustia-10-let-posle-reliza",
+      "supports": "July 2026: Watch Dogs 2 peaked at over 16,000 players on Steam (PC).",
+      "checked": "2026-10-13"
+    }
+  ]
+}
