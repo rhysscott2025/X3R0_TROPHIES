@@ -34,9 +34,6 @@ jobs:
       - name: Build site
         run: node tools/build.mjs
 
-      - uses: actions/configure-pages@v5
-        if: github.event_name != 'pull_request'
-
       - uses: actions/upload-pages-artifact@v4
         if: github.event_name != 'pull_request'
         with:
